@@ -11,7 +11,7 @@ import path from 'node:path';
 const root = path.resolve(process.argv[2] || '.');
 const DATA_PATH = path.join(root, 'src/data.json');
 const API_KEY = process.env.ANTHROPIC_API_KEY;
-const MODEL = process.env.MODEL || 'claude-sonnet-4-5';
+const MODEL = process.env.MODEL || 'claude-sonnet-5';
 const SEARCH_TOOL = process.env.SEARCH_TOOL || 'web_search_20250305';
 const MAX_PER_SECTOR = 12;
 
@@ -66,7 +66,7 @@ async function callClaude(sector) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 2000,
+      max_tokens: 3000,
       tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 6 }],
       messages: [{ role: 'user', content: prompt(sector) }],
     }),
