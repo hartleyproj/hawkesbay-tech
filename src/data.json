@@ -74,6 +74,32 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "25 Jul 2026",
+          "headline": "NZ quietly ticks past 1 gigawatt of local solar — and businesses now out-panel homes",
+          "brief": "<p>New Electricity Authority data shows New Zealand's local networks crossed <b>1,020 megawatts</b> of installed solar as of 30 June 2026, spread across <b>88,412 connections</b> — a milestone that arrived unannounced sometime in May. Nationally <b>80,463 homes</b> now have solar, roughly <b>one in 25</b> residential connections, up from one in 160 a decade ago, and <b>22%</b> of solar connections now have a battery attached.</p>",
+          "body": [
+            "New Zealand has passed a quiet but significant energy threshold: total solar capacity connected to local lines networks has topped one gigawatt. According to newly updated Electricity Authority data, the country slipped past the mark sometime in May 2026, with no ribbon-cutting and no press release to mark it.",
+            "The figures, drawn from the Electricity Authority's EMI installed distributed generation series, show <b>1,020 megawatts</b> of solar installed across 88,412 connections nationwide by 30 June 2026, and confirm that New Zealand has quietly passed one gigawatt of solar on local networks, with businesses now holding more of it than homes. That's more nameplate capacity than Manapouri, the country's largest hydro station at 850 megawatts — though a megawatt of solar produces far less energy over a year than a megawatt of hydro, so the milestone is more about the sheer volume of hardware installed than a shift in the generation mix.",
+            "Regionally, the uptake picture is uneven. Auckland has more solar connections than anywhere else, 14,877 of them, yet it sits near the bottom of the table on uptake, with panels on just 2.4 percent of homes, ranking the region 15th of 16. By contrast, the top of the South Island owns the leaderboard: Tasman, Nelson and Marlborough convert their sunshine at more than double Auckland's rate, while the wet, sparsely populated West Coast sits last at 1.9 percent. Nationally, 80,463 homes have solar, about one in every 25 residential connections, up from about one home in 160 a decade ago.",
+            "Batteries are increasingly following the panels onto rooftops. At least 19,579 solar connections — around 22 percent — are recorded as having a battery attached, and because retrofits don't always show up in network records, the real figure is likely higher. At the past year's pace, the report suggests the second gigawatt could arrive around 2029, though the trajectory has been accelerating."
+          ],
+          "lens": "Hawke's Bay is entering this national solar boom from a standing start but at real pace — the region had no commercial-scale solar farms as recently as last year, and is now home to Lodestone and Centralines' first utility-scale project under construction on the Ruataniwha Plains, plus Helios Energy's larger Ongaonga proposal and the giant Te Rāhui farm just over the regional boundary. With around 2,200 sunshine hours a year and some of the country's highest delivered electricity prices due to transmission losses from distant generation, Hawke's Bay is well placed to close the uptake gap fast rather than follow Auckland's low-conversion pattern — meaning the jobs, installer demand, and network-resilience benefits of this national gigawatt milestone are likely to land disproportionately in the Bay's vineyards, orchards, and growing commercial base over the next few years.",
+          "sources": [
+            {
+              "l": "NEWS WIRE",
+              "u": "https://newswire.co.nz/2026/07/new-zealand-passes-1gw-local-solar/"
+            },
+            {
+              "l": "NZ Herald – Hawke's Bay Today",
+              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/central-hawkes-bay-50-million-utility-scale-solar-farm-to-be-built-on-the-ruataniwha-plains/GIWP3KP5QZDSPOS7JLAIC5AMSU/"
+            },
+            {
+              "l": "pv magazine Australia",
+              "u": "https://www.pv-magazine-australia.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/"
+            }
+          ]
+        },
+        {
           "date": "22 Jul 2026",
           "headline": "NZ’s biggest solar farm just switched on — and it won’t hold the title for long",
           "brief": "<p>The <b>150 MW Tauhei Solar Farm</b> near Hamilton energised in July 2026 — nearly 330,000 panels powering about <b>35,000 homes</b>, with Meridian buying 100% of output for a decade. It dwarfs the previous 47 MW record and leads a wave of grid-scale projects racing to connect as costs fall.</p>",
@@ -172,6 +198,40 @@
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
         {
+          "date": "25 Jul 2026",
+          "headline": "Mercury buys into Southland's $3.5b 'AI factory' — as locals demand answers",
+          "brief": "<p>Power giant <b>Mercury NZ</b> has taken a <b>12.7% stake</b> for <b>US$30m (NZ$53m)</b> in Datagrid NZ, the Singapore-backed developer building a <b>360MW</b> hyperscale AI data centre at North Makarewa, Southland. The deal — struck as hundreds of locals packed a public meeting demanding Datagrid front up over water and power concerns — shows how gentailers are now buying equity stakes directly into AI infrastructure, not just selling it electricity.</p>",
+          "body": [
+            "Mercury NZ has acquired a 12.7% minority equity stake in Datagrid Holding Group NZ Ltd for US$30 million (NZ$53 million), taking its relationship with the Southland data centre developer well beyond the power-purchase deal the pair signed in March. Mercury chief executive Stew Hamilton has been appointed to Datagrid NZ's board as part of the arrangement, and described it as a calculated, staged bet on where electricity demand is headed rather than a speculative punt.",
+            "The investment underpins Datagrid's planned 360MW hyperscale campus at North Makarewa, north of Invercargill — a 78,000 square metre facility now holding full resource consent from Southland's councils and slated to open in 2028. Mercury framed the deal explicitly as a way to pair its renewable generation pipeline, including new wind and geothermal capacity coming online this year, with long-duration demand from a single, enormous customer, giving the gentailer revenue certainty to justify further generation builds.",
+            "The equity round lands just as local opposition is intensifying. Hundreds of Southlanders crowded into the Invercargill Workingmen's Club for a public meeting on the project, with organisers frustrated that Datagrid representatives did not attend to answer questions about power draw, noise and water use. Datagrid has said the facility will rely on free air cooling rather than groundwater, and that construction will create around 1200 jobs, dropping to roughly 80 permanent staff once operational — a ratio locals say underscores how little ongoing employment the project may deliver relative to its scale and resource demands.",
+            "The transaction is also a signal for the wider sector: it's the clearest example yet of a New Zealand electricity generator taking a direct ownership stake in a hyperscale AI facility, rather than simply supplying it. With Invest New Zealand chasing $25-30 billion in offshore data centre investment nationally, expect more gentailer-developer tie-ups of this kind as power companies look to lock in the AI boom's biggest electricity customers before rivals do."
+          ],
+          "lens": "Hawke's Bay doesn't have Southland's scale of renewable generation or a hyperscale AI campus on the table, but the Mercury-Datagrid deal is a template worth watching: it shows power companies now treating AI data centre demand as a strategic asset worth owning equity in, not just billing for. For the Bay, the real signal is in the jobs math coming out of Makarewa — construction booms but thin permanent headcounts — which argues for the region to focus on servicing and supply-chain roles (fibre, cooling, construction, grid connection work) around the national data centre build-out rather than chasing a facility of its own. It's also a reminder that any future Hawke's Bay-based digital infrastructure play, whether cloud-linked cold storage for horticulture or agri-data processing, will need local generators and lines companies at the table early, given how tightly power supply and data centre approvals are now bound together nationally.",
+          "sources": [
+            {
+              "l": "RNZ",
+              "u": "https://www.rnz.co.nz/news/business/775668/mercury-spends-53m-on-stake-in-datagrid-nz"
+            },
+            {
+              "l": "interest.co.nz",
+              "u": "https://www.interest.co.nz/business/139502/mercury-nz-secures-127-stake-worth-53-million-datagrid-nz%E2%80%99s-35-billion-southland-ai"
+            },
+            {
+              "l": "BusinessDesk",
+              "u": "https://businessdesk.co.nz/article/infrastructure/mercury-takes-stake-in-datacentre-builder-datagrid"
+            },
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/07/24/southand-community-has-questions-about-35b-ai-data-centre/"
+            },
+            {
+              "l": "w.media",
+              "u": "https://w.media/mercury-takes-stake-in-datagrid-nz-as-southland-ai-campus-nears-go-ahead/"
+            }
+          ]
+        },
+        {
           "date": "20 Jul 2026",
           "headline": "AWS switched on a $7.5bn NZ cloud region — the plumbing under everything else",
           "brief": "<p>Amazon’s <b>NZ$7.5 billion</b> AWS Auckland cloud region is live, with first customers including <b>One NZ, Vector and Datacom</b>, and Microsoft investing alongside in local AI skills.</p>",
@@ -214,6 +274,40 @@
       "chip": "c-space",
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
+        {
+          "date": "25 Jul 2026",
+          "headline": "Rocket Lab's $266M Alaska deal shows why NZ's rocket engine still matters to the Pentagon",
+          "brief": "<b>Rocket Lab</b> has been awarded a <b>$266 million</b> firm-fixed-price U.S. Space Force contract for 12 suborbital HASTE launches from Alaska through 2028, just days after the Pentagon nearly tripled the ceiling of its main national-security launch contract to <b>$17 billion</b> with Rocket Lab as one of only seven eligible providers. The双 announcements land as Rocket Lab also pushes ahead with an $8 billion acquisition of satellite operator Iridium, reshaping the Kiwi-founded company into a vertically integrated space powerhouse.</p>",
+          "body": [
+            "Rocket Lab has secured its largest publicly disclosed single launch contract to date: a $266 million firm-fixed-price deal with the U.S. Space Systems Command for 12 suborbital HASTE launches, with options for six more, flying out of the Pacific Spaceport Complex on Kodiak Island, Alaska, through December 2028. The contract beat out two other bidders in a competitive process and builds directly on a $190 million HASTE block-buy Rocket Lab signed in March.",
+            "The win arrived just days after an even bigger structural shift: on July 17 the U.S. Space Force nearly tripled the ceiling of its National Security Space Launch Phase 3 Lane 1 contract vehicle, from $5.6 billion to $17 billion, with Rocket Lab named alongside SpaceX, ULA, Blue Origin, Stoke Space, Impulse Space and Relativity Federal as one of seven companies now eligible to compete for task orders through fiscal 2029. Analysts noted the pairing of the two announcements underscores how aggressively the Pentagon is expanding its commercial launch relationships, even though the ceiling increase itself obligates no funds until individual missions are competed.",
+            "HASTE — the Hypersonic Accelerator Suborbital Test Electron — is a modified, suborbital version of Rocket Lab's workhorse Electron rocket, built to test hypersonic weapons technology at speeds above Mach 5. Stifel analyst Erik Rasmussen called the Alaska award \"strong validation of HASTE's operational performance,\" pointing to its rising strategic importance as the U.S. accelerates hypersonic weapons development. The contract also lets Rocket Lab bypass a key hurdle: it cannot bid on NSSL Phase 3 Lane 1 orbital missions until its new Neutron rocket completes its first flight, but this suborbital Alaska work carries no such dependency.",
+            "The defense wins come as Rocket Lab presses ahead with its roughly $8 billion all-cash acquisition of satellite operator Iridium Communications, a deal financed partly through a $3.6 billion bridge loan, which would transform the company from a pure launch provider into a vertically integrated operator with recurring satellite-service revenue. Rocket Lab reported first-quarter 2026 revenue of $200.3 million, up 63.5% year-on-year, with a contracted backlog of $2.2 billion — even as its share price has fallen sharply this month on investor nerves about the scale and debt load of the Iridium deal."
+          ],
+          "lens": "None of this hardware flies from Māhia, but it matters enormously for Hawke's Bay's tech ecosystem: Rocket Lab's expanding U.S. defense book and its shift toward vertically integrated satellite services strengthen the parent company's balance sheet and long-term demand for Electron missions — the same rocket family that launches from Launch Complex 1 on the Māhia Peninsula, right in our regional backyard. A financially stronger, more diversified Rocket Lab means steadier launch cadence, continued investment in New Zealand engineering and manufacturing roles, and a more credible anchor tenant for the wider Hawke's Bay space and aerospace supply chain — from ground support contractors to agritech and Earth-observation firms hoping to piggyback on satellite data for horticulture, water management and climate resilience across the region.",
+          "sources": [
+            {
+              "l": "TechTimes",
+              "u": "https://www.techtimes.com/articles/321262/20260722/rocket-lab-wins-266-million-space-force-contract-suborbital-alaska-launches.htm"
+            },
+            {
+              "l": "Stocktwits",
+              "u": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-on-track-for-second-straight-day-of-gains-stifel-hails-haste-s-266-m-award-as-major-validation/cZZm8epR7DK"
+            },
+            {
+              "l": "SpaceNews",
+              "u": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/"
+            },
+            {
+              "l": "GovCon Wire",
+              "u": "https://www.govconwire.com/articles/rocket-lab-space-force-suborbital-contract"
+            },
+            {
+              "l": "ad-hoc-news.de",
+              "u": "https://www.ad-hoc-news.de/boerse/news/ueberblick/rocket-lab-s-dual-reality-a-17-billion-contract-bonanza-meets-a-brutal/69862044"
+            }
+          ]
+        },
         {
           "date": "22 Jul 2026",
           "headline": "New Zealand’s rocket launch pad is in Hawke’s Bay’s backyard",
@@ -261,6 +355,28 @@
       "chip": "c-agri",
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
+        {
+          "date": "25 Jul 2026",
+          "headline": "NZ's Gene Tech Bill nears the finish line — and Hawke's Bay's orchards and vineyards are watching closely",
+          "brief": "<p>New Zealand's long-awaited <b>Gene Technology Bill</b>, which would end a near-30-year effective ban on gene editing outside the lab, is heading toward its final readings in Parliament — but a fresh wave of criticism this week says the rewrite has <b>an ethics gap</b> around Māori rights, animal welfare and local council powers. The outcome will determine whether growers and breeders in fruit, wine and dairy genetics can finally use modern gene-editing tools already legal in Australia, the EU, the US and Japan.</p>",
+          "body": [
+            "New Zealand's gene technology framework is entering its endgame. The current law, the Hazardous Substances and New Organisms (HSNO) Act 1996, has long been regarded as one of the most restrictive regimes in the OECD, and the replacement Gene Technology Bill is now working through Parliament toward its second and third readings, with a new Office of the Gene Technology Regulator tipped to go live this year.",
+            "But the debate is far from settled. A fresh analysis published this week argues the bill's rewrite still has a gaping ethics gap. Supporters of the bill argue it has prevented researchers and companies from developing and using existing technologies that could improve health, agriculture and environmental management, while opponents counter that the proposed regime is too permissive and fails to address concerns such as Māori intellectual property rights, animal welfare, and the loss of local councils' right to exclude GMOs from their regions.",
+            "The stakes are highest in the primary sector. Industry figures at this year's Plant Breeders' Forum warned that New Zealand's near three-decade restriction on gene technologies like gene editing and other new breeding techniques has left local breeders reliant on slower conventional methods, at a time when overseas-owned breeding programmes increasingly dominate forage and crop genetics here.",
+            "For growers, that translates into real commercial risk and opportunity. New gene-editing tools promise faster development of disease-resistant, drought-tolerant or higher-yield plant varieties — precisely the kind of innovation packhouses, orchards and wineries across the country are racing to adopt as climate pressure and labour costs bite."
+          ],
+          "lens": "If the Gene Technology Bill passes with a workable regulator, Hawke's Bay's apple, pear, stonefruit and grape breeding programmes — many already leaning on AI and robotics for grading and disease detection — could finally pair that data with faster, locally-bred genetics rather than importing overseas varieties. That's a meaningful edge for a region built on horticulture and viticulture IP, but the unresolved ethics concerns around Māori data and IP rights, and the prospect of councils losing power to exclude GMOs locally, mean regional growers and iwi-aligned land trusts will need a seat at the table before any gene-edited variety reaches a Hawke's Bay orchard row.",
+          "sources": [
+            {
+              "l": "Newsroom",
+              "u": "https://newsroom.co.nz/2026/07/22/nz-gene-tech-law-rewrite-has-a-gaping-ethics-gap/"
+            },
+            {
+              "l": "RNZ News",
+              "u": "https://www.rnz.co.nz/news/country/569452/more-detail-on-gene-tech-regulations-to-come-as-industry-mulls-opportunities"
+            }
+          ]
+        },
         {
           "date": "22 Jul 2026",
           "headline": "A Napier packhouse now runs on AI and robots — and kept all its people",
@@ -360,6 +476,36 @@
       "chip": "c-bay",
       "tag": "Tech and innovation happening right here in Hawke’s Bay.",
       "stories": [
+        {
+          "date": "25 Jul 2026",
+          "headline": "Hawke's Bay Drone Firm Lands World-First Certification — And a $60m Global Distribution Deal",
+          "brief": "<p>Hawke's Bay-based <b>Aerospread Technologies</b> has achieved a world-first: its <b>xFold H500</b> heavy-lift drone is the first aircraft of its class to win full <b>CAA Part 102</b> certification for unrestricted agricultural operations in New Zealand. Days later, US drone maker Powerus (via subsidiary Kaizen Aerospace) named the Napier-based company its exclusive distributor for the xFold platform across New Zealand, Australia and the South Pacific, with five-year sales targets around <b>$60 million</b>.</p>",
+          "body": [
+            "A locally built aviation success story just went global. Aerospread Technologies, which operates from a purpose-built facility in Hawke's Bay, has notched a genuine world-first: its xFold H500, a 200kg-payload heavy-lift drone, is now the first aircraft of its class to receive full CAA Part 102 certification for unrestricted agricultural operations in New Zealand — clearing the regulatory bar that has held back large autonomous ag-aircraft everywhere else.",
+            "The certification landed almost simultaneously with a major commercial deal. US-based Autonomous Power Corporation, trading as Powerus, announced that its subsidiary Kaizen Aerospace has launched a dedicated agriculture division and appointed Aerospread Technologies as the exclusive distributor for its xFold heavy-lift drone platform across New Zealand, Australia and the South Pacific. The agreement carries performance-based sales targets of roughly $60 million in potential product revenue over five years, though the company stresses these are targets rather than binding orders.",
+            "The same announcement revealed a parallel US arrangement, with Kentucky-based Sprig Aerospace becoming an authorised distributor that will standardise its commercial spraying fleet on Powerus xFold aircraft, while the larger xFold Dragon H1000 received a Special Airworthiness Certificate from the FAA. That puts the Hawke's Bay operation at the centre of a genuinely international rollout of heavy-lift agricultural drone technology, rather than a bit-part local supplier arrangement.",
+            "Aerospread, founded in 2017 by veteran agricultural pilot Bruce Peterson, has grown from a topdressing operator into a manufacturer and technology developer in its own right, running its aerial services under the Aerotech UAV brand while Aerospread Technologies drives the innovation and certification work behind it."
+          ],
+          "lens": "This is a rare case of a Hawke's Bay-headquartered company setting the pace globally rather than adopting someone else's technology — the CAA certification was won on home soil, at a Hawke's Bay facility, before the company was handed distribution rights spanning three continents. For the region it signals high-value engineering and regulatory-testing jobs anchored locally, a template for how the Bay's aviation and agri-tech base (already strengthened by Napier Port's autonomous trucking trial) can attract serious offshore capital, and a direct efficiency upgrade for the primary sector: heavy-lift autonomous spraying and spreading could reshape labour-intensive orchard, vineyard and forestry operations across Hastings, Napier and the wider region well ahead of comparable markets.",
+          "sources": [
+            {
+              "l": "GlobeNewswire",
+              "u": "https://www.globenewswire.com/news-release/2026/07/23/3332132/0/en/Powerus-Company-Launches-Agriculture-Division-as-Kaizen-Aerospace-Signs-60-Million-Australia-New-Zealand-Distribution-Agreement-and-U-S-Partnership-with-Sprig-Aerospace.html"
+            },
+            {
+              "l": "StockTitan",
+              "u": "https://www.stocktitan.net/news/PUSA/powerus-company-launches-agriculture-division-as-kaizen-aerospace-l2d7w899vhe9.html"
+            },
+            {
+              "l": "iGrow News",
+              "u": "https://igrownews.com/kaizen-aerospace-latest-news/"
+            },
+            {
+              "l": "Quiver Quantitative",
+              "u": "https://www.quiverquant.com/news/Powerus+Expands+xFold+Agriculture+Distribution+in+Australia,+New+Zealand+and+U.S.+as+H1000+Receives+FAA+Special+Airworthiness+Certificate"
+            }
+          ]
+        },
         {
           "date": "21 Jul 2026",
           "headline": "The Bay quietly built a food-innovation campus — and it’s filling up",
