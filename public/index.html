@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>hawkesbay.tech — national tech, translated for Hawke's Bay</title>
+<style>
+  :root{
+    /* Constant brand base = deep navy ink + cream. --teal / --coral are the SEASONAL accent,
+       overridden by JS to match the current NZ season (winter slate shown by default). */
+    --ink:#18222f;--teal:#3c5f88;--teal-deep:#111f2e;--coral:#3c5f88;--gold:#d9a94a;
+    --cream:#f7f3ea;--paper:#fffdf8;--line:#e6ddca;--muted:#5f6a72;--lens-bg:#eef0ee;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--cream);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55}
+  a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+
+  header.mast{background:var(--paper);border-bottom:3px solid var(--teal-deep)}
+  .mast-top{display:flex;align-items:baseline;justify-content:space-between;padding:20px 0 12px;flex-wrap:wrap;gap:8px}
+  .word{font-family:Georgia,"Times New Roman",serif;font-size:38px;font-weight:800;letter-spacing:-.5px;color:var(--teal-deep);cursor:pointer}
+  .word .tld{color:var(--coral)}
+  .tagline{font-size:14px;color:var(--muted);font-style:italic;max-width:390px;text-align:right}
+  nav.sectors{display:flex;flex-wrap:wrap;gap:4px 20px;padding:10px 0 14px;border-top:1px solid var(--line);font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+  nav.sectors a{color:var(--ink);cursor:pointer}nav.sectors a:hover{color:var(--coral);text-decoration:none}
+  nav.sectors a.active{color:var(--coral)}
+
+  .editionbar{background:var(--teal-deep);color:#f4efe2}
+  .editionbar .wrap{display:flex;justify-content:space-between;align-items:center;padding:7px 22px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;flex-wrap:wrap;gap:6px}
+  .editionbar b{color:#fff}
+
+  .chip{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:3px;color:#fff}
+  a.chip{cursor:pointer}a.chip:hover{text-decoration:none;filter:brightness(1.08)}
+  .c-ai{background:#5b3fa8}.c-solar{background:#c9820f}.c-space{background:#243a6b}
+  .c-conn{background:#2f6fb0}.c-cloud{background:#5566a3}.c-econ{background:#3f8f4e}
+  .c-agri{background:#7a5c1e}.c-bay{background:#8a4066}
+
+  /* Lead */
+  .featured{padding:32px 0 10px;border-bottom:1px solid var(--line)}
+  .featured .kicker{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--coral);margin-bottom:10px}
+  .featured h1{font-family:Georgia,serif;font-size:39px;line-height:1.12;margin:8px 0 6px;color:var(--ink);font-weight:800;letter-spacing:-.5px}
+  .byline{font-size:13px;color:var(--muted);margin-bottom:14px}
+  .featured .brief{font-size:18px;line-height:1.6}.featured .brief p{margin:0 0 12px}
+  .feat-body{display:flex;gap:38px;align-items:flex-start;margin-top:4px}
+  .feat-body .brief{flex:1.7}
+  .feat-body .lens{flex:1;max-width:none;margin:2px 0 0;align-self:stretch}
+  @media(max-width:760px){.feat-body{flex-direction:column;gap:0}}
+
+  .lens{background:var(--lens-bg);border-left:4px solid var(--teal);border-radius:0 8px 8px 0;padding:13px 16px;margin:14px 0 4px}
+  .lens .lbl{font-size:11px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--teal-deep);margin-bottom:5px}
+  .lens p{margin:0;font-size:15.5px;line-height:1.55}
+  .src{font-size:12.5px;color:var(--muted);margin-top:10px}.src a{font-weight:600}
+
+  .secttitle{font-family:Georgia,serif;font-size:15px;letter-spacing:.02em;color:var(--muted);text-transform:uppercase;padding:26px 0 2px;font-weight:700}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:30px 34px;padding:18px 0 30px}
+  @media(max-width:760px){.grid{grid-template-columns:1fr}.featured h1{font-size:30px}.tagline{text-align:left}}
+  article.card{border-top:2px solid var(--ink);padding-top:12px}
+  article.card h2{font-family:Georgia,serif;font-size:23px;line-height:1.18;margin:9px 0 5px;font-weight:800;letter-spacing:-.3px}
+  article.card .brief{font-size:15px;margin:0 0 4px}article.card .brief p{margin:0 0 9px}
+  .lens.sm{margin:10px 0 4px}.lens.sm p{font-size:14px}
+  .more{display:inline-block;margin-top:8px;font-size:13px;font-weight:700;color:var(--coral);cursor:pointer}
+
+  /* Stats anchor */
+  article.statcard{border-top:3px solid var(--gold);background:var(--teal-deep);color:#f1ece0;border-radius:0 0 10px 10px;padding:14px 18px 16px}
+  .statcard h2{font-family:Georgia,serif;color:#fff;font-size:21px;margin:2px 0 10px}
+  .statrow{display:flex;gap:14px;align-items:baseline;padding:9px 0;border-bottom:1px solid rgba(255,255,255,.15)}
+  .statrow:last-of-type{border-bottom:0}
+  .statrow .n{font-family:Georgia,serif;font-size:27px;font-weight:800;color:var(--gold);min-width:86px;text-align:right}
+  .statrow .l{font-size:13.5px;line-height:1.35;color:#e8e2d4}
+  .statcard small{display:block;margin-top:11px;color:#a9b8b4;font-size:11px}
+
+  /* Sector page */
+  .sectorhead{padding:28px 0 6px;border-bottom:2px solid var(--ink);margin-bottom:2px}
+  .back{font-size:13px;font-weight:700;color:var(--coral);cursor:pointer;letter-spacing:.02em}
+  .sectorhead h1{font-family:Georgia,serif;font-size:36px;margin:12px 0 4px;color:var(--teal-deep);letter-spacing:-.5px}
+  .sectorhead .tag{color:var(--muted);font-size:16.5px;max-width:660px;line-height:1.5}
+  .sectorhead .upd{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.12em;margin-top:10px}
+  .story{padding:24px 0;border-bottom:1px solid var(--line)}
+  .story .date{font-size:12px;color:var(--muted);letter-spacing:.05em;font-weight:600;text-transform:uppercase}
+  .story h2{font-family:Georgia,serif;font-size:27px;line-height:1.16;margin:7px 0 8px;letter-spacing:-.3px}
+  .story .brief{font-size:16.5px;max-width:770px;line-height:1.6}
+  .story .lens{max-width:770px}
+  .latestflag{display:inline-block;font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#fff;background:var(--coral);padding:2px 8px;border-radius:3px;margin-left:8px;vertical-align:middle}
+
+  /* Archive */
+  .archchips{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px}
+  .archchip{font-size:12px;font-weight:700;letter-spacing:.03em;padding:5px 12px;border-radius:999px;cursor:pointer;color:#fff;opacity:.48;transition:opacity .12s}
+  .archchip:hover{opacity:.85}
+  .archchip.on{opacity:1;box-shadow:0 0 0 2px rgba(0,0,0,.18) inset}
+  .c-all{background:#2f3b4d}
+  .archlist{margin-top:6px}
+  .archmonth{font-family:Georgia,serif;font-size:14px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin:24px 0 6px;border-bottom:1px solid var(--line);padding-bottom:6px}
+  .archrow{display:flex;align-items:baseline;gap:12px;padding:10px 0;border-bottom:1px solid var(--line);flex-wrap:wrap}
+  .archrow .chip{cursor:pointer;flex:none}
+  .archhead{font-family:Georgia,serif;font-size:17px;color:var(--ink);font-weight:700;cursor:pointer;flex:1;min-width:280px;line-height:1.25}
+  .archhead:hover{color:var(--coral);text-decoration:none}
+  .archmeta{font-size:12.5px;color:var(--muted)}
+  @media(max-width:600px){.archhead{min-width:100%}}
+  /* Full article */
+  .fullpost{max-width:760px;padding-top:6px}
+  .fullpost .chip{display:inline-block;margin-bottom:8px}
+  .fullpost h1{font-family:Georgia,serif;font-size:34px;line-height:1.14;margin:6px 0 6px;letter-spacing:-.5px;color:var(--ink)}
+  .fullpost .byline{font-size:13px;color:var(--muted);margin-bottom:18px}
+  .fullpost .body{font-size:17.5px;line-height:1.72}
+  .fullpost .body p{margin:0 0 16px}
+  .readmore{display:inline-block;margin-top:8px;font-size:13px;font-weight:700;color:var(--coral);cursor:pointer}
+  .strip{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .two{display:grid;grid-template-columns:1.3fr 1fr;gap:40px;padding:28px 0}
+  @media(max-width:760px){.two{grid-template-columns:1fr;gap:24px}}
+  .radar h3,.news h3{font-family:Georgia,serif;font-size:20px;margin:0 0 12px;color:var(--teal-deep)}
+  .radar ul{list-style:none;margin:0;padding:0}
+  .radar li{padding:9px 0;border-bottom:1px dotted var(--line);font-size:14.5px}
+  .radar li .chip{margin-right:8px;vertical-align:middle}
+  .news{background:var(--lens-bg);border-radius:10px;padding:20px}
+  .news p{font-size:14.5px;margin:0 0 12px}
+  .news .field{display:flex;gap:8px}
+  .news input{flex:1;border:1px solid var(--line);border-radius:7px;padding:10px 12px;font-size:14px;background:#fff}
+  .news button{background:var(--coral);color:#fff;border:0;border-radius:7px;padding:0 16px;font-weight:700;cursor:pointer}
+  .news small{display:block;margin-top:9px;color:var(--muted);font-size:12px}
+
+  footer{padding:26px 0 46px;color:var(--muted);font-size:13px}
+  footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:center}
+  .note{background:#fbf6e9;border:1px solid #ecdfb8;color:#6a5518;font-size:12.5px;border-radius:8px;padding:9px 14px;margin:14px 0 0}
+</style>
+</head>
+<body>
+
+<div class="editionbar"><div class="wrap"><span id="edition">Edition 01 &nbsp;·&nbsp; <b>July 2026</b></span><span>National &amp; global tech — translated for Hawke&rsquo;s Bay&rsquo;s growth</span></div></div>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="mast-top">
+      <div class="word" onclick="go('home')">hawkesbay<span class="tld">.tech</span></div>
+      <div class="tagline">We scan New Zealand&rsquo;s tech sector — nationwide, industry-wide — and ask one question: what does it mean for Hawke&rsquo;s Bay?</div>
+    </div>
+    <nav class="sectors" id="nav"></nav>
+  </div>
+</header>
+
+<div id="app"></div>
+
+<footer>
+  <div class="wrap">
+    <span><b style="color:var(--teal-deep)">hawkesbay.tech</b> — a FocusAI project · Scanning NZ innovation for the Bay.</span>
+    <span>© 2026 FocusAI</span>
+  </div>
+  <div class="wrap">
+    <div class="note">📝 <b>Editor&rsquo;s note (mockup):</b> Every story is real and written from the linked source. Click any section heading to open its full page. Updated daily — the newest story per sector leads the front page, older ones move to the section page. A FocusAI project, curated by AI.</div>
+  </div>
+</footer>
+
+<script>
+/* ---------------- DATA ---------------- */
+const LEAD = {"chip":"c-econ","chipLabel":"Economy","sector":"bay","headline":"NZ tech is now a $20bn export engine — and almost all of it sits in two cities","byline":"National · what the country’s tech boom means for the regions","brief":"<p>New Zealand’s top 200 tech firms turned over <b>$20 billion</b> last year, with tech exports up 12.4% to <b>$15.3 billion</b> — now the country’s third-largest export earner, per the TIN report. High-tech manufacturing ($9.8b) and ICT ($8.9b) led the way, and 40 firms now clear $100m in revenue.</p>\n  <p>But the growth is lopsided. <b>Auckland ($10.5b) and Wellington ($5.2b)</b> account for the vast majority, and over the past decade these firms have added offshore jobs nearly three times faster than domestic ones. The value is compounding — just not where most of the country lives.</p>","lens":"The country’s tech wealth is real and compounding — but it’s pooling in two cities while those same firms hire overseas. That’s the gap a region can step into. Hawke’s Bay has the cost base, the lifestyle pull for remote tech workers, and a primary-sector economy crying out for software. The Bay’s tech-growth story isn’t about beating Auckland — it’s about catching the work leaking out of it.","sources":[{"l":"ITBrief","u":"https://itbrief.co.nz/story/new-zealand-s-tech-exports-hit-nzd-20bn-led-by-ict-growth"},{"l":"TIN report","u":"https://tin100.com/nz-tech-sector-facts/2025-tin-report/"}]};
+const SECTORS = [{"id":"ai","name":"Artificial Intelligence","short":"AI","chip":"c-ai","tag":"The AI wave — and where a hands-on region can leap ahead of the dabblers.","stories":[{"date":"24 Jul 2026","headline":"Kiwis use AI everywhere — and have mastered it almost nowhere","brief":"<p>New Zealand now has its <b>first national AI Strategy</b> (“Investing with confidence”), betting on light-touch rules and fast adoption. Yet while 40–80% of organisations dabble with AI, <b>just 2.7% of workers</b> use it in real workflows and 79% of employers say they don’t know how to train staff — even as 90% expect AI solutions running by 2028.</p>","body":["New Zealand now has its first national AI Strategy, “Investing with confidence,” released by MBIE. It is a deliberately light-touch framework that leans on existing law rather than new AI-specific rules, betting that fast, safe adoption is the quickest route to lifting the country’s stubborn productivity.","The appetite is clearly there — depending on the survey, somewhere between 40% and 80% of NZ organisations say they use AI in some form. But the usage is shallow. Analysis of the workforce suggests only about 2.7% of workers actually use AI in embedded, day-to-day workflows, and the average organisation still rates itself as merely “experimenting.”","The bottleneck is people, not tools. Around 79% of employers say they don’t know how to train staff to use AI well, even as roughly 90% expect to have AI solutions running by 2028. New Zealand also sits well down the global Government AI Readiness Index, with a stated ambition to climb into the top 30 by 2030 — a gap between enthusiasm and capability that is the whole ballgame."],"lens":"The gap <em>is</em> the opportunity. AI’s productivity gains sit unclaimed nationwide — and are easier to grab in a region of hands-on businesses (packhouses, wineries, logistics, trades) with obvious problems AI can solve today. The Bay firm that truly operationalises AI leaps past city rivals still “experimenting.”","sources":[{"l":"MBIE","u":"https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence"},{"l":"CAIRN","u":"https://cairn.nz/blog/ai-adoption-in-new-zealand-the-2026-data-and-a-practical-guide"}]},{"date":"18 Jul 2026","headline":"Microsoft doubles down on NZ AI skills as its cloud build-out ramps","brief":"<p>Microsoft is investing in New Zealand AI skills and training alongside its expanding cloud and data-centre footprint, aiming to help close the country’s AI capability gap.</p>","body":["Microsoft has sharply raised its ambitions for AI skills in New Zealand, announcing it will train 200,000 people by 2028 — double its earlier target of 100,000. The programme has already reached about 75,000 participants.","The push is tied directly to Microsoft’s hyperscale cloud and data-centre build-out in the country: as that infrastructure grows, it needs a local workforce able to deploy, secure and manage it. The training spans several strands, including Microsoft Elevate for Educators (putting AI tools into classrooms), Elevate for Changemakers (for non-profits and community leaders), and a 10K Women programme aimed at closing gender gaps in digital and infrastructure roles.","The company frames it as an economic imperative. Its 2025 Work Trend Index found 59% of NZ business leaders believe productivity has to rise, and Microsoft estimates AI could add between NZ$76 billion and NZ$108 billion to the economy each year by 2038. “New Zealand is building strong momentum in AI adoption,” said Jane Livesey, president of Microsoft Australia and New Zealand. “However, now is not the time to take our foot off the accelerator.”"],"lens":"Skills are the bottleneck the TIN numbers hint at. Nationally-funded AI training is a free lever for the Bay — upskilling local workers, and drawing remote ones, is how the region turns AI hype into actual jobs.","sources":[{"l":"Data Centre Magazine","u":"https://datacentremagazine.com/news/microsoft-boosts-nz-ai-skills-for-cloud-and-data-centre-push"}]}]},{"id":"solar","name":"Solar & Energy","short":"Solar","chip":"c-solar","tag":"The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.","stories":[{"date":"22 Jul 2026","headline":"NZ’s biggest solar farm just switched on — and it won’t hold the title for long","brief":"<p>The <b>150 MW Tauhei Solar Farm</b> near Hamilton energised in July 2026 — nearly 330,000 panels powering about <b>35,000 homes</b>, with Meridian buying 100% of output for a decade. It dwarfs the previous 47 MW record and leads a wave of grid-scale projects racing to connect as costs fall.</p>","body":["New Zealand’s largest solar farm has come online. The 150 MW Tauhei Solar Farm in the Waikato was energised in mid-July 2026, its nearly 330,000 panels able to generate enough electricity to power roughly 35,000 homes.","Built by Harmony Energy with backing from infrastructure investor Igneo, the farm has a long-term deal with Meridian Energy to buy 100% of its output for a decade — the kind of power-purchase agreement that makes utility-scale solar bankable. It dwarfs the country’s previous record-holder, the 47 MW Lauriston farm in Canterbury.","Tauhei is the biggest of a wave. Grid-connected solar has moved from a rounding error to a fast-growing slice of New Zealand’s generation as panel costs fall and consenting speeds up, with the Electricity Authority reporting record solar output and a pipeline of large projects racing to connect over the next few years."],"lens":"Hawke’s Bay is one of the sunniest regions in the country — a natural fit for this boom. Grid-scale and rooftop solar mean cheaper power for energy-hungry packhouses and coolstores, new revenue for landowners, and — after Gabrielle — real energy resilience.","sources":[{"l":"pv magazine","u":"https://www.pv-magazine.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/"},{"l":"Electricity Authority","u":"https://www.ea.govt.nz/news/eye-on-electricity/grid-connected-solar-is-having-its-time-in-the-sun/"}]},{"date":"14 Jul 2026","headline":"Sheep are grazing under solar panels — and 32 farms are about to test it","brief":"<p>New Zealand has selected <b>32 farms</b> for a solar-and-battery trial, part of a fast-growing push into <b>agrivoltaics</b> — generating power and farming the same land. At sites like Rangitaiki, sheep already graze beneath raised panels.</p>","body":["New Zealand is beginning to test whether farms can grow food and generate power on the same paddock. The government has selected 32 farms for a solar-and-battery trial, part of a wider push into agrivoltaics — pairing raised solar arrays with grazing or cropping underneath.","It isn’t just theory. At sites such as the Rangitaiki solar development, sheep already graze contentedly beneath panels mounted high enough to let stock move and feed, and research programmes are working out spacing, shade and pasture effects so the arrays complement farming rather than displace it.","The appeal is dual income from the same hectares — a generation lease on top of farm returns — plus shelter for animals and, with batteries, a measure of on-farm energy security. For a country wrestling with how to decarbonise without paving over productive land, “solar and food” is a far more comfortable proposition than “solar or food.”"],"lens":"The solar story that fits a farming region best. Bay sheep-and-beef blocks, orchards and vineyards could earn a second income from generation on the same hectares, with panels adding shade and shelter. “Solar vs food” becomes “solar <em>and</em> food.”","sources":[{"l":"pv magazine","u":"https://www.pv-magazine.com/2026/02/20/new-zealand-selects-32-farms-for-solar-and-battery-trial/"},{"l":"NZ Herald","u":"https://www.nzherald.co.nz/nz/rangitaiki-solar-farm-shows-how-agrivoltaics-lets-sheep-graze-under-panels/7JCQKYSVSNH3JM6T7JM3XGDQHY/"}]}]},{"id":"conn","name":"Connectivity","short":"Connectivity","chip":"c-conn","tag":"Satellites and rural broadband lifting the ceiling on what the back-country can do.","stories":[{"date":"21 Jul 2026","headline":"Your phone now texts via satellite across the 40% of NZ that had no coverage","brief":"<p>One NZ’s satellite service — using <b>Starlink’s direct-to-mobile</b> tech — now reaches ordinary phones across roughly <b>40% of NZ’s landmass</b> with no cell coverage, starting with texting (free on eligible plans) and expanding to data, apps and calling.</p>","body":["Large parts of rural New Zealand have never had mobile coverage. That is changing: One NZ’s satellite service, built on Starlink’s direct-to-mobile technology, now reaches ordinary smartphones across roughly 40% of the country’s landmass that sits beyond any cell tower’s range — no special hardware required.","It launched with text messaging, free on eligible plans, in December 2024, and in its first year carried around 7 million messages to more than 700,000 customers. The service is now expanding to data, popular apps and calling, and Spark launched a competing satellite service in April 2026.","For anyone who tramps, farms or lives beyond the towers, it turns a dead phone into a working one — able to send a text from a back paddock or a remote hut. It is the connectivity floor rising for the half of the map conventional networks never reached."],"lens":"Connectivity has always been the ceiling on rural tech. Lift it, and smart collars, vine-scanning, precision irrigation and remote sensors suddenly work across the Bay’s hill country — the enabler under half the region’s agritech opportunity.","sources":[{"l":"One NZ","u":"https://media.one.nz/onenzsatellite"},{"l":"Newswire","u":"https://newswire.co.nz/2026/07/starlink-new-zealand/"}]},{"date":"10 Jul 2026","headline":"How Starlink quietly became rural New Zealand’s default internet","brief":"<p>Beyond phones, Starlink has rapidly become the go-to broadband for rural New Zealand, reshaping connectivity for farms and remote communities across the country.</p>","body":["Away from the phone network, Starlink has quietly become rural New Zealand’s default internet. SpaceX’s satellite service grew from about 58,000 connections in mid-2024 to 85,000 a year later — roughly 72,000 of them rural — making it the country’s largest rural internet provider on around a 27% share, as its qualifying NZ revenue jumped 38% to about $101 million.","The shift shows in the paddock data. A Federated Farmers survey found satellite internet on farms had climbed to 36%, overtaking older rural wireless as the connection of choice, and New Zealand now leads the OECD in satellite broadband per head. Plans run roughly $85 to $170 a month after a mid-2026 price rise, with hardware around $799.","The upside is fibre-like speed in places fixed networks abandoned — video calls, live data from the woolshed, streaming in the evening. The catch is concentration: the Commerce Commission has flagged a “material risk” that Starlink becomes the dominant or monopoly rural supplier, and at least one local wireless provider, Evolution Networks, has gone into liquidation under the pressure."],"lens":"For the Bay’s back-country growers and stations, reliable broadband is the difference between “someday” and “deployable” for data-driven farming — and it makes rural remote-work, and rural tech jobs, genuinely viable.","sources":[{"l":"Newswire","u":"https://newswire.co.nz/2026/07/starlink-new-zealand/"}]}]},{"id":"cloud","name":"Cloud & Data","short":"Cloud","chip":"c-cloud","tag":"The digital plumbing — and the power crunch that makes regional energy strategic.","stories":[{"date":"20 Jul 2026","headline":"AWS switched on a $7.5bn NZ cloud region — the plumbing under everything else","brief":"<p>Amazon’s <b>NZ$7.5 billion</b> AWS Auckland cloud region is live, with first customers including <b>One NZ, Vector and Datacom</b>, and Microsoft investing alongside in local AI skills.</p>","body":["The biggest piece of digital infrastructure New Zealand has ever hosted is now switched on. Amazon Web Services’ NZ$7.5 billion Auckland cloud region — three data centres — has gone live, giving local businesses and government the ability to run workloads on AWS without their data leaving the country.","The first named customers include One NZ, Vector and Datacom, the last of which will host its own customers’ workloads in the region. One NZ chief executive Jason Paris said the local region would enable “low latency and AI-driven customer experiences,” while Vector pointed to faster, data-driven operations for the energy grid. To power it more cleanly, AWS has signed a wind deal with Mercury’s Turitea South farm.","On-shore cloud lowers latency and satisfies data-sovereignty rules, and it drops the barrier for local startups, councils and agritech firms to build serious software at scale. The one shadow over the whole hyperscale build-out — here and worldwide — is electricity, which is fast becoming the limiting factor."],"lens":"On-shore cloud means lower latency, data sovereignty and a lower barrier for Bay startups, councils and agritech to build serious software without leaving the country.","sources":[{"l":"Data Center Dynamics","u":"https://www.datacenterdynamics.com/en/news/aws-names-first-customers-for-new-zealand-data-center-region/"}]},{"date":"12 Jul 2026","headline":"AI’s power bottleneck: the data-centre boom now needs the regions","brief":"<p>Globally and in New Zealand, hyperscale AI data centres are running into an electricity bottleneck — power, not chips, is becoming the limiting factor for the AI build-out.</p>","body":["The constraint on artificial intelligence is no longer chips — it is power. As hyperscalers pour more than US$600 billion into new AI infrastructure, the limiting factor in 2026 has become the electricity to run it, with grid capacity now dictating where and how fast data centres can be built.","The demand is staggering: analysts expect total hyperscale capacity to double in about three years, against a global pipeline of some 770 planned facilities needing “tens of gigawatts” of aggregate power. It is already biting — as of mid-2025, more than 36 projects representing US$162 billion of investment were blocked or delayed over power constraints and local opposition, and analysts warn grid outages will become more common.","Operators are scrambling for workarounds: on-site generation to skip grid queues, closed-loop liquid cooling to cut water and strain, and long-term renewable deals. The upshot is a strategic reordering — the regions and countries that can supply abundant clean power become the ones that win the data centres."],"lens":"This loops straight back to the Bay’s solar opportunity. Regions that can generate clean power become strategically valuable in an AI-hungry economy — a reason to accelerate Hawke’s Bay’s renewable projects.","sources":[{"l":"Data Center Knowledge","u":"https://www.datacenterknowledge.com/hyperscalers/hyperscalers-in-2026-what-s-next-for-the-world-s-largest-data-center-operators-"}]}]},{"id":"space","name":"Space","short":"Space","chip":"c-space","tag":"New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.","stories":[{"date":"22 Jul 2026","headline":"New Zealand’s rocket launch pad is in Hawke’s Bay’s backyard","brief":"<p>Rocket Lab capped a record year of Electron launches and is targeting the <b>late-2026 debut of Neutron</b>, its larger reusable rocket. Easy to forget behind the Nasdaq listing and US HQ: it launches from <b>Launch Complex 1 at Mahia Peninsula</b> — inside the Hawke’s Bay region.</p>","body":["Rocket Lab has capped another record run of Electron launches and is closing in on the most important moment in its history: the debut of Neutron, its larger, reusable rocket, targeted for late 2026. Neutron is the vehicle meant to lift the company from small-satellite specialist into serious competition with SpaceX.","It is easy to forget, behind the Nasdaq ticker and the US headquarters, where much of this actually happens. Rocket Lab flies from Launch Complex 1 on the Mahia Peninsula — a windswept spit of land in the Wairoa district, inside the Hawke’s Bay region — the world’s first private orbital launch site and still the company’s high-cadence home pad.","That makes Hawke’s Bay one of the very few places on earth with a working orbital launch site on its doorstep: a magnet for aerospace suppliers, a rare draw for STEM talent, and living proof that globally significant deep-tech can be run from a corner of provincial New Zealand."],"lens":"Most regions dream of a high-tech anchor; the Bay has an orbital launch site on its doorstep — a magnet for aerospace suppliers, a spark for local STEM pathways, and proof that world-class deep-tech can run from this corner of the country.","sources":[{"l":"Rocket Lab","u":"https://rocketlabcorp.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/"},{"l":"Spaceflight Now","u":"https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/"}]},{"date":"16 Jul 2026","headline":"Rocket Lab books its biggest launch deal yet","brief":"<p>Rocket Lab announced its largest launch agreement to date — a confidential customer booking multiple Neutron and Electron missions — underlining demand as Neutron nears its debut.</p>","body":["Rocket Lab has signed the largest launch contract in its history — a multi-mission deal with an undisclosed customer for five Neutron and three Electron flights between 2026 and 2029. It pushes the company’s manifest past 70 missions and its overall backlog beyond US$2.2 billion.","The agreement is a vote of confidence in Neutron, the reusable medium-lift rocket still in development, and the launches will fly from both Launch Complex 1 at Mahia and Launch Complex 3 at Wallops Island in Virginia. It eclipses Rocket Lab’s previous 2026 record, a US$190 million hypersonic test deal. “The space industry needs more launch capacity,” said founder Sir Peter Beck, “and it needs it from launch providers who know how to deliver.”","With 87 Electron launches behind it and more missions sold in the first quarter of 2026 than in all of 2025, Rocket Lab is now the world’s second most active launch provider — and a meaningful share of those flights lift off from Hawke’s Bay."],"lens":"Every booked launch is flights out of Mahia and work into the supply chain. The Bay’s opportunity is to plug local firms and training into that pipeline rather than watch it fly overhead.","sources":[{"l":"Rocket Lab","u":"https://rocketlabcorp.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/"}]}]},{"id":"agri","name":"Agritech","short":"Agritech","chip":"c-agri","tag":"Robotics, AI and biotech remaking the primary sector the Bay lives on.","stories":[{"date":"22 Jul 2026","headline":"A Napier packhouse now runs on AI and robots — and kept all its people","brief":"<p><b>Taylor Corp</b>, a fourth-generation Napier apple grower, rebuilt post-Gabrielle with ~$30m of automation — an AI grader photographing each apple 500 times, sorting robots and autonomous forklifts — <b>doubling output</b> to 12,000–14,000 cartons a day while retraining, not replacing, its 80 staff.</p>","body":["When Cyclone Gabrielle tore through Hawke’s Bay in early 2023, it wrecked Taylor Corp’s Napier packhouse. Rather than rebuild it the way it was, the fourth-generation apple grower spent around <b>$30 million</b> turning it into one of the most automated fruit-packing operations in the country.","At its heart is an AI grader called <b>Spectrim</b>, which photographs every apple roughly 500 times as it passes through — spotting blemishes, bruising and internal defects faster and more consistently than a human eye ever could. Robotic arms from New Zealand agritech firm Aporo place the graded fruit into trays, and autonomous forklifts move pallets across the floor with no driver at the wheel.","The payoff is scale. The packhouse now pushes out <b>12,000–14,000 cartons a day</b> — about 3,000 apples a minute, or ten shipping containers of export fruit daily — double what it managed before the rebuild. In a region that grows most of New Zealand’s apples, that throughput is the difference between catching an export window and missing it.","The part owner Cameron Taylor is keenest to stress is what <i>didn’t</i> happen: nobody lost their job. The roughly 80 packhouse staff were retrained to run and maintain the machines rather than replaced by them. “We’ve actually upskilled them,” he told RNZ — turning repetitive line roles into higher-value technical ones."],"lens":"The template in miniature: import the technology, translate it to a local strength, keep the people and upskill them. Multiply across the Bay’s sectors and you have a regional tech-growth strategy.","sources":[{"l":"RNZ","u":"https://www.rnz.co.nz/news/country/597616/ai-and-robots-help-hawke-s-bay-apple-exporter-double-processing-capacity"}]},{"date":"19 Jul 2026","headline":"Halter’s cattle collars now talk to satellites — and that changes hill-country farming","brief":"<p>Halter’s solar smart collars now connect <b>direct-to-satellite</b> via Starlink — a world first for virtual fencing — reaching an estimated 20%+ more NZ beef farms in remote country. It capped a big year: a <b>NZ$377m</b> raise for global expansion.</p>","body":["Halter, the New Zealand agritech company whose solar-powered collars let farmers herd and virtually fence cattle from a phone, has removed the one thing that limited where it could work: connectivity. Its collars can now connect direct-to-satellite via Starlink, through One NZ — a world first for virtual fencing.","Until now the system needed farm radio towers to talk to the collars; one Central Otago station would have needed 25 of them to cover its terrain. Beaming the link off satellites instead opens the technology to an estimated 20%-plus more of New Zealand’s beef farms in remote, broken country. “Connectivity for virtual fencing was the blocker,” said Halter founder Craig Piggott. “Direct-to-satellite solves this.”","It caps a landmark year for the company, which raised NZ$377 million to fund a global push into markets including the United States. For hill-country farming — long the hardest place to deploy precision tools — it is a genuine step change in how stock can be managed, moved and monitored."],"lens":"Much of the Bay’s sheep-and-beef country is exactly the steep, poorly-connected land that couldn’t run collars before. Satellite puts virtual fencing and stock tracking within reach of Central Hawke’s Bay and the coastal stations.","sources":[{"l":"RNZ","u":"https://www.rnz.co.nz/news/business/593669/new-direct-to-satellite-technology-launched-to-help-farmers-manage-cattle-from-above"},{"l":"AgTechNavigator","u":"https://www.agtechnavigator.com/Article/2026/03/24/halter-raises-nzd-377m-to-drive-global-expansion-as-virtual-fencing-demand-surges/"}]},{"date":"15 Jul 2026","headline":"The first real methane tools hit NZ farms in 2026/27 — here’s the shortlist","brief":"<p>Several livestock methane tools near market: Ruminant BioTech’s rumen bolus (up to 70% cuts), BioLumic’s UV-treated seed, a methane vaccine (~2028) and Hoofprint’s probiotic — driven by buyers like Tesco, Nestlé and McDonald’s demanding lower-emission supply.</p>","body":["After years in the lab, the first real tools to cut livestock methane are close to reaching New Zealand paddocks. Several are converging on 2026/27: Ruminant BioTech’s slow-release rumen bolus has shown up to 70% methane reductions for as long as six months, and BioLumic is using UV-treated seed to lower emissions per kilogram of milksolids.","Others sit a little further out. AgriZeroNZ is backing a methane vaccine (from around 2028), US-founded Hoofprint Biome is trialling a probiotic targeting reductions of up to 80%, and Agroceutical is developing an inhibitor derived from daffodil extract — making New Zealand something of a global testing ground for climate-friendlier cattle.","The pressure driving it all is market access as much as regulation: major buyers including Tesco, Nestlé and McDonald’s increasingly demand lower-emission supply. Whichever tool clears commercial approval first will start reshaping farm practice — and the premiums attached to it — across sheep-and-beef and dairy country."],"lens":"The Bay’s sheep-and-beef and dairy farmers face the same market-access pressure and opportunity. Which tool clears approval first will shape practice and premiums across Central Hawke’s Bay.","sources":[{"l":"Farmers Weekly","u":"https://www.farmersweekly.co.nz/technology/emissions-tools-coming-2026-27/"}]},{"date":"11 Jul 2026","headline":"The AI that scans 8,000 vines an hour is coming for disease and guesswork","brief":"<p>Cropsy mounts AI cameras on vehicles to scan grapevines one by one — around <b>8,000 an hour</b> — flagging disease, counting vines and estimating yield. It has analysed 22 million vines across NZ, California and Cognac.</p>","body":["A New Zealand startup is bringing per-vine intelligence to the vineyard. Cropsy mounts AI cameras on tractors, harvesters and other orchard vehicles to scan grapevines one at a time — around 8,000 an hour — flagging disease, counting vines and estimating yield, with results back in roughly 30 minutes.","Founded out of the University of Auckland’s Velocity programme by Leila Deljkovic and colleagues, Cropsy has deployed about 40 scanners, mostly across New Zealand but also in California and Cognac, and has now analysed some 22 million vines across three continents. A single scanner run by a contractor can cover close to 1,000 hectares for more than 90 growers, putting the technology within reach of smaller operations.","“Insights can change the course of decisions made in the vineyard,” Deljkovic has said — catching trunk disease early, planning picking more precisely, and building the kind of data trail that increasingly matters to premium buyers."],"lens":"Hawke’s Bay is NZ’s second-largest wine region. Per-vine AI could catch trunk disease early, sharpen picking and prove sustainability with data — an edge as premium buyers demand traceability.","sources":[{"l":"University of Auckland","u":"https://www.auckland.ac.nz/en/news/2025/05/13/agritech-start-up-cropsy-technologies-changing-viticulture.html"}]},{"date":"08 Jul 2026","headline":"A Havelock North apple just signed one of China’s biggest stars","brief":"<p><b>Rockit</b> — the miniature apple invented in Hawke’s Bay 20 years ago — signed Chinese superstar Wang Yibo to drive sales in China, its biggest market. It now sells across 30+ territories and eight growing regions.</p>","body":["Rockit, the snack-sized apple grown in tubes and invented in Hawke’s Bay around 20 years ago, has landed a marketing coup: it has signed Chinese superstar Wang Yibo — previously a face for Chanel and Lacoste — as brand ambassador to drive sales in China, the world’s largest apple market, from May 2026.","The company now sells in more than 30 territories and grows across eight regions worldwide to keep year-round supply, all from a brand that began as one small New Zealand apple. Chief executive Grant McBeath called the signing “a huge coup… let alone [for] one from a small market like New Zealand,” noting that around 80% of people who try the apple buy it again.","Rockit’s story is less about fruit than about intellectual property, branding and marketing muscle exported from the Bay to the world — a template other regional food producers are studying as they look to capture value beyond the raw commodity."],"lens":"Rockit turned a small Bay apple into a global premium brand — proof the region can export IP, branding and marketing muscle, not just fruit. A template for other Bay food producers thinking beyond the commodity.","sources":[{"l":"NZBusiness","u":"https://nzbusiness.co.nz/business/hawkes-bay-apple-brand-rockit-signs-chinese-megastar-wang-yibo"}]}]},{"id":"bay","name":"The Bay Scene","short":"Bay Scene","chip":"c-bay","tag":"Tech and innovation happening right here in Hawke’s Bay.","stories":[{"date":"21 Jul 2026","headline":"The Bay quietly built a food-innovation campus — and it’s filling up","brief":"<p><b>Foodeast Haumako</b>, a purpose-built food and beverage innovation centre in Tomoana, Hastings, offers production bays, offices, conference space and a startup-support model — and already houses businesses including Mara Bio and AsureQuality.</p>","body":["Hawke’s Bay has quietly built itself a home for food innovation. Foodeast Haumako, a purpose-built food and beverage innovation centre in Tomoana, Hastings, styles itself as “New Zealand’s leading catalyser of commercially successful food innovation,” offering the physical and commercial scaffolding local makers have long lacked.","The site pairs office tenancies with four 600-square-metre production and warehouse bays, meeting and conference space, and a startup-support model, and it already houses businesses including Mara Bio and AsureQuality, alongside a “Sustainable is Attainable” food-waste programme.","For a region that grows an enormous volume of raw product but has often watched the value-add happen elsewhere, a place to prototype, scale and commercialise without leaving the Bay is exactly the missing piece — and a hub this site expects to cover often."],"lens":"The physical backbone the region’s foodtech ambitions have lacked — somewhere Bay growers and makers can prototype, scale and commercialise without leaving the region. For a place that grows so much raw product, capturing more value-add locally is the whole game.","sources":[{"l":"Foodeast Haumako","u":"https://foodeast.co.nz/"}]},{"date":"17 Jul 2026","headline":"Napier Port bets up to $25m on self-driving trucks — a first for NZ ports","brief":"<p>Napier Port plans a fleet of about a dozen <b>autonomous trucks</b> to move containers around its yard — up to <b>$25 million</b>, a first for a New Zealand port. The Maritime Union has warned the automation could come at a cost to jobs.</p>","body":["Napier Port is preparing to become the first port in New Zealand to run a fleet of autonomous trucks. The plan, an investment of up to $25 million, would put about a dozen self-driving vehicles to work shifting containers around the yard, which the port frames as a productivity and safety upgrade for the Bay’s main export gateway.","It hasn’t landed without friction. The Maritime Union has pushed back, warning in September 2025 that the automation could come at a high cost to jobs and that the impact on workers and safety deserves close scrutiny.","That tension is the story. Napier Port is the route to market for the region’s apples, wine, timber and squash, so anything that makes it faster and more competitive matters — but so do the port jobs that come with it. It is precisely the kind of shift that reads differently through a Hawke’s Bay lens than a national one."],"lens":"The Bay’s export gateway going automated is a genuinely two-sided local story — competitiveness on one hand, port jobs on the other. Exactly the kind of shift that deserves a Hawke’s Bay lens, not a national one.","sources":[{"l":"NZ Herald","u":"https://www.nzherald.co.nz/hawkes-bay-today/news/napier-port-to-introduce-fleet-of-self-driving-trucks-in-first-for-nz-ports/B2T5ZG7A6RB3LDHJYM7RYXUDJI/"},{"l":"Scoop","u":"https://www.scoop.co.nz/stories/BU2509/S00475/maritime-union-warns-napier-port-automation-may-come-at-high-cost.htm"}]},{"date":"05 Jul 2026","headline":"Hi-tech is quietly blossoming across Hawke’s Bay","brief":"<p>Beyond the headline names, a growing base of tech and digital firms is taking root across the Bay’s business community, from software to advanced manufacturing.</p>","body":["Beneath the headline names, Hawke’s Bay has grown a surprisingly deep tech base. The region is now home to close to 500 firms across high-tech manufacturing and ICT, employing more than 1,500 people, and the Hi-Tech Hawke’s Bay network alone counts around 240 members.","The roster runs well beyond Rocket Lab: AI firm Fingermark, SaaS businesses like Re-leased, Ask Your Team and StockX, agri-IoT players HortPlus and MyEnviro, and automation specialists such as MHM Automation and CR Automation. Xero founder Rod Drury keeps an office in the Ahuriri Tech Collective, a shared workspace that has become a hub for the scene.","Under it sits a talent pipeline: the iwi-led Puhoro STEM programme supporting young Māori into tech, and a Rocket Lab education centre in Wairoa backed by a $6 million Provincial Growth Fund grant. “We’re moving fast as a region,” says Hi-Tech Hawke’s Bay chair Dave France. “Speed up or get left behind.” Surfacing and connecting these firms is exactly how a scattered scene becomes an ecosystem."],"lens":"This is the grassroots the region’s tech-growth story is built on. Surfacing and connecting these firms — exactly what this site aims to do — is how a scene becomes an ecosystem.","sources":[{"l":"BayBuzz","u":"https://baybuzz.co.nz/hi-tech-blossoming-in-hawkes-bay/"}]}]}];
+const STATS = [{"n":"~60%+","l":"of New Zealand’s apples are grown in Hawke’s Bay"},{"n":"No.2","l":"largest wine region in the country"},{"n":"2,200+","l":"sunshine hours a year — among NZ’s sunniest"},{"n":"1","l":"of NZ’s orbital launch sites — at Mahia, in the region"},{"n":"$20bn","l":"national tech sector the Bay wants its share of"}];
+const RADAR = [{"chip":"c-solar","label":"Solar","text":"Rangitaiki agrivoltaics: sheep graze happily under the panels","src":"NZ Herald","u":"https://www.nzherald.co.nz/nz/rangitaiki-solar-farm-shows-how-agrivoltaics-lets-sheep-graze-under-panels/7JCQKYSVSNH3JM6T7JM3XGDQHY/"},{"chip":"c-econ","label":"Economy","text":"The full national tech numbers, firm by firm","src":"2025 TIN Report","u":"https://tin100.com/nz-tech-sector-facts/2025-tin-report/"},{"chip":"c-conn","label":"Connectivity","text":"How Starlink quietly took over rural NZ’s internet","src":"Newswire","u":"https://newswire.co.nz/2026/07/starlink-new-zealand/"},{"chip":"c-cloud","label":"Cloud","text":"Microsoft boosts NZ AI skills for its cloud & data-centre push","src":"Data Centre Magazine","u":"https://datacentremagazine.com/news/microsoft-boosts-nz-ai-skills-for-cloud-and-data-centre-push"}];
+
+/* ---------------- RENDER ---------------- */
+const app = document.getElementById('app');
+
+function srcHtml(sources){
+  return 'Source: ' + sources.map(s=>`<a href="${s.u}" target="_blank" rel="noopener">${s.l}</a>`).join(' · ');
+}
+function lensHtml(text, sm){
+  return `<div class="lens ${sm?'sm':''}"><div class="lbl">◆ What it means for Hawke’s Bay</div><p>${text}</p></div>`;
+}
+function navHtml(activeId){
+  return SECTORS.map(s=>`<a onclick="go('${s.id}')" class="${activeId===s.id?'active':''}">${s.name}</a>`).join('')
+    + `<a onclick="go('archive')" class="${activeId==='archive'?'active':''}">Archive</a>`;
+}
+function cardHtml(sec){
+  const st = sec.stories[0];
+  return `<article class="card">
+    <a class="chip ${sec.chip}" onclick="go('${sec.id}')">${sec.name}</a>
+    <h2 style="cursor:pointer" onclick="openArticle('${sec.id}',0)">${st.headline}</h2>
+    <div class="brief">${st.brief}</div>
+    <span class="readmore" onclick="openArticle('${sec.id}',0)">Read the full story →</span>
+    ${lensHtml(st.lens, true)}
+    <div class="src">${srcHtml(st.sources)}</div>
+    <span class="more" onclick="go('${sec.id}')">More in ${sec.short} →</span>
+  </article>`;
+}
+function statCardHtml(){
+  return `<article class="statcard">
+    <h2>Why the Bay — by the numbers</h2>
+    ${STATS.map(s=>`<div class="statrow"><span class="n">${s.n}</span><span class="l">${s.l}</span></div>`).join('')}
+    <small>Indicative regional context · the case for a Bay tech story.</small>
+  </article>`;
+}
+function stripHtml(){
+  return `<div class="strip"><div class="wrap two">
+    <div class="radar"><h3>Also on our radar</h3><ul>
+      ${RADAR.map(r=>`<li><span class="chip ${r.chip}">${r.label}</span> ${r.text} — <a href="${r.u}" target="_blank" rel="noopener">${r.src}</a></li>`).join('')}
+    </ul></div>
+    <div class="news"><h3>The weekly Bay tech brief</h3>
+      <p>National tech, translated for Hawke’s Bay — every story here plus the week’s new ones, in one short email. We’re building the archive first; the newsletter opens soon.</p>
+      <div class="field"><input type="email" placeholder="you@yourbusiness.co.nz" /><button onclick="return false">Notify me</button></div>
+      <small>No spam. Just the Bay’s tech, once a week. (Demo — sign-up not live yet.)</small>
+    </div>
+  </div></div>`;
+}
+function homeHTML(){
+  return `<div class="wrap">
+    <section class="featured">
+      <div class="kicker"><a class="chip ${LEAD.chip}" onclick="go('${LEAD.sector}')">${LEAD.chipLabel}</a> &nbsp; Lead story</div>
+      <h1>${LEAD.headline}</h1>
+      <div class="byline">${LEAD.byline}</div>
+      <div class="feat-body">
+        <div class="brief">${LEAD.brief}</div>
+        ${lensHtml(LEAD.lens)}
+      </div>
+      <div class="src">${srcHtml(LEAD.sources)}</div>
+    </section>
+    <div class="secttitle">Latest across the sectors — tap any heading for the full section</div>
+    <div class="grid">
+      ${SECTORS.map(cardHtml).join('')}
+      ${statCardHtml()}
+    </div>
+  </div>
+  ${stripHtml()}`;
+}
+function sectorHTML(id){
+  const sec = SECTORS.find(s=>s.id===id);
+  if(!sec) return homeHTML();
+  const recent = sec.stories.filter(st=>withinMonths(parseDate(st.date),3));
+  const show = recent.length ? recent : sec.stories.slice(0,1);
+  const older = sec.stories.length - show.length;
+  const stories = show.map((st,i)=>`
+    <article class="story">
+      <div class="date">${st.date}${i===0?'<span class="latestflag">Latest</span>':''}</div>
+      <h2 style="cursor:pointer" onclick="openArticle('${sec.id}',${sec.stories.indexOf(st)})">${st.headline}</h2>
+      <div class="brief">${st.brief}</div>
+      <span class="readmore" onclick="openArticle('${sec.id}',${sec.stories.indexOf(st)})">Read the full story →</span>
+      ${lensHtml(st.lens)}
+      <div class="src">${srcHtml(st.sources)}</div>
+    </article>`).join('');
+  return `<div class="wrap">
+    <div class="sectorhead">
+      <span class="back" onclick="go('home')">← Back to the front page</span>
+      <h1><span class="chip ${sec.chip}" style="vertical-align:middle;margin-right:8px">${sec.short}</span>${sec.name}</h1>
+      <div class="tag">${sec.tag}</div>
+      <div class="upd">Updated daily · newest first · last 3 months</div>
+    </div>
+    ${stories}
+    <p style="padding:22px 0 40px">
+      <span class="more" onclick="viewArchive('${sec.id}')">Browse the full ${sec.short} archive →</span>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <span class="back" onclick="go('home')">← Back to the front page</span>
+    </p>
+  </div>`;
+}
+/* ---------------- DATES & ARCHIVE ---------------- */
+const MONTHS_ABBR = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+const MONTHS_FULL = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+function parseDate(str){
+  const p = String(str).trim().split(/\s+/);
+  if(p.length>=3){
+    const d = parseInt(p[0],10), m = MONTHS_ABBR[p[1].slice(0,3)], y = parseInt(p[2],10);
+    if(!isNaN(d) && m!=null && !isNaN(y)) return new Date(y,m,d);
+  }
+  const dt = new Date(str); return isNaN(dt) ? new Date() : dt;
+}
+function withinMonths(date, n){
+  const cutoff = new Date(); cutoff.setMonth(cutoff.getMonth()-n);
+  return date >= cutoff;
+}
+function monthLabel(date){ return MONTHS_FULL[date.getMonth()] + ' ' + date.getFullYear(); }
+
+let archiveFilter = 'all';
+function allArchiveItems(){
+  const items = [];
+  SECTORS.forEach(sec => sec.stories.forEach(st => items.push({
+    sid: sec.id, chip: sec.chip, short: sec.short, date: st.date,
+    dObj: parseDate(st.date), headline: st.headline, sources: st.sources
+  })));
+  items.sort((a,b) => b.dObj - a.dObj);
+  return items;
+}
+function archiveChips(){
+  const chips = [{id:'all', label:'All stories', chip:'c-all'}]
+    .concat(SECTORS.map(s => ({id:s.id, label:s.short, chip:s.chip})));
+  return `<div class="archchips">` + chips.map(c =>
+    `<span class="archchip ${c.chip} ${archiveFilter===c.id?'on':''}" onclick="setArchiveFilter('${c.id}')">${c.label}</span>`
+  ).join('') + `</div>`;
+}
+function renderArchive(){
+  const items = allArchiveItems().filter(it => archiveFilter==='all' || it.sid===archiveFilter);
+  let body = '', lastMonth = '';
+  items.forEach(it => {
+    const mk = monthLabel(it.dObj);
+    if(mk !== lastMonth){ body += `<h3 class="archmonth">${mk}</h3>`; lastMonth = mk; }
+    body += `<div class="archrow">
+      <span class="chip ${it.chip}" onclick="go('${it.sid}')">${it.short}</span>
+      <a class="archhead" onclick="go('${it.sid}')">${it.headline}</a>
+      <span class="archmeta">${it.date} · ${it.sources.map(s=>`<a href="${s.u}" target="_blank" rel="noopener">${s.l}</a>`).join(', ')}</span>
+    </div>`;
+  });
+  if(!items.length) body = `<p style="color:var(--muted);padding:22px 0">Nothing in the archive for this filter yet — it fills as new stories age past the 3-month window.</p>`;
+  return `<div class="wrap">
+    <div class="sectorhead">
+      <span class="back" onclick="go('home')">← Back to the front page</span>
+      <h1>Archive</h1>
+      <div class="tag">Every story we’ve published, newest first. Filter by sector, browse by month.</div>
+    </div>
+    ${archiveChips()}
+    <div class="archlist">${body}</div>
+    <p style="padding:20px 0 40px"><span class="back" onclick="go('home')">← Back to the front page</span></p>
+  </div>`;
+}
+function setArchiveFilter(id){ archiveFilter = id; app.innerHTML = renderArchive(); window.scrollTo({top:0}); return false; }
+function viewArchive(id){ archiveFilter = id || 'all'; document.getElementById('nav').innerHTML = navHtml('archive'); app.innerHTML = renderArchive(); window.scrollTo(0,0); return false; }
+window.setArchiveFilter = setArchiveFilter;
+window.viewArchive = viewArchive;
+
+function articleHTML(sid, idx){
+  const sec = SECTORS.find(s=>s.id===sid); if(!sec) return homeHTML();
+  const st = sec.stories[idx]; if(!st) return sectorHTML(sid);
+  const body = (st.body && st.body.length)
+    ? st.body.map(p=>`<p>${p}</p>`).join('')
+    : `<p>${st.brief.replace(/<\/?p>/g,'')}</p><p style="color:var(--muted);font-style:italic">Full write-up coming — this story currently shows the summary.</p>`;
+  return `<div class="wrap">
+    <div class="sectorhead" style="border-bottom:none;padding-bottom:0;margin-bottom:0">
+      <span class="back" onclick="go('${sid}')">← ${sec.name}</span>
+    </div>
+    <article class="fullpost">
+      <span class="chip ${sec.chip}" onclick="go('${sid}')">${sec.short}</span>
+      <h1>${st.headline}</h1>
+      <div class="byline">${st.date}${st.byline ? ' · '+st.byline : ''}</div>
+      <div class="body">${body}</div>
+      ${lensHtml(st.lens)}
+      <div class="src">${srcHtml(st.sources)}</div>
+    </article>
+    <p style="padding:26px 0 40px">
+      <span class="more" onclick="go('${sid}')">← More in ${sec.short}</span>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <span class="back" onclick="go('home')">Front page</span>
+    </p>
+  </div>`;
+}
+function openArticle(sid, idx){
+  document.getElementById('nav').innerHTML = navHtml(sid);
+  app.innerHTML = articleHTML(sid, idx);
+  window.scrollTo(0,0);
+  return false;
+}
+window.openArticle = openArticle;
+
+function go(id){
+  document.getElementById('nav').innerHTML = navHtml(id==='home'?null:id);
+  if(id==='archive') archiveFilter = 'all';
+  app.innerHTML = (id==='home') ? homeHTML() : (id==='archive') ? renderArchive() : sectorHTML(id);
+  window.scrollTo(0,0);
+  return false;
+}
+window.go = go;
+
+/* ---------------- SEASONAL ACCENT (auto by NZ season) ---------------- */
+(function(){
+  const SEASONS = [
+    {name:'Summer', accent:'#c9871c'},  // Dec–Feb — sun-gold
+    {name:'Autumn', accent:'#9c3a22'},  // Mar–May — vintage / harvest
+    {name:'Winter', accent:'#3c5f88'},  // Jun–Aug — slate blue
+    {name:'Spring', accent:'#b24e78'}   // Sep–Nov — orchard blossom
+  ];
+  const d = new Date(), m = d.getMonth()+1;
+  const s = (m===12||m<=2) ? SEASONS[0] : (m<=5) ? SEASONS[1] : (m<=8) ? SEASONS[2] : SEASONS[3];
+  const root = document.documentElement.style;
+  root.setProperty('--teal', s.accent);
+  root.setProperty('--coral', s.accent);
+  const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const ed = document.getElementById('edition');
+  if(ed) ed.innerHTML = s.name + ' Edition &nbsp;·&nbsp; <b>' + months[m-1] + ' ' + d.getFullYear() + '</b>';
+})();
+
+go('home');
+</script>
+</body>
+</html>

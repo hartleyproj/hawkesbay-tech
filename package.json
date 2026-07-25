@@ -1,0 +1,11 @@
+{
+  "name": "hawkesbay-tech",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "hawkesbay.tech — self-updating regional tech news, a FocusAI project.",
+  "scripts": {
+    "research": "node scripts/research.mjs .",
+    "build": "node scripts/build.mjs ."
+  }
+}
