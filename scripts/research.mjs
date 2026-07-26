@@ -111,6 +111,72 @@ async function critique(sector, story) {
   return extractStory(text);
 }
 
+// ---- Daily LEAD rotation. The hero story changes every day so the site never goes stale. ----
+function leadPrompt() {
+  const current = data.lead?.headline || '(none)';
+  return `You are the editor of hawkesbay.tech, a New Zealand regional tech-news site. Choose TODAY'S LEAD story: the single most significant, genuinely-new New Zealand technology, startup, innovation or tech-economy development from roughly the last 3 days (today is ${todayStr}). It should be national in scope, big enough to headline the whole site, and translatable into what it means for Hawke's Bay. It MUST be different from yesterday's lead, which was: "${current}". Then actually OPEN the article pages and write ONLY from them — every fact, figure, name and quote must appear in a listed source, copied exactly (never rounded, re-ranked or restated). List only the sources you actually used. Tell the whole story in the brief. The "lens" is your honest Hawke's Bay vision: what it means, and what the region could and should do (or honestly little, with a reason) — no new factual claims dressed as reporting. Before you answer, check every fact against the sources and fix anything unsupported.
+
+Respond with ONLY a JSON object (no markdown) in exactly this shape:
+{
+  "chipLabel": "one or two word tag, e.g. Startups, Economy, Policy, Investment",
+  "headline": "punchy, specific headline supported by the sources",
+  "byline": "short dateline · what it means for the Bay",
+  "brief": "<p>Two to three tight paragraphs summarising the whole story, with <b>bold</b> for key figures that appear in the sources. Use <p> tags between paragraphs. HTML allowed.</p>",
+  "lens": "One substantial paragraph: what this means for Hawke's Bay, and what the region could and should do (if anything) to respond. No HTML tags needed.",
+  "sources": [{"l": "Publication name", "u": "https://real-url-you-actually-read"}]
+}
+If you cannot find a genuinely new, notable NZ lead you can summarise faithfully from real sources, respond with exactly the word NONE.`;
+}
+
+function leadCritiquePrompt(lead) {
+  return `You are a rigorous fact-checking editor for hawkesbay.tech. Below is a DRAFT LEAD story as JSON, with its sources. Re-open EVERY source URL, read it, and correct the draft so it is fully accurate, complete and substantive. Every fact, figure, name, date and quote in "brief" must appear in a cited source, stated EXACTLY — fix or delete anything unsupported. Rely ONLY on the listed sources; remove any not actually used. Tell the whole story. The "lens" must be a substantive, honest Hawke's Bay vision. Clean text only, no stray characters.
+
+Return ONLY the corrected JSON in the same shape {chipLabel, headline, byline, brief, lens, sources[]}. If it cannot be made accurate and well-sourced, return exactly the word NONE.
+
+DRAFT:
+${JSON.stringify({ chipLabel: lead.chipLabel, headline: lead.headline, byline: lead.byline, brief: lead.brief, lens: lead.lens, sources: lead.sources }, null, 2)}`;
+}
+
+function extractLead(text) {
+  if (!text || /^NONE\b/i.test(text.trim())) return null;
+  const a = text.indexOf('{'), b = text.lastIndexOf('}');
+  if (a < 0 || b < 0) return null;
+  let o;
+  try { o = JSON.parse(text.slice(a, b + 1)); } catch { return null; }
+  if (typeof o.headline !== 'string' || o.headline.length < 8) return null;
+  if (typeof o.brief !== 'string' || o.brief.length < 40) return null;
+  if (typeof o.lens !== 'string' || o.lens.length < 60) return null;
+  if (!Array.isArray(o.sources) || !o.sources.length) return null;
+  const sources = o.sources.filter(s => s && typeof s.l === 'string' && typeof s.u === 'string' && /^https?:\/\//.test(s.u));
+  if (!sources.length) return null;
+  return {
+    chip: 'c-econ',
+    chipLabel: (typeof o.chipLabel === 'string' && o.chipLabel.trim() && o.chipLabel.length < 20) ? o.chipLabel.trim() : 'Aotearoa',
+    sector: 'bay',
+    date: todayStr,
+    headline: o.headline.trim(),
+    byline: (typeof o.byline === 'string' && o.byline.trim()) ? o.byline.trim() : "National · what it means for Hawke's Bay",
+    brief: o.brief.trim(),
+    lens: o.lens.trim(),
+    sources,
+  };
+}
+
+async function rotateLead() {
+  // Only rotate once per day: if the lead is already stamped with today's date, leave it.
+  if (data.lead && data.lead.date === todayStr) { console.log('[lead] already fresh today, skipping'); return false; }
+  const draft = extractLead(await callAPI(leadPrompt()));
+  if (!draft) { console.log('[lead] no new lead found'); return false; }
+  let checked;
+  try { checked = extractLead(await callAPI(leadCritiquePrompt(draft))); }
+  catch (e) { console.log(`[lead] critique failed, not publishing: ${e.message}`); return false; }
+  if (!checked) { console.log('[lead] rejected by fact-check'); return false; }
+  if (data.lead && checked.headline.toLowerCase() === data.lead.headline.toLowerCase()) { console.log('[lead] same as current, skipping'); return false; }
+  data.lead = checked;
+  console.log(`[lead] + "${checked.headline}"`);
+  return true;
+}
+
 function extractStory(text) {
   if (!text || /^NONE\b/i.test(text.trim())) return null;
   const a = text.indexOf('{'), b = text.lastIndexOf('}');
@@ -136,6 +202,14 @@ function extractStory(text) {
 }
 
 let changed = 0;
+
+// Refresh the lead story first so the hero never repeats day to day.
+try {
+  if (await rotateLead()) changed++;
+} catch (e) {
+  console.log(`[lead] error (left unchanged): ${e.message}`);
+}
+
 for (const sector of data.sectors) {
   try {
     const draft = extractStory(await callAPI(prompt(sector)));
