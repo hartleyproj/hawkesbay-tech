@@ -172,8 +172,25 @@ async function rotateLead() {
   catch (e) { console.log(`[lead] critique failed, not publishing: ${e.message}`); return false; }
   if (!checked) { console.log('[lead] rejected by fact-check'); return false; }
   if (data.lead && checked.headline.toLowerCase() === data.lead.headline.toLowerCase()) { console.log('[lead] same as current, skipping'); return false; }
+  // Retire the outgoing lead into Headlines so no front-page story is ever lost.
+  if (data.lead && data.lead.headline) {
+    if (!Array.isArray(data.headlines)) data.headlines = [];
+    const retiring = {
+      date: data.lead.date || todayStr,
+      chipLabel: data.lead.chipLabel || 'Aotearoa',
+      headline: data.lead.headline,
+      byline: data.lead.byline || '',
+      brief: data.lead.brief,
+      lens: data.lead.lens,
+      sources: data.lead.sources || [],
+    };
+    if (!data.headlines.some(h => h.headline === retiring.headline)) {
+      data.headlines.unshift(retiring);
+      if (data.headlines.length > 30) data.headlines.length = 30;
+    }
+  }
   data.lead = checked;
-  console.log(`[lead] + "${checked.headline}"`);
+  console.log(`[lead] + "${checked.headline}" (retired previous lead to Headlines)`);
   return true;
 }
 
