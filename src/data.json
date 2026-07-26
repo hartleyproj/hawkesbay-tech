@@ -1,20 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Economy",
+    "chipLabel": "Startups",
     "sector": "bay",
-    "headline": "NZ tech is now a $20bn sector — and almost all of it sits in two cities",
-    "byline": "National · what the country’s tech boom means for the regions",
-    "brief": "<p>New Zealand’s top 200 tech firms turned over <b>$20 billion</b> last year, with tech exports up <b>12.4%</b> to <b>$15.31 billion</b> — cementing the sector as the country’s third-largest export earner after dairy and tourism, according to the 2025 TIN report. High-tech manufacturing (<b>$9.8 billion</b>) and ICT (<b>$8.93 billion</b>) led the way, and 40 firms now clear <b>$100 million</b> in revenue, up from 19 a decade ago.</p>\n  <p>But the growth is lopsided. <b>Auckland ($10.5b) and Wellington ($5.2b)</b> account for the vast majority of that revenue, leaving the rest of the country to share what’s left. And over the past decade these firms have added offshore jobs about three times faster than domestic ones. The value is compounding — just not where most of the country lives.</p>",
-    "lens": "The country’s tech wealth is real and compounding — but it’s pooling in Auckland and Wellington while those same firms add jobs offshore faster than they do at home. That gap is precisely where a region like Hawke’s Bay can step in. The Bay can’t out-scale the main centres, and shouldn’t try to; what it <em>can</em> do is compete for the work leaking out of them. It has a lower cost base, the lifestyle pull that now moves remote tech workers, and a primary-sector economy — orchards, wineries, packhouses, the port — that throws off real software problems worth solving. The honest catch is that none of this happens by default. It takes deliberate choices: fast, affordable connectivity and housing, visible pathways from local schools and STEM programmes into tech careers, and employers willing to hire and train juniors here rather than import finished talent. The Bay’s opportunity isn’t to beat Auckland — it’s to become the <em>obvious</em> place the overflow lands.",
+    "date": "27 Jul 2026",
+    "headline": "Auckland's mayor is spending 100 days — and 100 t-shirts — championing the city's startups",
+    "byline": "Auckland · what the city's 100-day startup push means for the Bay",
+    "brief": "<p>Auckland mayor <b>Wayne Brown</b> has launched <b>100 Days of Start-ups</b>, wearing a different local startup's branded t-shirt every day for <b>100 days</b> from 3 July to spotlight the city's founders. The campaign builds toward <b>Auckland Startup Week</b> (12–16 October 2026), with the full programme due to launch on 5 August, and is backed by Auckland Council's Economic Development Office, the Auckland Technology and Innovation Alliance and the New Zealand Institute for Advanced Technology.</p>\n  <p>More than a quarter of the 100 featured startups are tied to the University of Auckland — whose Centre for Innovation and Entrepreneurship says its alumni have raised more than <b>$8.2 billion</b> in capital over 23 years — with early names including retail-crime intelligence firm Auror and medical-device maker Kitea Health. “By wearing these shirts, I want to draw attention to the talent we have right here in our city,” Brown said, arguing Auckland is “punching well above our weight in deep tech, heavy industry disruption and pure Kiwi ingenuity.”</p>",
+    "lens": "For Hawke's Bay the interesting part isn't the t-shirts — it's how cheap and effective a bit of civic visibility can be for a startup scene. Auckland already has the capital and the density; the Bay has a real but scattered base of around 500 tech firms and the Hi-Tech Hawke's Bay network, and almost none of the national spotlight. The region could borrow the playbook directly: a low-cost, high-visibility local campaign — the mayors, the port, big employers and EIT actively championing named Bay startups — that turns a loose scene into a story investors and talent can follow. The more concrete move is to plug in rather than compete: get Bay founders and university-linked ventures onto the Auckland Startup Week stage in October, where the capital and networks actually are, and use it to pull investment and profile back to the region. Auckland is showing that celebrating startups is a deliberate choice a city makes; the honest question for Hawke's Bay is whether it will make the same choice or keep its best stories to itself.",
     "sources": [
       {
-        "l": "ITBrief",
-        "u": "https://itbrief.co.nz/story/new-zealand-s-tech-exports-hit-nzd-20bn-led-by-ict-growth"
+        "l": "OurAuckland (Auckland Council)",
+        "u": "https://ourauckland.aucklandcouncil.govt.nz/news/2026/07/mayor-to-wear-100-auckland-startup-t-shirts-in-100-days-to-champion-local-innovation/"
       },
       {
-        "l": "2025 TIN Report",
-        "u": "https://tin100.com/nz-tech-sector-facts/2025-tin-report/"
+        "l": "University of Auckland",
+        "u": "https://www.auckland.ac.nz/en/news/2026/07/03/university-innovation-centre-stage-100-days-start-ups.html"
       }
     ]
   },
