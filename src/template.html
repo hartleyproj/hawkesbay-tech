@@ -24,6 +24,12 @@
   nav.sectors{display:flex;flex-wrap:wrap;gap:4px 20px;padding:10px 0 14px;border-top:1px solid var(--line);font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
   nav.sectors a{color:var(--ink);cursor:pointer}nav.sectors a:hover{color:var(--coral);text-decoration:none}
   nav.sectors a.active{color:var(--coral)}
+  details.lensdrop{margin:10px 0 4px}
+  details.lensdrop>summary{cursor:pointer;list-style:none;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--coral);padding:7px 0}
+  details.lensdrop>summary::-webkit-details-marker{display:none}
+  details.lensdrop>summary::before{content:'\25B8  '}
+  details.lensdrop[open]>summary::before{content:'\25BE  '}
+  details.lensdrop .lensbody{border-left:3px solid var(--coral);background:rgba(0,0,0,.02);padding:10px 16px;margin-top:2px;font-size:14px}
 
   .editionbar{background:var(--teal-deep);color:#f4efe2}
   .editionbar .wrap{display:flex;justify-content:space-between;align-items:center;padding:7px 22px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;flex-wrap:wrap;gap:6px}
@@ -163,7 +169,8 @@ function lensHtml(text, sm){
   return `<div class="lens ${sm?'sm':''}"><div class="lbl">◆ What it means for Hawke’s Bay</div><p>${text}</p></div>`;
 }
 function navHtml(activeId){
-  return SECTORS.map(s=>`<a onclick="go('${s.id}')" class="${activeId===s.id?'active':''}">${s.name}</a>`).join('')
+  return SECTORS.map(s=>`<a onclick="go('${s.id}')" class="${activeId===s.id?'active':''}">${s.id==='ai'?'AI':s.name}</a>`).join('')
+    + ((typeof HEADLINES!=='undefined' && HEADLINES.length) ? `<a onclick="go('headlines')" class="${activeId==='headlines'?'active':''}">Headlines</a>` : '')
     + `<a onclick="go('archive')" class="${activeId==='archive'?'active':''}">Archive</a>`;
 }
 function cardHtml(sec){
@@ -196,6 +203,26 @@ function stripHtml(){
       <small>No spam. Just the Bay’s tech, once a week. (Demo — sign-up not live yet.)</small>
     </div>
   </div></div>`;
+}
+function headlinesHTML(){
+  const items = (typeof HEADLINES!=='undefined' ? HEADLINES : []).map(h=>`
+    <article class="story">
+      <div class="date">${h.date||''}</div>
+      <h2>${h.headline}</h2>
+      ${h.byline?`<div class="byline">${h.byline}</div>`:''}
+      <div class="brief">${h.brief}</div>
+      <details class="lensdrop"><summary>◆ What it means for Hawke&rsquo;s Bay</summary><div class="lensbody"><p>${h.lens}</p></div></details>
+      <div class="src">${srcHtml(h.sources)}</div>
+    </article>`).join('');
+  return `<div class="wrap">
+    <div class="sectorhead">
+      <span class="back" onclick="go('home')">&larr; Back to the front page</span>
+      <h1><span class="chip c-econ" style="vertical-align:middle;margin-right:8px">&starf;</span>Headlines</h1>
+      <div class="tag">Where the front-page lead stories retire. Each day a fresh national story leads the site &mdash; the one it replaces steps down to here, kept for the record with its &ldquo;what it means for Hawke&rsquo;s Bay&rdquo; just a tap away.</div>
+    </div>
+    ${items || '<p style="padding:22px 0;color:var(--muted)">No past headlines yet &mdash; the first lead retires here tomorrow.</p>'}
+    <p style="padding:22px 0 40px"><span class="back" onclick="go('home')">&larr; Back to the front page</span></p>
+  </div>`;
 }
 function homeHTML(){
   return `<div class="wrap">
@@ -235,7 +262,7 @@ function sectorHTML(id){
   return `<div class="wrap">
     <div class="sectorhead">
       <span class="back" onclick="go('home')">← Back to the front page</span>
-      <h1><span class="chip ${sec.chip}" style="vertical-align:middle;margin-right:8px">${sec.short}</span>${sec.name}</h1>
+      <h1><span class="chip ${sec.chip}" style="vertical-align:middle;margin-right:8px">${sec.short}</span>${sec.id==='ai'?'AI':sec.name}</h1>
       <div class="tag">${sec.tag}</div>
       <div class="upd">Updated daily · newest first · last 3 months</div>
     </div>
@@ -346,7 +373,7 @@ window.openArticle = openArticle;
 function go(id){
   document.getElementById('nav').innerHTML = navHtml(id==='home'?null:id);
   if(id==='archive') archiveFilter = 'all';
-  app.innerHTML = (id==='home') ? homeHTML() : (id==='archive') ? renderArchive() : sectorHTML(id);
+  app.innerHTML = (id==='home') ? homeHTML() : (id==='archive') ? renderArchive() : (id==='headlines') ? headlinesHTML() : sectorHTML(id);
   window.scrollTo(0,0);
   return false;
 }
