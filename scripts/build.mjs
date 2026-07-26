@@ -27,6 +27,7 @@ const inject = [
   `const SECTORS = ${JSON.stringify(data.sectors)};`,
   `const STATS = ${JSON.stringify(data.stats || [])};`,
   `const RADAR = ${JSON.stringify(data.radar || [])};`,
+  `const HEADLINES = ${JSON.stringify(data.headlines || [])};`,
 ].join('\n');
 
 // Function replacer avoids '$' being treated as a special replacement pattern.
