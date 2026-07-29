@@ -39,7 +39,17 @@ function prompt(sector) {
     .slice(0, 6).map(s => `- ${s.headline}`).join('\n');
   return `You are the editor of hawkesbay.tech, a New Zealand regional tech-news site. For each sector you tell the WHOLE of one real story faithfully, then translate it into a clear-eyed vision for Hawke's Bay.
 
-TASK: For the sector "${sector.name}" (${sectorBrief[sector.id]}), use web search to find the SINGLE most significant genuinely-NEW development from roughly the last 3 days (today is ${todayStr}). New Zealand focus, plus major global tech with clear NZ relevance. Then actually OPEN the article pages for that story and read them fully — you will write the story from those pages and nothing else.
+TASK: For the sector "${sector.name}" (${sectorBrief[sector.id]}), use web search to find the SINGLE best story for THIS sector for a Hawke's Bay audience, published in roughly the last 4 days (today is ${todayStr}). Then actually OPEN the article pages for that story and read them fully — you will write the story from those pages and nothing else.
+
+WHAT COUNTS AS "BEST" — read carefully, this is the whole reason the site exists:
+- A genuine Hawke's Bay connection OUTRANKS raw scale. A real Hawke's Bay business, grower, orchard, winery, council, school, researcher or institution doing something in this sector is a BETTER story for us than a bigger but distant global announcement — even when the global one is "more significant" in the abstract. Local relevance is the point.
+- Next best is a New Zealand story with clear, direct relevance to the Bay. Only if there is genuinely no Bay or NZ angle do you fall back to a major global development with clear NZ relevance.
+- If you find both a strong local story and a big global one, choose the LOCAL one and tell it well.
+
+SEARCH STRATEGY — you MUST do both, and do the local sweep FIRST every time:
+1. LOCAL SWEEP: search specifically for Hawke's Bay activity in this sector. Use queries like "Hawke's Bay ${sector.name}", and combine the sector with Hastings, Napier, Havelock North, Flaxmere, Waipukurau or Wairoa, and with words like company, startup, manufacturer, grower, orchard, winery, council or research. Check New Zealand outlets by name — RNZ (rnz.co.nz), NZ Herald / Hawke's Bay Today, Stuff, BusinessDesk, Newsroom, 1News, Scoop — for anything in the last few days.
+2. NATIONAL / GLOBAL SWEEP: only after the local sweep, look at the wider NZ and global picture for this sector.
+Spend real search budget on the local sweep — never skip it to jump straight to global news. A Hawke's Bay manufacturer, grower or startup making the news is exactly the kind of story we must not miss.
 
 We have already covered these recent stories in this sector — do NOT repeat them, pick something new:
 ${existing || '(none yet)'}
@@ -79,7 +89,7 @@ async function callAPI(userText) {
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 3000,
-      tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 6 }],
+      tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 10 }],
       messages: [{ role: 'user', content: userText }],
     }),
   });
@@ -114,7 +124,7 @@ async function critique(sector, story) {
 // ---- Daily LEAD rotation. The hero story changes every day so the site never goes stale. ----
 function leadPrompt() {
   const current = data.lead?.headline || '(none)';
-  return `You are the editor of hawkesbay.tech, a New Zealand regional tech-news site. Choose TODAY'S LEAD story: the single most significant, genuinely-new New Zealand technology, startup, innovation or tech-economy development from roughly the last 3 days (today is ${todayStr}). It should be national in scope, big enough to headline the whole site, and translatable into what it means for Hawke's Bay. It MUST be different from yesterday's lead, which was: "${current}". Then actually OPEN the article pages and write ONLY from them — every fact, figure, name and quote must appear in a listed source, copied exactly (never rounded, re-ranked or restated). List only the sources you actually used. Tell the whole story in the brief. The "lens" is your honest Hawke's Bay vision: what it means, and what the region could and should do (or honestly little, with a reason) — no new factual claims dressed as reporting. Before you answer, check every fact against the sources and fix anything unsupported.
+  return `You are the editor of hawkesbay.tech, a New Zealand regional tech-news site. Choose TODAY'S LEAD story: the single most significant, genuinely-new New Zealand technology, startup, innovation or tech-economy development from roughly the last 3 days (today is ${todayStr}). It should be national in scope, big enough to headline the whole site, and translatable into what it means for Hawke's Bay. It MUST be different from yesterday's lead, which was: "${current}". Search New Zealand outlets by name — RNZ, NZ Herald, Stuff, BusinessDesk, Newsroom, 1News — for the last few days, and prefer a story with a real Hawke's Bay angle where a strong one exists. Then actually OPEN the article pages and write ONLY from them — every fact, figure, name and quote must appear in a listed source, copied exactly (never rounded, re-ranked or restated). List only the sources you actually used. Tell the whole story in the brief. The "lens" is your honest Hawke's Bay vision: what it means, and what the region could and should do (or honestly little, with a reason) — no new factual claims dressed as reporting. Before you answer, check every fact against the sources and fix anything unsupported.
 
 Respond with ONLY a JSON object (no markdown) in exactly this shape:
 {
