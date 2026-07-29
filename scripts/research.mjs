@@ -37,6 +37,12 @@ const sectorBrief = {
 function prompt(sector) {
   const existing = (data.sectors.find(s => s.id === sector.id)?.stories || [])
     .slice(0, 6).map(s => `- ${s.headline}`).join('\n');
+  // Exclude whatever is CURRENTLY the front-page lead so the same story never runs as both
+  // the lead and a sector story at once. This references data.lead, so the exclusion lifts
+  // automatically as soon as the next lead rotates in — the retired lead is no longer blocked.
+  const leadLine = (data.lead && data.lead.headline)
+    ? `\n\nToday's FRONT-PAGE LEAD is already covered separately — do NOT choose it as this sector's story while it is the lead:\n- ${data.lead.headline}`
+    : '';
   return `You are the editor of hawkesbay.tech, a New Zealand regional tech-news site. For each sector you tell the WHOLE of one real story faithfully, then translate it into a clear-eyed vision for Hawke's Bay.
 
 TASK: For the sector "${sector.name}" (${sectorBrief[sector.id]}), use web search to find the SINGLE best story for THIS sector for a Hawke's Bay audience, published in roughly the last 4 days (today is ${todayStr}). Then actually OPEN the article pages for that story and read them fully — you will write the story from those pages and nothing else.
@@ -52,7 +58,7 @@ SEARCH STRATEGY — you MUST do both, and do the local sweep FIRST every time:
 Spend real search budget on the local sweep — never skip it to jump straight to global news. A Hawke's Bay manufacturer, grower or startup making the news is exactly the kind of story we must not miss.
 
 We have already covered these recent stories in this sector — do NOT repeat them, pick something new:
-${existing || '(none yet)'}
+${existing || '(none yet)'}${leadLine}
 
 SOURCING RULES — accuracy matters far more than length. Read these carefully:
 - The "brief" and "body" must be a faithful summary of ONLY the specific pages you actually opened and list in "sources". Those pages are your entire universe of facts — treat anything not in them as unknown.
@@ -88,14 +94,17 @@ async function callAPI(userText) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 3000,
+      max_tokens: 8000,
       tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 10 }],
       messages: [{ role: 'user', content: userText }],
     }),
   });
   if (!res.ok) throw new Error(`API ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const json = await res.json();
-  return (json.content || []).filter(b => b.type === 'text').map(b => b.text).join('\n').trim();
+  const text = (json.content || []).filter(b => b.type === 'text').map(b => b.text).join('\n').trim();
+  // Surface truncation so an unfinished article can never masquerade as "no news".
+  if (json.stop_reason === 'max_tokens') console.log(`[warn] response hit max_tokens — output truncated at ${text.length} chars; raise max_tokens`);
+  return text;
 }
 
 // Second pass: re-open the sources and fact-check the draft before it can be published.
@@ -250,6 +259,11 @@ for (const sector of data.sectors) {
       continue;
     }
     if (!story) { console.log(`[${sector.id}] rejected by fact-check`); continue; }
+    // Belt-and-braces: never let a sector story duplicate the current front-page lead.
+    // Tied to data.lead, so it stops applying the moment the next lead appears.
+    if (data.lead && data.lead.headline && story.headline.toLowerCase() === data.lead.headline.toLowerCase()) {
+      console.log(`[${sector.id}] matches today's lead, skipping`); continue;
+    }
     const dupe = sector.stories.some(s => s.headline.toLowerCase() === story.headline.toLowerCase());
     if (dupe) { console.log(`[${sector.id}] duplicate, skipping`); continue; }
     sector.stories.unshift(story);
