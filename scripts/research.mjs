@@ -94,8 +94,8 @@ async function callAPI(userText) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 8000,
-      tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 10 }],
+      max_tokens: 12000,
+      tools: [{ type: SEARCH_TOOL, name: 'web_search', max_uses: 4 }],
       messages: [{ role: 'user', content: userText }],
     }),
   });
