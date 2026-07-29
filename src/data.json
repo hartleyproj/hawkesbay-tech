@@ -1,21 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Startups",
+    "chipLabel": "Aerospace",
     "sector": "bay",
-    "date": "27 Jul 2026",
-    "headline": "Auckland's mayor is spending 100 days — and 100 t-shirts — championing the city's startups",
-    "byline": "Auckland · what the city's 100-day startup push means for the Bay",
-    "brief": "<p>Auckland mayor <b>Wayne Brown</b> has launched <b>100 Days of Start-ups</b>, wearing a different local startup's branded t-shirt every day for <b>100 days</b> from 3 July to spotlight the city's founders. The campaign builds toward <b>Auckland Startup Week</b> (12–16 October 2026), with the full programme due to launch on 5 August, and is backed by Auckland Council's Economic Development Office, the Auckland Technology and Innovation Alliance and the New Zealand Institute for Advanced Technology.</p>\n  <p>More than a quarter of the 100 featured startups are tied to the University of Auckland — whose Centre for Innovation and Entrepreneurship says its alumni have raised more than <b>$8.2 billion</b> in capital over 23 years — with early names including retail-crime intelligence firm Auror and medical-device maker Kitea Health. “By wearing these shirts, I want to draw attention to the talent we have right here in our city,” Brown said, arguing Auckland is “punching well above our weight in deep tech, heavy industry disruption and pure Kiwi ingenuity.”</p>",
-    "lens": "For Hawke's Bay the interesting part isn't the t-shirts — it's how cheap and effective a bit of civic visibility can be for a startup scene. Auckland already has the capital and the density; the Bay has a real but scattered base of around 500 tech firms and the Hi-Tech Hawke's Bay network, and almost none of the national spotlight. The region could borrow the playbook directly: a low-cost, high-visibility local campaign — the mayors, the port, big employers and EIT actively championing named Bay startups — that turns a loose scene into a story investors and talent can follow. The more concrete move is to plug in rather than compete: get Bay founders and university-linked ventures onto the Auckland Startup Week stage in October, where the capital and networks actually are, and use it to pull investment and profile back to the region. Auckland is showing that celebrating startups is a deliberate choice a city makes; the honest question for Hawke's Bay is whether it will make the same choice or keep its best stories to itself.",
+    "date": "29 Jul 2026",
+    "headline": "Rocket Lab wins record US$266m US Space Force contract — with its home pad still at Māhia",
+    "byline": "National · what a record defence deal means for the region that hosts Rocket Lab's launch site",
+    "brief": "<p>Rocket Lab has secured the largest contract in its history: a <b>US$266 million</b> (about <b>NZ$460 million</b>) award from the United States Space Force's Space Systems Command Rocket Systems Launch Program. The deal covers <b>12 guaranteed suborbital launches</b>, with options for up to six more, flown on the company's HASTE rocket — a suborbital variant of its Electron — to support US missile-defence testing.</p><p>The first flight is expected no earlier than the end of 2026, and launches will run primarily from Rocket Lab's pad at the Pacific Spaceport Complex on Kodiak Island, Alaska. Founder and chief executive Sir Peter Beck said the contract's size reflects the Space Force's confidence in the company's ability to deliver with speed and scale. Rocket Lab shares rose almost 5% on the news.</p>",
+    "lens": "Rocket Lab is New Zealand's flagship space company, founded in Auckland in 2006, and its only operational launch site is Launch Complex 1 at Māhia Peninsula in the Wairoa district of Hawke's Bay. The honest picture is that these HASTE launches will fly from Alaska, not Māhia, so the immediate jobs and activity land offshore. But the deal cements Rocket Lab's trajectory and keeps Māhia on the map as the home of a company now trusted with US national-security work. For the Bay, the opportunity is upstream and long-term: a serious STEM and aerospace-skills pipeline through EIT and local schools so Wairoa and wider Hawke's Bay young people can move into the sector; supplier and services links to Rocket Lab's operations; and Wairoa economic-development planning that treats the launch site as an anchor asset rather than a curiosity. The region should be deliberate about capturing the spillover, because the marquee contracts themselves will keep going where the launch pads and customers are.",
     "sources": [
       {
-        "l": "OurAuckland (Auckland Council)",
-        "u": "https://ourauckland.aucklandcouncil.govt.nz/news/2026/07/mayor-to-wear-100-auckland-startup-t-shirts-in-100-days-to-champion-local-innovation/"
+        "l": "1News",
+        "u": "https://www.1news.co.nz/2026/07/28/rocket-lab-wins-460-million-contract-with-us-military/"
       },
       {
-        "l": "University of Auckland",
-        "u": "https://www.auckland.ac.nz/en/news/2026/07/03/university-innovation-centre-stage-100-days-start-ups.html"
+        "l": "Newswire NZ",
+        "u": "https://newswire.co.nz/2026/07/rocket-lab-record-460-million-us-space-force-missile-defence-contract/"
+      },
+      {
+        "l": "Space.com",
+        "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
       }
     ]
   },
@@ -27,6 +31,23 @@
       "chip": "c-ai",
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
+        {
+          "date": "29 Jul 2026",
+          "headline": "Biosecurity NZ trials AI to speed up the rules that keep pests out",
+          "brief": "<p>Biosecurity New Zealand, part of the Ministry for Primary Industries, is running a <b>four-month pilot</b> using AI to help draft import health standards — the legal documents that govern which plants, animals and biological products can enter the country. Biosecurity Minister Andrew Hoggard announced the trial on <b>25 July</b>.</p>",
+          "body": [
+            "Import health standards are the rulebook of New Zealand's border: the legal documents that decide which plants, animals and biological products can come in, and under what conditions. Biosecurity New Zealand has begun a four-month pilot using AI to help draft them, with Biosecurity Minister Andrew Hoggard announcing the trial on 25 July.",
+            "Hoggard framed it carefully as a productivity tool rather than a handover of judgement, saying it is about using smart tools to take on document-heavy work while key decisions remain with Biosecurity New Zealand's experts. The framework the standards sit within is more than 30 years old, and the document workload is significant.",
+            "The stakes behind the paperwork are large. New Zealand's food and fibre export revenue is forecast to reach $64.3 billion for the year ending 30 June 2026, and the Mycoplasma bovis eradication effort cost roughly $886 million over ten years — a reminder of what a biosecurity failure can cost the primary sector."
+          ],
+          "lens": "Hawke's Bay is one of the country's major horticulture and nursery regions, so the speed and quality of import health standards is not an abstract Wellington process — it shapes how quickly local growers can access new plant varieties, rootstock and genetics, and how well the border holds against the pests and diseases that would hit orchards and vineyards first. If AI can clear the document backlog without weakening the expert judgement at the core of these decisions, that is a direct benefit to the Bay. The region's growers, nurseries and industry bodies should make sure their needs are represented as the pilot is evaluated, so faster standards translate into real access to new material rather than just faster paperwork.",
+          "sources": [
+            {
+              "l": "Newswire NZ",
+              "u": "https://newswire.co.nz/2026/07/government-ai-trial-biosecurity-import-standards/"
+            }
+          ]
+        },
         {
           "date": "24 Jul 2026",
           "headline": "Kiwis use AI everywhere — and have mastered it almost nowhere",
@@ -74,6 +95,31 @@
       "chip": "c-solar",
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
+        {
+          "date": "29 Jul 2026",
+          "headline": "Hawke's Bay's first utility-scale solar farm breaks ground in Central Hawke's Bay",
+          "brief": "<p>Construction has begun on the region's first utility-scale solar farm, a <b>31.5 MWp</b> project on the Ruataniwha Plains in Central Hawke's Bay, built by Lodestone Energy in a joint venture with consumer-owned local lines company Centralines. The roughly <b>NZ$50 million</b>, 34-hectare development will use <b>49,168 panels</b> and generate about <b>50 GWh a year</b> — enough for around <b>7,000 households</b>.</p>",
+          "body": [
+            "A ceremonial groundbreaking on the Ruataniwha Plains has started work on what will be Hawke's Bay's first utility-scale solar farm. The project pairs national developer Lodestone Energy with Centralines, the consumer-owned lines company for Central Hawke's Bay, and the power it produces will feed directly into the Centralines network — local generation for local lines.",
+            "The numbers are substantial for the region: 31.5 MWp of capacity across about 34 hectares, 49,168 panels, and an expected output of roughly 50 GWh a year, enough to cover around 7,000 households. ASB reached financial close on the roughly NZ$50 million project on 10 July 2026, and it is expected to be operational by autumn 2027.",
+            "It is also an agrivoltaic build: sheep grazing will continue beneath the panels on land previously used for dry-stock grazing, so the site keeps earning as farmland while it generates electricity. Centralines chair Fenton Wilson called it a long-term investment in the region's future, and Lodestone managing director Gary Holden framed it as adding renewable capacity while delivering benefits closer to home."
+          ],
+          "lens": "This is exactly the kind of infrastructure a region exposed to cyclones, drought and volatile power prices should want: renewable generation owned partly by the community lines company and feeding the local network. The template it sets — agrivoltaics that keep grazing income while producing power — is well suited to Hawke's Bay's marginal and dry-stock land, and the Bay could deliberately pursue more of it: growers and packhouses partnering on generation to cut and stabilise their own energy costs, councils smoothing consenting for well-sited projects, and Centralines building on this first project to improve local resilience after weather events. The move from importing power to generating it locally is a concrete regional-resilience win, and the region should treat this as the first of many rather than a novelty.",
+          "sources": [
+            {
+              "l": "pv magazine Australia",
+              "u": "https://www.pv-magazine-australia.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand"
+            },
+            {
+              "l": "PV Tech",
+              "u": "https://www.pv-tech.org/lodestone-energy-begins-work-on-31-5mwp-solar-pv-plant-in-new-zealand/"
+            },
+            {
+              "l": "SolarBytes",
+              "u": "https://solarbytes.info/emea-bytes/asb-centralines-lodestone-reach-financial-close-hawkes-bay-solar-project-12150969"
+            }
+          ]
+        },
         {
           "date": "25 Jul 2026",
           "headline": "NZ quietly ticks past 1 gigawatt of local solar — and businesses now out-panel homes",
@@ -160,6 +206,23 @@
       "tag": "Satellites and rural broadband lifting the ceiling on what the back-country can do.",
       "stories": [
         {
+          "date": "29 Jul 2026",
+          "headline": "NZ internet providers call for a market study into Starlink's rural grip",
+          "brief": "<p>The Internet Service Providers Association of New Zealand (Ispanz) has written an open letter to Telecommunications Commissioner Tristan Gilbertson asking for a formal market study under <b>Part 3A of the Commerce Act</b> into Starlink's impact, noting Starlink is now the <b>largest rural internet provider</b> in New Zealand.</p>",
+          "body": [
+            "New Zealand's internet providers are asking the regulator to take a hard look at Starlink. In an open letter to Telecommunications Commissioner Tristan Gilbertson, industry body Ispanz has requested a formal market study under Part 3A of the Commerce Act, arguing that Starlink has become the largest rural internet provider in the country and that the rural connectivity market is tilting fast.",
+            "Ispanz frames the concern as national resilience rather than simple competition. It warns that if the local industry is hollowed out, local engineering expertise, field workforces and operational knowledge could all disappear — capabilities that matter when networks need to be fixed after a storm.",
+            "Its proposed remedy is wholesale access: requiring Starlink and other low-earth-orbit providers to offer wholesale services so New Zealand firms can build value on top — installation, managed networking, WiFi, cybersecurity and farm-connectivity services — rather than being reduced to bystanders."
+          ],
+          "lens": "Rural Hawke's Bay has a direct stake in how this plays out. Satellite broadband has been transformative for farms, orchards and remote households that copper and fixed wireless never served well, and Cyclone Gabrielle showed how much resilient connectivity matters here. But if the local installer and engineering base that keeps rural networks running is squeezed out, the Bay loses the very people who show up when connections fail. The regional interest is a market that keeps satellite's reach while preserving local skills and jobs — so local ISPs, installers and farm-connectivity specialists should be part of this conversation, and rural communities, marae and growers should push for resilient options that do not depend on a single overseas provider.",
+          "sources": [
+            {
+              "l": "Scoop (Bill Bennett)",
+              "u": "https://www.scoop.co.nz/stories/SC2607/S00041/isps-call-for-starlink-market-study.htm"
+            }
+          ]
+        },
+        {
           "date": "21 Jul 2026",
           "headline": "Your phone now texts via satellite across the 40% of NZ that had no coverage",
           "brief": "<p>One NZ’s satellite service — using <b>Starlink’s direct-to-mobile</b> tech — now reaches ordinary phones across roughly <b>40% of NZ’s landmass</b> that had no cell coverage, starting with texting (free on eligible plans) and expanding to data, apps and calling.</p>",
@@ -206,6 +269,27 @@
       "chip": "c-cloud",
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
+        {
+          "date": "29 Jul 2026",
+          "headline": "Southland's $3.5b AI data centre clears consent — and stirs local pushback",
+          "brief": "<p>Singapore-based Datagrid has secured all required Resource Management Act approvals for a <b>78,000 m²</b> AI data centre at Makarewa, north of Invercargill, with an initial capacity of <b>280 MW</b>. The facility is projected to open in 2028, use about <b>6% of New Zealand's total electricity</b>, and become the country's second-largest electricity user — drawing hundreds of concerned residents to a public meeting.</p>",
+          "body": [
+            "New Zealand's first hyperscale-class AI data centre has cleared its consenting hurdles. Singapore-based Datagrid has secured all the Resource Management Act approvals it needs for a 78,000-square-metre facility at Makarewa, about 9–10km north of Invercargill, with an initial capacity of 280 MW. It signed a 140 MW power purchase agreement with Mercury in March 2026, and Mercury bought a stake of around 12% for $53 million.",
+            "The scale is what makes it a national story. The facility is projected to open in 2028, consume roughly 6% of New Zealand's total electricity, and become the country's second-largest electricity user. Datagrid says it will rely on rainwater harvesting and free air cooling rather than groundwater.",
+            "It has also become a test of social licence. Hundreds of residents attended a public meeting to raise questions about power and water, and Datagrid did not attend — a gap between a project's approvals and a community's comfort that is likely to recur as more of these facilities are proposed."
+          ],
+          "lens": "Southland is a long way from Hawke's Bay, but this project sets the template for what any future data-centre proposal here would run into: enormous electricity draw, water and cooling questions, and a community expecting to be consulted before approvals, not after. As AI demand pushes developers to look for sites with power and land, regions like Hawke's Bay could find themselves courted. The value in watching Southland now is to decide, on the Bay's own terms, whether it wants that kind of investment and on what conditions — what it would demand on local power supply, water, and community benefit — rather than being caught flat-footed by a proposal that arrives already consented elsewhere as the norm.",
+          "sources": [
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/07/24/southand-community-has-questions-about-35b-ai-data-centre/"
+            },
+            {
+              "l": "Newswire NZ",
+              "u": "https://newswire.co.nz/2026/07/southland-ai-data-centre-water-consent-groundwater/"
+            }
+          ]
+        },
         {
           "date": "25 Jul 2026",
           "headline": "Mercury buys into Southland's $3.5b 'AI factory' — as locals demand answers",
@@ -284,48 +368,6 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
-          "date": "25 Jul 2026",
-          "headline": "Rocket Lab's $266M Alaska deal shows why NZ's rocket industry still matters to the Pentagon",
-          "brief": "<p><b>Rocket Lab</b> has won a <b>$266 million</b> firm-fixed-price U.S. Space Force contract for 12 suborbital HASTE launches from Alaska through 2028, with options for six more. It lands just days after the Pentagon roughly tripled the ceiling of its main national-security launch programme to <b>$17 billion</b>, naming Rocket Lab as one of only seven eligible providers. Those twin wins come as Rocket Lab also presses ahead with a roughly <b>$8 billion</b> cash-and-stock takeover of satellite operator Iridium, reshaping the Kiwi-founded company into a vertically integrated space powerhouse.</p>",
-          "body": [
-            "Rocket Lab has secured a $266 million firm-fixed-price deal with the U.S. Space Systems Command for 12 suborbital HASTE launches, with options for six more, flying out of the Pacific Spaceport Complex on Kodiak Island, Alaska, through December 2028. The contract beat out two other bidders in a competitive process and builds on a $190 million HASTE block-buy — covering 20 flights — that Rocket Lab signed in March 2026.",
-            "The win arrived just days after an even bigger structural shift: in mid-July 2026 the U.S. Space Force roughly tripled the ceiling of its National Security Space Launch Phase 3 Lane 1 contract vehicle, from $5.6 billion to $17 billion, with Rocket Lab named alongside SpaceX, United Launch Alliance, Blue Origin, Stoke Space, Impulse Space and Relativity Federal as one of seven companies eligible to compete for task orders through 2029. The ceiling increase itself obligates no funds until individual missions are competed, but it signals how aggressively the Pentagon is expanding its commercial launch relationships.",
-            "HASTE — the Hypersonic Accelerator Suborbital Test Electron — is a modified, suborbital version of Rocket Lab's workhorse Electron rocket, built to test hypersonic technology at speeds faster than Mach 5. Stifel analyst Erik Rasmussen called the Alaska award \"strong validation of HASTE's operational performance.\" The suborbital work also sidesteps a key constraint: Rocket Lab has been on-ramped to the NSSL programme but cannot win its orbital task orders until its new Neutron rocket completes a successful first flight — a hurdle the Alaska missions do not carry.",
-            "The defence wins come as Rocket Lab presses ahead with its roughly $8 billion cash-and-stock acquisition of satellite operator Iridium Communications, announced in late June and financed partly through a $3.6 billion bridge loan, which would transform the company from a launch provider into a vertically integrated operator with recurring satellite-service revenue. Rocket Lab reported record first-quarter 2026 revenue of $200.3 million, up 63.5% year-on-year, and exited the quarter with a $2.2 billion backlog — even as its share price has slid well off its late-May record high on investor nerves about the scale and debt load of the Iridium deal."
-          ],
-          "lens": "None of this hardware flies from Māhia, and the defence dollars themselves land in the United States — so the direct benefit to Hawke's Bay is modest and indirect. What matters locally is the balance sheet: a Rocket Lab with a fatter U.S. defence book and recurring satellite revenue from Iridium is a more durable company, and durability is what keeps Launch Complex 1 on the Māhia Peninsula flying and investing in New Zealand engineering and manufacturing roles. For the Bay, the honest play is not to chase the rockets but to build around the anchor: <em>positioning</em> Wairoa and the wider region as the natural home for ground-support, logistics and precision-manufacturing suppliers; pushing councils and iwi land trusts to keep Māhia's access, consents and STEM pathways strong; and helping local agritech and Earth-observation firms learn to buy and use the satellite data this bigger Rocket Lab will increasingly sell — for horticulture, water management and climate resilience. The launch site is a rare asset; capturing value from it takes deliberate regional groundwork, not luck.",
-          "sources": [
-            {
-              "l": "Defence Blog",
-              "u": "https://defence-blog.com/pentagon-awards-rocket-lab-266-million-for-suborbital-launches/"
-            },
-            {
-              "l": "GovCon Wire",
-              "u": "https://www.govconwire.com/articles/space-force-nssl-phase-3-lane-1-ceiling-17b"
-            },
-            {
-              "l": "Stocktwits",
-              "u": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-on-track-for-second-straight-day-of-gains-stifel-hails-haste-s-266-m-award-as-major-validation/cZZm8epR7DK"
-            },
-            {
-              "l": "The Motley Fool",
-              "u": "https://www.fool.com/investing/2026/07/16/space-force-billion-launch-program-rocket-lab/"
-            },
-            {
-              "l": "GovCon Wire – Iridium",
-              "u": "https://www.govconwire.com/articles/rocket-lab-iridium-8b-cash-stock-acquisition"
-            },
-            {
-              "l": "TheStreet",
-              "u": "https://www.thestreet.com/technology/rocket-lab-stock-266-million-government-launch-deal"
-            },
-            {
-              "l": "Yahoo Finance",
-              "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-q1-2026-earnings-145155866.html"
-            }
-          ]
-        },
-        {
           "date": "22 Jul 2026",
           "headline": "New Zealand's rocket launch pad is in Hawke's Bay's backyard",
           "brief": "<p>Rocket Lab capped a record year of Electron launches and is targeting the <b>late-2026 debut of Neutron</b>, its larger reusable rocket. Easy to forget behind the Nasdaq listing and US HQ: it launches from <b>Launch Complex 1 at Mahia Peninsula</b> — inside the Hawke's Bay region.</p>",
@@ -372,6 +414,31 @@
       "chip": "c-agri",
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
+        {
+          "date": "29 Jul 2026",
+          "headline": "Hastings robotics firm Hawk Technology can't keep up with US apple-packing demand",
+          "brief": "<p>Hawk Technology, a robotics manufacturer based in Whakatū, Hastings, has installed its first <b>50</b> Gen 5 robotic Apple Packers in Washington state packhouses and has a further <b>250 units on order</b> — with general manager Sam Combs saying \"the demand at this stage is greater than our manufacturing capability.\"</p><p>The Gen 5 machine uses <b>15 AI cameras</b> to inspect fruit for defects and sort it by colour and quality. The US apple market is roughly <b>seven times</b> the size of New Zealand's, with Washington growing about two-thirds of the American crop.</p>",
+          "body": [
+            "Hawk Technology's home-grown apple-packing robots are being installed across Washington state, the heart of the United States apple industry, and the orders are arriving faster than the Hastings company can build the machines. Fifty of its Gen 5 Apple Packers are already in place, with 250 more on order — a backlog that general manager Sam Combs describes bluntly as demand outstripping the firm's manufacturing capability.",
+            "The technology is where the value sits. The Gen 5 packer carries 15 AI cameras that inspect each piece of fruit for defects and sort it by colour and quality, the kind of vision work that used to depend on human graders. It is a New Zealand-built answer to a global problem, and it is selling into a market about seven times the size of New Zealand's, where Washington alone accounts for roughly two-thirds of the US crop.",
+            "The company itself is a Hawke's Bay growth story: its research and development team has expanded from two people seven years ago to more than 50 today. Combs has signalled that stone-fruit automation is the next development priority, suggesting the Hastings firm intends to widen its lead rather than rest on the apple line."
+          ],
+          "lens": "This is the platonic Hawke's Bay story: a Hastings company turning the region's deep pipfruit expertise into exported AI and robotics, and winning in the world's largest apple market. The region should treat Hawk Technology as an anchor for a genuine Hawke's Bay agritech and automation cluster rather than a one-off. Practically, that means helping it scale — workforce and premises, access to capital, and a training pipeline through EIT for the mechatronics, vision-AI and manufacturing roles it needs; wiring it into the local orchard and packhouse base so new machines are trialled on Bay fruit first; and using its success to attract more horticulture-technology firms to base themselves here. The Bay grows the apples and now builds the robots that pack them — the opportunity is to make that pairing a recognised regional specialty.",
+          "sources": [
+            {
+              "l": "RNZ",
+              "u": "https://www.rnz.co.nz/news/business/825550/us-demand-for-apple-industry-robotics-driving-change-at-hawke-s-bay-manufacturer"
+            },
+            {
+              "l": "Newswire NZ",
+              "u": "https://newswire.co.nz/2026/07/hastings-hawk-technology-apple-packing-robots-washington-us-orders/"
+            },
+            {
+              "l": "NZ Herald",
+              "u": "https://www.nzherald.co.nz/nz/us-demand-for-apple-industry-robotics-driving-change-at-hawkes-bay-manufacturer/VPEQRWGRGRH6ZF6IMCWFWMTF7E/"
+            }
+          ]
+        },
         {
           "date": "25 Jul 2026",
           "headline": "NZ's Gene Tech Bill grinds through Parliament — and Hawke's Bay's orchards and vineyards are watching closely",
@@ -493,6 +560,23 @@
       "chip": "c-bay",
       "tag": "Tech and innovation happening right here in Hawke’s Bay.",
       "stories": [
+        {
+          "date": "29 Jul 2026",
+          "headline": "Hastings IT firm grows on a 13-year EIT graduate pipeline",
+          "brief": "<p>A local feature highlights the partnership — running since <b>2013</b> — between the Eastern Institute of Technology and Hastings IT firm Hawke's Bay Technologies, which has grown from <b>10 to 32 employees</b> while recruiting EIT graduates across engineering, finance and technical support.</p>",
+          "body": [
+            "Not every Hawke's Bay tech story is a robot or a rocket; some are about the quieter machinery of growing a local firm. Hastings IT company Hawke's Bay Technologies has expanded from 10 to 32 employees, and it credits a 13-year partnership with the Eastern Institute of Technology, running since 2013, as a steady source of the people it needs.",
+            "The firm recruits EIT graduates across engineering, finance and technical support. Managing director Duncan Wallace says the graduates arrive job-ready and get up and running from day one, while service desk engineer Zachariah Hull points to EIT's hands-on training as the reason.",
+            "It is a small case study in something the region needs more of: a local tertiary institution feeding trained people straight into local tech employers, so that graduates build their careers in Hawke's Bay rather than leaving for the main centres."
+          ],
+          "lens": "The single biggest constraint on a regional tech economy is people, and this is what the answer looks like in practice — a local training pipeline feeding local employers, keeping graduates in the Bay. The region should protect and grow it: back EIT's technology and engineering programmes, encourage more Hawke's Bay firms to build formal graduate pathways the way Hawke's Bay Technologies has, and treat graduate retention as an economic-development metric that matters. Every marquee story on this site — Hawk Technology's robots, Rocket Lab at Māhia, the new solar farm — ultimately needs a deep local skills base to draw on, and that base is built one graduate pipeline at a time.",
+          "sources": [
+            {
+              "l": "LiveNews",
+              "u": "https://livenews.co.nz/2026/07/21/eit-delivers-the-skills-hawkes-bay-businesses-need/"
+            }
+          ]
+        },
         {
           "date": "25 Jul 2026",
           "headline": "Hawke's Bay drone firm lands NZ-first certification — and a $60m Australasia distribution deal",
@@ -630,6 +714,24 @@
     }
   ],
   "headlines": [
+    {
+      "date": "27 Jul 2026",
+      "chipLabel": "Startups",
+      "headline": "Auckland's mayor is spending 100 days — and 100 t-shirts — championing the city's startups",
+      "byline": "Auckland · what the city's 100-day startup push means for the Bay",
+      "brief": "<p>Auckland mayor <b>Wayne Brown</b> has launched <b>100 Days of Start-ups</b>, wearing a different local startup's branded t-shirt every day for <b>100 days</b> from 3 July to spotlight the city's founders. The campaign builds toward <b>Auckland Startup Week</b> (12–16 October 2026), with the full programme due to launch on 5 August, and is backed by Auckland Council's Economic Development Office, the Auckland Technology and Innovation Alliance and the New Zealand Institute for Advanced Technology.</p>\n  <p>More than a quarter of the 100 featured startups are tied to the University of Auckland — whose Centre for Innovation and Entrepreneurship says its alumni have raised more than <b>$8.2 billion</b> in capital over 23 years — with early names including retail-crime intelligence firm Auror and medical-device maker Kitea Health. “By wearing these shirts, I want to draw attention to the talent we have right here in our city,” Brown said, arguing Auckland is “punching well above our weight in deep tech, heavy industry disruption and pure Kiwi ingenuity.”</p>",
+      "lens": "For Hawke's Bay the interesting part isn't the t-shirts — it's how cheap and effective a bit of civic visibility can be for a startup scene. Auckland already has the capital and the density; the Bay has a real but scattered base of around 500 tech firms and the Hi-Tech Hawke's Bay network, and almost none of the national spotlight. The region could borrow the playbook directly: a low-cost, high-visibility local campaign — the mayors, the port, big employers and EIT actively championing named Bay startups — that turns a loose scene into a story investors and talent can follow. The more concrete move is to plug in rather than compete: get Bay founders and university-linked ventures onto the Auckland Startup Week stage in October, where the capital and networks actually are, and use it to pull investment and profile back to the region. Auckland is showing that celebrating startups is a deliberate choice a city makes; the honest question for Hawke's Bay is whether it will make the same choice or keep its best stories to itself.",
+      "sources": [
+        {
+          "l": "OurAuckland (Auckland Council)",
+          "u": "https://ourauckland.aucklandcouncil.govt.nz/news/2026/07/mayor-to-wear-100-auckland-startup-t-shirts-in-100-days-to-champion-local-innovation/"
+        },
+        {
+          "l": "University of Auckland",
+          "u": "https://www.auckland.ac.nz/en/news/2026/07/03/university-innovation-centre-stage-100-days-start-ups.html"
+        }
+      ]
+    },
     {
       "date": "24 Jul 2026",
       "chipLabel": "Economy",
