@@ -32,6 +32,47 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "31 Jul 2026",
+          "headline": "Greens push for one-year pause on AI data centre consents as Southland's $3.5b Datagrid project fuels the fight",
+          "brief": "<p>The Green Party has proposed a <b>one-year national moratorium</b> on consenting new AI data centres until proper regulations are in place, announcing the policy on Q+A after hundreds of people protested in Southland against a data centre that has already been consented there. The trigger is Singapore-based Datagrid's <b>$3.5 billion</b> hyperscale project at Makarewa, near Invercargill, which will need <b>280 MW</b> of power and become the <b>country's second-highest consumer of electricity</b>. Prime Minister Christopher Luxon has rejected the pause as \"alarmist\", while academics and Māori voices are asking whether such projects can ever secure genuine social licence.</p>",
+          "body": [
+            "<p>Over the weekend the Green Party announced its proposal for a one-year national moratorium on the consenting of new artificial intelligence data centres until proper regulations have been set up, one of the sharper lines in the party's election manifesto released on Sunday. Co-leaders Chlöe Swarbrick and Marama Davidson framed the pause not as a ban on data storage or the internet, but as a chance to write proper rules before a wave of enormous facilities locks in decades of electricity demand, with the proposal covering the largest hyperscale developments and running only until national standards are in place.</p>",
+            "<p>At the centre of the debate is Singapore-based Datagrid, which was granted resource consent in March to build a $3.5 billion data centre at Makarewa, just north of Invercargill. The hyperscale project is set to be the second-highest consumer of electricity in the country, requiring 280 MW of power.</p>",
+            "<p>Swarbrick announced the moratorium policy on Q+A, after hundreds of people gathered in Southland to protest against the consented data centre, with councils accused of signing off on such projects behind closed doors. \"Let's take a moment, let's have a common sense think about who they're actually benefitting, and whether New Zealanders want them in the first place,\" she said, adding that \"this is not a ban on data infrastructure. It's a pause on the most resource-intensive developments while New Zealanders get a say on what conditions they should meet.\"</p>",
+            "<p>The policy sits inside a wider 43-page manifesto built around taxing wealth and lifting spending on public services, with Davidson saying \"we will tax the super-rich and address corporate greed so that we can invest that back into the services that people rely on.\" On the data centre question specifically, Swarbrick argued \"if we are going to let these things be built, we should at least understand who is benefitting and ensure we protect our natural resources and communities.\" Prime Minister Christopher Luxon rejected the call outright, describing the Greens as \"alarmist\" and saying the buildings were part of the plan for a bigger economy.</p>",
+            "<p>Supporters of such projects argue they will bring jobs and let New Zealand compete at the forefront of the AI industry, but critics have raised concerns about harm to the natural environment, the strain on energy and water resources, and the fact that projects have seemingly been approved with little public consultation. Critics have also argued the facilities will suck up power from the grid, push up electricity prices and create only a handful of jobs.</p>",
+            "<p>The debate has drawn in academic and Māori voices too. Dr Kerry McInerney, from the School of Computer Science at the University of Auckland, was interviewed on public perceptions of AI data centres in New Zealand, the concerns being raised, and whether such projects can secure a social licence — the idea that major infrastructure needs ongoing public confidence and acceptance, not simply regulatory approval, with trust depending on early engagement, transparency, accountability and evidence that communities will share in long-term benefits rather than just bear the costs. McInerney, who is of Ngāti Ruanui descent and researches AI ethics, governance, social justice and public trust, has noted that for Māori the debate carries added significance, with large-scale developments intersecting kaitiakitanga, environmental stewardship, Treaty relationships and questions of energy security, freshwater, whenua and data sovereignty.</p>",
+            "<p>The issue has become a live national political flashpoint rather than a niche environmental concern: NZ Herald political editor Thomas Coughlan discussed the Greens' one-year pause policy on Ryan Bridge TODAY this week. New Zealand's debate also echoes a similar one in Australia, where Prime Minister Anthony Albanese has announced large-scale data centres would face a legal obligation to underwrite new power supply, pay their full share of grid connection costs and cover any extra water infrastructure they require — legislation not expected to pass until early 2027.</p>"
+          ],
+          "lens": "Hawke's Bay has no hyperscale data centre bid on the table, and nothing in this story suggests one is coming, so the direct economic upside of a Datagrid-style project landing here isn't something to bank on. But the underlying fight — who gets access to scarce renewable electricity and water, and who gets a say before consent is granted — matters hugely to a region that already competes nationally for grid capacity and irrigation water for horticulture and wine. The Southland experience shows what happens when a consent this size is approved with, in protesters' view, too little warning: hundreds took to the streets months after the decision was made. If a national moratorium or new consenting rules for AI data centres come out of this debate, Hawke's Bay Regional Council and the Hastings and Napier councils should make sure the region's voice is in that policy conversation now, rather than finding out after the rules are set elsewhere. The Māori dimension of this debate — kaitiakitanga, Treaty relationships and data sovereignty — is also directly relevant here, given the Bay's iwi and hapū have long-standing stakes in freshwater and land decisions. The realistic play for the Bay isn't chasing a data centre of its own; it's making sure any national framework on AI infrastructure protects the water and power headroom local growers, wineries and manufacturers need, and pushing central government to treat genuine regional and iwi consultation as non-negotiable before, not after, consents are granted.",
+          "sources": [
+            {
+              "l": "95bFM",
+              "u": "https://95bfm.com/bcast/public-perceptions-of-ai-data-centres-in-new-zealand-w-dr-kerry-mcinerney-28-july-2026"
+            },
+            {
+              "l": "NZ Herald",
+              "u": "https://www.nzherald.co.nz/video/herald-now/ryan-bridge-today/more-ai-data-centre-policy-to-come-after-greens-one-year-pause-ryan-bridge-today/QAQN524X66HNJKTVNOIHIE2HSM/"
+            },
+            {
+              "l": "NEWS WIRE",
+              "u": "https://newswire.co.nz/2026/07/greens-pause-new-ai-data-centres/"
+            },
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/07/26/greens-push-to-pause-big-data-centre-consents-pm-calls-it-alarmist/"
+            },
+            {
+              "l": "Waatea News",
+              "u": "https://waateanews.com/2026/07/27/ai-data-centre-debate-turns-to-trust-as-calls-grow-for-community-voice-as-debate-intensifies-over-a-proposed-3-5-billion-ai-data-centre-in-makarewa-attention-is-increasingly-turning-beyond-the-tech/"
+            },
+            {
+              "l": "Newstalk ZB",
+              "u": "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/opinion/perspective-with-ryan-bridge-do-we-need-a-moratorium-on-data-centres/"
+            }
+          ]
+        },
+        {
           "date": "29 Jul 2026",
           "headline": "Biosecurity NZ trials AI to speed up the rules that keep pests out",
           "brief": "<p>Biosecurity New Zealand, part of the Ministry for Primary Industries, is running a <b>four-month pilot</b> using AI to help draft import health standards — the legal documents that govern which plants, animals and biological products can enter the country. Biosecurity Minister Andrew Hoggard announced the trial on <b>25 July</b>.</p>",
