@@ -1,25 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Aerospace",
+    "chipLabel": "AI Policy",
     "sector": "bay",
-    "date": "29 Jul 2026",
-    "headline": "Rocket Lab wins record US$266m US Space Force contract — with its home pad still at Māhia",
-    "byline": "National · what a record defence deal means for the region that hosts Rocket Lab's launch site",
-    "brief": "<p>Rocket Lab has secured the largest contract in its history: a <b>US$266 million</b> (about <b>NZ$460 million</b>) award from the United States Space Force's Space Systems Command Rocket Systems Launch Program. The deal covers <b>12 guaranteed suborbital launches</b>, with options for up to six more, flown on the company's HASTE rocket — a suborbital variant of its Electron — to support US missile-defence testing.</p><p>The first flight is expected no earlier than the end of 2026, and launches will run primarily from Rocket Lab's pad at the Pacific Spaceport Complex on Kodiak Island, Alaska. Founder and chief executive Sir Peter Beck said the contract's size reflects the Space Force's confidence in the company's ability to deliver with speed and scale. Rocket Lab shares rose almost 5% on the news.</p>",
-    "lens": "Rocket Lab is New Zealand's flagship space company, founded in Auckland in 2006, and its only operational launch site is Launch Complex 1 at Māhia Peninsula in the Wairoa district of Hawke's Bay. The honest picture is that these HASTE launches will fly from Alaska, not Māhia, so the immediate jobs and activity land offshore. But the deal cements Rocket Lab's trajectory and keeps Māhia on the map as the home of a company now trusted with US national-security work. For the Bay, the opportunity is upstream and long-term: a serious STEM and aerospace-skills pipeline through EIT and local schools so Wairoa and wider Hawke's Bay young people can move into the sector; supplier and services links to Rocket Lab's operations; and Wairoa economic-development planning that treats the launch site as an anchor asset rather than a curiosity. The region should be deliberate about capturing the spillover, because the marquee contracts themselves will keep going where the launch pads and customers are.",
+    "date": "01 Aug 2026",
+    "headline": "NZ Court AI Guidelines Unchanged Since 2023 as Academics Flag 'Agentic AI' Gap",
+    "byline": "National · late July 2026 · what unrevised AI court guidance means for Hawke's Bay's lawyers and litigants",
+    "brief": "<p>New Zealand's judiciary is facing calls from some legal academics to update its rules on generative AI use in courtrooms, though not everyone in the profession agrees an overhaul is urgent. <cite index=\"19-3,19-4\">Generative artificial intelligence (GenAI) use in New Zealand's legal system is continuing to increase, a fact the Office of the Chief Justice has acknowledged, but the judiciary's guidelines for AI use were last updated in 2023.</cite></p><p>University of Auckland Law School lecturer Matt Bartlett said <cite index=\"19-5,19-6\">other judiciaries around the world were updating their guidance far more frequently than New Zealand, saying \"they're out of step with the capabilities, the risk profile, and frankly the practice overseas.\"</cite> Bartlett also noted <cite index=\"19-1\">AI use typically did not need to be disclosed, which he said made it difficult to understand the extent to which AI was already influencing the justice system.</cite> Fellow senior lecturer Dr Joshua Yuvaraj argued <cite index=\"19-7\">the technology was evolving so quickly that the guidelines should be reviewed regularly to ensure they remained fit for purpose.</cite></p><p>Yuvaraj's concern isn't just chatbots drafting documents. <cite index=\"1-8,1-9\">Technology, he said, had moved beyond just generative AI technologies to agentic AI, where AI systems could automate tasks such as organising workflows, responding to emails and other administrative work, developments he said warranted some attention in the court's guidelines.</cite> <cite index=\"1-10\">He also wanted to see continual emphasis on the privacy and confidentiality risks associated with using AI tools.</cite></p><p>Not everyone thinks the rules need rewriting, however. Auckland barrister Josh McBride said <cite index=\"1-11,1-12\">while the guidelines were now a few years old, they had largely stood the test of time, saying \"I've looked at them recently, and in fairness, they do a pretty good job.\"</cite> <cite index=\"19-8,19-9,19-10\">McBride did not believe AI use should necessarily have to be disclosed, though he had seen instances where litigants armed with AI tools were producing disproportionate volumes of AI generated material for what the case entailed, and said there was a benefit in clearer rules on the volume of AI-generated material people could file and clearer warnings that litigants were responsible for verifying anything AI produced before submitting it to the court.</cite> For its part, <cite index=\"10-6\">a spokesperson from the Office of the Chief Justice said the judiciary recognised the opportunities created by AI to support access to justice and the timely, efficient and proportionate administration of justice, but it was taking a cautious approach to the exploration and adoption of Generative AI to support the work of the courts.</cite></p>",
+    "lens": "There's no Rocket-Lab-sized dollar figure here, and honestly Hawke's Bay has little direct lever to pull on national court policy — that sits with the Chief Justice's office and the judiciary's own advisory processes, not regional government. But the region does have real skin in this game: our district and High Court sittings in Napier and Hastings, local law firms, Community Law Hawke's Bay, and self-represented litigants are all already living with whatever informal AI practice has grown since the 2023 guidelines were issued, debate about updating them or not. The honest, useful response for the Bay isn't a moonshot — it's plumbing. Local firms and the Hawke's Bay District Law Society could use this moment to run a plain-English session on what's actually permitted when a solicitor or a litigant in person uses ChatGPT-style tools to draft an affidavit or chase case law, rather than waiting for Wellington to settle the Bartlett-versus-McBride debate about whether the rules need a rewrite or just better enforcement. If agentic AI is now quietly triaging emails and workflows inside firms here too, the region's legal community has as much reason as any to watch closely, and weigh in, on whatever the Office of the Chief Justice does next, because whatever rule finally lands will apply just as much in a Hastings courtroom as in Auckland's.",
     "sources": [
       {
-        "l": "1News",
-        "u": "https://www.1news.co.nz/2026/07/28/rocket-lab-wins-460-million-contract-with-us-military/"
-      },
-      {
-        "l": "Newswire NZ",
-        "u": "https://newswire.co.nz/2026/07/rocket-lab-record-460-million-us-space-force-missile-defence-contract/"
-      },
-      {
-        "l": "Space.com",
-        "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say"
       }
     ]
   },
@@ -755,6 +747,28 @@
     }
   ],
   "headlines": [
+    {
+      "date": "29 Jul 2026",
+      "chipLabel": "Aerospace",
+      "headline": "Rocket Lab wins record US$266m US Space Force contract — with its home pad still at Māhia",
+      "byline": "National · what a record defence deal means for the region that hosts Rocket Lab's launch site",
+      "brief": "<p>Rocket Lab has secured the largest contract in its history: a <b>US$266 million</b> (about <b>NZ$460 million</b>) award from the United States Space Force's Space Systems Command Rocket Systems Launch Program. The deal covers <b>12 guaranteed suborbital launches</b>, with options for up to six more, flown on the company's HASTE rocket — a suborbital variant of its Electron — to support US missile-defence testing.</p><p>The first flight is expected no earlier than the end of 2026, and launches will run primarily from Rocket Lab's pad at the Pacific Spaceport Complex on Kodiak Island, Alaska. Founder and chief executive Sir Peter Beck said the contract's size reflects the Space Force's confidence in the company's ability to deliver with speed and scale. Rocket Lab shares rose almost 5% on the news.</p>",
+      "lens": "Rocket Lab is New Zealand's flagship space company, founded in Auckland in 2006, and its only operational launch site is Launch Complex 1 at Māhia Peninsula in the Wairoa district of Hawke's Bay. The honest picture is that these HASTE launches will fly from Alaska, not Māhia, so the immediate jobs and activity land offshore. But the deal cements Rocket Lab's trajectory and keeps Māhia on the map as the home of a company now trusted with US national-security work. For the Bay, the opportunity is upstream and long-term: a serious STEM and aerospace-skills pipeline through EIT and local schools so Wairoa and wider Hawke's Bay young people can move into the sector; supplier and services links to Rocket Lab's operations; and Wairoa economic-development planning that treats the launch site as an anchor asset rather than a curiosity. The region should be deliberate about capturing the spillover, because the marquee contracts themselves will keep going where the launch pads and customers are.",
+      "sources": [
+        {
+          "l": "1News",
+          "u": "https://www.1news.co.nz/2026/07/28/rocket-lab-wins-460-million-contract-with-us-military/"
+        },
+        {
+          "l": "Newswire NZ",
+          "u": "https://newswire.co.nz/2026/07/rocket-lab-record-460-million-us-space-force-missile-defence-contract/"
+        },
+        {
+          "l": "Space.com",
+          "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
+        }
+      ]
+    },
     {
       "date": "27 Jul 2026",
       "chipLabel": "Startups",
