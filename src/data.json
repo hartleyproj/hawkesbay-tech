@@ -425,6 +425,38 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "03 Aug 2026",
+          "headline": "Rocket Lab Books Third iQPS Deal — More Launches Set for Mahia Through Late 2027",
+          "brief": "Rocket Lab has signed a new multi-launch deal with Japanese Earth-imaging company iQPS for three more dedicated Electron missions, set to fly from Rocket Lab Launch Complex 1 on the Mahia Peninsula from late 2027. It is iQPS's third multi-launch booking on Electron announced in less than a year, taking its total launches booked with Rocket Lab to 18.",
+          "body": [
+            "Rocket Lab announced on 30 July 2026 that it had signed a multi-launch deal with the Institute for Q-shu Pioneers of Space, Inc (iQPS) for three new dedicated launches on its Electron rocket.",
+            "The company said this contract is iQPS's third multi-launch booking on Electron announced in less than a year, bringing the total number of launches booked to 18 and further solidifying Electron's position as the world's most sought-after small-lift launch vehicle.",
+            "The three new dedicated launches are scheduled to take place from Rocket Lab Launch Complex 1 on the Mahia Peninsula from late 2027. Each mission will deploy a single QPS-SAR satellite to a 575km low Earth orbit that will continue the build-out of iQPS' Earth-imaging constellation using synthetic aperture radar — a technology that enables images to be created from radio wave measurements and allows data to be collected during any time of day and under any weather conditions.",
+            "Rocket Lab's own satellite separation system, called the Motorized Lightband, has also been purchased for all iQPS missions, streamlining the company's access to space with reduced scheduling risk. Placing satellites within a constellation already on orbit is exactly the challenge Electron was created to solve, Rocket Lab said. As iQPS' primary launch provider, Electron has deployed seven QPS-SAR satellites to space with 100% mission success since 2023, each time with the reliability and precision that satellite operators have come to expect from Electron. This latest deal provides iQPS with the security of regular launch slots for their constellation as demand for Electron launches reaches record heights.",
+            "The announcement comes just three days after Rocket Lab said, on 27 July 2026, that it had been awarded its largest launch contract to date — a $266 million multi-launch contract with the U.S. Space Force. Awarded by the Space Force Space Systems Command's Rocket Systems Launch Program, the deal covers 12 suborbital launches, with options for up to six more, with the first launch expected no earlier than the end of 2026. Those missions will primarily fly from a new Rocket Lab location at the Pacific Spaceport Complex-Alaska in Kodiak, complementing the company's existing launch sites at Launch Complex 1 in New Zealand and Launch Complexes 2 and 3 in Virginia.",
+            "It also follows Rocket Lab's move in late June, when, on 29 June 2026, the company and Iridium Communications Inc announced they had entered a definitive agreement under which Rocket Lab will acquire Iridium, buying all outstanding Iridium shares for $54 per share in a cash-and-stock transaction representing an enterprise value of approximately $8.0 billion."
+          ],
+          "lens": "For Hawke's Bay, the iQPS booking is another vote of confidence in Launch Complex 1 rather than a new local business story — the satellites are designed and built in Japan, the deal is signed out of Rocket Lab's Long Beach headquarters, and the direct economic action for the region is simply more rockets lifting off from Mahia from late 2027 onward. It also arrives in the middle of a much bigger reshaping of Rocket Lab itself: a record US Space Force suborbital contract that will send new launch volume to a fresh Alaska site rather than Mahia, and an agreement to acquire satellite operator Iridium that pushes the company further into owning satellite networks and services, not just flying rockets. None of that growth is landing in the Bay. What the region could do with the iQPS news is what it has already been doing — treat every added booking as a reason to keep investing in the supplier network, accommodation and tourism infrastructure around Mahia and Wairoa that services launch weeks, and make sure local trades, logistics and hospitality operators know a multi-year pipeline of launches is now on the books to plan around. What it should do is use Rocket Lab's growing but geographically diversifying business as a prompt to ask a harder question: as the company builds new pads in Alaska and buys its way into satellite operations, is Hawke's Bay content to remain the launch pad, or does it push now — while the order book is full and the company's attention is elsewhere — to capture more of the higher-value space-systems, satellite servicing and ground-segment work before that investment locates somewhere else entirely.",
+          "sources": [
+            {
+              "l": "Rocket Lab",
+              "u": "https://rocketlabcorp.com/updates/rocket-lab-secures-multi-launch-deal-with-iqps-for-three-dedicated-missions/"
+            },
+            {
+              "l": "GlobeNewswire",
+              "u": "https://www.globenewswire.com/news-release/2026/07/30/3335848/0/en/Rocket-Lab-Secures-Multi-Launch-Deal-with-iQPS-for-Three-Dedicated-Missions.html"
+            },
+            {
+              "l": "Rocket Lab",
+              "u": "https://rocketlabcorp.com/updates/record-contract-rslp-kodiak/"
+            },
+            {
+              "l": "Rocket Lab",
+              "u": "https://rocketlabcorp.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/"
+            }
+          ]
+        },
+        {
           "date": "22 Jul 2026",
           "headline": "New Zealand's rocket launch pad is in Hawke's Bay's backyard",
           "brief": "<p>Rocket Lab capped a record year of Electron launches and is targeting the <b>late-2026 debut of Neutron</b>, its larger reusable rocket. Easy to forget behind the Nasdaq listing and US HQ: it launches from <b>Launch Complex 1 at Mahia Peninsula</b> — inside the Hawke's Bay region.</p>",
