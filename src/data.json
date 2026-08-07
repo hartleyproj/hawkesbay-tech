@@ -425,6 +425,40 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "07 Aug 2026",
+          "headline": "Mahia Launches Rocket Lab's 92nd Electron, Deploying Japanese Radar Satellite for iQPS",
+          "brief": "<p>Rocket Lab launched an Electron rocket from its Mahia Peninsula site on Thursday night, deploying the <b>QPS-SAR-13</b> satellite for Japanese customer the Institute for Q-shu Pioneers of Space, Inc. (iQPS). It was the company's <b>92nd</b> overall Electron mission and its <b>13th</b> Electron launch of 2026, marking the eighth dedicated launch Rocket Lab has flown for iQPS with a 100% mission-success record across those eight flights.</p>",
+          "body": [
+            "Rocket Lab's Electron rocket lifted off on Thursday night on a mission dubbed 'The Grain Goddess Provides', carrying the QPS-SAR-13 satellite into a planned 575km low Earth orbit.",
+            "The mission launched from Rocket Lab Launch Complex 1 in New Zealand at 9:18 p.m. NZST on August 6, 2026, and was Rocket Lab's 92nd overall Electron mission and its 13th Electron launch of the year, deploying the satellite for multi-launch customer the Institute for Q-shu Pioneers of Space, Inc. (iQPS), operator of the QPS-SAR Earth-imaging constellation, which is being built to provide near-real time imagery across twelve different orbits. It was the eighth deployment of a QPS-SAR satellite for Rocket Lab, with 100% mission success across all eight, and Rocket Lab has another 10 dedicated Electron launches already booked by iQPS to complete the constellation before 2030. The company's next Electron flight, carrying another QPS-SAR satellite on a mission called 'The Lightning God Defends', is scheduled for later this month from LC-1.",
+            "The satellite itself, QPS-SAR-13, has been nicknamed MIKURA-I for the Japanese goddess associated with food, abundance, and prosperity. Rocket Lab describes the mission as the eighth of a total of 15 dedicated launches it is contracted to fly to build out iQPS's constellation, with Electron serving as the primary launcher for iQPS's commercial synthetic aperture radar (SAR) network, which is being developed and deployed at a rapid pace to provide high-resolution, near-real-time SAR imagery to its global users. iQPS's satellites use synthetic aperture radar, which collects measurements through radio waves and can produce imagery at night and through clouds and adverse weather; the fully built-out iQPS constellation is planned to have 36 satellites capable of monitoring specific fixed points on Earth every 10 minutes.",
+            "Getting the satellite off the pad took persistence. The original attempt was halted on July 1 after Electron's automatic shutdown sequence activated moments before liftoff, ending the run just before it would have flown as the company's 92nd launch. Rocket Lab subsequently completed its analysis and inspections, addressed the cause of the abort, and confirmed the integrity of the rocket and related equipment. Shares of Rocket Lab (RKLB) slipped 0.5% overnight late Wednesday as 'The Grain Goddess Provides' was put back on the launch calendar, giving Electron another chance to deploy the iQPS radar satellite after that earlier attempt ended just before liftoff."
+          ],
+          "lens": "This is another reminder that the physical infrastructure of the global small-satellite launch industry sits in Hawke's Bay's own backyard, on the Mahia Peninsula, and that it now runs at a steady operational tempo -- this was Rocket Lab's 13th Electron launch of the year and its 92nd Electron mission overall (Rocket Lab now also launches from a second site in Virginia, so not every one of those 92 missions has flown from Mahia, but this one did). There's no locally-owned business or grower angle in this particular story, so the honest read is that the direct economic upside for the Bay from any single launch is limited; the value to the region is cumulative and indirect, through launch-day visitors, contractor and range work, and the profile Mahia gives the wider Bay as a place where serious technology happens. What the region could realistically do is keep leaning into that profile: councils and tourism operators can keep building reliable, well-signposted viewing and visitor experiences around launch windows, local schools and training providers can use the site as a hook to get students into aerospace, engineering and manufacturing pathways, and regional economic development groups should keep tracking whether any of Rocket Lab's supplier or maintenance work can be captured by Hawke's Bay firms rather than assuming Auckland or overseas suppliers will always do it. The scrub-and-retry story behind this particular mission is also a useful reminder to locals that launch-day plans should stay flexible -- Mahia hosts a genuine spaceport with real technical risk, not a scheduled bus service. None of that changes with this particular satellite, but each successful, eventually-on-schedule launch from Mahia is worth banking as evidence the Bay's spaceport is a durable asset, not a novelty.",
+          "sources": [
+            {
+              "l": "Stuff",
+              "u": "https://www.stuff.co.nz/nz-news/361016928/rocket-lab-launches-earth-imaging-satellite-mahia"
+            },
+            {
+              "l": "The Manila Times (GlobeNewswire)",
+              "u": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/rocket-lab-successfully-completes-92nd-electron-mission-8th-launch-for-iqps-earth-imaging-constellation/2399836"
+            },
+            {
+              "l": "Rocket Lab",
+              "u": "https://rocketlabcorp.com/missions/launches/iqps/"
+            },
+            {
+              "l": "Stocktwits",
+              "u": "https://stocktwits.com/news-articles/markets/equity/rklb-retry-92nd-launch-last-minute-electron-abort/cZoJil2RJen"
+            },
+            {
+              "l": "Next Spaceflight",
+              "u": "https://nextspaceflight.com/launches/details/7796/"
+            }
+          ]
+        },
+        {
           "date": "03 Aug 2026",
           "headline": "Rocket Lab Books Third iQPS Deal — More Launches Set for Mahia Through Late 2027",
           "brief": "Rocket Lab has signed a new multi-launch deal with Japanese Earth-imaging company iQPS for three more dedicated Electron missions, set to fly from Rocket Lab Launch Complex 1 on the Mahia Peninsula from late 2027. It is iQPS's third multi-launch booking on Electron announced in less than a year, taking its total launches booked with Rocket Lab to 18.",
