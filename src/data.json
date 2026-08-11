@@ -1,33 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Broadband",
+    "chipLabel": "Robotics",
     "sector": "bay",
-    "date": "08 Aug 2026",
-    "headline": "Government Cashes In Chorus Fibre Loans Early for $702m",
-    "byline": "Wellington · what a broadband debt sale means for Hawke's Bay's fibre and infrastructure funding",
-    "brief": "<p>The Government has struck a deal to get its money out of Chorus early. <b>Finance Minister Nicola Willis</b> and <b>Infrastructure Minister Chris Bishop</b> confirmed <cite index=\"14-1,14-2\">the Crown has entered into binding agreements to monetise the debt it holds in telecommunications lines company Chorus</cite>, with Willis saying <cite index=\"13-1\">the transaction delivers net proceeds to the Crown of approximately $702 million</cite> against <cite index=\"11-6\">a book value of $642 million</cite> — <cite index=\"13-2\">\"a strong commercial result representing a gain over book value of over $60 million.\"</cite></p><p><cite index=\"17-3,17-4\">Between 2012 and 2023 the Government provided $1.336 billion in interest-free loans to Chorus to help finance and accelerate the roll-out of fibre broadband across New Zealand, and Chorus repaid $170 million of that funding in 2025.</cite> <cite index=\"12-5\">\"The fibre rollout is now complete and has delivered enormous benefits for New Zealanders, with most people now able to connect seamlessly with family, friends, and colleagues across the country and around the world,\"</cite> Willis said. The loans were not due to be fully repaid until 2036, but <cite index=\"17-6,17-7\">after testing the market, the Government has decided to get the present value of its money back sooner so it can be invested elsewhere — the alternative would be to wait another five to 10 years for Chorus to repay the Crown.</cite> <cite index=\"20-1,20-2\">The deal also appears to include some form of limited investor protection through NIFFCo, or National Infrastructure Funding and Financing Limited, a Crown-owned company set up as the government's shopfront for private capital investment in public infrastructure, though the government has not disclosed the nature, scale, or potential Crown exposure involved.</cite> Crucially, <cite index=\"1-7\">the transaction does not change the ownership of Chorus, or the services and assets it provides or owns.</cite></p><p><cite index=\"17-7\">Infrastructure Minister Chris Bishop says the funds received through this process will be ring-fenced and redeployed into Budget 2026 to help fund</cite> other projects. <cite index=\"1-5\">Willis said the proceeds had been anticipated in Budget 2026, which she said meant it could fund more infrastructure, including roads, hospital upgrades and classrooms, though she did not say the money would be specifically earmarked for those projects.</cite> Settlement <cite index=\"14-9\">is expected to occur in August 2026.</cite> <cite index=\"31-1,31-2\">Chorus acknowledged the Government's announcement on the New Zealand stock exchange (NZX), where its ordinary shares trade at $9.62 each and the company's market capitalisation is $4.17 billion.</cite></p>",
-    "lens": "This is a Wellington balance-sheet story, not a new cable in the ground for Hawke's Bay — the fibre rollout that these loans funded is, as Willis herself put it, already complete and has delivered benefits for New Zealanders connecting with family, friends and colleagues nationwide, so there's no fresh connectivity announcement for the region here. What matters locally is the money's next stop: Bishop says the funds will be ring-fenced and redeployed into Budget 2026 to help fund infrastructure, and Willis floated roads, hospital upgrades and classrooms as candidates without committing any of it to specific projects. Hawke's Bay's honest play is to watch the Budget process closely and make its case loudly — for state highway resilience, for hospital capacity, for school upgrades — because this is genuinely uncommitted capital being freed up, not a regional allocation already decided. There's little else the Bay can or should do beyond that lobbying; this is a financing manoeuvre in Wellington, and pretending it's a local infrastructure win before the Budget confirms where the $702m actually lands would be getting ahead of the facts.",
+    "date": "12 Aug 2026",
+    "headline": "Hastings Robot-Maker Can't Build Fast Enough as US Apple Industry Buys Up Hawke's Bay AI Packers",
+    "byline": "Hastings · a homegrown robotics exporter shows what Hawke's Bay tech can look like at scale",
+    "brief": "<p>A Hawke's Bay robotics manufacturer is being run off its feet by demand from across the Pacific. <b>Hawk Technology</b> builds its apple-packing robots in Hastings and ships them to the US, where <cite index=\"1-3\">apple packhouses in Washington are lining up to get them</cite>. General manager Sam Combs <cite index=\"1-4\">told RNZ it had built a few hundred machines for the New Zealand market over the past few years, and now the US market is really taking off</cite>. <cite index=\"2-3\">The first 50 Gen 5 Apple Packers are running in Washington</cite>, with <cite index=\"1-6\">another 250 on order</cite> — a market Combs says is <cite index=\"1-7\">\"about seven times the size of New Zealand for apples only.</cite> <cite index=\"1-8\">Washington's the Hawke's Bay equivalent of New Zealand and grows about two-thirds of the fruit.\"</cite> Demand, he says, is now <cite index=\"1-10\">\"greater than our manufacturing capability.\"</cite></p><p>The company's roots are in packaging, not robotics: <cite index=\"9-9\">the Comb family bought Hawk Packaging and began turning the recycling into the cardboard trays that sit between layers of fruit when it's boxed up in packhouses</cite>. <cite index=\"9-10\">Customers began asking if the tray-handling itself could be automated, leading first to a Tray Denester, then a Tray Inserter</cite>, and eventually to <cite index=\"9-11\">the third product that's been the most popular – the Robotic Apple Packer</cite>, which now uses <cite index=\"9-12\">15 AI cameras working simultaneously</cite> to inspect fruit for flaws and sort it by colour and quality into trays.</p><p>The growth has been rapid: <cite index=\"1-11\">seven years ago Hawk Technology had just two research design and development staff, which has grown to a team of over 50 workers to keep up with the growing demand for robotics</cite>. Senior mechatronics engineer Ben Kloosterman, who works on the Gen 5 Apple Packer, said <cite index=\"1-15\">previously with industrial automation it was always a bit frustrating cause the technology was like 20 years behind, so being free to learn and grow in that cutting edge technology is really really cool</cite>. Combs said the next target is stone fruit — <cite index=\"20-6\">\"an obvious kind of next cab off the ranks.</cite> <cite index=\"20-7\">We'll be looking into that over the next year or so,\"</cite> he said.</p><p>Crucially, the whole operation stays local: Combs said the company has <cite index=\"2-21,2-22\">a full design team in-house, fabrication in-house, and electricals in-house</cite>, because <cite index=\"2-23\">\"a big philosophy of ours is just keeping everything here.</cite> <cite index=\"2-24\">We didn't want to have to send stuff overseas,\"</cite> he said. And while the robots are replacing some packhouse workers, <cite index=\"21-1\">Combs said for many employers it's solved a labour shortage problem</cite>: <cite index=\"21-3\">\"In New Zealand it was a real problem for our customers to even find that labour in the first place, so it's there to complement their existing workforces,\"</cite> he said. <cite index=\"21-5\">Alan McDonald from the Employers and Manufacturers Association agreed, saying while there's been an increase in workplaces using AI and robots, it hadn't resulted in fewer jobs overall.</cite></p>",
+    "lens": "This is the story hawkesbay.tech should be proudest of running, because it isn't a national policy story with a regional footnote — it's a Hastings company beating the world at something hard, on its own turf. Hawk Technology's growth from a two-person R&D shop, born out of a family packaging business, into a 50-plus-strong robotics team exporting AI-vision packing machines to an American market seven times our size, is proof that world-class mechatronics and software talent can be built and kept in the Bay rather than lost to Auckland or overseas. The region's job now is to protect and multiply that: backing local training pipelines in mechatronics, machine vision and embedded software (through EIT, Hi-Tech Hawke's Bay and schools) so Hawk Technology and its planned stone-fruit expansion can hire locally rather than poach nationally; helping other Bay packhouses and growers navigate the labour-shortage-versus-job-displacement tension Combs himself flagged, and which the Employers and Manufacturers Association says hasn't yet cost jobs overall; and using Hawk Technology as the flagship case study when pitching Hawke's Bay to investors and skilled migrants as a place where deep-tech manufacturing, not just orchards, actually happens.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/928385/government-cashes-in-chorus-fibre-loans-early-for-702m"
+        "u": "https://www.rnz.co.nz/news/business/825550/us-demand-for-apple-industry-robotics-driving-change-at-hawke-s-bay-manufacturer"
       },
       {
-        "l": "interest.co.nz",
-        "u": "https://www.interest.co.nz/technology/139715/crown-enters-agreements-monetise-debt-it-holds-chorus-so-it-can-fund-more"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/nz/us-demand-for-apple-industry-robotics-driving-change-at-hawkes-bay-manufacturer/VPEQRWGRGRH6ZF6IMCWFWMTF7E/"
       },
       {
-        "l": "Beehive.govt.nz",
-        "u": "https://www.beehive.govt.nz/release/earlier-monetisation-chorus-debt-crown"
-      },
-      {
-        "l": "Scoop",
-        "u": "https://www.scoop.co.nz/stories/PA2608/S00057/earlier-monetisation-of-chorus-debt-to-the-crown-supports-infrastructure-investment.htm"
-      },
-      {
-        "l": "Reseller News",
-        "u": "https://www.reseller.co.nz/article/4206394/government-calls-in-chorus-debt-to-fund-roads-classrooms.html"
+        "l": "Farmers Weekly",
+        "u": "https://www.farmersweekly.co.nz/technology/hawkes-bay-made-apple-robots-find-booming-us-market/"
       }
     ]
   },
@@ -273,6 +265,27 @@
       "chip": "c-conn",
       "tag": "Satellites and rural broadband lifting the ceiling on what the back-country can do.",
       "stories": [
+        {
+          "date": "12 Aug 2026",
+          "headline": "Direct-to-Cell Satellites Are Closing New Zealand's Rural Mobile Gap, Gartner Analyst Says",
+          "brief": "<p>Space-based cellular networks are reshaping Aotearoa's mobile market, according to Gartner analyst Khurram Shahzad, interviewed by journalist Bill Bennett. Mobile networks cover roughly 98 percent of New Zealand's population but only about 50 percent of the landmass, and Shahzad says direct-to-device satellite technology exists precisely because regulators expect telcos to deliver universal coverage that isn't otherwise economical.</p>",
+          "body": [
+            "<p>Space-based cellular networks are reshaping Aotearoa's market, Bill Bennett reports after interviewing Khurram Shahzad, Senior Director Analyst at Gartner, about the forces driving New Zealand telcos toward direct-to-device (D2D) satellite technology.</p>",
+            "<p>The scale of the coverage problem is stark: mobile networks reach roughly 98 percent of New Zealand's population but only about 50 percent of the landmass. Unlike Australia's more metro-centric population, New Zealand has far more people living outside major urban centres, which Shahzad says partly explains why low-Earth orbit satellites have seen record per-capita uptake here.</p>",
+            "<p>For mobile operators, D2D solves a specific problem. As Shahzad puts it, \"The biggest pain point of telcos is that they had the expectation by the regulators that they will provide universal coverage. This is just not economical.\" By partnering with Starlink, he says, that burden is lifted from telcos, since they no longer have to deploy towers in rural areas to meet that expectation.</p>"
+          ],
+          "lens": "Hawke's Bay is a near-perfect illustration of the gap Shahzad describes: inland ranges, hill country farms and remote parts of Wairoa and Central Hawke's Bay sit well outside the roughly 50 percent of the national landmass that conventional mobile towers reach, even though population coverage nationally looks high. That mismatch between population-coverage statistics and landmass-coverage reality is exactly why direct-to-cell satellite technology matters here more than in a metro-heavy market. The honest takeaway for the region is that this is a genuine structural fix, not a marketing gimmick: if telcos are turning to satellite partnerships because blanket tower coverage was never going to be economical in low-density, hilly terrain, then Hawke's Bay's isolated farms, orchards and lifestyle blocks are precisely the customers this technology is built for. Local councils and rural business groups should treat improving D2D handset compatibility and coverage advice as a practical advocacy target with telcos, rather than waiting for fibre or new towers that may never be commercially justified for the most remote parts of the region.",
+          "sources": [
+            {
+              "l": "Business.Scoop",
+              "u": "https://business.scoop.co.nz/2026/08/08/new-zealands-direct-to-cell-revolution/"
+            },
+            {
+              "l": "Scoop News",
+              "u": "https://www.scoop.co.nz/stories/SC2608/S00010/new-zealands-direct-to-cell-revolution.htm"
+            }
+          ]
+        },
         {
           "date": "29 Jul 2026",
           "headline": "NZ internet providers call for a market study into Starlink's rural grip",
@@ -893,6 +906,36 @@
     }
   ],
   "headlines": [
+    {
+      "date": "08 Aug 2026",
+      "chipLabel": "Broadband",
+      "headline": "Government Cashes In Chorus Fibre Loans Early for $702m",
+      "byline": "Wellington · what a broadband debt sale means for Hawke's Bay's fibre and infrastructure funding",
+      "brief": "<p>The Government has struck a deal to get its money out of Chorus early. <b>Finance Minister Nicola Willis</b> and <b>Infrastructure Minister Chris Bishop</b> confirmed <cite index=\"14-1,14-2\">the Crown has entered into binding agreements to monetise the debt it holds in telecommunications lines company Chorus</cite>, with Willis saying <cite index=\"13-1\">the transaction delivers net proceeds to the Crown of approximately $702 million</cite> against <cite index=\"11-6\">a book value of $642 million</cite> — <cite index=\"13-2\">\"a strong commercial result representing a gain over book value of over $60 million.\"</cite></p><p><cite index=\"17-3,17-4\">Between 2012 and 2023 the Government provided $1.336 billion in interest-free loans to Chorus to help finance and accelerate the roll-out of fibre broadband across New Zealand, and Chorus repaid $170 million of that funding in 2025.</cite> <cite index=\"12-5\">\"The fibre rollout is now complete and has delivered enormous benefits for New Zealanders, with most people now able to connect seamlessly with family, friends, and colleagues across the country and around the world,\"</cite> Willis said. The loans were not due to be fully repaid until 2036, but <cite index=\"17-6,17-7\">after testing the market, the Government has decided to get the present value of its money back sooner so it can be invested elsewhere — the alternative would be to wait another five to 10 years for Chorus to repay the Crown.</cite> <cite index=\"20-1,20-2\">The deal also appears to include some form of limited investor protection through NIFFCo, or National Infrastructure Funding and Financing Limited, a Crown-owned company set up as the government's shopfront for private capital investment in public infrastructure, though the government has not disclosed the nature, scale, or potential Crown exposure involved.</cite> Crucially, <cite index=\"1-7\">the transaction does not change the ownership of Chorus, or the services and assets it provides or owns.</cite></p><p><cite index=\"17-7\">Infrastructure Minister Chris Bishop says the funds received through this process will be ring-fenced and redeployed into Budget 2026 to help fund</cite> other projects. <cite index=\"1-5\">Willis said the proceeds had been anticipated in Budget 2026, which she said meant it could fund more infrastructure, including roads, hospital upgrades and classrooms, though she did not say the money would be specifically earmarked for those projects.</cite> Settlement <cite index=\"14-9\">is expected to occur in August 2026.</cite> <cite index=\"31-1,31-2\">Chorus acknowledged the Government's announcement on the New Zealand stock exchange (NZX), where its ordinary shares trade at $9.62 each and the company's market capitalisation is $4.17 billion.</cite></p>",
+      "lens": "This is a Wellington balance-sheet story, not a new cable in the ground for Hawke's Bay — the fibre rollout that these loans funded is, as Willis herself put it, already complete and has delivered benefits for New Zealanders connecting with family, friends and colleagues nationwide, so there's no fresh connectivity announcement for the region here. What matters locally is the money's next stop: Bishop says the funds will be ring-fenced and redeployed into Budget 2026 to help fund infrastructure, and Willis floated roads, hospital upgrades and classrooms as candidates without committing any of it to specific projects. Hawke's Bay's honest play is to watch the Budget process closely and make its case loudly — for state highway resilience, for hospital capacity, for school upgrades — because this is genuinely uncommitted capital being freed up, not a regional allocation already decided. There's little else the Bay can or should do beyond that lobbying; this is a financing manoeuvre in Wellington, and pretending it's a local infrastructure win before the Budget confirms where the $702m actually lands would be getting ahead of the facts.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/928385/government-cashes-in-chorus-fibre-loans-early-for-702m"
+        },
+        {
+          "l": "interest.co.nz",
+          "u": "https://www.interest.co.nz/technology/139715/crown-enters-agreements-monetise-debt-it-holds-chorus-so-it-can-fund-more"
+        },
+        {
+          "l": "Beehive.govt.nz",
+          "u": "https://www.beehive.govt.nz/release/earlier-monetisation-chorus-debt-crown"
+        },
+        {
+          "l": "Scoop",
+          "u": "https://www.scoop.co.nz/stories/PA2608/S00057/earlier-monetisation-of-chorus-debt-to-the-crown-supports-infrastructure-investment.htm"
+        },
+        {
+          "l": "Reseller News",
+          "u": "https://www.reseller.co.nz/article/4206394/government-calls-in-chorus-debt-to-fund-roads-classrooms.html"
+        }
+      ]
+    },
     {
       "date": "01 Aug 2026",
       "chipLabel": "AI Policy",
