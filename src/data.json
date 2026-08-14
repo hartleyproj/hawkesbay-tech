@@ -380,6 +380,29 @@
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
         {
+          "date": "15 Aug 2026",
+          "headline": "NZ's biggest tech company admits data-centre secrecy is fuelling backlash",
+          "brief": "Datacom, New Zealand's biggest technology company, has admitted it needs to do better communicating its data-centre plans with the public, amid calls for a moratorium on new data centres and growing concern about energy and water use. Speaking on a panel at the Data Centre Leaders Summit in Auckland, Datacom's director of data centres Matt Neil acknowledged the industry is being criticised for a lack of transparency.",
+          "body": [
+            "<span index=\"1-1\">New Zealand's biggest technology company has admitted it needs to do better communicating its plans with the public, amid calls for a moratorium on new data centres and growing concern about usage of energy and water.</span> <span index=\"1-3,1-4\">Speaking on a panel about investment at the Data Centre Leaders Summit in Auckland, Datacom's director of data centres Matt Neil said the company is on a mission to grow and help establish a new export industry, while also recognising a growing opposition among communities.</span>",
+            "<span index=\"1-5\">\"The one thing I think that we need to do better at, and we're being criticised for, is transparency through the process, and I see both sides of that,\" Neil said.</span> <span index=\"1-7\">He added that if people can clearly see what a developer is doing and why, \"then we should have a more positive experience and not get so much pushback.\"</span> <span index=\"19-8\">Neil also made the case for the economic benefit: \"We've really got a chance to create an export industry for New Zealand and participate in the digital economy,\" he said, though opposition is growing around New Zealand — and globally — to the development of data centres.</span> <span index=\"19-9\">Science and technology writer Peter Griffin said he was noticing town hall-type meetings being held around the country, providing a forum for people to voice concerns about data companies' use of energy and water, and increasingly, ethics.</span>",
+            "<span index=\"19-10\">Neil pushed back on some of the criticism, saying he believed a portion of the backlash was down to misconceptions: when people said Datacom was using too much water at its Rosedale facility, he said he asked staff to \"pull me the stats on how much water we're using daily,\" and found the figure was 1136 litres a day.</span> <span index=\"19-3\">New Zealand has 63 data centres, five of which are owned by Datacom.</span> <span index=\"19-4\">AI data centres require far more power to run and typically need a large quantity of water to cool servers and other equipment.</span>",
+            "<span index=\"19-1\">Singapore-based company Datagrid has consent to build an AI data centre in Southland, a $3.5 billion centre expected to come online in 2028.</span> <span index=\"19-2\">Exactly how much energy it will require to run is still not clear.</span> <span index=\"19-7\">Supplier Mercury, which has agreed to partially power the centre, has called it a 360MW project while Datagrid itself says it will require 280 megawatts.</span>",
+            "The admission comes as industry figures gathered at the summit, which set out to explore <span index=\"27-2\">\"where power, planning & capital align to build New Zealand's digital future,\"</span> <span index=\"27-1\">and how cloud adoption, AI growth, sovereign data needs and new subsea cables are positioning New Zealand as a hub for resilient digital infrastructure in the Asia-Pacific.</span>"
+          ],
+          "lens": "There is no Hawke's Bay data-centre project in this story, and it would be dishonest to pretend otherwise — this is a Southland-and-Auckland story about a Singapore developer, a national tech company and a national summit. But the lesson for the Bay is transferable and worth banking now, before any operator comes calling here: Datacom's own director of data centres is on the record saying the industry has been too closed about its plans, and that opposition is growing because of it. Matt Neil's response to water-use criticism at Datacom's Rosedale site — going back to staff for the actual daily litre figure rather than letting the claim sit unanswered — is itself a small case study in what early, specific disclosure looks like, and what it doesn't cost. If Hawke's Bay's council planners, growers or investors ever engage with a data-centre or large-load proposal — whether for cloud storage, irrigation-data processing or agri-tech — the takeaway is to ask for real, dated numbers on megawatts and litres from day one, not after consent is granted. For now, the region's most useful move is simply to watch how the unresolved gap between Mercury's 360MW figure and Datagrid's own 280MW figure for the Southland project gets settled, since whatever standard of disclosure emerges from that fight is the one any future Hawke's Bay proposal will be judged against.",
+          "sources": [
+            {
+              "l": "Newsroom",
+              "u": "https://newsroom.co.nz/2026/08/13/datacom-we-need-to-be-more-transparent-about-data-centre-plans/"
+            },
+            {
+              "l": "Data Centre Leaders Summit NZ",
+              "u": "https://datacentreleadersnz.com/"
+            }
+          ]
+        },
+        {
           "date": "02 Aug 2026",
           "headline": "Data centres don't have to be a burden on NZ's grid, energy researchers argue",
           "brief": "<p>With the AI boom driving a global expansion of power-hungry data centres, energy researchers Alan Brent and Andrew Crossland argue New Zealand's grid pressures from projects like Southland's NZ$3.5 billion, 280 megawatt Datagrid facility near Invercargill don't have to become a burden — if the centres are designed and run flexibly. Citing Transpower's estimate that every gigawatt reduction in peak demand could avoid around NZ$1.5 billion in system costs, and pointing to Datagrid's own power-purchase deal with Mercury, they argue New Zealand's goal should be to make data centres grid assets rather than grid constraints.</p>",
@@ -501,6 +524,33 @@
       "chip": "c-space",
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
+        {
+          "date": "15 Aug 2026",
+          "headline": "Rocket Lab Clears US Antitrust Hurdle, Advances Iridium Takeover",
+          "brief": "Rocket Lab Corporation says it has cleared major milestones in its plan to acquire satellite operator Iridium Communications: the US Hart-Scott-Rodino antitrust waiting period expired at 11:59 p.m. Eastern Time on August 12, 2026, a Form S-4 registration statement was filed with the SEC, and FCC applications seeking consent to transfer Iridium's licences and authorisations to Rocket Lab were filed on August 10, 2026. Founder and CEO Sir Peter Beck called the steps major markers in the execution timeline for what the company describes as a \"transformative transaction.\"",
+          "body": [
+            "Rocket Lab first agreed to acquire Iridium in a deal announced on June 29, 2026, under which Rocket Lab will acquire all outstanding Iridium common stock for $54 per share in cash and stock, representing an enterprise value for Iridium of approximately $8.0 billion. The companies described it as one of the most transformative deals in the space industry, uniting Rocket Lab's launch and satellite manufacturing capabilities with Iridium's global satellite communications network, spectrum and 500-plus strong partner ecosystem, giving Rocket Lab an immediate foothold in satellite Internet of Things, direct-to-device, PNT and safety-of-life services built on a network that supports more than 2.55 million active subscribers worldwide.",
+            "On August 13, 2026, Rocket Lab announced substantial further milestones in that acquisition. The waiting period under the U.S. Hart-Scott-Rodino Antitrust Improvements Act of 1976 expired at 11:59 p.m. Eastern Time on August 12, 2026, clearing US antitrust review. Rocket Lab also filed its Registration Statement on Form S-4 with the SEC to register the Rocket Lab securities to be delivered to Iridium shareholders as equity consideration at closing, though that registration statement is not yet effective. Separately, on August 10, 2026, Rocket Lab and Iridium jointly filed applications with the Federal Communications Commission seeking its consent to transfer control of Iridium's licenses and authorizations to Rocket Lab.",
+            "Sir Peter Beck, founder and CEO of Rocket Lab, said: \"Filing the Form S-4 and the FCC applications and receiving U.S. antitrust clearance are all major steps for us in the execution timeline for the Iridium acquisition,\" adding that the milestones \"continue to pave the way toward the completion of this transformative transaction that will position Rocket Lab to accelerate our future into space applications.\"",
+            "On financing, the company confirmed it has a commitment letter with Deutsche Bank Securities Inc., Wells Fargo Bank, National Association, Wells Fargo Securities, LLC and Deutsche Bank AG New York Branch for a 364-day senior secured bridge term loan facility of $3.6 billion, entered into when the merger agreement was signed. Rocket Lab intends to replace that bridge facility with a mix of permanent debt and equity financing. As part of that strategy, Rocket Lab and Iridium intend to seek amendments to Iridium's existing term loan credit facility, which had $1.775 billion outstanding as of June 30, 2026, so it can remain in place after closing on more attractive terms than the bridge facility — though this requires lender consent that is not yet assured. Rocket Lab also separately announced a new at-the-market equity program, replacing its May 2026 program, to help fund cash payments for the acquisition and reduce bridge-facility commitments.",
+            "The company noted that information about Rocket Lab, which may be deemed a participant in Iridium's shareholder solicitation, is included in a preliminary proxy statement/prospectus filed with the SEC on August 13, 2026."
+          ],
+          "lens": "This is a Washington-and-Wall-Street story, not a Mahia one, and it would be dishonest to dress it up as a Hawke's Bay development in itself: there is no announced change here to launch cadence, staffing or infrastructure at Launch Complex 1. But the Bay does have a real, if indirect, stake in how it plays out. An $8 billion acquisition funded substantially by a $3.6 billion bridge loan is a serious stretch of Rocket Lab's balance sheet, and the outcome of debt-for-equity refinancing and lender consents over the coming months will shape how much capital the company has free to keep investing in its Mahia launch site versus servicing new obligations elsewhere. A bigger, debt-laden but successfully vertically integrated Rocket Lab could mean more launch demand and more local contracts over time; a strained one could mean the opposite. What the region can do now is modest but real: keep talking to Rocket Lab directly about workforce, housing and supply-chain planning around Mahia and Napier so that local businesses are positioned to compete for any growth in launches, staff or capital works, while being clear-eyed that this particular announcement is a regulatory and financing milestone in a US-based deal, not a signal of imminent change on the ground in Hawke's Bay.",
+          "sources": [
+            {
+              "l": "GlobeNewswire (Rocket Lab Corporation)",
+              "u": "https://www.globenewswire.com/news-release/2026/08/13/3344359/0/en/rocket-lab-corporation-announces-progress-on-iridium-acquisition-hsr-period-lapses-form-s-4-filed-fcc-applications-filed-capital-strategy-underway.html"
+            },
+            {
+              "l": "Rocket Lab Investor Relations",
+              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-corporation-announces-progress-iridium-acquisition"
+            },
+            {
+              "l": "Rocket Lab Corporation News",
+              "u": "https://rocketlabcorp.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/"
+            }
+          ]
+        },
         {
           "date": "07 Aug 2026",
           "headline": "Mahia Launches Rocket Lab's 92nd Electron, Deploying Japanese Radar Satellite for iQPS",
