@@ -32,6 +32,38 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "16 Aug 2026",
+          "headline": "Wellington AI startup Sterling raises $3.8m to build an 'autopilot' for finance teams",
+          "brief": "<p>Wellington-based artificial intelligence startup Sterling has raised <b>$3.8 million</b> in one of the larger seed funding rounds seen recently in New Zealand's tech sector, just <b>10 months</b> after it was founded. The round, led by trans-Tasman VC firm Blackbird, will help the company expand its finance-automation software into New Zealand, Australia and the United States.</p>",
+          "body": [
+            "<p>A Wellington-based artificial intelligence startup has raised $3.8 million in one of the larger seed funding rounds seen recently in New Zealand's technology sector. Sterling, which was founded just 10 months ago, develops software designed to automate routine finance and accounting work.</p>",
+            "<p>Chief executive and co-founder Nik Wakelin said Sterling was designed to act as an \"autopilot\" for finance teams rather than just another AI chatbot. \"It sits in your finance team, in your inbox and all your systems, picks up things as they arrive and works out where everything goes and files it for you,\" he told RNZ. \"The idea is by the time your finance team turns up in the morning and has their coffee, everything's done and prepped for them, ready to review and tick off.\"</p>",
+            "<p>Despite being only 10 months old, Sterling said it has been rolled out to users since March, and has already completed about 1200 hours of finance work for customers. Clients include honey exporter Manukora, early childhood software company Storypark and insurance broker Echelon.</p>",
+            "<p>The round was led by trans-Tasman venture capital firm Blackbird and included alumni from companies such as Xero, Vend, Pushpay and Trade Me, with the round also supported by Rowan Simpson, Eliot Crowther and other Kiwi founders-investors from those same companies. Co-founder Ludwig Wendzich, who worked at Vend, Lightspeed and Apple, said almost everyone at Sterling, including their investors, \"cut their teeth\" at companies such as Vend and Xero, adding: \"We're the ones who learned how to build world-class software from New Zealand — now we're doing it again, for the people who keep every business running.\"</p>",
+            "<p>Wakelin is an engineer with two decades in startups, having co-founded time-tracking software MinuteDock and developer documentation tool Gelato.io before also holding a senior engineering role at Deliveroo. Wendzich spent close to a decade leading product and design at Vend and, following its acquisition, at Lightspeed, where he was Senior Director of Product Design.</p>",
+            "<p>Sterling says the fresh capital will help it expand in New Zealand, Australia and the United States. Wakelin said securing backing from Blackbird and well-known figures from New Zealand's technology sector would help accelerate the company's growth. \"We really want to build the next generational technology company,\" he said.</p>"
+          ],
+          "lens": "There's no Hawke's Bay business behind this one, so the honest answer is that the region has no direct stake in Sterling's raise or its investors. Where it does matter is on the demand side: the Bay is thick with small and seasonal operations — orchards, wineries, contractors, tourism operators — that carry exactly the kind of repetitive invoicing, reconciliation and month-end workload Sterling says it can automate, and that's a genuine opportunity to cut back-office costs without adding headcount, if and when a Wellington-focused, enterprise-leaning startup like this actually turns its attention to smaller regional clients rather than the larger accounts it says it's chasing first. What the Bay could do is make sure its accountants, bookkeepers and business advisors — through bodies like the Hawke's Bay Chamber of Commerce or local accounting firms — keep an eye on tools like this as they mature, rather than assuming a Wellington-built product aimed at bigger customers will naturally suit a small orchard's books. What it should do is treat this as a skills issue as much as a tools issue: growers and small businesses eventually adopting AI finance automation will need staff who can supervise and sanity-check it, so regional training providers have a real opening to build basic AI-oversight literacy into bookkeeping and admin courses now, well ahead of the tools actually arriving on local doorsteps.",
+          "sources": [
+            {
+              "l": "RNZ",
+              "u": "https://www.rnz.co.nz/news/business/1002786/ai-accounting-startup-sterling-raises-3-point-8m-seed-round"
+            },
+            {
+              "l": "SmartCompany",
+              "u": "https://www.smartcompany.com.au/startupsmart/eight-anz-startups-that-raised-67-4-million-this-week/"
+            },
+            {
+              "l": "Scoop",
+              "u": "https://www.scoop.co.nz/stories/BU2608/S00132/nzs-sterling-lands-38m-to-run-finance-on-autopilot.htm"
+            },
+            {
+              "l": "Startup Daily",
+              "u": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/"
+            }
+          ]
+        },
+        {
           "date": "13 Aug 2026",
           "headline": "Havelock North's Margaret Thomas, 79, talks to Alexa before her feet hit the floor — and she's not alone",
           "brief": "In her Havelock North retirement village townhouse, 79-year-old Margaret Thomas now runs her whole morning through an AI voice assistant, and she was one of 43 people aged 60 to 92 who attended Love Heart Social Learning's first Hawke's Bay AI workshop in June. The workshop's co-founder, educator Frances Valintine, says older Kiwis are far more switched-on to AI than they're given credit for — while also warning about deepfake risks.",
