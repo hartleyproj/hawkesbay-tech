@@ -32,6 +32,25 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "20 Aug 2026",
+          "headline": "619 participants, including 60 rangatahi, build 'AI for good' projects in nationwide challenge heading to Wellington summit",
+          "brief": "<p>A nationwide push to get young New Zealanders building practical AI tools has drawn <b>619 participants</b>, including <b>60 rangatahi</b>, working alongside <b>114 mentors</b> and <b>41 industry judges</b>. Nine venue-winning teams now go through to national judging, with four finalists set to pitch at the Aotearoa AI Summit at Tākina, Wellington, on 8–9 September for the 2026 TAIAO Prize.</p>",
+          "body": [
+            "Tech New Zealand's newsletter reports that <cite></cite> from Dunedin to Auckland, 619 participants, including 60 rangatahi, alongside 114 mentors and 41 industry judges joined forces to build AI for good.",
+            "<cite></cite> Over two days, teams developed practical AI solutions for challenges including food insecurity, digital accessibility, education, employment and kaitiakitanga.",
+            "<cite></cite> The nine venue-winning teams now progress to national judging, with four finalists set to pitch at the Aotearoa AI Summit at Tākina, Wellington, on 8–9 September, and the Summit audience will vote for the 2026 TAIAO Prize winner.",
+            "The same newsletter round-up covers other current Tech New Zealand activity. It notes that its Digital Trust Hui Taumata 2026 brought together leaders from government, industry and communities to explore a shared goal of universal trust, with speakers highlighting the need for people-first digital identity, open and interoperable systems, and governance reflecting community needs, and practical use cases discussed from age verification and payments to employment and public services.",
+            "Tech New Zealand also used the update to launch a new national community, Quantum & Photonics New Zealand, describing it as bringing together the people and organisations shaping Aotearoa New Zealand's next generation of advanced technologies, alongside news that DataCentres New Zealand has launched an industry-led strategy for the data centre and AI infrastructure the country needs for productivity, resilience and future growth. It also flagged that ShadowTech26 was continuing that week, giving more than 1,500 students across nine locations a first-hand look at technology careers through Tech Women's programme connecting Year 9–11 students with technology workplaces."
+          ],
+          "lens": "This is a genuinely national story rather than a Hawke's Bay one — the newsletter names venues only as running 'from Dunedin to Auckland', with no mention of a Hawke's Bay leg, so it would be dishonest to claim direct local involvement this time. What it does hand the Bay is a template and a deadline: a youth-facing, mentor-heavy AI challenge that pairs rangatahi with industry judges to solve real problems like food insecurity and education — exactly the kind of framing that could suit a region with a strong horticulture and growing sector and a polytechnic like EIT already teaching technology. The concrete, low-risk move for the region is to start asking Tech New Zealand directly what it would take to host or feed a venue into a future round, and for local firms with any AI capability to ask about joining the mentor or judging pool rather than only reading about other regions doing it after the fact. Sending even a small watching brief to the Aotearoa AI Summit in Wellington on 8–9 September, where the TAIAO Prize finalists pitch, would let Hawke's Bay people see firsthand what a winning 'AI for good' project actually looks like before the region decides whether — and how — to try to bring any version of the model home.",
+          "sources": [
+            {
+              "l": "Tech New Zealand",
+              "u": "https://technewzealand.org.nz/2026/08/17/ai-for-good-digital-infrastructure-and-talent/"
+            }
+          ]
+        },
+        {
           "date": "16 Aug 2026",
           "headline": "Wellington AI startup Sterling raises $3.8m to build an 'autopilot' for finance teams",
           "brief": "<p>Wellington-based artificial intelligence startup Sterling has raised <b>$3.8 million</b> in one of the larger seed funding rounds seen recently in New Zealand's tech sector, just <b>10 months</b> after it was founded. The round, led by trans-Tasman VC firm Blackbird, will help the company expand its finance-automation software into New Zealand, Australia and the United States.</p>",
@@ -216,6 +235,32 @@
       "chip": "c-solar",
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
+        {
+          "date": "20 Aug 2026",
+          "headline": "Government moves to slash solar consent times from three months to six days",
+          "brief": "<p>New Zealand's government has announced plans to simplify residential and small-to-medium scale solar approvals, cutting typical waiting times from <b>three months to six days</b> and costs from <b>NZ$640 to NZ$200</b>, according to Ministers Seymour and Brown. The move advances recommendations from a Ministry for Regulation sector review, which has also recommended legalising plug-in solar systems.</p>",
+          "body": [
+            "New Zealand's government has announced plans to simplify residential and small-to-medium scale solar approvals, pledging to cut waiting times from three months to six days and costs from NZ$640 to NZ$200, according to Ministers Seymour and Brown. The announcement advances the recommendations of the Ministry for Regulation's sector review report to simplify the installation of residential and small to medium scale solar panels, with the stated goal of making New Zealand the country where this process is simplest among developed economies.",
+            "The underlying review was ordered by the government, which described the existing approvals process as a \"red tape nightmare\" that can delay approvals for months, and set out to make New Zealand the \"simplest developed country for solar deployment\" by addressing barriers that currently require up to eight layers of sign-off and five separate site visits from four different entities before small-scale systems can be switched on. Regulation Minister David Seymour pointed to Victoria, Australia, as a potential model, where standard installations require just one layer of sign-off and can be approved within 24 hours, with installers managing the entire process and licensed electrical inspectors carrying out remote inspections using photographs unless non-compliance is identified. \"During installation, the installer often cannot turn off or reconnect the fuse, update the meter, or carry out the required independent electrical inspection,\" Seymour said. \"These tasks must be done by other entities, requiring additional site visits.\" Analysis by the Energy Efficiency and Conservation Authority cited in the review shows most New Zealand households could save more than NZ$1,000 annually on power bills by installing solar, with a typical small-to-medium system costing between NZ$8,500 and NZ$11,500 and paying for itself over about ten years. The push comes as New Zealand's distributed solar capacity increased 44% in 2025, with a record 258MW installed last year, according to data from Electricity Authority Te Mana Hiko.",
+            "As part of the same review, the Ministry for Regulation has also recommended legalising plug-in solar, alongside approving installations under 10kW by the next working day and allowing accredited installers to sign off installations under 100kW without an inspection. The report found that while demand for residential and business solar systems is increasing, prospective buyers face a time-consuming and frustrating customer journey due to the fragmented nature of existing regulations, and it suggests a series of changes to remove unnecessary barriers, reduce delays, speed up approvals and remove disproportionate requirements. \"The report recommends legalizing plug-in solar because there was no good reason for preventing Kiwis using it,\" Seymour said. \"Plug-in systems can be used by renters and people living in apartments who can't access traditional rooftop solar. If they're good enough for Germany and the UK, they're good enough for us.\" Energy Minister Simeon Brown welcomed the proposals, saying \"New Zealanders want more control over their power bills and want to harness the power of the sun,\" and that the changes \"will help give power back to the people by making solar uptake cheaper and faster.\"",
+            "On the numbers, once all the recommendations are implemented, the approval cost for a residential installation would fall from about NZ$640 over three months to NZ$200 over six days. For small-to-medium scale installations, such as panels installed on a farm milking shed, the cost would fall from up to NZ$11,000 over six months to NZ$1,300 over one month. The government also plans to shorten the processing times lines companies take to approve solar requests, with a standard residential request cut from ten working days to next-day processing. The Ministry estimates the recommendations could deliver net benefits of between NZ$28 million and NZ$50 million over ten years, through lower compliance costs, reduced delays and the use of plug-in solar."
+          ],
+          "lens": "This is a national process reform, not a local plant or investment, so there's no ribbon-cutting for Hawke's Bay here — but the practical effect lands directly on every Bay household, orchard, winery and small business weighing up rooftop or on-farm solar. If consent really does drop from three months and $640 to six days and $200, and lines companies start approving standard residential requests the next working day, that removes one of the biggest deterrents to going solar. The milking-shed example the Ministry itself uses — small-to-medium installations dropping from up to $11,000 and six months to $1,300 and one month — speaks directly to Hawke's Bay's orchards and wineries, many of which run exactly this kind of high daytime power draw for irrigation pumps, cool stores and processing sheds. The region could simply wait for the rules to filter through nationally; what it should do is get ahead of them. Local councils have limited ability to change electricity-network or building-consent rules themselves, since those sit with central government and lines companies, but they can make sure their own permitted-activity and building-consent processes aren't adding extra friction on top of the national reform once it lands. Local electricians and solar installers should also prepare for a possible jump in enquiries once the cost and wait-time barriers fall — and if plug-in solar is eventually legalised, that opens a cheaper entry point for the Bay's renters and apartment dwellers who currently have no realistic access to solar at all.",
+          "sources": [
+            {
+              "l": "energynews.pro",
+              "u": "https://energynews.pro/en/new-zealand-cuts-solar-installation-approval-times-from-3-months-to-6-days"
+            },
+            {
+              "l": "PV Tech",
+              "u": "https://www.pv-tech.org/new-zealand-launches-sector-review-to-streamline-residential-solar-approvals/"
+            },
+            {
+              "l": "Solar Now (pv magazine India)",
+              "u": "https://now.solar/2026/08/05/new-zealand-looks-to-legalize-plug-in-solar-pv-magazine-india/"
+            }
+          ]
+        },
         {
           "date": "29 Jul 2026",
           "headline": "Hawke's Bay's first utility-scale solar farm breaks ground in Central Hawke's Bay",
@@ -411,6 +456,28 @@
       "chip": "c-cloud",
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
+        {
+          "date": "20 Aug 2026",
+          "headline": "Australian data-centre firm CDC eyes a Taranaki site — with Contact Energy as partner",
+          "brief": "<p>Australian data-centre operator <b>CDC</b> has flagged interest in building a New Zealand data centre in partnership with <b>Contact Energy</b>, on land near Contact's former Taranaki Combined Cycle power station in Stratford. CDC says the site already has energy and high-capacity fibre connectivity, including subsea links, running through to Auckland, and that the project remains at an early 'exploration stage'.</p>",
+          "body": [
+            "Australian data center firm CDC has announced interest in a potential data center in New Zealand in partnership with Contact Energy.",
+            "The proposed site would be on the country's North Island in Stratford, Taranaki, based on land near Contact Energy's former Taranaki Combined Cycle power station.",
+            "CDC said the site has existing energy and connectivity infrastructure, including high-capacity fiber, both terrestrial and subsea, offering connection to Auckland, the location of New Zealand's international cables.",
+            "The potential facility would be focused on supporting critical and sovereign workloads in government and public sector systems, healthcare and emergency services, scientific and research computing, banking and payments, and emergency and critical communications networks.",
+            "Electricity to the facility would be supplied under a long-term contract and supported by Contact Energy's renewable development pipeline. CDC's other New Zealand data centers are powered by 100 percent renewable energy, and the facility would also feature a closed-loop cooling system, which CDC currently uses in its other facilities.",
+            "CDC said the project remains at \"exploration stage\" and any development will be subject to due diligence, consenting, and commercial requirements.",
+            "CDC founder and chief executive Greg Boorer said: \"CDC builds the infrastructure that governments, health systems, emergency services, researchers and financial institutions depend on. This is where sovereign data is held, where critical systems stay online, and where the most sensitive information stays in country.\" He added that Stratford has the potential to bring together renewable generation, grid connection, fiber and a skilled technical workforce in a way very few places can, and that this combination is why CDC is looking at it seriously.",
+            "Founded in 2007, Infratil-backed CDC has nearly 20 sites in operation and development across Sydney, Canberra, Melbourne, and Auckland, New Zealand, with more than 600MW of data center capacity in operation and development across those markets. The Stratford news came the week after CDC announced plans to develop a new campus in Sydney."
+          ],
+          "lens": "This is a Taranaki story, not a Hawke's Bay one, and it's worth being honest about why: CDC's interest in Stratford is built entirely around an asset the Bay doesn't have — a retired thermal power station site with existing grid connections and a fibre route that already runs to Auckland's international cable landings. Hawke's Bay doesn't have a mothballed power plant sitting idle with spare grid capacity and subsea fibre nearby, so chasing a hyperscaler campus of this kind would be forcing a fit that isn't there. The project is also still only at 'exploration stage', with CDC itself stressing that nothing is committed and any development depends on due diligence, consenting and commercial sign-off — a reminder that even Taranaki's advantages don't guarantee the facility gets built. What the region can realistically do is play to its actual strengths: if any decommissioned or under-used energy or industrial sites exist locally with genuine grid headroom, council and regional development agencies should be actively surveying and marketing them now, before other regions lock in every spare megawatt and fibre path. More practically, growers, wineries and local firms don't need a data centre next door to benefit from this wave — the real opportunity is making sure Hawke's Bay businesses are using the cloud and sovereign-data capacity being built elsewhere in the country, and that local IT and connectivity providers are ready to help them do it, rather than waiting for a CDC-scale project that is very unlikely to land here.",
+          "sources": [
+            {
+              "l": "DatacenterDynamics",
+              "u": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/"
+            }
+          ]
+        },
         {
           "date": "15 Aug 2026",
           "headline": "NZ's biggest tech company admits data-centre secrecy is fuelling backlash",
