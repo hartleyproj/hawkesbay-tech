@@ -1,25 +1,29 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Defence Tech",
+    "chipLabel": "Economy",
     "sector": "bay",
-    "date": "19 Aug 2026",
-    "headline": "Kiwi Workshops in the Running as Defence Opens Up to Homegrown Drones",
-    "byline": "17-18 Aug 2026 · No Bay firm named yet — but a $100m-$300m supply chain is opening up",
-    "brief": "<p>New Zealand's drone-manufacturing world got a rare public airing this week when RNZ's The Detail visited Obsidian Systems, a workshop run by <b>Philip Solaris</b> <span data-cite=\"1-2\">at the end of a winding, gravel road in the far north of Auckland - overlooking a valley of native bush, and beyond to Hauturu in the Hauraki Gulf</span>. Solaris, chief executive of the firm, says <span data-cite=\"1-3\">\"We like to think of ourselves as the Skunk Works of robots\"</span>, a nod to Lockheed Martin's secretive innovation arm. The piece is <span data-cite=\"1-1\">an insight into the world of drones and their makers, how they're used in conservation and disasters, and what our defence force plans to do with them</span>, and it landed just as the Defence Force signalled real openings for local manufacturers.</p><p><span data-cite=\"1-7\">Last month, the government announced it is starting the process to purchase long-range one-way strike drones</span>, with the aim to <span data-cite=\"2-8\">review, trial and select a strike drone by the end of March next year</span>. Defence is separately <span data-cite=\"1-9\">doing market research this week on unarmed long-range uncrewed aircraft systems that can conduct maritime surveillance tasks, starting with a request for information from businesses</span>. Asked how the strike drones will be used, the Defence Force said that would <span data-cite=\"1-8\">\"depend on a number of factors such as manufacturing, delivery, integration of various sub-systems and the time to train NZDF personnel to operate the new drones\"</span>. Then-minister Chris Penk said <span data-cite=\"1-10\">both investments have $100 million to $300 million allocated</span>, and Solaris — <span data-cite=\"1-11\">who has worked on robotic systems for nearly two decades</span> — says <span data-cite=\"2-13\">New Zealand companies like his are capable of filling the orders for drones</span>. <span data-cite=\"2-14\">\"I believe all the capability is within New Zealand to be world leaders in this realm, I really do, I've seen it,\"</span> he says, adding <span data-cite=\"2-15\">\"it's not just our company, there's a whole lot of companies in New Zealand that can all be part of that\"</span> — noting <span data-cite=\"2-16\">\"we can't manufacture huge frigates but we can manufacture thousands of small craft\"</span>.</p><p>The scale of the wider opportunity is backed by industry figures: <span data-cite=\"20-1\">a Deloitte study commissioned by MBIE in April 2025 found New Zealand's advanced aviation sector generated $0.53 billion in revenue in FY2024 and directly supported 2,000 full-time jobs</span>.</p>",
-    "lens": "No Hawke's Bay company gets a mention in any of this — and pretending otherwise would be dishonest. What's real is the shape of the opportunity: a defence budget line worth $100 million to $300 million for long-range strike drones, a parallel maritime-surveillance programme out for market research, and a Defence Force openly saying it wants to know what local manufacturers can build, deliver and integrate. That's a door, not a guarantee, and by Solaris's own account it favours a scattered field of small workshops rather than one or two big primes. If the Bay has precision engineering, composites, electronics or aviation-adjacent firms with the discipline to meet defence-grade standards, the sensible move now is simply to find the current RFI and put a submission in — not to wait for a press release confirming Napier or Hastings already has a seat at the table, because right now it doesn't.",
+    "date": "21 Aug 2026",
+    "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Is the Country Keeping the Gains?",
+    "byline": "National · 18 Aug 2026 · A landmark valuation of NZ's startup economy, and a warning about where the benefits actually land",
+    "brief": "<p><b>New Zealand's technology sector has received some unusually good news.</b> <span>A new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion. It identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</span> <span>Two of these are \"decacorns\" valued at more than US$10 billion – aerospace firm Rocket Lab and global financial services provider FNZ.</span> <span>Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested</span>, an analysis of the report by University of Auckland Business School entrepreneurship professor Rod McNaughton notes. Even so, <span>despite its high capital efficiency, New Zealand has less venture capital-backed enterprise value per person than several comparable innovation economies.</span></p><p>But the report's real sting is in the question it raises rather than the number it produces. <span>Is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</span> <span>A company can remain headquartered in New Zealand while its economic centre of gravity progressively moves elsewhere. Equally, a company can establish its headquarters offshore while retaining substantial research, engineering and other high-value activities in New Zealand.</span></p><p><span>Successful firms such as Xero, Trade Me, Pushpay and Rocket Lab produce experienced managers, engineers and investors who have learned how to build at a global scale.</span> <span>That is why the report describes Kiwi founders building major companies offshore as a \"double loss\" — New Zealand can miss both some of the original value creation and the subsequent recycling of talent and capital that helps produce the next generation of companies.</span> <span>Innovation policy should therefore pay as much attention to the productive capability successful firms leave behind as it does to capital invested, company valuations and unicorn counts.</span> <span>Ultimately, the greatest value of a successful technology company may be the capability it leaves behind. That is what makes the next success more likely.</span></p>",
+    "lens": "There's no Hawke's Bay unicorn in this report, and it would be dishonest to pretend otherwise — the region doesn't feature in it. But the argument at the heart of the piece is one the Bay should take personally: value isn't just what a company is worth at exit, it's whether the engineers, managers and technical know-how it trained stick around afterwards. For a region without a Rocket Lab or an FNZ, the practical takeaway isn't chasing unicorns — it's making sure that when Bay-connected people do cut their teeth at Auckland or Wellington scale-ups, or when a promising local software or agritech venture gets acquired, there's a reason for that experience and capability to come home rather than simply cash out and relocate. That means local firms and regional business support networks investing in retention — flexible remote-work arrangements, local advisory roles for returning talent, and visible pathways for founders who want to build from the regions rather than only from the main centres. It's a slower, less headline-grabbing strategy than landing a defence contract, but the report's own argument is that capability, not capital alone, is what compounds.",
     "sources": [
       {
-        "l": "Newsroom",
-        "u": "https://newsroom.co.nz/2026/08/17/the-incredible-world-of-kiwi-made-drones/"
-      },
-      {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1020784/the-incredible-world-of-kiwi-made-drones"
+        "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
       },
       {
-        "l": "B2B News NZ",
-        "u": "https://b2bnews.co.nz/news/nz-drone-makers-eye-200m-defence-contracts/"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/nz/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits/7COPMECISVDKXBQHEDQQU3XUZE/"
+      },
+      {
+        "l": "University of Auckland",
+        "u": "https://www.auckland.ac.nz/en/news/2026/08/18/keeping-nz-tech-benefits.html"
+      },
+      {
+        "l": "The Conversation",
+        "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
       }
     ]
   },
@@ -235,6 +239,32 @@
       "chip": "c-solar",
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
+        {
+          "date": "21 Aug 2026",
+          "headline": "NZ's solar generation surges 66% in a year as renewables hit a record 47.7% of energy supply",
+          "brief": "<p>MBIE's 2026 Energy in New Zealand report shows <cite index=\"1-1\">a 66% increase in solar generation over the past year to a new record, with several large utility-scale solar farms coming online</cite>, while <cite index=\"1-5\">the share of energy supply from renewable sources reached a new record high of 47.7%</cite> and <cite index=\"1-7\">88.5% of electricity was generated from renewable sources</cite> in 2025.</p>",
+          "body": [
+            "The Ministry of Business, Innovation and Employment's 2026 Energy in New Zealand report shows that <cite index=\"1-1\">solar generation rose 66% over the past year to a new record, with several large utility-scale solar farms coming online</cite>. <cite index=\"1-3\">Geothermal generation also hit a record high in 2025.</cite>",
+            "<cite index=\"1-4\">Solar generation is expected to continue increasing over the next few years, with many grid-connected solar plants currently under construction or in planning.</cite>",
+            "<cite index=\"1-5,1-6\">While New Zealand's total energy supply decreased in 2025, mainly due to reduced coal and gas production, the share of energy supply from renewable sources reached a new record high of 47.7%, and renewables' contribution to overall energy supply has been growing since 2020.</cite> <cite index=\"1-7\">In 2025, 88.5% of electricity was generated from renewable sources.</cite>",
+            "<cite index=\"12-9,12-10\">Energy consumption from renewable sources increased to a record 32% of total consumption, reflecting both an increase in renewable supply and lower industrial demand for energy, which is mainly met from non-renewable sources.</cite> <cite index=\"3-4\">Coal consumption fell to a record low in 2025, and natural gas consumption dropped to 2008 levels.</cite>"
+          ],
+          "lens": "This is a national scorecard, but it lands on top of a real, already-underway Hawke's Bay project that fits the exact pattern MBIE describes — a utility-scale solar farm moving from planning into construction. Centralines and Lodestone Energy are building a $50 million solar farm on the Ruataniwha Plains near Ongaonga, comprising 49,000 solar panels on 14ha of a 34ha block that was previously dry stock farmland, expected to generate about 50GWh of renewable electricity a year — enough to power about 7000 homes — and to feed directly into the Centralines network, reducing the district's reliance on power carried in from elsewhere. Lodestone has described the region as one blessed with strong solar resources but historically hit hard by power prices, and Centralines expects the build to create up to 80 construction jobs, including around 30 skilled roles, with the farm due to be operating by late summer 2027. Central Hawke's Bay's mayor has framed new local generation as important for the district given rising electricity demand and the shift away from fossil fuels. The honest picture, though, is that this is still one project: the national data shows a wave of utility-scale solar reaching financial close and construction right now, and Hawke's Bay's stake in that wave is this single Ruataniwha Plains development rather than a fleet of completed farms. What the region can sensibly do is make sure this project actually gets built to schedule and delivers the promised local jobs and network benefits, and treat it as the template — proof that Hawke's Bay's sunshine and existing grid connections can attract serious investment — for any further utility-scale proposals that follow, rather than assuming national solar records automatically translate into local generation without projects like this one reaching completion.",
+          "sources": [
+            {
+              "l": "MBIE",
+              "u": "https://www.mbie.govt.nz/about/news/solar-and-geothermal-generation-at-record-highs"
+            },
+            {
+              "l": "Xinhua",
+              "u": "https://english.news.cn/asiapacific/20260820/2aac6bf8179e4db3b37d4046b5803458/c.html"
+            },
+            {
+              "l": "NZ Herald",
+              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/central-hawkes-bay-50-million-utility-scale-solar-farm-to-be-built-on-the-ruataniwha-plains/GIWP3KP5QZDSPOS7JLAIC5AMSU/"
+            }
+          ]
+        },
         {
           "date": "20 Aug 2026",
           "headline": "Government moves to slash solar consent times from three months to six days",
@@ -1084,6 +1114,28 @@
     }
   ],
   "headlines": [
+    {
+      "date": "19 Aug 2026",
+      "chipLabel": "Defence Tech",
+      "headline": "Kiwi Workshops in the Running as Defence Opens Up to Homegrown Drones",
+      "byline": "17-18 Aug 2026 · No Bay firm named yet — but a $100m-$300m supply chain is opening up",
+      "brief": "<p>New Zealand's drone-manufacturing world got a rare public airing this week when RNZ's The Detail visited Obsidian Systems, a workshop run by <b>Philip Solaris</b> <span data-cite=\"1-2\">at the end of a winding, gravel road in the far north of Auckland - overlooking a valley of native bush, and beyond to Hauturu in the Hauraki Gulf</span>. Solaris, chief executive of the firm, says <span data-cite=\"1-3\">\"We like to think of ourselves as the Skunk Works of robots\"</span>, a nod to Lockheed Martin's secretive innovation arm. The piece is <span data-cite=\"1-1\">an insight into the world of drones and their makers, how they're used in conservation and disasters, and what our defence force plans to do with them</span>, and it landed just as the Defence Force signalled real openings for local manufacturers.</p><p><span data-cite=\"1-7\">Last month, the government announced it is starting the process to purchase long-range one-way strike drones</span>, with the aim to <span data-cite=\"2-8\">review, trial and select a strike drone by the end of March next year</span>. Defence is separately <span data-cite=\"1-9\">doing market research this week on unarmed long-range uncrewed aircraft systems that can conduct maritime surveillance tasks, starting with a request for information from businesses</span>. Asked how the strike drones will be used, the Defence Force said that would <span data-cite=\"1-8\">\"depend on a number of factors such as manufacturing, delivery, integration of various sub-systems and the time to train NZDF personnel to operate the new drones\"</span>. Then-minister Chris Penk said <span data-cite=\"1-10\">both investments have $100 million to $300 million allocated</span>, and Solaris — <span data-cite=\"1-11\">who has worked on robotic systems for nearly two decades</span> — says <span data-cite=\"2-13\">New Zealand companies like his are capable of filling the orders for drones</span>. <span data-cite=\"2-14\">\"I believe all the capability is within New Zealand to be world leaders in this realm, I really do, I've seen it,\"</span> he says, adding <span data-cite=\"2-15\">\"it's not just our company, there's a whole lot of companies in New Zealand that can all be part of that\"</span> — noting <span data-cite=\"2-16\">\"we can't manufacture huge frigates but we can manufacture thousands of small craft\"</span>.</p><p>The scale of the wider opportunity is backed by industry figures: <span data-cite=\"20-1\">a Deloitte study commissioned by MBIE in April 2025 found New Zealand's advanced aviation sector generated $0.53 billion in revenue in FY2024 and directly supported 2,000 full-time jobs</span>.</p>",
+      "lens": "No Hawke's Bay company gets a mention in any of this — and pretending otherwise would be dishonest. What's real is the shape of the opportunity: a defence budget line worth $100 million to $300 million for long-range strike drones, a parallel maritime-surveillance programme out for market research, and a Defence Force openly saying it wants to know what local manufacturers can build, deliver and integrate. That's a door, not a guarantee, and by Solaris's own account it favours a scattered field of small workshops rather than one or two big primes. If the Bay has precision engineering, composites, electronics or aviation-adjacent firms with the discipline to meet defence-grade standards, the sensible move now is simply to find the current RFI and put a submission in — not to wait for a press release confirming Napier or Hastings already has a seat at the table, because right now it doesn't.",
+      "sources": [
+        {
+          "l": "Newsroom",
+          "u": "https://newsroom.co.nz/2026/08/17/the-incredible-world-of-kiwi-made-drones/"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1020784/the-incredible-world-of-kiwi-made-drones"
+        },
+        {
+          "l": "B2B News NZ",
+          "u": "https://b2bnews.co.nz/news/nz-drone-makers-eye-200m-defence-contracts/"
+        }
+      ]
+    },
     {
       "date": "18 Aug 2026",
       "chipLabel": "Economy",
