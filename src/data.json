@@ -1,29 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Economy",
+    "chipLabel": "Infrastructure",
     "sector": "bay",
-    "date": "21 Aug 2026",
-    "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Is the Country Keeping the Gains?",
-    "byline": "National · 18 Aug 2026 · A landmark valuation of NZ's startup economy, and a warning about where the benefits actually land",
-    "brief": "<p><b>New Zealand's technology sector has received some unusually good news.</b> <span>A new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion. It identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</span> <span>Two of these are \"decacorns\" valued at more than US$10 billion – aerospace firm Rocket Lab and global financial services provider FNZ.</span> <span>Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested</span>, an analysis of the report by University of Auckland Business School entrepreneurship professor Rod McNaughton notes. Even so, <span>despite its high capital efficiency, New Zealand has less venture capital-backed enterprise value per person than several comparable innovation economies.</span></p><p>But the report's real sting is in the question it raises rather than the number it produces. <span>Is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</span> <span>A company can remain headquartered in New Zealand while its economic centre of gravity progressively moves elsewhere. Equally, a company can establish its headquarters offshore while retaining substantial research, engineering and other high-value activities in New Zealand.</span></p><p><span>Successful firms such as Xero, Trade Me, Pushpay and Rocket Lab produce experienced managers, engineers and investors who have learned how to build at a global scale.</span> <span>That is why the report describes Kiwi founders building major companies offshore as a \"double loss\" — New Zealand can miss both some of the original value creation and the subsequent recycling of talent and capital that helps produce the next generation of companies.</span> <span>Innovation policy should therefore pay as much attention to the productive capability successful firms leave behind as it does to capital invested, company valuations and unicorn counts.</span> <span>Ultimately, the greatest value of a successful technology company may be the capability it leaves behind. That is what makes the next success more likely.</span></p>",
-    "lens": "There's no Hawke's Bay unicorn in this report, and it would be dishonest to pretend otherwise — the region doesn't feature in it. But the argument at the heart of the piece is one the Bay should take personally: value isn't just what a company is worth at exit, it's whether the engineers, managers and technical know-how it trained stick around afterwards. For a region without a Rocket Lab or an FNZ, the practical takeaway isn't chasing unicorns — it's making sure that when Bay-connected people do cut their teeth at Auckland or Wellington scale-ups, or when a promising local software or agritech venture gets acquired, there's a reason for that experience and capability to come home rather than simply cash out and relocate. That means local firms and regional business support networks investing in retention — flexible remote-work arrangements, local advisory roles for returning talent, and visible pathways for founders who want to build from the regions rather than only from the main centres. It's a slower, less headline-grabbing strategy than landing a defence contract, but the report's own argument is that capability, not capital alone, is what compounds.",
+    "date": "23 Aug 2026",
+    "headline": "BCG Report: NZ Data-Centre Boom Could Be Worth $120 Billion — With 3,500 Construction Jobs Up For Grabs",
+    "byline": "23 August 2026 · National data-centre push and its trades boom — the electrical, mechanical and civil jobs on offer, and why Hawke's Bay should be paying attention",
+    "brief": "<p>A new report from Boston Consulting Group (BCG) has sharply lifted New Zealand's growth story for data centres. <b><cite index=\"1-3\">The report by Boston Consulting Group (BCG) said New Zealand could capture up to $120 billion in economic activity from new data centres over the next decade if it moved quickly.</cite></b> That's a big jump — <b><cite index=\"1-4\">up from the group's earlier forecast of $70 billion</cite></b> in potential economic gains — and it's built on <b><cite index=\"1-5\">a larger future data centre build-out of 1 gigawatt (GW)</cite></b>.</p><p>The jobs numbers are just as striking. BCG said a construction programme of that scale could drive economic activity across the country's supply chain, <b><cite index=\"1-6\">creating about 3500 jobs during the peak construction period</cite></b>, with <b><cite index=\"1-7\">about 60 percent of those roles</cite></b> expected to be <b>in electrical and mechanical trades</b>, and <b><cite index=\"1-7\">civil trades accounting for a further 21 percent</cite></b>. Once built, <cite index=\"18-1\">the report said that once operational, data centres typically sustain about one role for every megawatt of capacity, resulting in about 1000 ongoing jobs</cite>. BCG New Zealand managing director and partner Kelly Newton said <cite index=\"1-9\">\"Between New Zealand's natural advantages, renewables development, stable political environment, and growing investor interest, it has the opportunity to move quickly to capture its slice of the global data centre pie, worth approximately $120 billion in economic activity.\"</cite></p><p>The forecast lands as real projects start moving: <b><cite index=\"1-10\">Contact Energy announced it was exploring plans with CDC Data Centres for a potential large-scale 250-megawatt data centre at Stratford in Taranaki</cite></b>, while in the south, <b><cite index=\"1-11\">Datagrid is preparing to build a large-scale data centre at Makarewa, north of Invercargill</cite></b>. It's not uncontested — <cite index=\"1-12,1-13\">large builds have faced local opposition in the United States and the Greens have recently called for a one-year moratorium</cite> on data centre construction here.</p>",
+    "lens": "None of this build-out is landing in Hawke's Bay yet — the projects named are in Taranaki and Southland, not here — but the workforce mix BCG describes is the region's bread and butter: electricians, mechanical fitters and civil contractors are exactly the trades Hawke's Bay's ITOs and polytechs already train for orchards, wineries and post-Cyclone Gabrielle rebuild work. If a genuine gigawatt-scale national build-out arrives, the honest opportunity for the Bay isn't hosting a hyperscale campus — that will chase cheap land, grid capacity and renewable generation elsewhere — it's supplying skilled trades labour and components into a construction pipeline that BCG says will peak nationally within the decade. The region's economic development agencies and training providers should be watching where the actual consented projects land and making sure local apprentices and contractors are visible and ready to bid into that supply chain, rather than assuming a data centre itself is coming to Napier or Hastings.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
+        "u": "https://www.rnz.co.nz/news/business/1063865/data-centre-build-could-create-5000-jobs-report-says"
       },
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/nz/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits/7COPMECISVDKXBQHEDQQU3XUZE/"
-      },
-      {
-        "l": "University of Auckland",
-        "u": "https://www.auckland.ac.nz/en/news/2026/08/18/keeping-nz-tech-benefits.html"
-      },
-      {
-        "l": "The Conversation",
-        "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
+        "l": "Otago Daily Times",
+        "u": "https://www.odt.co.nz/business/data-centre-builds-could-create-5000-jobs-report-x3iia0ym"
       }
     ]
   },
@@ -654,6 +646,32 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "23 Aug 2026",
+          "headline": "Rocket Lab's 93rd Electron Lifts Off From Mahia, With Nine More iQPS Launches Booked Through 2030",
+          "brief": "<p>Rocket Lab launched its <b>93rd</b> Electron mission from Launch Complex 1 at Mahia at <b>1:04 a.m. NZST on August 21, 2026</b>, deploying another Earth-imaging satellite for Japan's iQPS into a <b>575km</b> orbit. <cite index=\"4-1\">The mission launched from Rocket Lab Launch Complex 1 in New Zealand and deployed the next QPS-SAR satellite in iQPS' synthetic aperture radar (SAR) imaging constellation to a 575km low Earth orbit.</cite> <cite index=\"8-1\">This was the ninth deployment of a QPS-SAR satellite with 100% mission success, reinforcing Electron's position as the primary launch vehicle for the iQPS constellation.</cite> <cite index=\"4-6\">With this mission complete, nine dedicated launches remain booked on Electron by iQPS to deliver their constellation to space by 2030.</cite></p>",
+          "body": [
+            "Rocket Lab's latest Electron mission, dubbed 'The Lightning God Defends', lifted off from Launch Complex 1 in Mahia, New Zealand. <cite index=\"4-1\">The mission launched at 1:04 a.m. NZST on August 21, 2026, and deployed the next QPS-SAR satellite in iQPS' synthetic aperture radar (SAR) imaging constellation to a 575km low Earth orbit, for the Institute for Q-shu Pioneers of Space, Inc. (iQPS).</cite>",
+            "<cite index=\"4-4\">This mission marked Rocket Lab's 93rd overall Electron launch and 14th launch of the year.</cite> <cite index=\"8-1\">This was also the ninth deployment of a QPS-SAR satellite with 100% mission success, reinforcing Electron's position as the primary launch vehicle for the iQPS constellation.</cite>",
+            "<cite index=\"4-6\">With this mission complete, nine dedicated launches remain booked on Electron by iQPS to deliver their constellation to space by 2030.</cite>",
+            "<cite index=\"6-6\">Following this news, RKLB has declined 4.29%, reflecting a moderate negative market reaction, according to StockTitan.</cite>"
+          ],
+          "lens": "Mahia sits in Wairoa District, inside the Hawke's Bay region, which means every one of these launches is technically happening in our own backyard rather than somewhere abstract on the map. The honest reality is that most of the economic upside — satellite manufacturing, mission control, the well-paid engineering jobs — sits with Rocket Lab's other operations, not with Wairoa or the wider Bay, and a launch every few weeks from a remote peninsula does not by itself build a regional industry. What the Bay could realistically do is stop treating LC-1 as a curiosity and start treating it as regional infrastructure: local tourism operators around Mahia and Wairoa could build proper launch-viewing and accommodation packages timed to the now-confirmed iQPS schedule — nine more dedicated launches booked through 2030 is a bookable calendar, not a one-off event. Hawke's Bay's engineering and precision-manufacturing firms, and polytechs or trade training providers, should also be actively courting subcontracting work and workforce pipelines connected to Rocket Lab's launch operations, since a pad launching more than a dozen missions a year needs consistent, reliable local logistics, transport and support services on its literal doorstep. What the region should not do is oversell this as a Hawke's Bay space industry — it is a space company operating a launch pad within our region, and the practical opportunity is in tourism, logistics and workforce feeder pipelines, not in claiming credit for satellites built and owned entirely offshore.",
+          "sources": [
+            {
+              "l": "Rocket Lab",
+              "u": "https://rocketlabcorp.com/updates/mission-success-rocket-lab-launches-93rd-electron-mission/"
+            },
+            {
+              "l": "GlobeNewswire",
+              "u": "https://www.globenewswire.com/news-release/2026/08/20/3348577/0/en/mission-success-rocket-lab-launches-93rd-electron-mission.html"
+            },
+            {
+              "l": "StockTitan",
+              "u": "https://www.stocktitan.net/news/RKLB/mission-success-rocket-lab-launches-93rd-electron-m3vcq1tm4k8j.html"
+            }
+          ]
+        },
+        {
           "date": "15 Aug 2026",
           "headline": "Rocket Lab Clears US Antitrust Hurdle, Advances Iridium Takeover",
           "brief": "Rocket Lab Corporation says it has cleared major milestones in its plan to acquire satellite operator Iridium Communications: the US Hart-Scott-Rodino antitrust waiting period expired at 11:59 p.m. Eastern Time on August 12, 2026, a Form S-4 registration statement was filed with the SEC, and FCC applications seeking consent to transfer Iridium's licences and authorisations to Rocket Lab were filed on August 10, 2026. Founder and CEO Sir Peter Beck called the steps major markers in the execution timeline for what the company describes as a \"transformative transaction.\"",
@@ -1114,6 +1132,32 @@
     }
   ],
   "headlines": [
+    {
+      "date": "21 Aug 2026",
+      "chipLabel": "Economy",
+      "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Is the Country Keeping the Gains?",
+      "byline": "National · 18 Aug 2026 · A landmark valuation of NZ's startup economy, and a warning about where the benefits actually land",
+      "brief": "<p><b>New Zealand's technology sector has received some unusually good news.</b> <span>A new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion. It identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</span> <span>Two of these are \"decacorns\" valued at more than US$10 billion – aerospace firm Rocket Lab and global financial services provider FNZ.</span> <span>Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested</span>, an analysis of the report by University of Auckland Business School entrepreneurship professor Rod McNaughton notes. Even so, <span>despite its high capital efficiency, New Zealand has less venture capital-backed enterprise value per person than several comparable innovation economies.</span></p><p>But the report's real sting is in the question it raises rather than the number it produces. <span>Is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</span> <span>A company can remain headquartered in New Zealand while its economic centre of gravity progressively moves elsewhere. Equally, a company can establish its headquarters offshore while retaining substantial research, engineering and other high-value activities in New Zealand.</span></p><p><span>Successful firms such as Xero, Trade Me, Pushpay and Rocket Lab produce experienced managers, engineers and investors who have learned how to build at a global scale.</span> <span>That is why the report describes Kiwi founders building major companies offshore as a \"double loss\" — New Zealand can miss both some of the original value creation and the subsequent recycling of talent and capital that helps produce the next generation of companies.</span> <span>Innovation policy should therefore pay as much attention to the productive capability successful firms leave behind as it does to capital invested, company valuations and unicorn counts.</span> <span>Ultimately, the greatest value of a successful technology company may be the capability it leaves behind. That is what makes the next success more likely.</span></p>",
+      "lens": "There's no Hawke's Bay unicorn in this report, and it would be dishonest to pretend otherwise — the region doesn't feature in it. But the argument at the heart of the piece is one the Bay should take personally: value isn't just what a company is worth at exit, it's whether the engineers, managers and technical know-how it trained stick around afterwards. For a region without a Rocket Lab or an FNZ, the practical takeaway isn't chasing unicorns — it's making sure that when Bay-connected people do cut their teeth at Auckland or Wellington scale-ups, or when a promising local software or agritech venture gets acquired, there's a reason for that experience and capability to come home rather than simply cash out and relocate. That means local firms and regional business support networks investing in retention — flexible remote-work arrangements, local advisory roles for returning talent, and visible pathways for founders who want to build from the regions rather than only from the main centres. It's a slower, less headline-grabbing strategy than landing a defence contract, but the report's own argument is that capability, not capital alone, is what compounds.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/nz/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits/7COPMECISVDKXBQHEDQQU3XUZE/"
+        },
+        {
+          "l": "University of Auckland",
+          "u": "https://www.auckland.ac.nz/en/news/2026/08/18/keeping-nz-tech-benefits.html"
+        },
+        {
+          "l": "The Conversation",
+          "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
+        }
+      ]
+    },
     {
       "date": "19 Aug 2026",
       "chipLabel": "Defence Tech",
