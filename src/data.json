@@ -1,25 +1,29 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Investment",
+    "chipLabel": "Telecoms",
     "sector": "bay",
-    "date": "26 Aug 2026",
-    "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Who's Cashing In?",
-    "byline": "National · a nationwide tally of unicorns raises the question of what regions outside the big cities actually get from the boom",
-    "brief": "<p>New Zealand's technology sector has received some unusually good news: <cite index=\"1-1\">a new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion.</cite> <cite index=\"1-2\">The report identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</cite></p><p>Two of those firms have gone further still: <cite index=\"1-3\">two of these are \"decacorns\" valued at more than US$10 billion — aerospace firm Rocket Lab and global financial services provider FNZ.</cite> <cite index=\"1-5,1-6\">Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested, an impressive result for a country of New Zealand's size.</cite></p><p>But <cite index=\"1-7,1-8\">it also prompts a question many local observers will be asking: is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</cite> That framing points to the real debate behind the numbers: value creation at this scale hasn't necessarily translated into broad-based national benefit, raising questions about where the gains actually land.</p>",
-    "lens": "<p>Hawke's Bay isn't as absent from this story as a national tally might suggest. One of the two firms Dealroom and NZ Growth Capital Partners count as a New Zealand decacorn already operates on the Bay's doorstep. <cite index=\"11-4\">Rocket Lab's first rocket lifted off in May 2017 from its launch pad in Hawke's Bay, and the company has since grown into a major space business built around its 18-metre Electron rocket.</cite> <cite index=\"29-2\">The Wairoa District coastline is home to Rocket Lab's Launch Complex 1, the world's first and only private orbital launch site.</cite> <cite index=\"29-1\">Rocket Lab's Mahia operations have generated dozens of local jobs in engineering, launch-pad work, logistics and administrative support, alongside a network of more than 300 local suppliers.</cite> Launch nights still draw locals and visitors to <cite index=\"11-1\">the official viewing site near Morere Lodge, at the end of Blucks Pit Road in Nūhaka.</cite></p><p>So the honest local reading of this report isn't that Hawke's Bay has no stake in the country's tech wealth — it's that hosting the infrastructure and hosting the value are two different things. <cite index=\"11-15\">Rocket Lab became a publicly listed company on the US stock market in 2021,</cite> and the enterprise value Dealroom is now measuring sits overwhelmingly with shareholders and head-office functions well beyond Wairoa. The rockets go up from Mahia; the equity, the listing proceeds and most of the highest-value jobs sit elsewhere. That's the same tension the national report raises, already playing out locally. Councils and regional economic agencies don't need to chase a Rocket Lab of their own — the Bay already hosts part of one. The more useful question is whether Wairoa and the wider region are capturing a fair share of the value that a decacorn's actual launch pad generates, in supplier contracts, skills pipelines and the tourism economy that has grown up around watching Electron lift off, rather than simply providing the view.</p>",
+    "date": "01 Sep 2026",
+    "headline": "One NZ and 2degrees Propose Combining Radio Access Networks Into New Joint Venture 'RANCo'",
+    "byline": "National · what shared radio network infrastructure could mean for rural Hawke's Bay coverage and resilience",
+    "brief": "<p>One NZ and 2degrees <cite index=\"4-2\">have launched a proposal to share their mobile network infrastructure</cite>, combining the radio access network (RAN) — <cite index=\"4-4\">active equipment on mobile sites, such as electronics and antennae</cite> — into a new, jointly owned wholesale company <cite index=\"21-2\">provisionally known as RANCo</cite>. <cite index=\"4-3\">Under the proposal, which will require regulatory approval, each company would combine its existing mobile radio access network infrastructure, or RAN, into a new, separate, jointly owned wholesale company.</cite> <cite index=\"4-5\">One NZ said the new entity would own, manage and operate the shared RAN infrastructure, providing network services back to each company through separate wholesale agreements.</cite></p><p>Crucially, <cite index=\"4-6\">if approved, One NZ and 2degrees would continue to operate as fully independent retail and wholesale businesses and continue to compete strongly for both consumer and business customers</cite>, with each company <cite index=\"19-12\">continuing to own and invest in its spectrum management rights, core networks, fibre backhaul assets and satellite innovations, preserving areas of differentiation between the businesses</cite>. Incoming One NZ chief executive Nick Judd <cite index=\"16-4\">said RAN network sharing was already common in overseas markets and enabled more efficient investment in mobile infrastructure</cite>, while 2degrees chief executive Mark Callander said sharing infrastructure where it makes sense would deliver <cite index=\"17-6\">\"better coverage, greater capacity, stronger resilience and faster access to new technology.\"</cite></p><p>The deal <cite index=\"19-13\">builds on an existing commercial sharing arrangement between the two operators that already covers a smaller number of sites across New Zealand</cite> and now needs sign-off from <cite index=\"27-4\">the New Zealand Commerce Commission and the Overseas Investment Office</cite>, with the transaction <cite index=\"21-4\">expected to complete in the first half of 2027</cite>. Callander has also <cite index=\"27-2\">said the proposed arrangement would create greater opportunities to expand rural and regional coverage, increase capacity in urban areas and strengthen the resilience of New Zealand's mobile infrastructure</cite>.</p>",
+    "lens": "For a region like Hawke's Bay — with long rural roads, patchy coverage in the ranges, and a hard-won memory of communications blackouts during Cyclone Gabrielle — the promise of stronger resilience and expanded rural and regional coverage from a shared radio access network is the part worth watching closely, not the corporate structuring. If RANCo genuinely lets One NZ and 2degrees jointly upgrade or avoid duplicating equipment across the same rural footprint, that is a tangible chance for better black-spot and disaster-resilience coverage on routes like SH2, SH5 and the back roads into Wairoa and Central Hawke's Bay, without waiting for either telco to justify a solo build. But the deal still needs Commerce Commission and Overseas Investment Office approval and is not expected to complete before the first half of 2027, so there is little for local councils or businesses to act on right now beyond making the case — through submissions and regional lobbying once the regulatory process opens — that any efficiency gains from shared infrastructure are actually directed at closing Hawke's Bay's rural and emergency-resilience gaps, rather than just cutting cost in the main centres.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
+        "u": "https://www.rnz.co.nz/news/business/1151904/one-nz-and-2degrees-launch-bid-to-share-mobile-network-infrastructure"
       },
       {
-        "l": "NZ Herald – Hawke's Bay Today",
-        "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/lift-off-rocket-lab-to-celebrate-50th-rocket-launch-from-mahia/7VBSAXQQXFDDZEBEXQMLMVNSKA/"
+        "l": "Channel Life NZ",
+        "u": "https://channellife.co.nz/story/one-nz-2degrees-plan-shared-mobile-network-business"
       },
       {
-        "l": "Wairoa i-SITE",
-        "u": "https://www.visitwairoa.co.nz/welcome-to-wairoa/space-coast-new-zealand/"
+        "l": "Intelligent CIO APAC",
+        "u": "https://www.intelligentcio.com/apac/2026/08/28/2degrees-and-one-nz-propose-mobile-network-infrastructure-sharing-venture/"
+      },
+      {
+        "l": "Mobile World Live",
+        "u": "https://www.mobileworldlive.com/operators/new-zealand-pair-eye-ran-sharing-move"
       }
     ]
   },
@@ -1234,6 +1238,28 @@
     }
   ],
   "headlines": [
+    {
+      "date": "26 Aug 2026",
+      "chipLabel": "Investment",
+      "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Who's Cashing In?",
+      "byline": "National · a nationwide tally of unicorns raises the question of what regions outside the big cities actually get from the boom",
+      "brief": "<p>New Zealand's technology sector has received some unusually good news: <cite index=\"1-1\">a new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion.</cite> <cite index=\"1-2\">The report identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</cite></p><p>Two of those firms have gone further still: <cite index=\"1-3\">two of these are \"decacorns\" valued at more than US$10 billion — aerospace firm Rocket Lab and global financial services provider FNZ.</cite> <cite index=\"1-5,1-6\">Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested, an impressive result for a country of New Zealand's size.</cite></p><p>But <cite index=\"1-7,1-8\">it also prompts a question many local observers will be asking: is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</cite> That framing points to the real debate behind the numbers: value creation at this scale hasn't necessarily translated into broad-based national benefit, raising questions about where the gains actually land.</p>",
+      "lens": "<p>Hawke's Bay isn't as absent from this story as a national tally might suggest. One of the two firms Dealroom and NZ Growth Capital Partners count as a New Zealand decacorn already operates on the Bay's doorstep. <cite index=\"11-4\">Rocket Lab's first rocket lifted off in May 2017 from its launch pad in Hawke's Bay, and the company has since grown into a major space business built around its 18-metre Electron rocket.</cite> <cite index=\"29-2\">The Wairoa District coastline is home to Rocket Lab's Launch Complex 1, the world's first and only private orbital launch site.</cite> <cite index=\"29-1\">Rocket Lab's Mahia operations have generated dozens of local jobs in engineering, launch-pad work, logistics and administrative support, alongside a network of more than 300 local suppliers.</cite> Launch nights still draw locals and visitors to <cite index=\"11-1\">the official viewing site near Morere Lodge, at the end of Blucks Pit Road in Nūhaka.</cite></p><p>So the honest local reading of this report isn't that Hawke's Bay has no stake in the country's tech wealth — it's that hosting the infrastructure and hosting the value are two different things. <cite index=\"11-15\">Rocket Lab became a publicly listed company on the US stock market in 2021,</cite> and the enterprise value Dealroom is now measuring sits overwhelmingly with shareholders and head-office functions well beyond Wairoa. The rockets go up from Mahia; the equity, the listing proceeds and most of the highest-value jobs sit elsewhere. That's the same tension the national report raises, already playing out locally. Councils and regional economic agencies don't need to chase a Rocket Lab of their own — the Bay already hosts part of one. The more useful question is whether Wairoa and the wider region are capturing a fair share of the value that a decacorn's actual launch pad generates, in supplier contracts, skills pipelines and the tourism economy that has grown up around watching Electron lift off, rather than simply providing the view.</p>",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
+        },
+        {
+          "l": "NZ Herald – Hawke's Bay Today",
+          "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/lift-off-rocket-lab-to-celebrate-50th-rocket-launch-from-mahia/7VBSAXQQXFDDZEBEXQMLMVNSKA/"
+        },
+        {
+          "l": "Wairoa i-SITE",
+          "u": "https://www.visitwairoa.co.nz/welcome-to-wairoa/space-coast-new-zealand/"
+        }
+      ]
+    },
     {
       "date": "23 Aug 2026",
       "chipLabel": "Infrastructure",
