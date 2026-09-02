@@ -1,29 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Telecoms",
+    "chipLabel": "Tech Economy",
     "sector": "bay",
-    "date": "01 Sep 2026",
-    "headline": "One NZ and 2degrees Propose Combining Radio Access Networks Into New Joint Venture 'RANCo'",
-    "byline": "National · what shared radio network infrastructure could mean for rural Hawke's Bay coverage and resilience",
-    "brief": "<p>One NZ and 2degrees <cite index=\"4-2\">have launched a proposal to share their mobile network infrastructure</cite>, combining the radio access network (RAN) — <cite index=\"4-4\">active equipment on mobile sites, such as electronics and antennae</cite> — into a new, jointly owned wholesale company <cite index=\"21-2\">provisionally known as RANCo</cite>. <cite index=\"4-3\">Under the proposal, which will require regulatory approval, each company would combine its existing mobile radio access network infrastructure, or RAN, into a new, separate, jointly owned wholesale company.</cite> <cite index=\"4-5\">One NZ said the new entity would own, manage and operate the shared RAN infrastructure, providing network services back to each company through separate wholesale agreements.</cite></p><p>Crucially, <cite index=\"4-6\">if approved, One NZ and 2degrees would continue to operate as fully independent retail and wholesale businesses and continue to compete strongly for both consumer and business customers</cite>, with each company <cite index=\"19-12\">continuing to own and invest in its spectrum management rights, core networks, fibre backhaul assets and satellite innovations, preserving areas of differentiation between the businesses</cite>. Incoming One NZ chief executive Nick Judd <cite index=\"16-4\">said RAN network sharing was already common in overseas markets and enabled more efficient investment in mobile infrastructure</cite>, while 2degrees chief executive Mark Callander said sharing infrastructure where it makes sense would deliver <cite index=\"17-6\">\"better coverage, greater capacity, stronger resilience and faster access to new technology.\"</cite></p><p>The deal <cite index=\"19-13\">builds on an existing commercial sharing arrangement between the two operators that already covers a smaller number of sites across New Zealand</cite> and now needs sign-off from <cite index=\"27-4\">the New Zealand Commerce Commission and the Overseas Investment Office</cite>, with the transaction <cite index=\"21-4\">expected to complete in the first half of 2027</cite>. Callander has also <cite index=\"27-2\">said the proposed arrangement would create greater opportunities to expand rural and regional coverage, increase capacity in urban areas and strengthen the resilience of New Zealand's mobile infrastructure</cite>.</p>",
-    "lens": "For a region like Hawke's Bay — with long rural roads, patchy coverage in the ranges, and a hard-won memory of communications blackouts during Cyclone Gabrielle — the promise of stronger resilience and expanded rural and regional coverage from a shared radio access network is the part worth watching closely, not the corporate structuring. If RANCo genuinely lets One NZ and 2degrees jointly upgrade or avoid duplicating equipment across the same rural footprint, that is a tangible chance for better black-spot and disaster-resilience coverage on routes like SH2, SH5 and the back roads into Wairoa and Central Hawke's Bay, without waiting for either telco to justify a solo build. But the deal still needs Commerce Commission and Overseas Investment Office approval and is not expected to complete before the first half of 2027, so there is little for local councils or businesses to act on right now beyond making the case — through submissions and regional lobbying once the regulatory process opens — that any efficiency gains from shared infrastructure are actually directed at closing Hawke's Bay's rural and emergency-resilience gaps, rather than just cutting cost in the main centres.",
+    "date": "03 Sep 2026",
+    "headline": "NZ's Top Tech Companies Post $1.8 Billion Revenue Rise in a 'Bumper Year'",
+    "byline": "National · 2 September 2026 · What a $1.8b tech export surge means for the Bay",
+    "brief": "<p>New figures from the Technology Investment Network show <cite index=\"1-1\">TIN200 companies increased revenues by NZ$1.8 billion or 10 percent in 2025 over 2024</cite>. <cite index=\"1-3\">The Technology Investment Network TIN200 annual report on New Zealand's 200 largest globally focused technology companies indicates continued export momentum across a range of sectors</cite>, with <cite index=\"1-9\">growth across a range of companies operating across information and communications technology (ICT), high-tech manufacturing and biotech</cite>. Growth was especially concentrated at the top: <cite index=\"1-11\">the ten highest revenue growth companies saw combined revenues in 2025 up $1.4b, more than triple the $400 million growth recorded by the top ten growth companies a decade earlier (2015)</cite>.</p><p>TIN head of research <cite index=\"15-1,15-2\">Narjis Adnan said current conditions provide a strong foundation for continued growth across the technology sector, and \"We expect TIN200 revenues to continue their strong growth in 2026\"</cite>, adding <cite index=\"15-5\">\"More companies are reaching meaningful global scale, creating a stronger and more resilient technology sector with the capacity to compete and grow across international markets\"</cite>. NZ Growth Partners investment director <cite index=\"10-6\">Jacques Richter said \"Our ecosystem has created world-leading value from a modest capital base\"</cite>, while BNZ technology industries development manager <cite index=\"1-12\">Josh Starkey said the growing maturity was an important development for the wider New Zealand economy</cite>. TIN managing director <cite index=\"1-4,1-5,1-6\">Greg Shanahan said the global economy's shift away from fossil fuels was changing trading patterns and positioned New Zealand's technology exporters to take advantage of emerging opportunities, saying \"The world economy is going through a major transition... That creates a significant opportunity for globally ambitious New Zealand technology companies to step forward, lead in emerging sectors, and strengthen their position in global markets\"</cite>.</p><p>The report also flagged a constraint: <cite index=\"15-6\">maintaining access to the right talent will be critical to sustaining this growth</cite>. Adnan called it <cite index=\"15-7\">\"another strong signal of the opportunity ahead for New Zealand's technology sector, which continues to punch above its weight globally\"</cite>. <cite index=\"20-8\">The full 2026 TIN report is expected to be released on 5 November</cite>.</p>",
+    "lens": "No Hawke's Bay company is named among the TIN200 growth leaders in this report, and the region's tech firms are simply too small to register on a ranking built around global-scale exporters clustered in Auckland and Wellington. That's a fair thing to say plainly rather than dress up. But the two threads the report pulls on, talent and the shift away from fossil fuels reshaping global trade, are ones this region has a real stake in. Hawke's Bay's horticulture, food and fibre exporters already sell into the same international markets TIN's companies are chasing, and any local software, sensor or agritech operators riding on that base face exactly the same talent-access squeeze the report flags nationally, just at a smaller and more fragile scale: losing a handful of engineers or data specialists to Auckland or Wellington can hurt a Hawke's Bay firm far more than it hurts a TIN200 company with hundreds of staff. There's nothing for Hawke's Bay to announce today, and that's honest too, the useful local response between now and the full TIN report landing on 5 November is making sure the region's employers, EIT and its small tech and agritech operators are actively engaging with this growth story, not simply reading about it afterwards.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1151904/one-nz-and-2degrees-launch-bid-to-share-mobile-network-infrastructure"
-      },
-      {
-        "l": "Channel Life NZ",
-        "u": "https://channellife.co.nz/story/one-nz-2degrees-plan-shared-mobile-network-business"
-      },
-      {
-        "l": "Intelligent CIO APAC",
-        "u": "https://www.intelligentcio.com/apac/2026/08/28/2degrees-and-one-nz-propose-mobile-network-infrastructure-sharing-venture/"
-      },
-      {
-        "l": "Mobile World Live",
-        "u": "https://www.mobileworldlive.com/operators/new-zealand-pair-eye-ran-sharing-move"
+        "u": "https://www.rnz.co.nz/news/business/1225519/bumper-year-of-profits-for-nz-s-top-tech-companies"
       }
     ]
   },
@@ -703,6 +691,35 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "03 Sep 2026",
+          "headline": "Another Japanese Radar Satellite Rises From Mahia as Rocket Lab Notches 94th Electron Launch",
+          "brief": "Rocket Lab successfully launched its 94th Electron rocket from Mahia at 12:01am NZST on 3 September 2026, deploying a StriX Earth-imaging satellite for Japan's Synspective into a 575km low Earth orbit. The mission, named 'Owl Around The World', was Rocket Lab's 15th launch of 2026, extended a 100% mission success record for Synspective, and left 16 further dedicated Synspective missions booked on Electron before 2030.",
+          "body": [
+            "Rocket Lab's 94th Electron rocket lifted off from Launch Complex 1 at Mahia at 12:01am NZST on 3 September 2026, in a mission named 'Owl Around The World'. Electron successfully deployed the latest StriX Earth-imaging satellite to a 575km low Earth orbit for Synspective, further building out the Japanese company's synthetic aperture radar (SAR) imaging constellation, which supplies data for urban development planning, construction and infrastructure monitoring, and disaster response.",
+            "The launch was Rocket Lab's 15th of the year and its 94th Electron mission overall, and the company noted Electron remains the world's most frequently launched small-lift orbital rocket. It was also Rocket Lab's 11th dedicated launch for Synspective, for which it has been the sole launch provider since 2020, and today's flawless delivery continued a 100% mission success record across all Synspective launches to date. As part of the partnership, a specially-configured Electron fairing was built to match the exact dimensions of the StriX satellite.",
+            "Synspective still has another 16 missions booked on Electron to deploy the remainder of its constellation before 2030, meaning Mahia's launch pad is set to keep firing regularly on the company's behalf for years to come. Commentary from Simply Wall St framed the repeat business as central to the debate over Rocket Lab's investment story, noting the mission 'tests how reliable, repeat business really looks in practice' as the company tries to show a high launch cadence plus in-house spacecraft and services can turn into durable, higher-margin space infrastructure revenue rather than one-off launches."
+          ],
+          "lens": "This is another routine but real reminder that the Bay hosts the only regularly firing orbital rocket pad in the Southern Hemisphere, on the Mahia Peninsula, and that pad's calendar is now booked for years just for one Japanese customer. The direct economic upside for the wider Bay beyond Mahia itself remains modest on what's in these sources: nothing here points to Hastings or Napier suppliers, jobs, or investment tied to this specific launch. What is notable is the purpose of the payload itself — this SAR constellation is built to feed disaster response and infrastructure monitoring, capabilities that matter to any region exposed to floods, storms and seismic risk. Hawke's Bay could reasonably ask whether it has any stake, now or later, in how such Earth-observation data gets used locally, rather than only hosting the launch pad that sends it skyward. What the region could do in the meantime is treat the predictable cadence as an asset rather than background noise — councils and tourism operators could build reliable launch-viewing and educational offerings around a schedule that now runs to 2030, and local schools could use the steady drumbeat of near-monthly launches as a hook for STEM engagement. What it should not do is oversell this single mission as a Bay economic story; the honest read is that Rocket Lab's Mahia pad is a strategic regional landmark and a source of civic pride, but the manufacturing, contracts and jobs described in these sources sit with Rocket Lab and Synspective, not with Hawke's Bay businesses.",
+          "sources": [
+            {
+              "l": "GlobeNewswire (Rocket Lab Corporation)",
+              "u": "https://www.globenewswire.com/news-release/2026/09/02/3355246/0/en/mission-success-rocket-lab-launches-94th-electron-mission.html"
+            },
+            {
+              "l": "StockTitan",
+              "u": "https://www.stocktitan.net/news/RKLB/mission-success-rocket-lab-launches-94th-electron-1jkddot4erkm.html"
+            },
+            {
+              "l": "Yahoo Finance / Simply Wall St",
+              "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-marks-94th-181026906.html"
+            },
+            {
+              "l": "Rocket Lab Corp (Owl Around The World mission page)",
+              "u": "https://rocketlabcorp.com/missions/launches/owl-around-the-world/"
+            }
+          ]
+        },
+        {
           "date": "29 Aug 2026",
           "headline": "Rocket Lab CFO: A Successful Neutron Test Could Flip the Company to Positive Adjusted EBITDA",
           "brief": "Rocket Lab CFO Adam Spice says a successful test launch of the company's new Neutron rocket could move Rocket Lab into positive adjusted EBITDA territory the following quarter, even without help from its pending Iridium acquisition. <cite index=\"2-8\">Rocket Lab continues to target Neutron's delivery to the launch pad in the fourth quarter of 2026, although CEO Peter Beck has cautioned that \"the window for an end-of-year launch is narrowing.\"</cite> CEO Peter Beck, not Spice, says demand for Neutron is now so strong the company must be selective about which new missions it takes on.",
@@ -1238,6 +1255,32 @@
     }
   ],
   "headlines": [
+    {
+      "date": "01 Sep 2026",
+      "chipLabel": "Telecoms",
+      "headline": "One NZ and 2degrees Propose Combining Radio Access Networks Into New Joint Venture 'RANCo'",
+      "byline": "National · what shared radio network infrastructure could mean for rural Hawke's Bay coverage and resilience",
+      "brief": "<p>One NZ and 2degrees <cite index=\"4-2\">have launched a proposal to share their mobile network infrastructure</cite>, combining the radio access network (RAN) — <cite index=\"4-4\">active equipment on mobile sites, such as electronics and antennae</cite> — into a new, jointly owned wholesale company <cite index=\"21-2\">provisionally known as RANCo</cite>. <cite index=\"4-3\">Under the proposal, which will require regulatory approval, each company would combine its existing mobile radio access network infrastructure, or RAN, into a new, separate, jointly owned wholesale company.</cite> <cite index=\"4-5\">One NZ said the new entity would own, manage and operate the shared RAN infrastructure, providing network services back to each company through separate wholesale agreements.</cite></p><p>Crucially, <cite index=\"4-6\">if approved, One NZ and 2degrees would continue to operate as fully independent retail and wholesale businesses and continue to compete strongly for both consumer and business customers</cite>, with each company <cite index=\"19-12\">continuing to own and invest in its spectrum management rights, core networks, fibre backhaul assets and satellite innovations, preserving areas of differentiation between the businesses</cite>. Incoming One NZ chief executive Nick Judd <cite index=\"16-4\">said RAN network sharing was already common in overseas markets and enabled more efficient investment in mobile infrastructure</cite>, while 2degrees chief executive Mark Callander said sharing infrastructure where it makes sense would deliver <cite index=\"17-6\">\"better coverage, greater capacity, stronger resilience and faster access to new technology.\"</cite></p><p>The deal <cite index=\"19-13\">builds on an existing commercial sharing arrangement between the two operators that already covers a smaller number of sites across New Zealand</cite> and now needs sign-off from <cite index=\"27-4\">the New Zealand Commerce Commission and the Overseas Investment Office</cite>, with the transaction <cite index=\"21-4\">expected to complete in the first half of 2027</cite>. Callander has also <cite index=\"27-2\">said the proposed arrangement would create greater opportunities to expand rural and regional coverage, increase capacity in urban areas and strengthen the resilience of New Zealand's mobile infrastructure</cite>.</p>",
+      "lens": "For a region like Hawke's Bay — with long rural roads, patchy coverage in the ranges, and a hard-won memory of communications blackouts during Cyclone Gabrielle — the promise of stronger resilience and expanded rural and regional coverage from a shared radio access network is the part worth watching closely, not the corporate structuring. If RANCo genuinely lets One NZ and 2degrees jointly upgrade or avoid duplicating equipment across the same rural footprint, that is a tangible chance for better black-spot and disaster-resilience coverage on routes like SH2, SH5 and the back roads into Wairoa and Central Hawke's Bay, without waiting for either telco to justify a solo build. But the deal still needs Commerce Commission and Overseas Investment Office approval and is not expected to complete before the first half of 2027, so there is little for local councils or businesses to act on right now beyond making the case — through submissions and regional lobbying once the regulatory process opens — that any efficiency gains from shared infrastructure are actually directed at closing Hawke's Bay's rural and emergency-resilience gaps, rather than just cutting cost in the main centres.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1151904/one-nz-and-2degrees-launch-bid-to-share-mobile-network-infrastructure"
+        },
+        {
+          "l": "Channel Life NZ",
+          "u": "https://channellife.co.nz/story/one-nz-2degrees-plan-shared-mobile-network-business"
+        },
+        {
+          "l": "Intelligent CIO APAC",
+          "u": "https://www.intelligentcio.com/apac/2026/08/28/2degrees-and-one-nz-propose-mobile-network-infrastructure-sharing-venture/"
+        },
+        {
+          "l": "Mobile World Live",
+          "u": "https://www.mobileworldlive.com/operators/new-zealand-pair-eye-ran-sharing-move"
+        }
+      ]
+    },
     {
       "date": "26 Aug 2026",
       "chipLabel": "Investment",
