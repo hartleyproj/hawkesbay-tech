@@ -691,6 +691,38 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "14 Sep 2026",
+          "headline": "Rocket Lab's 95th Electron Lifts Off From Mahia, 16th Launch of the Year",
+          "brief": "<p>Rocket Lab <b>launched its 16th Electron rocket of the year</b> on 11 September 2026 — the mission's <b>95th Electron launch overall</b> — lifting off from Launch Complex 1 in New Zealand and placing a single Earth observation satellite into a <b>500km circular low Earth orbit</b> for a confidential customer. The company says another Electron mission for a separate commercial constellation operator is booked before the end of the month, and shares moved higher in premarket trading on the news.</p>",
+          "body": [
+            "<p><cite index=\"4-1\">The \"Happily Ever Faster\" mission lifted off from Rocket Lab Launch Complex 1 in New Zealand at 3:28 p.m. NZST on 11 September and successfully deployed a single Earth observation satellite to a 500km circular low Earth orbit.</cite></p>",
+            "<p><cite index=\"4-4\">\"Happily Ever Faster\" is Rocket Lab's 16th launch of the year and 95th launch overall.</cite></p>",
+            "<p><cite index=\"4-5\">Rocket Lab's next Electron launch is scheduled to take place from Launch Complex 1 for another commercial constellation operator before the end of the month.</cite> <cite index=\"4-6\">As global launch availability continues to strain the market, Electron's regular and reliable launch cadence provides schedule certainty and dedicated access to space for satellite operators of the industry's next-generation constellations.</cite></p>",
+            "<p><cite index=\"4-8\">Driven by its industry-leading small-lift rockets Electron and HASTE and its upcoming reusable Neutron medium-lift rocket, Rocket Lab delivers reliable and responsive launch for the world's most important missions from constellation deployment to missile defense.</cite> <cite index=\"4-9\">Rocket Lab's satellites and components have powered more than 1,700 missions in Earth orbit, as well as deep-space exploration of the Moon, Mars, and beyond.</cite></p>",
+            "<p><cite index=\"3-2\">Rocket Lab Corporation (NASDAQ:RKLB) shares are trading higher by almost 2% during Friday's premarket session.</cite></p>",
+            "<p><cite index=\"20-1\">The Rocket Lab Launch Complex occupies a spectacular site atop Ahuriri Point at the southern tip of Māhia Peninsula.</cite></p>"
+          ],
+          "lens": "Every one of these 95 Electron flights is, physically, a Hawke's Bay event: the pad sits on Māhia Peninsula, and a 16th launch in a single year confirms the region hosts orbital rocket flights at a cadence almost nowhere else on Earth can match. The direct upside for the Bay is what it already is — the jobs required to keep a launch pad operating on that schedule, and the standing this gives the region in any conversation about New Zealand's space credentials. What the story does not tell us is who the customer was, what the satellite does, or what any of this is worth in dollars to the local economy — Rocket Lab kept the customer confidential and the sources say nothing about local employment numbers, council revenue or visitor spending, so any claim about the scale of Hawke's Bay's economic benefit would be invention, not reporting. What the region can honestly do is keep being reliable ground infrastructure for a fast-cadence launch business, and use the confirmed fact of that cadence — 16 launches this year, a 95-launch history, another mission already booked before month's end — as evidence when making the case, in any economic development or education planning, that Hawke's Bay is a genuine node in a company that also builds toward a reusable Neutron rocket and has powered thousands of orbital and deep-space missions. The honest limit is that the satellites, the customers, the stock market reaction and Rocket Lab's broader corporate strategy all sit elsewhere; this story confirms Māhia's role as launch site, not as a hub for the manufacturing, contracting or investment decisions that flow through the rest of the company.",
+          "sources": [
+            {
+              "l": "GlobeNewswire / Rocket Lab",
+              "u": "https://www.globenewswire.com/news-release/2026/09/11/3360079/0/en/rocket-lab-successfully-launches-16th-electron-mission-of-the-year-solidifies-status-as-world-s-leading-small-launch-provider.html"
+            },
+            {
+              "l": "StockTitan",
+              "u": "https://www.stocktitan.net/news/RKLB/rocket-lab-successfully-launches-16th-electron-mission-of-the-year-p2ujkza5r1nn.html"
+            },
+            {
+              "l": "Benzinga",
+              "u": "https://www.benzinga.com/markets/large-cap/26/09/61737006/rocket-lab-launches-16th-electron-mission-amid-tight-global-capacity"
+            },
+            {
+              "l": "Te Ara - The Encyclopedia of New Zealand",
+              "u": "https://teara.govt.nz/en/photograph/47297/rocket-lab-launch-complex-at-mahia"
+            }
+          ]
+        },
+        {
           "date": "11 Sep 2026",
           "headline": "Rocket Lab's Neutron Rocket Keeps Slipping — Even as Electron Notches Record After Record",
           "brief": "<p>Rocket Lab shares climbed 2% early this week as investors weighed the company's next-generation Neutron rocket, which still isn't expected to reach its launch pad until the fourth quarter of 2026, with no confirmed launch date after a first-stage tank pressure-test failure already pushed the debut back — and another slip into 2027 remains possible. At the same time, the company's workhorse Electron rocket keeps growing, flying its 94th mission (the 15th launch of 2026), posting a record $234 million in second-quarter revenue, and guiding to $250 million to $265 million in the third quarter — even though most of that money now comes from building satellites, not launching rockets.</p>",
