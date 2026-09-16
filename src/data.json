@@ -691,6 +691,37 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "17 Sep 2026",
+          "headline": "Rocket Lab Locks In $1.94 Billion to Fund Its $8 Billion Iridium Takeover",
+          "brief": "Rocket Lab has completed a $1.944 billion at-the-market share sale, fully financing its pending $8 billion cash-and-stock acquisition of satellite operator Iridium Communications, and has cancelled the $3.6 billion bridge loan that Deutsche Bank and Wells Fargo had committed to back the deal. Iridium has also amended its $1.775 billion term loan facility to allow the change of control, with Rocket Lab USA providing an unsecured guarantee once the deal closes, which is expected to happen in mid-2027 pending regulatory approvals.",
+          "body": [
+            "Rocket Lab has removed a major piece of financial uncertainty hanging over its plan to buy satellite communications company Iridium Communications. On 15 September 2026 the company announced it had completed a $1.944 billion at-the-market (ATM) equity offering, securing the required cash consideration alongside available liquidity to fully fund its pending acquisition of Iridium, which is expected to close in mid-2027 subject to regulatory approvals.",
+            "The ATM programme generated approximately $1.944 billion in gross proceeds through the issuance of 29.3 million shares, before commissions and offering expenses. Rocket Lab intends to use the net proceeds to fund cash payments required under the Iridium acquisition, first agreed in June 2026 as a cash-and-stock transaction valued at approximately $8 billion; if the deal does not close, or if proceeds exceed what's needed, the company says it will direct the money to future growth, including potential further acquisitions, and general corporate and working capital purposes.",
+            "Alongside the equity raise, Iridium amended its existing $1.775 billion term loan facility on 15 September 2026 to permit the change of control the acquisition will trigger, with Rocket Lab USA — the company's primary operating subsidiary and Iridium's anticipated parent — agreeing to provide an unsecured guarantee of the loan once the deal closes. Rocket Lab says this establishes long-term, cost-effective permanent financing backed by Iridium's strong free cash flow.",
+            "That allowed Rocket Lab to cancel the $3.6 billion senior secured bridge facility that Deutsche Bank and Wells Fargo had committed to when the Iridium deal was announced in June, a move the company describes as de-risking its capital structure ahead of the targeted mid-2027 close. Shares of Rocket Lab were trading around 2% higher in pre-market trading as the financing overhang around the deal eased.",
+            "The underlying deal, announced on 29 June 2026, will see Iridium shareholders receive $27.00 in cash plus Rocket Lab shares for each Iridium share, with the exchange ratio subject to a collar banded between $67.50 and $112.50; the transaction carries a notional value of $54.00 per Iridium share and implies an enterprise value for Iridium of approximately $8.0 billion. Rocket Lab has described the deal as merging its launch and satellite-manufacturing business with Iridium's global satellite communications network and spectrum, part of its push to become a fully vertically integrated space company."
+          ],
+          "lens": "This is fundamentally a corporate-finance story about how a global space company pays for an $8 billion satellite acquisition, and it has little direct bearing on day-to-day life at Mahia — it would be dishonest to pretend otherwise. There's no news here about launch cadence, jobs, or activity at the Hawke's Bay pad itself; the financing detail concerns Rocket Lab's US-listed parent entity and Iridium's balance sheet, not Launch Complex 1's operations. What it does matter for is confidence: a company that can raise nearly $2 billion in equity and unwind a $3.6 billion bridge loan without spooking its share price is demonstrating balance-sheet discipline, and that stability is relevant to Wairoa District and the wider Bay because Rocket Lab's Mahia site remains part of the launch business even as the company expands into satellite ownership through Iridium. The realistic move for local businesses, contractors and the council is to keep watching Rocket Lab's underlying financial health as one signal among many for how much it will keep investing in the Mahia site long-term — there is no local action item in this particular announcement beyond staying informed.",
+          "sources": [
+            {
+              "l": "Rocket Lab Investor Relations — Financing Update (15 September 2026)",
+              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-fully-funds-iridium-acquisition-including-completion"
+            },
+            {
+              "l": "Rocket Lab Investor Relations — Iridium Acquisition Announcement (29 June 2026)",
+              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
+            },
+            {
+              "l": "GovConWire",
+              "u": "https://www.govconwire.com/articles/rocket-lab-1-94b-atm-offering-iridium-acquisition"
+            },
+            {
+              "l": "Yahoo Finance",
+              "u": "https://finance.yahoo.com/markets/stocks/articles/rklb-fully-funds-8b-iridium-122118236.html"
+            }
+          ]
+        },
+        {
           "date": "14 Sep 2026",
           "headline": "Rocket Lab's 95th Electron Lifts Off From Mahia, 16th Launch of the Year",
           "brief": "<p>Rocket Lab <b>launched its 16th Electron rocket of the year</b> on 11 September 2026 — the mission's <b>95th Electron launch overall</b> — lifting off from Launch Complex 1 in New Zealand and placing a single Earth observation satellite into a <b>500km circular low Earth orbit</b> for a confidential customer. The company says another Electron mission for a separate commercial constellation operator is booked before the end of the month, and shares moved higher in premarket trading on the news.</p>",
