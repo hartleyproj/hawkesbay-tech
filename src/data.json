@@ -28,6 +28,25 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "19 Sep 2026",
+          "headline": "Hawke's Bay food truck's robot arm 'Rosie' cooks and serves chips in three to four minutes",
+          "brief": "<b>Rosie</b>, the giant robotic arm behind Hawke's Bay-based food truck <b>Dr Bon Vons</b>, drew curious crowds at the New Zealand Tech Expo in Auckland, letting customers order and pay via a phone QR code before cooking chips to order in about <b>three to four minutes</b>. Founder <b>Bono Vossen-Chong</b> says the idea came from an AI conference in China where he saw over <b>100 robots</b> showcased, and he's already eyeing where the concept could go next — including unmanned petrol stations — believing automation will increasingly shape how food is made and sold in New Zealand.",
+          "body": [
+            "A robot that can cook and serve chips within minutes is offering a glimpse into what the future of takeaway food could look like in New Zealand. Rosie, the giant robotic arm behind Hawke's Bay-based food truck Dr Bon Vons, has been attracting curious crowds at the New Zealand Tech Expo in Auckland.",
+            "Customers could order and pay for food on their phones using a QR code, before the robot took over the rest of the job. Once an order had been placed, Rosie would grab chips from the freezer, lower them into hot oil and cook them twice before dropping the finished product into a cardboard box. Founder Bono Vossen-Chong told 1News the whole process took about three to four minutes.",
+            "Vossen-Chong said he came up with the idea after attending an AI conference in China last year, where more than 100 robots were being showcased.",
+            "He said he was already considering where the concept could go next, particularly in smaller communities where takeaway options were limited or businesses struggled to find staff. \"Imagine every unmanned gas station across the country with one of these. You would be able to grab something to eat within three minutes or four minutes,\" he said. He added that, unlike human staff, the robot wasn't constrained by opening hours.",
+            "While he didn't expect every food truck to swap its cooks for robotic arms, Vossen-Chong said he believed automation would increasingly become part of how food was made and sold in New Zealand. \"The future of food is changing very quickly,\" he said."
+          ],
+          "lens": "Strip away the novelty and this is a Hawke's Bay founder who went to an AI conference overseas, saw a wall of robots, and came home to build one into a working food truck — then took it to a national tech showcase in Auckland. That's the real story for this region: not a lab announcement or a council strategy, but a local operator turning AI-adjacent robotics into a functioning small business, tested in public. Vossen-Chong's own framing of where this goes next is worth taking seriously here — he explicitly points to smaller communities and unmanned locations where staffing is hard and hours are limited, which describes plenty of rural Hawke's Bay townships and stretches of state highway as much as anywhere else in the country. If a robotic arm can run unattended and isn't bound by rostering, that's a genuinely relevant proposition for a region with dispersed rural communities and seasonal labour pressure, not just a novelty act. What the Bay could do is straightforward: pay attention to this as a local proof-of-concept rather than filing it under 'quirky tech story,' and be open to Vossen-Chong or similar builders piloting the next iteration here rather than only in Auckland. What the Bay should be honest about is that, right now, this is one founder, one machine and one idea still being tested in public — impressive as a demonstration of what's possible, but not yet evidence of a local automation sector. The opportunity is real; turning a single working robot into repeatable regional advantage would take deliberate follow-through that hasn't happened yet.",
+          "sources": [
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/09/18/meet-the-robot-serving-up-chips-in-less-than-three-minutes/"
+            }
+          ]
+        },
+        {
           "date": "20 Aug 2026",
           "headline": "619 participants, including 60 rangatahi, build 'AI for good' projects in nationwide challenge heading to Wellington summit",
           "brief": "<p>A nationwide push to get young New Zealanders building practical AI tools has drawn <b>619 participants</b>, including <b>60 rangatahi</b>, working alongside <b>114 mentors</b> and <b>41 industry judges</b>. Nine venue-winning teams now go through to national judging, with four finalists set to pitch at the Aotearoa AI Summit at Tākina, Wellington, on 8–9 September for the 2026 TAIAO Prize.</p>",
