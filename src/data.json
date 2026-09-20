@@ -714,6 +714,28 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "21 Sep 2026",
+          "headline": "Rocket Lab Launches Synspective's 12th Radar Satellite From Mahia, Notches 96th Electron Flight",
+          "brief": "<p>Rocket Lab's 'Owl By The Dozen' mission lifted off from Launch Complex 1 on Mahia Peninsula at <b>3:22pm NZST on 19 September 2026</b>, delivering the <b>12th StriX satellite</b> for synthetic aperture radar (SAR) company Synspective directly into an <b>exact 572km low Earth orbit</b>. The launch marked Rocket Lab's <b>96th Electron flight</b> overall and its <b>17th launch of 2026</b>.</p>",
+          "body": [
+            "Rocket Lab successfully launched the latest Earth-observation satellite for synthetic aperture radar (SAR) company Synspective in a mission named 'Owl By The Dozen'. The Electron rocket lifted off from Rocket Lab Launch Complex 1 on New Zealand's Mahia Peninsula at 3:22pm NZST on 19 September 2026.",
+            "The satellite was delivered directly into an exact 572km low Earth orbit, becoming the 12th StriX satellite for Synspective's Earth-monitoring constellation. The mission extended Rocket Lab's 100% mission success record across its multi-year launch partnership with Synspective.",
+            "Rocket Lab said it has 15 additional dedicated Electron missions manifested through the end of the decade to complete Synspective's commercial SAR constellation, underlining a long-running customer relationship on Electron's schedule.",
+            "The launch was Rocket Lab's 96th Electron flight overall and its 17th of 2026, underscoring Electron's unmatched operational cadence in commercial small-lift launch globally. With 17 launches completed so far in 2026, Electron continues to lead the global commercial small-lift sector in frequency and reliability."
+          ],
+          "lens": "Every one of these launches is a reminder that Hawke's Bay hosts the physical hardware end of a genuinely global space business — the rocket leaves from Mahia even though the satellite, the customer and the money all sit offshore. That's the honest limit of the local upside from any single mission like this one: there's no new local contract, no new jobs announcement and no new Bay company in this story, just another successful flight from a pad the region already has. What is notable is that this isn't a one-off — with another 15 dedicated Electron missions already booked for Synspective alone through the end of the decade, Mahia's launch cadence for this one customer is locked in for years, which is exactly the kind of predictable pipeline that could justify sustained local investment rather than one-off enthusiasm. What the Bay can do is keep leaning into what it already controls around that pad — the accommodation, catering, fuel, logistics and construction supply chain that services Launch Complex 1 and the Wairoa district around it, plus the profile that a near-fortnightly launch cadence gives 'Space Coast' tourism at viewing spots around the peninsula. What it should do is be less passive about it: with a multi-year manifest now public, councils and regional development agencies have a rare chance to plan ahead — courting more of Rocket Lab's local supplier spend and building school and polytechnic pathways into Mahia's engineering, logistics and launch-operations roles — rather than treating each successful liftoff as a spectacle to watch rather than an economy to build on.",
+          "sources": [
+            {
+              "l": "GlobeNewswire (Rocket Lab Corporation)",
+              "u": "https://www.globenewswire.com/news-release/2026/09/19/3364997/0/en/mission-success-rocket-lab-launches-96th-electron-mission.html"
+            },
+            {
+              "l": "Rocket Lab Investor Relations",
+              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-96th-electron-mission"
+            }
+          ]
+        },
+        {
           "date": "17 Sep 2026",
           "headline": "Rocket Lab Locks In $1.94 Billion to Fund Its $8 Billion Iridium Takeover",
           "brief": "Rocket Lab has completed a $1.944 billion at-the-market share sale, fully financing its pending $8 billion cash-and-stock acquisition of satellite operator Iridium Communications, and has cancelled the $3.6 billion bridge loan that Deutsche Bank and Wells Fargo had committed to back the deal. Iridium has also amended its $1.775 billion term loan facility to allow the change of control, with Rocket Lab USA providing an unsecured guarantee once the deal closes, which is expected to happen in mid-2027 pending regulatory approvals.",
