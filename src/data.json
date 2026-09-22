@@ -1,21 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Innovation",
+    "chipLabel": "Investment",
     "sector": "bay",
-    "date": "18 Sep 2026",
-    "headline": "NZ's First Fieldays-Style Tech Expo Opens Today in Auckland — Backed by MBIE, NZTE and AWS",
-    "byline": "Auckland · 18 Sep 2026 · A national tech marketplace launches — the real question for the Bay is who shows up",
-    "brief": "<p>New Zealand's technology sector has its own Fieldays moment today: <cite index=\"10-3\">The tech sector is gearing up for a gathering of hundreds of technology leaders, founders, investors and students at a first-of-its-kind expo along the lines of the primary sector's annual Fieldays.</cite> <b>NZ Tech Expo</b>, founded by <cite index=\"9-9\">Lucas Grossi</cite>, opens at <b>Shed 10</b> in downtown Auckland, with <cite index=\"31-3\">more than 80 exhibitors and 3000 participants expected to attend</cite>.</p><p>Tech Expo Advisory Board strategist <b>Andrew Mitchell</b> said <cite index=\"31-4\">the entire tech sector would be there, including the fast-growing fintech, SaaS (software as a service), EdTech and AI businesses</cite>. He drew a deliberate comparison to the primary sector's biggest gathering, framing the expo as unlike a conference: <cite index=\"10-7,10-8\">\"At a conference, you meet the people that you already know, you catch up on the gossip and you learn something new from the speakers,\" Mitchell said. \"Here, we have the entire marketplace - you go there to meet people that you don't know.\"</cite></p><p>Education NZ chief executive and expo ambassador <b>David Downs</b> made the case for why the country can't sit this one out: <cite index=\"31-8,31-9\">\"New Zealand business needs to grow and become more productive, and technology is a massive lever for that, but we need to use it cleverly, smartly and at speed,\" he said. \"If people don't get behind things like this, we never make that next step.</cite> He also pointed to a post-pandemic rebuilding job: <cite index=\"31-10,31-11\">\"Getting people together in one space is important. We've spent years behind screens, especially during Covid, and I think we're still rebuilding some of that collaborative muscle.\"</cite></p><p>The event's backing signals it's more than an industry meet-up: <cite index=\"31-12\">the event has backing from Auckland Council, NZ Trade & Enterprise (NZTE), the Ministry for Business, Innovation and Employment (MBIE), Amazon Web Services, Creative HQ, and NZ Growth Capital Partners (NZGCP) and others</cite>.</p>",
-    "lens": "For Hawke's Bay, today's expo is a mirror more than a headline event — the region isn't in the Shed 10 exhibitor list, and that's the point worth sitting with. Andrew Mitchell's Fieldays comparison should sting a little in a place that knows exactly what a world-class, sector-wide gathering looks like; the real test is whether any Hawke's Bay fintech, agritech or SaaS founder made the trip today to meet the NZTE, NZGCP and AWS people in the room who can actually move a scale-up forward. The Bay has its own startup and innovation spaces and existing tech networking groups — the practical move is making sure they're actively pushing local founders toward national marketplaces like this one, rather than letting Auckland absorb all the oxygen. Realistically, though, there's little the region should try to build from scratch here: this is an Auckland-anchored, MBIE-and-NZTE-backed event, and the smarter regional response is showing up and importing the connections, not attempting to replicate the machinery locally.",
+    "date": "23 Sep 2026",
+    "headline": "NZ Investment in Women-Only Startups Triples — But They Still Get Under Six Cents in Every VC Dollar",
+    "byline": "Auckland · new Gender Investment Gap data from the University of Auckland Business School, with lessons for any founder pitching money outside the big cities",
+    "brief": "<p>New research has confirmed what many New Zealand founders have long suspected: <b>women-only startup founders received less than six cents in every venture capital dollar invested in New Zealand last year, despite a sharp rise in funding.</b> <span>Data from the Aotearoa Centre for Enterprising Women at the University of Auckland Business School shows women-only founding teams attracted $14.75 million in disclosed investment from venture capital firms in 2025, more than triple the $4.59m raised the previous year.</span> Their share of total disclosed capital <b>more than doubled, from 2.9 percent to 5.94 percent</b> — but the gap remained significant, with <b>male-only founding teams receiving $172.35m, or 69.42 percent of disclosed capital</b>, against <b>mixed-gender teams on $61.17m, or 24.64 percent</b>.</p><p>The research, based on data voluntarily supplied by <b>23 investment funds</b> and capturing <b>241 investments across 155 companies</b>, found the funding problem compounds as companies grow: women-only teams took <b>17.6 percent of pre-seed investments and 15 percent of seed investments, but just 7.5 percent of bridge investments</b>, and <b>none of the Series investments captured in the 2025 dataset went to women-only founding teams</b>.</p><p>Gender Investment Gap co-founder Jenny Rudd called the improvement encouraging but said the headline number was still too low to celebrate: <b>\"When we look at women-only founded startups, it's doubled from about 3 percent last year to 6 percent.\"</b> Contented co-founder Hannah Hardy-Jones, who raised $4.1m this year after first bootstrapping her company to $1m in annual recurring revenue, said it was fundraising conversations that showed how differently women founders were treated: <b>\"The questions that I was asked as a founder were very different… It was all around competitors and risk, whereas my male counterparts were not fielding those sorts of questions. It was always around vision and ambition.\"</b></p><p>Rudd also pointed to a signalling problem, saying venture capital firms needed to think about what they projected publicly — if a fund's website or communications mostly showed male-led companies, women founders could decide it simply wasn't for them. <b>\"I didn't approach most of the VC firms when I was raising capital because I was like, they're not really designed for me,\"</b> she said.</p>",
+    "lens": "There's no Hawke's Bay data point buried in this report — it's an Auckland-university study of national VC flows, and honesty means saying so plainly rather than inventing a local statistic that doesn't exist. But the pattern it exposes — women founders doing fine at pre-seed and seed, then vanishing entirely from later funding rounds — is exactly the stage where any Bay-based founder, male or female, already struggles simply because the capital and the funds sit in Auckland and Wellington. If the region wants to actually change the numbers for its own women in agritech, foodtech and horticulture-adjacent software rather than just quote them, the practical move isn't a press release — it's making sure Hawke's Bay's women founders are physically in the room at whatever startup showcases and investor events do reach the regions, that local economic development agencies and angel networks are explicitly signalling they back women-led ventures (since Rudd's own experience suggests founders self-select out when they don't feel the invitation is real), and that any regional accelerator or fund coming out of the Bay tracks and publishes its own gender split from day one, rather than waiting for a university to have to point it out nationally.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/599013/auckland-readies-for-ambitious-2026-nz-tech-expo"
+        "u": "https://www.rnz.co.nz/news/business/1487706/women-only-startup-founders-got-5-point-94-percent-of-venture-capital-in-2025"
       },
       {
-        "l": "NZ Tech Expo",
-        "u": "https://nztechexpo.co.nz/"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/nz/the-front-page-women-founders-are-getting-more-funding-so-why-is-the-gap-still-so-big/YUQJC72VBZHR5CMZX77HCXD6AM/"
       }
     ]
   },
@@ -714,6 +714,36 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "23 Sep 2026",
+          "headline": "SpaceX Winds Down Falcon 9 — A Launch-Market Gap Rocket Lab's Neutron Is Racing to Fill",
+          "brief": "SpaceX is beginning to wind down Falcon 9, the rocket that transformed commercial spaceflight, as it shifts its launch future toward Starship, with some customers unable to secure flights beyond 2028, the Wall Street Journal reported. Industry and government officials expect launch demand to exceed supply through at least the end of the decade — a gap being framed as a major opening for Rocket Lab and its yet-to-fly Neutron rocket, which is being built to fly not from Rocket Lab's Mahia site but from a dedicated pad in Virginia.",
+          "body": [
+            "SpaceX is beginning to wind down Falcon 9, the rocket that transformed commercial spaceflight, as the company shifts its launch future toward Starship. SpaceX has stopped selling new shared Falcon 9 missions, while some companies have been unable to secure flights beyond 2028, according to Wall Street Journal reporting. Industry and government officials expect launch demand to exceed supply through at least the end of the decade.",
+            "Falcon 9 flew a record 165 missions last year, while its standard launch price has climbed 19% over five years to $74 million, and the squeeze is already changing customer behaviour. Portal Space Systems bought an entire Falcon 9 flight for 2028, a step it had not originally planned, because CEO Jeff Thornburg said the company could not afford a gap in access to orbit. SpaceX plans to stockpile Falcon rockets before ending production, with government missions potentially keeping the vehicle flying into the early 2030s, while Starship takes over much of Falcon's role and commercial customers compete for launches with SpaceX's own Starlink satellites and its plans to deploy computing infrastructure in orbit.",
+            "That backdrop is being read as a major opening for Rocket Lab and its yet-to-fly Neutron rocket. Neutron is designed to lift about 13 metric tons to low Earth orbit — enough for the constellation and national-security payloads that mostly ride on Falcon 9 today. Rocket Lab's launch backlog stands at more than 90 missions, including five dedicated Neutron flights sold to a single customer. The company is also following SpaceX's playbook beyond launch: its planned $8 billion acquisition of Iridium Communications would add a satellite network with 2.6 million subscribers to its rocket and spacecraft businesses, with Iridium shareholders voting on the deal on Thursday.",
+            "Rocket Lab's own investor materials show the company operates three launch pads at two sites: two pads at its private orbital launch site in New Zealand, and a third pad in Virginia. That Virginia pad — Launch Complex 3 at Wallops Island, officially opened on August 28, 2025 — is the company's dedicated site for Neutron, described by Rocket Lab as its launch site for the new medium-lift reusable rocket. Electron, by contrast, continues to fly from New Zealand: Rocket Lab's news releases show the rocket launching from Mahia, including its 94th Electron mission on September 2, 2026, carrying an Earth-imaging satellite for Synspective."
+          ],
+          "lens": "The direct upside for Hawke's Bay is real but indirect and limited. Neutron itself is being built to fly out of Rocket Lab's Virginia pad, not Mahia, so a Falcon 9 supply squeeze does not automatically translate into more rocket traffic over Wairoa. What it could mean locally is a healthier, better-capitalised Rocket Lab overall — a company whose growing backlog and expanding ambitions (from Neutron to the pending Iridium acquisition) still rest partly on Electron's steady cadence out of Mahia, which continues to support jobs, contractors and visitor activity around the launch site. The honest move for the region is not to chase a Neutron pad that isn't coming here, but to keep backing what already is: the working relationship that keeps Electron launching from Mahia, and the local businesses and workers who service that operation. Investors and local business owners should watch Rocket Lab's overall fortunes — including how Neutron's debut and any Iridium integration play out — as a bellwether for continued Electron demand at Mahia, rather than expecting a slice of the Neutron story itself.",
+          "sources": [
+            {
+              "l": "Benzinga",
+              "u": "https://www.benzinga.com/markets/prediction-markets/26/09/61933073/spacex-falcon-9-rocket-lab-neutron"
+            },
+            {
+              "l": "Rocket Lab Investor Relations",
+              "u": "https://investors.rocketlabcorp.com/"
+            },
+            {
+              "l": "Rocket Lab Investor Relations — News",
+              "u": "https://investors.rocketlabcorp.com/news"
+            },
+            {
+              "l": "Business Wire — Rocket Lab Opens Launch Complex 3",
+              "u": "https://www.businesswire.com/news/home/20250807915261/en/Rocket-Lab-Provides-Opportunity-for-Retail-Shareholders-to-Attend-the-Opening-Event-of-the-Neutron-Launch-Site-In-Virginia"
+            }
+          ]
+        },
+        {
           "date": "21 Sep 2026",
           "headline": "Rocket Lab Launches Synspective's 12th Radar Satellite From Mahia, Notches 96th Electron Flight",
           "brief": "<p>Rocket Lab's 'Owl By The Dozen' mission lifted off from Launch Complex 1 on Mahia Peninsula at <b>3:22pm NZST on 19 September 2026</b>, delivering the <b>12th StriX satellite</b> for synthetic aperture radar (SAR) company Synspective directly into an <b>exact 572km low Earth orbit</b>. The launch marked Rocket Lab's <b>96th Electron flight</b> overall and its <b>17th launch of 2026</b>.</p>",
@@ -1010,23 +1040,6 @@
             {
               "l": "Spaceflight Now",
               "u": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/"
-            }
-          ]
-        },
-        {
-          "date": "16 Jul 2026",
-          "headline": "Rocket Lab books its biggest launch deal yet",
-          "brief": "<p>Rocket Lab announced its largest launch agreement to date — a confidential customer booking multiple Neutron and Electron missions — underlining demand as Neutron nears its debut.</p>",
-          "body": [
-            "Rocket Lab has signed the largest launch contract in its history — a multi-mission deal with an undisclosed customer for five Neutron and three Electron flights between 2026 and 2029. It pushes the company's manifest past 70 missions and its overall backlog beyond US$2.2 billion.",
-            "The agreement is a vote of confidence in Neutron, the reusable medium-lift rocket still in development, and the launches will fly from both Launch Complex 1 at Mahia and Launch Complex 3 at Wallops Island in Virginia. It eclipses Rocket Lab's previous 2026 record, a US$190 million hypersonic test deal. \"The space industry needs more launch capacity,\" said founder Sir Peter Beck, \"and it needs it from launch providers who know how to deliver.\"",
-            "With 87 Electron launches behind it and more missions sold in the first quarter of 2026 than in all of 2025, Rocket Lab is now the world's second most active launch provider — and a meaningful share of those flights lift off from Hawke's Bay."
-          ],
-          "lens": "Every booked launch is potential work flowing through Māhia and its supply chain — but only if local firms are in a position to win it. The Bay's move is practical: get regional engineering, logistics and services businesses launch-ready and connected to Rocket Lab's procurement, and build the training pipeline so the skilled roles are filled locally rather than imported. The alternative is to keep watching world-class launches lift off from Hawke's Bay soil while the value flies out with them.",
-          "sources": [
-            {
-              "l": "Rocket Lab",
-              "u": "https://rocketlabcorp.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/"
             }
           ]
         }
@@ -1405,6 +1418,24 @@
     }
   ],
   "headlines": [
+    {
+      "date": "18 Sep 2026",
+      "chipLabel": "Innovation",
+      "headline": "NZ's First Fieldays-Style Tech Expo Opens Today in Auckland — Backed by MBIE, NZTE and AWS",
+      "byline": "Auckland · 18 Sep 2026 · A national tech marketplace launches — the real question for the Bay is who shows up",
+      "brief": "<p>New Zealand's technology sector has its own Fieldays moment today: <cite index=\"10-3\">The tech sector is gearing up for a gathering of hundreds of technology leaders, founders, investors and students at a first-of-its-kind expo along the lines of the primary sector's annual Fieldays.</cite> <b>NZ Tech Expo</b>, founded by <cite index=\"9-9\">Lucas Grossi</cite>, opens at <b>Shed 10</b> in downtown Auckland, with <cite index=\"31-3\">more than 80 exhibitors and 3000 participants expected to attend</cite>.</p><p>Tech Expo Advisory Board strategist <b>Andrew Mitchell</b> said <cite index=\"31-4\">the entire tech sector would be there, including the fast-growing fintech, SaaS (software as a service), EdTech and AI businesses</cite>. He drew a deliberate comparison to the primary sector's biggest gathering, framing the expo as unlike a conference: <cite index=\"10-7,10-8\">\"At a conference, you meet the people that you already know, you catch up on the gossip and you learn something new from the speakers,\" Mitchell said. \"Here, we have the entire marketplace - you go there to meet people that you don't know.\"</cite></p><p>Education NZ chief executive and expo ambassador <b>David Downs</b> made the case for why the country can't sit this one out: <cite index=\"31-8,31-9\">\"New Zealand business needs to grow and become more productive, and technology is a massive lever for that, but we need to use it cleverly, smartly and at speed,\" he said. \"If people don't get behind things like this, we never make that next step.</cite> He also pointed to a post-pandemic rebuilding job: <cite index=\"31-10,31-11\">\"Getting people together in one space is important. We've spent years behind screens, especially during Covid, and I think we're still rebuilding some of that collaborative muscle.\"</cite></p><p>The event's backing signals it's more than an industry meet-up: <cite index=\"31-12\">the event has backing from Auckland Council, NZ Trade & Enterprise (NZTE), the Ministry for Business, Innovation and Employment (MBIE), Amazon Web Services, Creative HQ, and NZ Growth Capital Partners (NZGCP) and others</cite>.</p>",
+      "lens": "For Hawke's Bay, today's expo is a mirror more than a headline event — the region isn't in the Shed 10 exhibitor list, and that's the point worth sitting with. Andrew Mitchell's Fieldays comparison should sting a little in a place that knows exactly what a world-class, sector-wide gathering looks like; the real test is whether any Hawke's Bay fintech, agritech or SaaS founder made the trip today to meet the NZTE, NZGCP and AWS people in the room who can actually move a scale-up forward. The Bay has its own startup and innovation spaces and existing tech networking groups — the practical move is making sure they're actively pushing local founders toward national marketplaces like this one, rather than letting Auckland absorb all the oxygen. Realistically, though, there's little the region should try to build from scratch here: this is an Auckland-anchored, MBIE-and-NZTE-backed event, and the smarter regional response is showing up and importing the connections, not attempting to replicate the machinery locally.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/599013/auckland-readies-for-ambitious-2026-nz-tech-expo"
+        },
+        {
+          "l": "NZ Tech Expo",
+          "u": "https://nztechexpo.co.nz/"
+        }
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "chipLabel": "Govt Tech",
