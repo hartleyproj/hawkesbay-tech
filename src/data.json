@@ -556,6 +556,42 @@
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
         {
+          "date": "26 Sep 2026",
+          "headline": "Datacom pushes sovereign AI infrastructure past $200m with fifth NZ data centre",
+          "brief": "<p>Datacom has <b>acquired T4's Auckland data centre for an undisclosed sum</b>, expanding its sovereign New Zealand footprint to <b>five sites</b> and taking its committed local infrastructure investment past <b>$200m</b>. The <b>5,200sqm East Tāmaki facility</b>, with 1,500sqm of net usable raised floor space, will be upgraded for AI-ready, high-density workloads, including liquid cooling.</p>",
+          "body": [
+            "Datacom has acquired T4's Auckland data centre for an undisclosed sum, expanding its sovereign New Zealand footprint to five sites and strengthening in-country capability. Chief executive Greg Davidson said the deal, combined with Datacom's four existing New Zealand data centres and planned investment in the new site, means the company has committed more than $200m to building out its data-centre capability in New Zealand, adding that with greenfield data-centre investment opportunities being a focus, this investment level is expected to increase.",
+            "The acquired facility spans 5,200 square metres, including 1,500 square metres of net usable, column-free raised floor space, and is located in East Tāmaki, Auckland, supporting multiple public and private sector organisations. It joins Datacom's existing data centres in Auckland, Hamilton, Wellington and Christchurch, and Datacom did not disclose how much it paid for the site.",
+            "Datacom will invest in the site so it can support AI-ready and high-density workloads including liquid cooling, ensuring the facility can scale to meet evolving compute and performance demands. Datacom Director of Data Centres Matt Neil said the deal was \"a strong fit for our existing portfolio\" that lets the company keep delivering \"highly resilient, energy efficient facilities backed by local expertise and 24/7 support,\" and separately said the facility enables customers to \"access modern, AI-ready infrastructure without compromising on sustainability, security or local control.\" Davidson said sovereign infrastructure is now \"a critical priority for organisations that need certainty over where their data resides, how it is governed and how reliably it can be accessed,\" and framed the acquisition as building infrastructure that lets customers \"operate with confidence, with a strong local foundation and the ability to connect into global platforms when needed.\"",
+            "On the seller's side, T4 chief executive Dean Addie said the deal reflects T4's long-term strategy to focus investment on regional data-centre infrastructure across New Zealand, saying the transition \"allows us to accelerate our regional expansion while ensuring customers in major centers continue to be supported by a trusted local New Zealand operator.\" Founded in 2021, T4 already operates a data centre in Whangarei and is planning another on New Zealand's South Island; Futurum Group's analysis noted Addie framed the sale itself as \"strengthening New Zealand's sovereign data centre capability.\"",
+            "Futurum Group's analysis of the deal argues that Datacom's owned-and-operated model, rather than a partnership or resale arrangement, gives it direct control over sovereignty assurances at a time when hyperscaler commitments to local regions can shift with global capacity priorities, and that the transaction reinforces a broader pattern of organisations demanding in-country infrastructure backed by local expertise and round-the-clock support. It also notes Datacom's owned model, combined with its AirTrunk partnership for hyperscale access in Australia, gives customers a hybrid path without sacrificing sovereignty, and frames Datacom as signalling it intends to be \"the last operator standing in the sovereign NZ tier,\" since scale reduces per-unit operating costs, supports 24/7 local staffing, and enables the continuous capital reinvestment AI-era infrastructure demands.",
+            "The Futurum report flags several open questions: whether government agencies accelerate sovereign colocation commitments given the expanded five-site footprint; how rival New Zealand data-centre operators reposition on AI-readiness, pricing or partnerships over the next two quarters; and whether Datacom's expanded capacity feeds through into measurable growth in AI consulting and managed-services revenue, noting that Futurum's own 2H 2026 channel partner survey found 86.7% of channel partners cite AI consulting as a top growth driver."
+          ],
+          "lens": "This is an Auckland infrastructure deal, not a Hawke's Bay one — there is no Bay site, consent or investment attached to it, and it would be dishonest to pretend otherwise. But it matters here because Datacom is not a distant hyperscaler: it operates a Hastings office, and its own leaders describe the value to regional customers as the breadth of the company's national expertise, 'skills spanning a vast number of areas from security to AI, apps to cloud, networking to running our own data centres.' That means a fifth sovereign, AI-ready data centre strengthens the same national infrastructure Datacom's Hawke's Bay consultants already plug local clients into, whether that's councils, growers or processors wanting sovereign data storage or AI tools without sending workloads overseas. What the Bay could reasonably do is treat this as a prompt, not a windfall: local organisations already using Datacom, or considering it, should ask whether the expanded, liquid-cooled Auckland capacity changes pricing, latency or compliance options available to them, rather than assume anything changes automatically. What it should not do is read this as a signal that a data centre is coming to Hawke's Bay — nothing in the reporting suggests that, and the region's realistic position is as a well-served customer of national infrastructure, not a host site.",
+          "sources": [
+            {
+              "l": "Futurum Group",
+              "u": "https://futurumgroup.com/insights/datacom-bets-200m-on-sovereign-ai-infrastructure-in-new-zealand/"
+            },
+            {
+              "l": "Datacom",
+              "u": "https://datacom.com/nz/en/insights/press-release/datacom-acquires-t4-s-auckland-data-centre"
+            },
+            {
+              "l": "Reseller News",
+              "u": "https://www.reseller.co.nz/article/4152752/datacom-acquires-t4-groups-auckland-data-centre.html"
+            },
+            {
+              "l": "DataCenterDynamics",
+              "u": "https://www.datacenterdynamics.com/en/news/new-zealands-datacom-acquires-auckland-data-center-from-t4/"
+            },
+            {
+              "l": "Datacom",
+              "u": "https://datacom.com/nz/en/discover/press-release/new-office-a-signal-of-datacoms-commitment-to-hawkes-bay"
+            }
+          ]
+        },
+        {
           "date": "27 Aug 2026",
           "headline": "NZ's data-centre 'prize' just doubled to $120 billion — but so has the pushback",
           "brief": "<p>Boston Consulting Group has almost doubled its estimate of what New Zealand's data-centre boom could be worth, with a report released on 20 August 2026 putting the prize at <b>$120 billion</b> in economic activity over the next decade, up from the <b>$70 billion</b> BCG modelled back in February 2026, on the back of a bigger modelled build of <b>1 gigawatt</b> of capacity. A construction programme of that scale could create about <b>3,500 jobs</b> at peak, but the boom is running into real friction: the Green Party wants a one-year moratorium over water and electricity worries, and engineers have raised their own water-consent concerns about the flagship Southland project.</p>",
