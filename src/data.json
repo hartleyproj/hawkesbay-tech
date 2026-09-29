@@ -800,6 +800,41 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "30 Sep 2026",
+          "headline": "Rocket Lab's 97th Electron Roars From Mahia, Delivers Synspective's 13th Radar Satellite",
+          "brief": "<p>Rocket Lab launched its <b>97th Electron</b> rocket from Launch Complex 1 on the Mahia Peninsula at <b>12:39 p.m. NZST on 26 September 2026</b>, delivering Synspective's <b>13th StriX</b> radar-imaging satellite directly into a <b>559km low Earth orbit</b>. The 'Owlright Owlright Owlright' mission was Rocket Lab's <b>18th launch of 2026</b> and extended a multi-year <b>100% mission-success</b> record building out the Japanese Earth-observation firm's satellite constellation.</p>",
+          "body": [
+            "Rocket Lab's 'Owlright Owlright Owlright' mission lifted off from Rocket Lab Launch Complex 1 on the Mahia Peninsula at 12:39 p.m. NZST on 26 September 2026, delivering the 13th StriX satellite directly into a 559km low Earth orbit for Japanese Earth-observation company Synspective.",
+            "The satellite expands Synspective's synthetic aperture radar (SAR) imaging constellation, which Rocket Lab says provides high-resolution, all-weather, day-and-night imaging of the Earth's surface. Across the multi-year partnership, Electron has now deployed all 13 StriX satellites with a 100% mission-success record, and Rocket Lab says another 14 dedicated launches remain on schedule to deliver the rest of Synspective's constellation by the end of the decade.",
+            "The flight was Rocket Lab's 97th Electron launch overall and its 18th of 2026, a cadence the company says is sustaining Electron's position as the world's most frequently-launched small-lift orbital rocket.",
+            "It came a week after Rocket Lab's 96th Electron mission, 'Owl By The Dozen,' which lifted off from Launch Complex 1 at 3:22 p.m. NZST on 19 September 2026 carrying Synspective's 12th StriX satellite into a 572km low Earth orbit — Rocket Lab's 17th launch of the year.",
+            "The mission also fell almost exactly ten years after Launch Complex 1 itself opened, on 26 September 2016, as the world's first private orbital launch site. The Mahia pad now comprises two launch pads and has supported more than 80 Electron launches, helping make New Zealand one of the world's busiest launch countries."
+          ],
+          "lens": "Every one of these launches is, quite literally, a Hawke's Bay story: the rocket that keeps setting the pace for global small-satellite launch lifts off from a clifftop paddock at the southern tip of Mahia Peninsula, not from Auckland or the United States, and this mission arrived almost exactly ten years to the day after that pad first opened. A near-weekly cadence — two Electron missions in eight days this time — means a steady drumbeat of local activity around Mahia and Wairoa: range crews, technicians, contractors, accommodation bookings and the launch-viewing traffic that comes with each mission, with 14 more dedicated Synspective launches alone already booked through the end of the decade. The region's honest opportunity here isn't in the satellites themselves, which are built and operated overseas for a Japanese customer, but in everything that supports the launch cadence on the ground. Councils and tourism operators around Wairoa and Mahia could do more to formalise and promote the launch-viewing experience as a repeatable visitor drawcard rather than a one-off novelty, especially as the site now marks a decade of operations; local trades, hospitality and transport operators can plan around a known, increasingly frequent launch calendar instead of treating each mission as a surprise; and schools and training providers in the wider Bay have a genuine, on-the-doorstep case study for engineering and technician career pathways given how routine — and how enduring — Rocket Lab's operations at Mahia have become. What the Bay should not do is oversell this as a satellite-manufacturing or space-tech industry of its own — the actual hardware and contracts sit with Rocket Lab's Auckland and US operations and its customers like Synspective. The realistic play is treating Mahia's now decade-old launch site as steady, bookable regional infrastructure and building the tourism, hospitality and skills pipeline around it.",
+          "sources": [
+            {
+              "l": "GlobeNewswire (Rocket Lab Corporation) - 97th Electron Mission",
+              "u": "https://www.globenewswire.com/news-release/2026/09/26/3369387/0/en/mission-success-rocket-lab-launches-97th-electron-mission.html"
+            },
+            {
+              "l": "Rocket Lab Corporation Investor Relations - 97th Electron Mission",
+              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-97th-electron-mission"
+            },
+            {
+              "l": "GlobeNewswire (Rocket Lab Corporation) - 96th Electron Mission",
+              "u": "https://www.globenewswire.com/news-release/2026/09/19/3364997/0/en/mission-success-rocket-lab-launches-96th-electron-mission.html"
+            },
+            {
+              "l": "Wikipedia - Rocket Lab Launch Complex 1",
+              "u": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1"
+            },
+            {
+              "l": "Space and Defense - Rocket Lab completes 97th Electron launch",
+              "u": "https://spaceanddefense.io/rocket-lab-completes-97th-electron-launch-deploys-synspective-sar-satellite/"
+            }
+          ]
+        },
+        {
           "date": "23 Sep 2026",
           "headline": "SpaceX Winds Down Falcon 9 — A Launch-Market Gap Rocket Lab's Neutron Is Racing to Fill",
           "brief": "SpaceX is beginning to wind down Falcon 9, the rocket that transformed commercial spaceflight, as it shifts its launch future toward Starship, with some customers unable to secure flights beyond 2028, the Wall Street Journal reported. Industry and government officials expect launch demand to exceed supply through at least the end of the decade — a gap being framed as a major opening for Rocket Lab and its yet-to-fly Neutron rocket, which is being built to fly not from Rocket Lab's Mahia site but from a dedicated pad in Virginia.",
@@ -1105,27 +1140,6 @@
             {
               "l": "Rocket Lab",
               "u": "https://rocketlabcorp.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/"
-            }
-          ]
-        },
-        {
-          "date": "22 Jul 2026",
-          "headline": "New Zealand's rocket launch pad is in Hawke's Bay's backyard",
-          "brief": "<p>Rocket Lab capped a record year of Electron launches and is targeting the <b>late-2026 debut of Neutron</b>, its larger reusable rocket. Easy to forget behind the Nasdaq listing and US HQ: it launches from <b>Launch Complex 1 at Mahia Peninsula</b> — inside the Hawke's Bay region.</p>",
-          "body": [
-            "Rocket Lab has capped another record run of Electron launches and is closing in on the most important moment in its history: the debut of Neutron, its larger, reusable rocket, targeted for late 2026. Neutron is the vehicle meant to lift the company from small-satellite specialist into serious competition with SpaceX.",
-            "It is easy to forget, behind the Nasdaq ticker and the US headquarters, where much of this actually happens. Rocket Lab flies from Launch Complex 1 on the Mahia Peninsula — a windswept spit of land in the Wairoa district, inside the Hawke's Bay region — still the company's original and busiest launch pad.",
-            "That makes Hawke's Bay one of the very few places on earth with a working orbital launch site on its doorstep: a magnet for aerospace suppliers, a rare draw for STEM talent, and living proof that globally significant deep-tech can be run from a corner of provincial New Zealand."
-          ],
-          "lens": "Most regions dream of a high-tech anchor; Hawke's Bay already has a working orbital launch site on its doorstep. That is a genuine asset — but proximity alone captures nothing. The concrete opportunity is to turn nearby-ness into supply: local engineering, fabrication, freight and hospitality firms bidding for launch-site work; schools and EIT feeding a STEM and trades pipeline aimed squarely at aerospace; and Wairoa in particular — the district that actually hosts the pad — pressing for its <em>share</em> of the jobs, training and visitor spend rather than watching them route through Auckland or the US HQ. Neutron's arrival will lift Rocket Lab's cadence and profile; the Bay's job is to be organised enough to plug in when it does.",
-          "sources": [
-            {
-              "l": "Rocket Lab",
-              "u": "https://rocketlabcorp.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/"
-            },
-            {
-              "l": "Spaceflight Now",
-              "u": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/"
             }
           ]
         }
