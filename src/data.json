@@ -1,21 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "AI Infrastructure",
+    "chipLabel": "Gaming",
     "sector": "bay",
-    "date": "29 Sep 2026",
-    "headline": "Datacom Passes $200m in NZ Data Centres as the Country Bets Big on the AI Build-Out",
-    "byline": "29 Sep 2026 · Auckland · what the national data-centre rush means — and doesn't — for the Bay",
-    "brief": "<p>Datacom has acquired T4's Auckland data centre, its fifth New Zealand facility and a second Auckland site. <cite index=\"1-3\">Datacom's aggregate NZ data centre investment now exceeds $200m, spanning four existing facilities and the newly acquired Auckland site.</cite> <cite index=\"1-4\">The addition of a second Auckland location is strategically significant: it gives Datacom the geographic redundancy and capacity headroom to serve high-density workloads that a single-site operator cannot credibly offer.</cite> Datacom CEO <cite index=\"21-5\">Davidson has been explicit that this figure will rise, with greenfield opportunities actively in focus.</cite></p><p>It's the latest data point in what is now a genuine national priority: <cite index=\"16-1\">Invest New Zealand is seeking NZ$25 billion to NZ$35 billion of private investment over five years across data centres, renewables, fibre and transmission, and the major parties have each set out data centre policies ahead of the 7 November election.</cite> <cite index=\"16-3\">A 280MW campus is under construction in Southland, a 250MW project is being explored in Taranaki, and CDC plans more than 220MW in Auckland.</cite></p><p><cite index=\"1-6\">For enterprise and government customers evaluating long-term infrastructure partners, that forward commitment matters as much as current capacity,</cite> Datacom argues — part of a wider scramble for compute capacity, power and grid connections that is reshaping how investors, iwi and councils think about digital infrastructure nationally.</p>",
-    "lens": "None of the announced campuses — Datacom's Auckland sites, the Southland build, the Taranaki proposal, CDC's Auckland plans — are in Hawke's Bay, and the honest read is that this particular wave of capital is landing where the grid capacity, fibre backbone and existing operator footprints already are. That's not a reason for the region to shrug it off, though: as data-hungry AI tools become standard in orchards, wineries and logistics, Hawke's Bay businesses will be renters of this new national compute capacity rather than hosts of it, so the region's real leverage is making sure its own connectivity and power resilience keep pace so local firms and Council services aren't left waiting at the back of the queue. With an election in November putting data-centre policy on every party's platform, the sensible local move is watching what consenting and grid rules get set nationally — because those rules, more than any single facility, will decide how cheaply and reliably the Bay can plug into the AI economy everyone else is building around it.",
+    "date": "01 Oct 2026",
+    "headline": "CODE NZ Pours Over $2m Into 21 Kiwi Game Studios — None From the Bay",
+    "byline": "National, 30 Sep 2026 · a fresh government-backed funding round bypasses Hawke's Bay's creative-tech scene entirely",
+    "brief": "<p><b>New Zealand funding body CODE has announced over NZD $2 million in funding for 21 video game studios</b> to support development of new projects — <b>the highest number of expressions of interest for funding the programme has received since it began</b>, leading to significant challenges in selecting the supported studios.</p><p>The money splits two ways: <b>a total of NZD $885,654 has been awarded to 15 studios</b> to kickstart the creation of new 'innovative, commercially viable game prototypes,' while <b>an additional NZD $1.5 million has been allocated to six studios</b> to support production work for titles already in development. Demand was intense — <b>there were around 100 full applications</b> across CODE's KickStart and StartUp funds in this round, making for a highly competitive field. 'The independent assessment panel faced a significant challenge navigating through such a large and competitive field,' says Vee Pendergrast, CODE's Industry Development Manager. Recipients ranged from Acceptable Risk Studio's <i>Little Scrappers</i> and Atawhai Interactive's <i>Gullfriends</i> to Cass Bay Games' <i>Davy Jones' Deckhand</i> and Headplug Games' <i>Middle Management</i>.</p><p>CODE says <b>the next round of funding for New Zealand-based game developers will be open in early 2027</b>, leaving a clear runway for studios anywhere in the country to put their hand up next time.</p>",
+    "lens": "This one is honestly a story about absence as much as investment: scan the studios named in this round and there isn't a Hawke's Bay outfit among them — the money has again gone to the country's established indie clusters, underlining how thin the Bay's formal game-dev sector still is compared with the rest of the country's fast-growing scene. The real opportunity is the concrete, dated detail in CODE's own announcement that the next KickStart and StartUp funding window opens in early 2027 — something local creators, EIT's digital and creative programmes, and Hawke's Bay's small tech-networking circles could actively build toward, rather than another investment story the region can only watch from the sidelines. Hawke's Bay doesn't need to invent a games industry overnight, but making sure at least one local prototype is in CODE's applicant pool next round would be a modest, achievable act of catching up.",
     "sources": [
       {
-        "l": "Futurum Group",
-        "u": "https://futurumgroup.com/insights/datacom-bets-200m-on-sovereign-ai-infrastructure-in-new-zealand/"
-      },
-      {
-        "l": "Data Centres NZ",
-        "u": "https://datacentresnz.com/insights/nz-data-centre-power-list-2026"
+        "l": "ScreenHub",
+        "u": "https://www.screenhub.com.au/news/games/code-nz-funding-september-2026-2708886/"
       }
     ]
   },
@@ -555,6 +551,30 @@
       "chip": "c-cloud",
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
+        {
+          "date": "01 Oct 2026",
+          "headline": "Southland's giant AI data centre would swap diesel generators for batteries — but the redesign hasn't been consented yet",
+          "brief": "<p>Datagrid, the Singaporean-owned company behind one of New Zealand's largest AI data-centre projects, has told Southland councils it wants to overhaul the design of its Makarewa site — merging six planned data halls into one continuous building, adding a huge battery system that would cut emergency diesel generators from <b>84 to about 10</b>, and switching to water-saving \"dry coolers\". Crucially, Datagrid has not yet lodged consent applications for the change. The news comes as energy company Mercury deepens its financial ties to the project, having signed a power contract with Datagrid in March and then investing <b>$53 million</b> for a <b>12.7 percent stake</b> in July — while a wider push to build a $25–30 billion cluster of South Island data centres still awaits Transpower's sign-off on grid connections.</p>",
+          "body": [
+            "<cite index=\"1-6,1-7\">Singaporean-owned tech company Datagrid has been granted overseas investment approval and consents, without public input, to build a multi-billion-dollar \"hyperscale\" data centre – something it calls an \"AI factory\" – at Makarewa, north of Invercargill, and it will also partner to build a subsea internet cable to Australia.</cite> Newsroom reports that <cite index=\"1-5\">the owners are overhauling plans for a massive Southland data centre that could one day become the country's biggest consumer of electricity.</cite>",
+            "The proposed changes, revealed in documents released to Newsroom, include <cite index=\"1-10\">replacing six discrete data halls, with a footprint of 78,000 square metres, with a single, long, continuous building, spanning 50,000 sqm; building a large battery energy storage system, covering 20,000 sqm, which reduces the need for emergency diesel generators from 84 to about 10; the use of a \"dry coolers\" system, leading to a significant reduction in water consumption; and building four smaller transformers</cite> for the site's electricity substation.",
+            "But this is only a proposal so far: <cite index=\"1-2\">Datagrid tells councils of plans for a huge battery system at its planned data centre but hasn't lodged consent applications.</cite> <cite index=\"1-9\">The document release also contained minutes of a meeting between regional council staff and Datagrid on May 29, at which a proposed variation to its consents were discussed.</cite> The original consents were also granted without going to public submissions — <cite index=\"1-1\">without public notification – something endorsed by independent commissioner Hugh Leersnyder on September 18.</cite> The same document release showed <cite index=\"1-8\">Datagrid's plans to manage stormwater discharges, the partial destruction of a \"low-value\" wetland and improvement of other areas.</cite>",
+            "Money is flowing alongside the redesign. <cite index=\"15-1\">In March, NZX-listed energy company Mercury announced it had signed a long-term power contract with Datagrid, and, in July, the companies' relationship blossomed further, with Mercury investing $53 million in Datagrid, for a 12.7 percent stake.</cite>",
+            "The project sits inside a much bigger ambition. <cite index=\"20-8,20-9\">The anchor is Datagrid's $5 billion facility at Makarewa, 15 minutes north of Invercargill, covering 78,000 square metres. It was the first New Zealand data centre consented without public notification, approved in March 2026, and it comes with the first international subsea cable connection to the South Island, which Invest New Zealand calls the catalyst for everything that follows.</cite> <cite index=\"20-5,20-6\">Twizel, Ohau, Geraldine and Cromwell sit alongside the already-consented Datagrid facility near Invercargill, with the Central Otago and Mackenzie District towns designated as 'advantaged data centre zones' thanks to existing grid capacity, fibre backhaul and renewable potential, as the Crown agency actively pitches $25 to $30 billion in offshore investment into data centres over five years, projecting up to $160 billion in broader economic activity over a decade if 1.3 gigawatts is added by 2035.</cite>",
+            "That ambition runs ahead of the grid, though: <cite index=\"20-10\">Datagrid's phase one needs 280MW at peak, with a stated goal of scaling to 1GW.</cite> Yet <cite index=\"29-11,29-12\">the most significant hurdle remains open: Transpower is still in its investigative phase on the Datagrid grid connection.</cite>"
+          ],
+          "lens": "There is no direct Hawke's Bay stake in this project — it's a Southland development, built on Southland power contracts and Southland consents, and nothing in the reporting ties it to the Bay. But it matters here in two honest ways. First, the redesign is a live case study in how these projects actually get approved: Datagrid's original consents went through without public notification, and now a second, arguably more significant change — swapping dozens of diesel generators for a giant battery system — is being worked through with councils before any consent application has even been lodged. If a data centre or other giant electricity load is ever proposed near Hawke's Bay, this is the process residents, iwi and councils should expect to scrutinise: what gets notified, what doesn't, and who gets a say before the concrete is poured. Second, and more directly relevant, every gigawatt of new demand chasing the same national grid — whether it's Datagrid's Southland campus or the wider cluster of South Island towns being pitched to offshore investors — competes for the same transmission capacity and wholesale power pool that prices electricity for Hawke's Bay's orchards, wineries and cool-stores. The fact that Transpower hasn't yet signed off on the grid connection for even the first of these projects is a live reminder that the rules for who pays for new capacity, and who queues behind whom, are still being written. The realistic move for the Bay isn't to chase a data centre of its own — the region has no comparable power surplus or subsea cable landing — but for growers, the chamber of commerce and council to keep a watching brief on how those national grid-access and cost-sharing rules evolve, since they will shape power bills and investment certainty here long after the Southland project is built.",
+          "sources": [
+            {
+              "l": "Newsroom",
+              "u": "https://newsroom.co.nz/2026/09/25/southland-data-centre-set-for-major-redesign"
+            },
+            {
+              "l": "b2bnews.co.nz",
+              "u": "https://b2bnews.co.nz/news/five-south-island-data-centres-test-the-power-grid/"
+            }
+          ]
+        },
         {
           "date": "29 Sep 2026",
           "headline": "Napier's ABB factory rides the global AI data-centre boom, adding 50 jobs with 50 more planned",
@@ -1518,6 +1538,24 @@
     }
   ],
   "headlines": [
+    {
+      "date": "29 Sep 2026",
+      "chipLabel": "AI Infrastructure",
+      "headline": "Datacom Passes $200m in NZ Data Centres as the Country Bets Big on the AI Build-Out",
+      "byline": "29 Sep 2026 · Auckland · what the national data-centre rush means — and doesn't — for the Bay",
+      "brief": "<p>Datacom has acquired T4's Auckland data centre, its fifth New Zealand facility and a second Auckland site. <cite index=\"1-3\">Datacom's aggregate NZ data centre investment now exceeds $200m, spanning four existing facilities and the newly acquired Auckland site.</cite> <cite index=\"1-4\">The addition of a second Auckland location is strategically significant: it gives Datacom the geographic redundancy and capacity headroom to serve high-density workloads that a single-site operator cannot credibly offer.</cite> Datacom CEO <cite index=\"21-5\">Davidson has been explicit that this figure will rise, with greenfield opportunities actively in focus.</cite></p><p>It's the latest data point in what is now a genuine national priority: <cite index=\"16-1\">Invest New Zealand is seeking NZ$25 billion to NZ$35 billion of private investment over five years across data centres, renewables, fibre and transmission, and the major parties have each set out data centre policies ahead of the 7 November election.</cite> <cite index=\"16-3\">A 280MW campus is under construction in Southland, a 250MW project is being explored in Taranaki, and CDC plans more than 220MW in Auckland.</cite></p><p><cite index=\"1-6\">For enterprise and government customers evaluating long-term infrastructure partners, that forward commitment matters as much as current capacity,</cite> Datacom argues — part of a wider scramble for compute capacity, power and grid connections that is reshaping how investors, iwi and councils think about digital infrastructure nationally.</p>",
+      "lens": "None of the announced campuses — Datacom's Auckland sites, the Southland build, the Taranaki proposal, CDC's Auckland plans — are in Hawke's Bay, and the honest read is that this particular wave of capital is landing where the grid capacity, fibre backbone and existing operator footprints already are. That's not a reason for the region to shrug it off, though: as data-hungry AI tools become standard in orchards, wineries and logistics, Hawke's Bay businesses will be renters of this new national compute capacity rather than hosts of it, so the region's real leverage is making sure its own connectivity and power resilience keep pace so local firms and Council services aren't left waiting at the back of the queue. With an election in November putting data-centre policy on every party's platform, the sensible local move is watching what consenting and grid rules get set nationally — because those rules, more than any single facility, will decide how cheaply and reliably the Bay can plug into the AI economy everyone else is building around it.",
+      "sources": [
+        {
+          "l": "Futurum Group",
+          "u": "https://futurumgroup.com/insights/datacom-bets-200m-on-sovereign-ai-infrastructure-in-new-zealand/"
+        },
+        {
+          "l": "Data Centres NZ",
+          "u": "https://datacentresnz.com/insights/nz-data-centre-power-list-2026"
+        }
+      ]
+    },
     {
       "date": "23 Sep 2026",
       "chipLabel": "Investment",
