@@ -1,17 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Gaming",
+    "chipLabel": "Tech Jobs",
     "sector": "bay",
-    "date": "01 Oct 2026",
-    "headline": "CODE NZ Pours Over $2m Into 21 Kiwi Game Studios — None From the Bay",
-    "byline": "National, 30 Sep 2026 · a fresh government-backed funding round bypasses Hawke's Bay's creative-tech scene entirely",
-    "brief": "<p><b>New Zealand funding body CODE has announced over NZD $2 million in funding for 21 video game studios</b> to support development of new projects — <b>the highest number of expressions of interest for funding the programme has received since it began</b>, leading to significant challenges in selecting the supported studios.</p><p>The money splits two ways: <b>a total of NZD $885,654 has been awarded to 15 studios</b> to kickstart the creation of new 'innovative, commercially viable game prototypes,' while <b>an additional NZD $1.5 million has been allocated to six studios</b> to support production work for titles already in development. Demand was intense — <b>there were around 100 full applications</b> across CODE's KickStart and StartUp funds in this round, making for a highly competitive field. 'The independent assessment panel faced a significant challenge navigating through such a large and competitive field,' says Vee Pendergrast, CODE's Industry Development Manager. Recipients ranged from Acceptable Risk Studio's <i>Little Scrappers</i> and Atawhai Interactive's <i>Gullfriends</i> to Cass Bay Games' <i>Davy Jones' Deckhand</i> and Headplug Games' <i>Middle Management</i>.</p><p>CODE says <b>the next round of funding for New Zealand-based game developers will be open in early 2027</b>, leaving a clear runway for studios anywhere in the country to put their hand up next time.</p>",
-    "lens": "This one is honestly a story about absence as much as investment: scan the studios named in this round and there isn't a Hawke's Bay outfit among them — the money has again gone to the country's established indie clusters, underlining how thin the Bay's formal game-dev sector still is compared with the rest of the country's fast-growing scene. The real opportunity is the concrete, dated detail in CODE's own announcement that the next KickStart and StartUp funding window opens in early 2027 — something local creators, EIT's digital and creative programmes, and Hawke's Bay's small tech-networking circles could actively build toward, rather than another investment story the region can only watch from the sidelines. Hawke's Bay doesn't need to invent a games industry overnight, but making sure at least one local prototype is in CODE's applicant pool next round would be a modest, achievable act of catching up.",
+    "date": "02 Oct 2026",
+    "headline": "ANZ Looks to Cut 100+ NZ Tech Jobs as Bank Consolidates Software Testing Under One Partner",
+    "byline": "National · what a big bank's IT shake-up could mean for Hawke's Bay's tech workforce",
+    "brief": "<p>ANZ is <b>reportedly looking at cutting more than 100 jobs</b> from its New Zealand technology teams, according to the <i>Australian Financial Review</i>, which said <b>the bank told its NZ staff this week that it was cutting some of its 1500 permanent IT roles</b>. The AFR reported <b>more than 400 roles would be affected by the restructuring</b>, with <b>more than 100 workers expected to be made redundant</b>, and said ANZ was looking to <b>consolidate software testing under a single strategic partner</b>.</p><p>A spokesperson for ANZ NZ confirmed the bank was considering changes to its technology team, saying this included <b>bringing together related functions like data, AI and engineering for greater consistency, and to make the most of expertise across ANZ</b>. \"As part of our ongoing commitment to operate efficiently and deliver for customers, ANZ NZ regularly reviews how our business is structured,\" the spokesperson said, adding the proposed changes impacted non-customer facing roles and that \"our immediate priority is supporting our people through this process.\"</p><p>The IT restructuring follows an earlier shake-up this month, when <b>ANZ announced it was considering closing its Dunedin contact centre and moving jobs to offices in other parts of the country</b> — understood to involve cutting 15 customer-facing Dunedin roles to two, with affected staff offered transfers to Auckland, Wellington or Christchurch.</p>",
+    "lens": "There's no reported Hawke's Bay dimension to this one — ANZ's cuts are landing in its big-city tech hubs and in Dunedin, not here, so the honest line for the Bay is that this is a watch-and-learn story rather than a direct hit. But it's still worth the region's attention: every time a bank the size of ANZ strips 100-plus IT roles out of a 1500-strong permanent technology team and pushes software testing out to a single outside partner, it puts experienced, often remote-capable engineers, testers and data/AI specialists onto the market. Hawke's Bay doesn't have the corporate tech employers to absorb that talent locally, but it does have the lifestyle pitch — and if even a handful of displaced Auckland or Wellington tech workers are weighing where to land next, the Bay's economic development arms should be making sure fast connectivity, coworking space and a visible local tech community are easy to find, rather than leaving that pitch to chance.",
     "sources": [
       {
-        "l": "ScreenHub",
-        "u": "https://www.screenhub.com.au/news/games/code-nz-funding-september-2026-2708886/"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/business/1573453/anz-reportedly-considers-cutting-more-than-100-jobs-in-nz-it-teams"
       }
     ]
   },
@@ -1538,6 +1538,20 @@
     }
   ],
   "headlines": [
+    {
+      "date": "01 Oct 2026",
+      "chipLabel": "Gaming",
+      "headline": "CODE NZ Pours Over $2m Into 21 Kiwi Game Studios — None From the Bay",
+      "byline": "National, 30 Sep 2026 · a fresh government-backed funding round bypasses Hawke's Bay's creative-tech scene entirely",
+      "brief": "<p><b>New Zealand funding body CODE has announced over NZD $2 million in funding for 21 video game studios</b> to support development of new projects — <b>the highest number of expressions of interest for funding the programme has received since it began</b>, leading to significant challenges in selecting the supported studios.</p><p>The money splits two ways: <b>a total of NZD $885,654 has been awarded to 15 studios</b> to kickstart the creation of new 'innovative, commercially viable game prototypes,' while <b>an additional NZD $1.5 million has been allocated to six studios</b> to support production work for titles already in development. Demand was intense — <b>there were around 100 full applications</b> across CODE's KickStart and StartUp funds in this round, making for a highly competitive field. 'The independent assessment panel faced a significant challenge navigating through such a large and competitive field,' says Vee Pendergrast, CODE's Industry Development Manager. Recipients ranged from Acceptable Risk Studio's <i>Little Scrappers</i> and Atawhai Interactive's <i>Gullfriends</i> to Cass Bay Games' <i>Davy Jones' Deckhand</i> and Headplug Games' <i>Middle Management</i>.</p><p>CODE says <b>the next round of funding for New Zealand-based game developers will be open in early 2027</b>, leaving a clear runway for studios anywhere in the country to put their hand up next time.</p>",
+      "lens": "This one is honestly a story about absence as much as investment: scan the studios named in this round and there isn't a Hawke's Bay outfit among them — the money has again gone to the country's established indie clusters, underlining how thin the Bay's formal game-dev sector still is compared with the rest of the country's fast-growing scene. The real opportunity is the concrete, dated detail in CODE's own announcement that the next KickStart and StartUp funding window opens in early 2027 — something local creators, EIT's digital and creative programmes, and Hawke's Bay's small tech-networking circles could actively build toward, rather than another investment story the region can only watch from the sidelines. Hawke's Bay doesn't need to invent a games industry overnight, but making sure at least one local prototype is in CODE's applicant pool next round would be a modest, achievable act of catching up.",
+      "sources": [
+        {
+          "l": "ScreenHub",
+          "u": "https://www.screenhub.com.au/news/games/code-nz-funding-september-2026-2708886/"
+        }
+      ]
+    },
     {
       "date": "29 Sep 2026",
       "chipLabel": "AI Infrastructure",
