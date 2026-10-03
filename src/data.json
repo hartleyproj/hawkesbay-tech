@@ -24,6 +24,30 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "04 Oct 2026",
+          "headline": "AI finally becomes an election issue, with ACT's Seymour leading the debate",
+          "brief": "<p>With New Zealand's 2026 election campaign under way, artificial intelligence has become a genuine talking point for the first time, with <b>Labour</b> publishing an AI policy and <b>Opportunity</b> outlining one of its own. ACT leader <b>David Seymour</b> told RNZ's Guyon Espiner his office had done <b>\"dummy runs\"</b> using AI for policy development, and said there should be <b>\"somebody in government\"</b> in charge of AI policy for New Zealand -- a position RNZ described as a near-enough endorsement of Labour's 'Office of AI' proposal.</p>",
+          "body": [
+            "New Zealand's political parties are only just starting to grapple publicly with how to manage the arrival of artificial intelligence, according to an RNZ analysis by John Hartevelt published on 3 October. Labour has published an AI policy and Opportunity has offered the outlines of one, and there was an attempt at a discussion on the issue during the first leaders' debate of the campaign.",
+            "The most interesting contribution so far, in RNZ's assessment, has come from ACT leader David Seymour. In an interview with RNZ's Guyon Espiner on Friday, Seymour reminded listeners of his background as an engineering graduate, and went on to engage with the issues AI presents for New Zealanders more thoughtfully and concretely than other politicians have managed to date.",
+            "Seymour said there should be \"somebody in government\" in charge of AI policy for New Zealand -- what RNZ called a near-enough endorsement of Labour's 'Office of AI' proposal. He also revealed that his office had used AI in a \"dummy run\" to cut through a lengthy policy development process in \"a very short space of time\", and said he had no issue with AI drafting Cabinet papers, provided the papers were still read and understood by ministers. RNZ noted the public service's resistance to adopting AI technologies for fear of being displaced was, in its assessment, misplaced.",
+            "The most controversial position Seymour took, however, was that it is unrealistic to think New Zealand can shape the way the global AI industry is regulated, though he said the country \"certainly could\" take a national position and regulate in its own context.",
+            "The Espiner interview was part of an RNZ Midday Report series questioning technology spokespeople from a range of parties about their hopes and fears for AI and the role of government in regulating it. In that conversation, Seymour pointed to the Ministry for Regulation's guidance that government should use AI but \"keep a human in the loop\", and argued the public sector had been too slow to adopt the technology, recalling the \"uproar\" that followed earlier, more minor uses of AI in government and in past campaign graphics. He raised the case of a man in Sydney who used AI to help develop a CAR-T therapy that cured his dog's cancer as an example of AI's potential, while warning of the risk that the technology could \"empower some lone wolf to do something truly awful\". On global rules, Seymour said New Zealand's government was \"probably not\" going to lead the world on AI, drew a comparison with social media regulation and the US Alabama v TikTok case, and said someone in government should be \"monitoring offshore developments\" to ensure the country remains \"a fast follower\".",
+            "Labour's spokesperson on the issue, Reuben Davidson, was separately interviewed by Espiner as part of the same analysis, RNZ reported."
+          ],
+          "lens": "There's no Hawke's Bay angle in this story directly -- it's a Wellington press-gallery piece about party positioning in the closing weeks of the campaign, not a regional development, so it would be dishonest to force a local connection. What it does signal for the Bay is indirect but real: whichever parties end up in government after the election will set the policy framework for things that do touch the region -- from any future 'Office of AI' of the kind Labour has proposed and Seymour appeared to endorse, to how fast or cautiously the public service is allowed to move in adopting AI tools, which could in time flow through to how EIT, the council or regional economic-development agencies access similar capability locally. The sensible move for Hawke's Bay business groups, the council and EIT is simply to watch this policy contest closely over the coming weeks rather than assume Wellington's AI debate is irrelevant -- and for local MPs and candidates to be asked directly, on the record, what an AI policy from their party would mean for provincial employers and growers, since right now that detail simply isn't part of the national conversation yet.",
+          "sources": [
+            {
+              "l": "RNZ",
+              "u": "https://www.rnz.co.nz/news/politics_election-2026/1687427/ai-has-finally-entered-the-election-campaign-arena"
+            },
+            {
+              "l": "RNZ",
+              "u": "https://www.rnz.co.nz/news/politics_election-2026/1680618/act-leader-david-seymour-doesn-t-see-why-ai-shouldn-t-write-government-cabinet-papers"
+            }
+          ]
+        },
+        {
           "date": "19 Sep 2026",
           "headline": "Hawke's Bay food truck's robot arm 'Rosie' cooks and serves chips in three to four minutes",
           "brief": "<b>Rosie</b>, the giant robotic arm behind Hawke's Bay-based food truck <b>Dr Bon Vons</b>, drew curious crowds at the New Zealand Tech Expo in Auckland, letting customers order and pay via a phone QR code before cooking chips to order in about <b>three to four minutes</b>. Founder <b>Bono Vossen-Chong</b> says the idea came from an AI conference in China where he saw over <b>100 robots</b> showcased, and he's already eyeing where the concept could go next — including unmanned petrol stations — believing automation will increasingly shape how food is made and sold in New Zealand.",
@@ -246,6 +270,28 @@
       "chip": "c-solar",
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
+        {
+          "date": "04 Oct 2026",
+          "headline": "Mercury signs its first big grid-scale solar deal — for a 118MW Wairarapa farm with battery storage",
+          "brief": "Mercury NZ Limited has signed a long-term power purchase agreement with developer NZ Clean Energy (NZCE) for its 118 MW Masterton Solar and Energy Storage Project in the Wairarapa — the retailer's first major grid-scale solar PPA. The project is expected to produce approximately 190 GWh annually, enough to supply around 27,000 homes, will keep sheep grazing across the site, and is due to begin full construction in early 2027.",
+          "body": [
+            "NZ Clean Energy (NZCE), a New Zealand-based developer of utility-scale renewable energy projects, has signed a long-term power purchase agreement (PPA) for its 118 MW Masterton Solar and Energy Storage Project. Mercury NZ Limited, a renewable electricity generator and retailer, has signed up to purchase the renewable electricity generated by the project in the Wairarapa region.",
+            "The project is expected to produce approximately 190 GWh annually, enough to supply around 27,000 homes. NZCE, a Foresight portfolio company, said the project benefits from strong solar resources and access to grid infrastructure, with the potential to integrate energy storage over time. For Mercury, the deal will diversify a renewable energy portfolio that currently includes hydro, wind, and geothermal generation.",
+            "NZCE said the development will also allow continued sheep grazing across the site. The project is expected to create more than 100 jobs during construction and provide opportunities for local contractors and businesses, and NZCE said it has engaged with landowners, community representatives and other stakeholders during the development process.",
+            "NZCE has already commenced early works at the site and is in the final stages of selecting the main construction contractor, with mobilisation and installation activities to follow. Full construction is scheduled to begin in early 2027. The agreement marks Mercury's first major grid-scale solar PPA."
+          ],
+          "lens": "There's no Hawke's Bay connection in this story — the Masterton Solar and Energy Storage Project sits in the Wairarapa, feeding into the Masterton area of the grid, and nothing in the reporting ties the project, NZCE or Mercury's offtake decision to any Hawke's Bay company, landowner or lines network. Mercury's interest here is Wairarapa generation for national demand, not a Bay-based asset. What the deal honestly illustrates is a trend rather than a direct opportunity: a major gentailer that has historically built and owned much of its own generation is now willing to sign a long-term PPA with an independent solar developer, and to do so on a site that keeps sheep grazing alongside the panels. If Hawke's Bay's own solar proposals are designed around similar dual land-use, this is a data point — not a guarantee — that gentailers will consider that model elsewhere. Beyond that, there is no basis in this reporting for claims about specific Hawke's Bay projects, companies or pricing benchmarks: none are named in the source material, and any attempt to link this Wairarapa deal to named Bay developments would be speculation dressed up as fact.",
+          "sources": [
+            {
+              "l": "Taiyang News",
+              "u": "https://taiyangnews.info/markets/asia-pacific-solar-pv-news-snippets-october-1-2026"
+            },
+            {
+              "l": "Solar Quarter",
+              "u": "https://solarquarter.com/2026/10/01/nzce-signs-long-term-ppa-with-mercury-for-118-mw-masterton-solar-project/"
+            }
+          ]
+        },
         {
           "date": "25 Sep 2026",
           "headline": "Global infrastructure fund buys into Hawke's Bay's Ongaonga solar farm",
