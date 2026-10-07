@@ -1,29 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "AgriTech",
+    "chipLabel": "Space",
     "sector": "bay",
-    "date": "07 Oct 2026",
-    "headline": "AgriZeroNZ's Methane-Tech War Chest Hits $308m as Alliance and Farmlands Join Up",
-    "byline": "National · what Hawke's Bay's sheep, beef and dairy farmers need to know about the tools heading for the paddock",
-    "brief": "<p>Government-industry partnership AgriZeroNZ has received a funding boost of $117 million, with two new industry partners coming aboard. The new funding is equally split across industry and government, taking the total funds raised to $308 million, on top of the $191 million previously committed. Red meat processor and exporter Alliance and rural supplies co-op Farmlands have joined the partnership, sitting alongside existing backers The a2 Milk Company, ANZ, ANZCO, ASB, BNZ, Fonterra, Rabobank, Ravensdown, Silver Fern Farms and Synlait, who jointly own half of AgriZero.</p><p>Board chair Rob Hewett said the expansion reflected both the scale of the challenge and the sector's growing commitment to address it, and said <b>\"many of our major export customers expect progress on emissions reductions across their supply chains, through to New Zealand farms.\"</b> He added that the collaboration was <b>\"too big for any one organisation to solve alone.\"</b> Hewett said farmers should expect <b>\"one to two products each year becoming available between now and 2030,\"</b> and that <b>\"by 2030, I would expect the farmers will have five to six products to choose from, depending on their farming system.\"</b> The first tool likely to reach farms is a methane-inhibiting bolus from Kiwi company Ruminant Biotech, currently undergoing regulatory approval.</p><p>Since being established in 2023, AgriZero has invested more than $80m across 21 projects to develop tools for reducing methane and nitrous oxide emissions, including inhibitors, probiotics, genetics, pasture, vaccines and wearables. Hewett described how these might be combined: <b>\"we could conceivably have a seed treatment solution that means the grasses the animals consume produce less methane, eaten by an animal that may have a bolus or vaccine to reduce the methanogens in the rumen, which may well be wearing a wearable that can deal with nitrous oxide as well.\"</b></p><p>BNZ separately confirmed it is investing a further $4.2 million in AgriZeroNZ, taking its total stake to $8.2 million, with CEO Dan Huggins saying the bank is <b>\"proud to continue supporting AgriZeroNZ and its critical work with government and industry partners to accelerate practical solutions for farmers that reduce agricultural emissions while maintaining productivity.\"</b></p>",
-    "lens": "This one lands close to Hawke's Bay dirt: Fonterra and Farmlands are everyday names on local dairy and mixed farms, and red meat processors like Alliance and Silver Fern Farms draw stock from sheep and beef country across the region, so the tools AgriZero is funding won't stay a distant Wellington or Waikato story. Rob Hewett's own timeline is realistic, not hype: one or two new products a year through to 2030, starting with a methane bolus still working through regulatory approval, not a sudden flood of gear into the shed. The honest job for Hawke's Bay farmers, vets and rural retailers now is patience paired with readiness, watching which of the boluses, vaccines, genetics and wearables actually clear approval and prove themselves on pasture like ours, so the region is positioned to adopt early rather than last, without pretending the science is further along than the funders themselves are claiming.",
+    "date": "08 Oct 2026",
+    "headline": "Canterbury Plots New Spaceport for 100-Tonne Rockets, Up to 12 Launches a Year",
+    "byline": "National · 08 Oct 2026 · a second NZ launch site emerges — what it means for Mahia",
+    "brief": "<p>New Zealand's space ambitions just got a lot bigger — literally. RNZ has revealed that <cite index=\"1-3\">large rockets weighing up to 100 tonnes each could be launched a dozen times a year from a planned national aerospace centre near Christchurch</cite>. <cite index=\"10-3\">Tāwhaki and a French company are now working on getting capital, consents and customers from Europe to build the spaceport.</cite> That French company is SpaceDreamS — <cite index=\"10-7,10-8\">the centre hooked up with SpaceDreamS at an international aerospace congress in Sydney last year, and the French visited the spit and signed a memorandum of understanding \"to investigate the feasibility of a collaborative spaceport.\"</cite> RNZ's executive summary noted <cite index=\"10-9\">the firm had staff who used to work for French commercial launch provider Ariane Space and had \"access to European launch operators and funded programmes.\"</cite></p><p>Details remain scarce — <cite index=\"1-4\">the few details of the attempt to tap the burgeoning world of the space launch market have been released to RNZ</cite>. But the scale is striking: an executive summary describes a <cite index=\"1-5\">\"launch facility to cater for up to 100-tonne launch vehicles, with an initial consent for up to 12 launches per year.\"</cite> The same document also <cite index=\"1-8\">\"Confirmed: Land-use, consents, utilities, infrastructure, airspace, commodities, logistics, security & supporting services,\"</cite> with <cite index=\"1-7\">\"collaboration between values-aligned organisations\"</cite> listed as a guideline. That's an entirely different class of vehicle to the small Electron rockets that have made Mahia famous: <cite index=\"1-6\">this is much bigger than 13-tonne Electron rockets that go up from Mahia - Rocket Lab is working on a new Neutron rocket that would be heavier than 100 tonne and launch from the US - but just a fifth the size of what Elon Musk's SpaceX launches.</cite> RNZ also noted that <cite index=\"1-9\">experts have said the fuel type of rockets matters.</cite></p>",
+    "lens": "This is the first serious sign that New Zealand's orbital launch industry could become a two-site story instead of a Mahia monopoly — and that's worth Hawke's Bay paying close attention to, not panicking about. The Canterbury plan as reported is aimed at a heavier class of rocket, up to 100 tonnes, than Rocket Lab's Electron, and is being built around French and European capital and customers rather than the smallsat and defence-linked work that has defined Mahia's growth — so on the facts available, this looks more like a complementary new category of launch activity than a head-on rival for Hawke's Bay's existing pad. What the region should do is resist complacency: use the decade of operational experience, consenting precedent and community relationships built around the Mahia launch complex as a selling point for the next wave of space-adjacent manufacturing, servicing and workforce investment, rather than assume first-mover advantage alone will hold. If Tāwhaki does land its SpaceDreamS-led European capital and a heavy-lift customer base, Hawke's Bay's edge will increasingly rest on deepening what it already does well — frequent, reliable small-satellite launch — rather than on being the only game in town.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/country/1736241/agrizero-nz-gets-funding-boost-of-117m-new-partners-come-on-board"
-      },
-      {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/the-country/news/agrizero-nz-gets-funding-boost-of-117m-new-partners-come-on-board/QAIMETATY5DTTAJADFML2O4X4E/"
-      },
-      {
-        "l": "Farmers Weekly",
-        "u": "https://www.farmersweekly.co.nz/news/agrizeronz-secures-117m-funding-boost-as-partnership-expands/"
-      },
-      {
-        "l": "Business.Scoop",
-        "u": "https://business.scoop.co.nz/2026/10/05/bnz-invests-a-further-4-2-million-in-agrizeronz-to-help-accelerate-practical-solutions-to-reduce-agricultural-emissions/"
+        "u": "https://rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan"
       }
     ]
   },
@@ -1676,6 +1664,32 @@
     }
   ],
   "headlines": [
+    {
+      "date": "07 Oct 2026",
+      "chipLabel": "AgriTech",
+      "headline": "AgriZeroNZ's Methane-Tech War Chest Hits $308m as Alliance and Farmlands Join Up",
+      "byline": "National · what Hawke's Bay's sheep, beef and dairy farmers need to know about the tools heading for the paddock",
+      "brief": "<p>Government-industry partnership AgriZeroNZ has received a funding boost of $117 million, with two new industry partners coming aboard. The new funding is equally split across industry and government, taking the total funds raised to $308 million, on top of the $191 million previously committed. Red meat processor and exporter Alliance and rural supplies co-op Farmlands have joined the partnership, sitting alongside existing backers The a2 Milk Company, ANZ, ANZCO, ASB, BNZ, Fonterra, Rabobank, Ravensdown, Silver Fern Farms and Synlait, who jointly own half of AgriZero.</p><p>Board chair Rob Hewett said the expansion reflected both the scale of the challenge and the sector's growing commitment to address it, and said <b>\"many of our major export customers expect progress on emissions reductions across their supply chains, through to New Zealand farms.\"</b> He added that the collaboration was <b>\"too big for any one organisation to solve alone.\"</b> Hewett said farmers should expect <b>\"one to two products each year becoming available between now and 2030,\"</b> and that <b>\"by 2030, I would expect the farmers will have five to six products to choose from, depending on their farming system.\"</b> The first tool likely to reach farms is a methane-inhibiting bolus from Kiwi company Ruminant Biotech, currently undergoing regulatory approval.</p><p>Since being established in 2023, AgriZero has invested more than $80m across 21 projects to develop tools for reducing methane and nitrous oxide emissions, including inhibitors, probiotics, genetics, pasture, vaccines and wearables. Hewett described how these might be combined: <b>\"we could conceivably have a seed treatment solution that means the grasses the animals consume produce less methane, eaten by an animal that may have a bolus or vaccine to reduce the methanogens in the rumen, which may well be wearing a wearable that can deal with nitrous oxide as well.\"</b></p><p>BNZ separately confirmed it is investing a further $4.2 million in AgriZeroNZ, taking its total stake to $8.2 million, with CEO Dan Huggins saying the bank is <b>\"proud to continue supporting AgriZeroNZ and its critical work with government and industry partners to accelerate practical solutions for farmers that reduce agricultural emissions while maintaining productivity.\"</b></p>",
+      "lens": "This one lands close to Hawke's Bay dirt: Fonterra and Farmlands are everyday names on local dairy and mixed farms, and red meat processors like Alliance and Silver Fern Farms draw stock from sheep and beef country across the region, so the tools AgriZero is funding won't stay a distant Wellington or Waikato story. Rob Hewett's own timeline is realistic, not hype: one or two new products a year through to 2030, starting with a methane bolus still working through regulatory approval, not a sudden flood of gear into the shed. The honest job for Hawke's Bay farmers, vets and rural retailers now is patience paired with readiness, watching which of the boluses, vaccines, genetics and wearables actually clear approval and prove themselves on pasture like ours, so the region is positioned to adopt early rather than last, without pretending the science is further along than the funders themselves are claiming.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/country/1736241/agrizero-nz-gets-funding-boost-of-117m-new-partners-come-on-board"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/the-country/news/agrizero-nz-gets-funding-boost-of-117m-new-partners-come-on-board/QAIMETATY5DTTAJADFML2O4X4E/"
+        },
+        {
+          "l": "Farmers Weekly",
+          "u": "https://www.farmersweekly.co.nz/news/agrizeronz-secures-117m-funding-boost-as-partnership-expands/"
+        },
+        {
+          "l": "Business.Scoop",
+          "u": "https://business.scoop.co.nz/2026/10/05/bnz-invests-a-further-4-2-million-in-agrizeronz-to-help-accelerate-practical-solutions-to-reduce-agricultural-emissions/"
+        }
+      ]
+    },
     {
       "date": "06 Oct 2026",
       "chipLabel": "HealthTech",
