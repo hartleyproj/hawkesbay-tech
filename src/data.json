@@ -1,17 +1,29 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Space",
+    "chipLabel": "AgriTech",
     "sector": "bay",
-    "date": "08 Oct 2026",
-    "headline": "Canterbury Plots New Spaceport for 100-Tonne Rockets, Up to 12 Launches a Year",
-    "byline": "National · 08 Oct 2026 · a second NZ launch site emerges — what it means for Mahia",
-    "brief": "<p>New Zealand's space ambitions just got a lot bigger — literally. RNZ has revealed that <cite index=\"1-3\">large rockets weighing up to 100 tonnes each could be launched a dozen times a year from a planned national aerospace centre near Christchurch</cite>. <cite index=\"10-3\">Tāwhaki and a French company are now working on getting capital, consents and customers from Europe to build the spaceport.</cite> That French company is SpaceDreamS — <cite index=\"10-7,10-8\">the centre hooked up with SpaceDreamS at an international aerospace congress in Sydney last year, and the French visited the spit and signed a memorandum of understanding \"to investigate the feasibility of a collaborative spaceport.\"</cite> RNZ's executive summary noted <cite index=\"10-9\">the firm had staff who used to work for French commercial launch provider Ariane Space and had \"access to European launch operators and funded programmes.\"</cite></p><p>Details remain scarce — <cite index=\"1-4\">the few details of the attempt to tap the burgeoning world of the space launch market have been released to RNZ</cite>. But the scale is striking: an executive summary describes a <cite index=\"1-5\">\"launch facility to cater for up to 100-tonne launch vehicles, with an initial consent for up to 12 launches per year.\"</cite> The same document also <cite index=\"1-8\">\"Confirmed: Land-use, consents, utilities, infrastructure, airspace, commodities, logistics, security & supporting services,\"</cite> with <cite index=\"1-7\">\"collaboration between values-aligned organisations\"</cite> listed as a guideline. That's an entirely different class of vehicle to the small Electron rockets that have made Mahia famous: <cite index=\"1-6\">this is much bigger than 13-tonne Electron rockets that go up from Mahia - Rocket Lab is working on a new Neutron rocket that would be heavier than 100 tonne and launch from the US - but just a fifth the size of what Elon Musk's SpaceX launches.</cite> RNZ also noted that <cite index=\"1-9\">experts have said the fuel type of rockets matters.</cite></p>",
-    "lens": "This is the first serious sign that New Zealand's orbital launch industry could become a two-site story instead of a Mahia monopoly — and that's worth Hawke's Bay paying close attention to, not panicking about. The Canterbury plan as reported is aimed at a heavier class of rocket, up to 100 tonnes, than Rocket Lab's Electron, and is being built around French and European capital and customers rather than the smallsat and defence-linked work that has defined Mahia's growth — so on the facts available, this looks more like a complementary new category of launch activity than a head-on rival for Hawke's Bay's existing pad. What the region should do is resist complacency: use the decade of operational experience, consenting precedent and community relationships built around the Mahia launch complex as a selling point for the next wave of space-adjacent manufacturing, servicing and workforce investment, rather than assume first-mover advantage alone will hold. If Tāwhaki does land its SpaceDreamS-led European capital and a heavy-lift customer base, Hawke's Bay's edge will increasingly rest on deepening what it already does well — frequent, reliable small-satellite launch — rather than on being the only game in town.",
+    "date": "09 Oct 2026",
+    "headline": "NZ Farming's $15 Billion AI Gap — And Why Hawke's Bay Is Already Closing It",
+    "byline": "National research, 8 Oct 2026 · what it means for the Bay's orchards and packhouses",
+    "brief": "<p>New research has put a number on a gap in New Zealand's best-performing productivity sector. <b><cite index=\"1-3\">Primary industry workers produce 72% more per hour than they did in 1996</cite></b>, a record most of the economy can only envy. But on the next technology wave the sector is behind: <cite index=\"1-2\">AWS research reported by RNZ puts AI adoption across agriculture, forestry and fishing just under 40 percent, against 50 percent nationally, with most adopters stuck at the most basic stage</cite>. <cite index=\"1-4\">MPI warns a $15 billion prize could end up offshore</cite> if the gap isn't closed.</p><p>The payback for those who do adopt is already visible. <cite index=\"29-4\">AgriTechNZ chief executive Brendan O'Connell says AI \"has stopped being a future promise\" for farmers</cite>, and <cite index=\"29-3\">NZ Herald reporting cited in the research shows why: the average Halter farmer saves 27 to 28 hours a week, spray drones finish in an hour what took six hours by tractor on hill country, and Ballance's SpreadWise uses computer vision to map where fertiliser should not go</cite>.</p><p>Hawke's Bay already looks like the adoption story the rest of the sector is missing. <cite index=\"10-5\">A Hawke's Bay apple exporter has seen a doubling in what it can process due to artificial intelligence and robotics in his packhouse</cite>. <cite index=\"10-8\">The family owned business has been exporting apples for over 100 years, and fourth generation grower Cameron Taylor told RNZ a lot has changed since then, as these days the entire packing process is fully automated</cite>, now <cite index=\"10-7\">processing 12,000 to 14,000 cartons of apples a day, which is about 3000 apples a minute</cite>. Taylor says automation runs in the family: <cite index=\"10-10\">\"Grandad was the first to have hydraulics on a tractor in New Zealand so I think automation and all that is in our DNA\"</cite>. <cite index=\"10-12,10-13\">After Cyclone Gabrielle destroyed the packhouse in 2023, the family rebuilt the operation and upgraded many of the machines, resulting in the doubling of how many tonnes of apples can be processed, with AI a key tool in checking for blemishes</cite> — <cite index=\"10-14\">each apple is photographed about 500 times before it leaves the site, by an AI machine called 'Spectrim'</cite>, which <cite index=\"10-15\">can detect splits, stem punctures and black spot</cite>. Nearby, <cite index=\"19-2\">a surge in global demand for robotics and AI from the apple industry is driving big changes for a Hawke's Bay robot manufacturer</cite>, with <cite index=\"19-4\">Hawk Technology making the robots in Hastings, then shipping the machines to the US where apple packhouses in Washington DC are lining up to get them</cite>. <cite index=\"19-6\">The first 50 Gen 5 Apple Packers had been installed, with another 250 on order</cite>.</p>",
+    "lens": "The national data says agriculture is productivity's star performer but AI's laggard, with MPI warning a $15 billion prize could drift offshore — yet the two concrete New Zealand case studies cited in that very debate are both from Hawke's Bay: Taylor Corp's Napier packhouse and Hawk Technology's Hastings factory. That's not a coincidence Hawke's Bay should waste: the region already has working, exportable proof that AI and robotics can double throughput, and a local manufacturer good enough that packhouses on the other side of the Pacific are queuing for its machines. The honest move isn't to chase a flashy new initiative; it's to make sure every other grower, winery and packhouse in the Bay — not just the biggest exporters — gets exposure to what Taylor Corp and Hawk Technology have already proven on their own doorstep, and to make noise nationally about the fact that a serious part of the answer to MPI's $15 billion worry is already being built, right now, in Napier and Hastings.",
     "sources": [
       {
+        "l": "B2B News NZ",
+        "u": "https://b2bnews.co.nz/news/aws-nz-farm-ai-adoption-under-40-percent-vs-50-percent-nationally/"
+      },
+      {
         "l": "RNZ",
-        "u": "https://rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan"
+        "u": "https://www.rnz.co.nz/news/business/1787388/agriculture-industry-slow-to-take-up-new-ai-tech"
+      },
+      {
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/country/597616/ai-and-robots-help-hawke-s-bay-apple-exporter-double-processing-capacity"
+      },
+      {
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/business/825550/us-demand-for-apple-industry-robotics-driving-change-at-hawke-s-bay-manufacturer"
       }
     ]
   },
@@ -23,6 +35,43 @@
       "chip": "c-ai",
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
+        {
+          "date": "09 Oct 2026",
+          "headline": "NZ Cyber Security Centre Warns Frontier AI Could Supercharge Attacks by Early 2027",
+          "brief": "<p>New Zealand's National Cyber Security Centre (NCSC) warns that advanced artificial intelligence will accelerate cyberattacks, with malicious actors potentially gaining access to <b>capabilities currently restricted to leading frontier models by early 2027</b>. Its 2026 Cyber Threat Report recorded <b>369 incidents of potential national significance</b> in 2025/26, with criminal or financially motivated incidents rising <b>18 percent to 162</b>.</p>",
+          "body": [
+            "New Zealand's National Cyber Security Centre has issued a stark warning that advanced artificial intelligence will accelerate cyberattacks, with malicious actors potentially gaining access to capabilities currently restricted to leading frontier models by early 2027. Its 2026 Cyber Threat Report, released on 24 September 2026, assesses the cyber security risks facing New Zealand businesses and organisations and highlights the actions leaders should take to strengthen their cyber resilience. The NCSC believes that the trajectory of AI development is such that, by early 2027, malicious actors may have access to advanced AI capabilities currently available only through leading frontier AI models.",
+            "The report records 369 incidents of potential national significance in 2025/26, of which 162 were linked to criminal or financially motivated actors, an 18 percent increase on the previous year. \"Cyber security is now a critically important consideration for every New Zealand business and organisation,\" said Catriona Robinson, Head of the NCSC. \"The cyber threat landscape is changing faster than ever. Alongside familiar threats from cybercriminals and state actors, businesses and organisations face a powerful new disruptor in the form of frontier artificial intelligence.\"",
+            "The report also highlights the growing severity of cybercrime. \"The severity of incidents has increased,\" Robinson said. \"During 2025/26 the NCSC recorded four incidents classified as C2, or Highly Significant. That's as many in one year as were recorded over the previous ten years.\"",
+            "The report's leading judgement is that artificial intelligence is rapidly reshaping the cyber landscape and that frontier AI will supercharge both risks and opportunities. Robinson said AI offers many opportunities, but it is already being used by malicious actors to increase the speed, scale and sophistication of cyber attacks, and warned that the next generation of frontier AI models could automate attacks, identify vulnerabilities and enable highly personalised targeting of organisations and individuals.",
+            "State-sponsored activity remains a major strand of the threat picture: 86 of the 369 nationally significant incidents — 23 percent — had links to suspected state-sponsored actors, up from 82 the previous year, with China assessed as the most persistent and capable, and Russia, Iran and North Korea also identified.",
+            "The NCSC also flagged a new and unusual threat: a North Korean IT worker clandestinely obtaining remote IT work with a New Zealand business in order to earn foreign currency for the North Korean state. \"This kind of activity is subject to UN Sanctions which have effect under New Zealand law and also creates risks of espionage and extortion for businesses that are targeted,\" Robinson said.",
+            "The agency urges business leaders to accelerate security updates, strengthen access controls and prepare for disruption, warning that too many organisations still neglect basic cybersecurity. The report also cites survey data showing that around 40 percent of organisations that paid a ransom failed to recover their data, and around 80 percent of those that paid were attacked again. Notably, total cyber incident reports to the NCSC actually fell to 4,673 in 2025/26, down from 5,995 the year before, even as the number of serious, nationally significant incidents rose."
+          ],
+          "lens": "This is a national warning, not a Hawke's Bay-specific story, but its substance lands squarely on the Bay's small and medium-sized operators — orchards, wineries, food processors, councils and schools — who typically run lean IT teams and are exactly the kind of organisations the NCSC says still neglect basic cybersecurity. The four 'Highly Significant' incidents recorded nationally in a single year, as many as the previous decade combined, should concern any local organisation running significant digital infrastructure, from council water and roading systems to grower traceability platforms. The region could use this moment to get ahead rather than wait for an incident: growers and processors running IoT-connected irrigation, cool-store and traceability systems should treat AI-accelerated attacks as a near-term operational risk, not an abstract one, and push multi-factor authentication, patched software and basic access controls through to seasonal and remote staff. Hawke's Bay councils, which hold ratepayer and infrastructure data, should specifically review contractor and remote-IT arrangements given the NCSC's warning about North Korean operatives posing as legitimate remote IT workers, and should weigh the NCSC's finding that a large share of ransom-paying victims still lose their data and are attacked again before any local body considers paying up. The region should also note that the threat is not purely criminal — with state-sponsored actors, led by China and including Russia, Iran and North Korea, behind nearly a quarter of nationally significant incidents, meaning any Hawke's Bay entity holding sensitive government, health or infrastructure data is a plausible target regardless of its size. What the region should not do is assume its distance from Auckland or Wellington offers any protection — the sensible local response is cheap, practical hygiene (updates, access controls, incident plans) rather than a big new tech investment.",
+          "sources": [
+            {
+              "l": "MLex",
+              "u": "https://www.mlex.com/mlex/artificial-intelligence/articles/2535486"
+            },
+            {
+              "l": "National Cyber Security Centre NZ",
+              "u": "https://www.ncsc.govt.nz/news/cyber-threat-report-2026-leaders-need-to-prepare-now-for-the-impact-of-ai/"
+            },
+            {
+              "l": "NCSC: By the numbers 2025/26",
+              "u": "https://www.ncsc.govt.nz/insights-and-research/cyber-threat-reports/cyber-threat-report-2026/by-the-numbers-202526/"
+            },
+            {
+              "l": "NCSC: Incident reporting analysis 2025/26",
+              "u": "https://www.ncsc.govt.nz/insights-and-research/cyber-threat-reports/cyber-threat-report-2026/incident-reporting-analysis-202526/"
+            },
+            {
+              "l": "Insurance Business Magazine NZ",
+              "u": "https://www.insurancebusinessmag.com/nz/news/cyber/nz-cyber-threat-rises-as-insurance-market-moves-the-other-way-591218.aspx"
+            }
+          ]
+        },
         {
           "date": "07 Oct 2026",
           "headline": "NZ's AI Strategy Promises Billions in Growth — But No New Money, and No New Rules",
@@ -295,23 +344,6 @@
             {
               "l": "CAIRN",
               "u": "https://cairn.nz/blog/ai-adoption-in-new-zealand-the-2026-data-and-a-practical-guide"
-            }
-          ]
-        },
-        {
-          "date": "18 Jul 2026",
-          "headline": "Microsoft doubles down on NZ AI skills as its cloud build-out ramps",
-          "brief": "<p>Microsoft has doubled its New Zealand AI skilling target to <b>200,000 people by 2028</b> — up from 100,000 — and says it has already trained about <b>75,000</b>, tying the push to its expanding cloud and data-centre footprint and the country’s AI capability gap.</p>",
-          "body": [
-            "Microsoft has sharply raised its ambitions for AI skills in New Zealand, announcing it will train 200,000 people by 2028 — double its earlier target of 100,000. The programme has already reached about 75,000 participants.",
-            "The push is tied directly to Microsoft’s hyperscale cloud and data-centre build-out in the country: as that infrastructure grows, it needs a local workforce able to deploy, secure and manage it. The training spans several strands, including Microsoft Elevate for Educators, Elevate for Changemakers, and a 10K Women programme.",
-            "The company frames it as an economic imperative. Its 2025 Work Trend Index found 59% of NZ business leaders believe productivity has to rise, and Microsoft estimates generative AI could add between NZ$76 billion and NZ$108 billion to the economy each year by 2038. “New Zealand is building strong momentum in AI adoption,” said Jane Livesey, president of Microsoft Australia and New Zealand. “However, now is not the time to take our foot off the accelerator.”"
-          ],
-          "lens": "Skills are the bottleneck the adoption numbers keep hitting, and Microsoft’s training is largely free and delivered nationally — which makes it a lever the Bay can pull without funding it. The catch is that “national and online” is not the same as “local”: nobody in Wellington will route these places to Hawke’s Bay workers automatically. The concrete move is for Hi-Tech Hawke’s Bay, EIT and larger employers — the port, packhouses, councils — to actively channel staff into the Elevate and 10K Women programmes and build them into apprenticeship and retraining pathways. Done well, subsidised upskilling both lifts local workers and helps draw remote tech talent to the region; done passively, the training flows to the cities that ask for it first.",
-          "sources": [
-            {
-              "l": "Data Centre Magazine",
-              "u": "https://datacentremagazine.com/news/microsoft-boosts-nz-ai-skills-for-cloud-and-data-centre-push"
             }
           ]
         }
@@ -1664,6 +1696,20 @@
     }
   ],
   "headlines": [
+    {
+      "date": "08 Oct 2026",
+      "chipLabel": "Space",
+      "headline": "Canterbury Plots New Spaceport for 100-Tonne Rockets, Up to 12 Launches a Year",
+      "byline": "National · 08 Oct 2026 · a second NZ launch site emerges — what it means for Mahia",
+      "brief": "<p>New Zealand's space ambitions just got a lot bigger — literally. RNZ has revealed that <cite index=\"1-3\">large rockets weighing up to 100 tonnes each could be launched a dozen times a year from a planned national aerospace centre near Christchurch</cite>. <cite index=\"10-3\">Tāwhaki and a French company are now working on getting capital, consents and customers from Europe to build the spaceport.</cite> That French company is SpaceDreamS — <cite index=\"10-7,10-8\">the centre hooked up with SpaceDreamS at an international aerospace congress in Sydney last year, and the French visited the spit and signed a memorandum of understanding \"to investigate the feasibility of a collaborative spaceport.\"</cite> RNZ's executive summary noted <cite index=\"10-9\">the firm had staff who used to work for French commercial launch provider Ariane Space and had \"access to European launch operators and funded programmes.\"</cite></p><p>Details remain scarce — <cite index=\"1-4\">the few details of the attempt to tap the burgeoning world of the space launch market have been released to RNZ</cite>. But the scale is striking: an executive summary describes a <cite index=\"1-5\">\"launch facility to cater for up to 100-tonne launch vehicles, with an initial consent for up to 12 launches per year.\"</cite> The same document also <cite index=\"1-8\">\"Confirmed: Land-use, consents, utilities, infrastructure, airspace, commodities, logistics, security & supporting services,\"</cite> with <cite index=\"1-7\">\"collaboration between values-aligned organisations\"</cite> listed as a guideline. That's an entirely different class of vehicle to the small Electron rockets that have made Mahia famous: <cite index=\"1-6\">this is much bigger than 13-tonne Electron rockets that go up from Mahia - Rocket Lab is working on a new Neutron rocket that would be heavier than 100 tonne and launch from the US - but just a fifth the size of what Elon Musk's SpaceX launches.</cite> RNZ also noted that <cite index=\"1-9\">experts have said the fuel type of rockets matters.</cite></p>",
+      "lens": "This is the first serious sign that New Zealand's orbital launch industry could become a two-site story instead of a Mahia monopoly — and that's worth Hawke's Bay paying close attention to, not panicking about. The Canterbury plan as reported is aimed at a heavier class of rocket, up to 100 tonnes, than Rocket Lab's Electron, and is being built around French and European capital and customers rather than the smallsat and defence-linked work that has defined Mahia's growth — so on the facts available, this looks more like a complementary new category of launch activity than a head-on rival for Hawke's Bay's existing pad. What the region should do is resist complacency: use the decade of operational experience, consenting precedent and community relationships built around the Mahia launch complex as a selling point for the next wave of space-adjacent manufacturing, servicing and workforce investment, rather than assume first-mover advantage alone will hold. If Tāwhaki does land its SpaceDreamS-led European capital and a heavy-lift customer base, Hawke's Bay's edge will increasingly rest on deepening what it already does well — frequent, reliable small-satellite launch — rather than on being the only game in town.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan"
+        }
+      ]
+    },
     {
       "date": "07 Oct 2026",
       "chipLabel": "AgriTech",
