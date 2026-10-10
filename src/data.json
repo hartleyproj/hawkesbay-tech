@@ -1,29 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "AgriTech",
+    "chipLabel": "Space",
     "sector": "bay",
-    "date": "09 Oct 2026",
-    "headline": "NZ Farming's $15 Billion AI Gap — And Why Hawke's Bay Is Already Closing It",
-    "byline": "National research, 8 Oct 2026 · what it means for the Bay's orchards and packhouses",
-    "brief": "<p>New research has put a number on a gap in New Zealand's best-performing productivity sector. <b><cite index=\"1-3\">Primary industry workers produce 72% more per hour than they did in 1996</cite></b>, a record most of the economy can only envy. But on the next technology wave the sector is behind: <cite index=\"1-2\">AWS research reported by RNZ puts AI adoption across agriculture, forestry and fishing just under 40 percent, against 50 percent nationally, with most adopters stuck at the most basic stage</cite>. <cite index=\"1-4\">MPI warns a $15 billion prize could end up offshore</cite> if the gap isn't closed.</p><p>The payback for those who do adopt is already visible. <cite index=\"29-4\">AgriTechNZ chief executive Brendan O'Connell says AI \"has stopped being a future promise\" for farmers</cite>, and <cite index=\"29-3\">NZ Herald reporting cited in the research shows why: the average Halter farmer saves 27 to 28 hours a week, spray drones finish in an hour what took six hours by tractor on hill country, and Ballance's SpreadWise uses computer vision to map where fertiliser should not go</cite>.</p><p>Hawke's Bay already looks like the adoption story the rest of the sector is missing. <cite index=\"10-5\">A Hawke's Bay apple exporter has seen a doubling in what it can process due to artificial intelligence and robotics in his packhouse</cite>. <cite index=\"10-8\">The family owned business has been exporting apples for over 100 years, and fourth generation grower Cameron Taylor told RNZ a lot has changed since then, as these days the entire packing process is fully automated</cite>, now <cite index=\"10-7\">processing 12,000 to 14,000 cartons of apples a day, which is about 3000 apples a minute</cite>. Taylor says automation runs in the family: <cite index=\"10-10\">\"Grandad was the first to have hydraulics on a tractor in New Zealand so I think automation and all that is in our DNA\"</cite>. <cite index=\"10-12,10-13\">After Cyclone Gabrielle destroyed the packhouse in 2023, the family rebuilt the operation and upgraded many of the machines, resulting in the doubling of how many tonnes of apples can be processed, with AI a key tool in checking for blemishes</cite> — <cite index=\"10-14\">each apple is photographed about 500 times before it leaves the site, by an AI machine called 'Spectrim'</cite>, which <cite index=\"10-15\">can detect splits, stem punctures and black spot</cite>. Nearby, <cite index=\"19-2\">a surge in global demand for robotics and AI from the apple industry is driving big changes for a Hawke's Bay robot manufacturer</cite>, with <cite index=\"19-4\">Hawk Technology making the robots in Hastings, then shipping the machines to the US where apple packhouses in Washington DC are lining up to get them</cite>. <cite index=\"19-6\">The first 50 Gen 5 Apple Packers had been installed, with another 250 on order</cite>.</p>",
-    "lens": "The national data says agriculture is productivity's star performer but AI's laggard, with MPI warning a $15 billion prize could drift offshore — yet the two concrete New Zealand case studies cited in that very debate are both from Hawke's Bay: Taylor Corp's Napier packhouse and Hawk Technology's Hastings factory. That's not a coincidence Hawke's Bay should waste: the region already has working, exportable proof that AI and robotics can double throughput, and a local manufacturer good enough that packhouses on the other side of the Pacific are queuing for its machines. The honest move isn't to chase a flashy new initiative; it's to make sure every other grower, winery and packhouse in the Bay — not just the biggest exporters — gets exposure to what Taylor Corp and Hawk Technology have already proven on their own doorstep, and to make noise nationally about the fact that a serious part of the answer to MPI's $15 billion worry is already being built, right now, in Napier and Hastings.",
+    "date": "11 Oct 2026",
+    "headline": "A Second NZ Spaceport? French Study Backs Kaitorete Spit as a Gateway for Europe's Rockets",
+    "byline": "Christchurch · what a rival launch site means for Hawke's Bay's Māhia monopoly",
+    "brief": "<p>New reporting this week shows Canterbury's push for a rival launch site is gathering pace. <b>Tāwhaki national aerospace centre is working on plans for a spaceport to launch a dozen rockets of up to 100 tonnes each a year from Kaitorete Spit</b>, with University of Canterbury associate professor Michele Bannister, a rocket emissions expert, saying the launches as proposed would have a <b>'tiny' impact</b> on the skies, with the launcher's scale 'minute, compared to a single Starship launch happening over, say, in North America.' Promoters are hoping <b>Kaitorete's east coast location will make it an attractive launch site for European interests</b>.</p><p>That European interest is already concrete: <b>the Tāwhaki National Aerospace Centre at Kaitōrete and French company SpaceDreamS say a joint study has confirmed the site's viability as an international spaceport for vertical launches</b>, raising the prospect that Canterbury's rocket launch facility could become a spaceport for Europe's space industry. Tāwhaki's acting chief executive John Holt said the study highlights the significant role New Zealand can play in the global space industry and that Tāwhaki is 'ideally positioned.' Nothing is built yet — the study found Kaitorete technically and operationally suitable, but no cost, construction timetable or first launch date has been announced, and commercial arrangements, investment and regulatory approvals still need to be secured.</p><p>Context matters here: <b>Rocket Lab's Māhia is currently the only southern hemisphere launch site</b>, and a spaceport at Kaitōrete would be only the country's second. A functioning, multi-user Kaitorete spaceport would end Māhia's status as New Zealand's sole launch site and give the country its first genuinely open vertical launch option.</p>",
+    "lens": "For Hawke's Bay, this is a story to watch rather than panic about. Māhia's status as New Zealand's only launch site has been a quiet strategic asset for the region and for Rocket Lab specifically — a position a credible, European-backed Kaitorete spaceport would end if it is ever built. But the Canterbury project is still at the feasibility-study stage, with no cost, construction timetable or first launch date yet set, so the honest regional response is measured attention rather than alarm. Officials and the local aerospace-adjacent sector around Wairoa and Māhia should keep a close eye on Tāwhaki's progress with SpaceDreamS and any eventual investment decision, because a second launch site changes New Zealand's bargaining position with international space customers even before it fires a single rocket. Rather than treating this purely as competition, Hawke's Bay's best move is to make the case for complementarity — Māhia's proven operational track record and existing Rocket Lab relationship versus Kaitorete's unbuilt ambitions — while using any national conversation about a second spaceport to lobby for continued investment in the infrastructure, skills and supply chain that keep Māhia's advantage real, not assumed.",
     "sources": [
       {
-        "l": "B2B News NZ",
-        "u": "https://b2bnews.co.nz/news/aws-nz-farm-ai-adoption-under-40-percent-vs-50-percent-nationally/"
+        "l": "NZ Herald (RNZ)",
+        "u": "https://www.nzherald.co.nz/nz/canterbury-launched-tawhaki-rockets-would-have-tiny-impact-on-skies-expert/4EZUDWXBHFG57IIDFQ4YSKAIII/"
+      },
+      {
+        "l": "The Press",
+        "u": "https://www.thepress.co.nz/nz-news/361093142/canterbury-rocket-launch-spot-poised-become-european-space-gateway"
       },
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1787388/agriculture-industry-slow-to-take-up-new-ai-tech"
-      },
-      {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/country/597616/ai-and-robots-help-hawke-s-bay-apple-exporter-double-processing-capacity"
-      },
-      {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/825550/us-demand-for-apple-industry-robotics-driving-change-at-hawke-s-bay-manufacturer"
+        "u": "https://www.rnz.co.nz/news/science-and-technology/1658875/south-island-spaceport-for-european-rocket-launches-found-to-be-feasible"
       }
     ]
   },
@@ -1697,6 +1693,32 @@
   ],
   "headlines": [
     {
+      "date": "09 Oct 2026",
+      "chipLabel": "AgriTech",
+      "headline": "NZ Farming's $15 Billion AI Gap — And Why Hawke's Bay Is Already Closing It",
+      "byline": "National research, 8 Oct 2026 · what it means for the Bay's orchards and packhouses",
+      "brief": "<p>New research has put a number on a gap in New Zealand's best-performing productivity sector. <b><cite index=\"1-3\">Primary industry workers produce 72% more per hour than they did in 1996</cite></b>, a record most of the economy can only envy. But on the next technology wave the sector is behind: <cite index=\"1-2\">AWS research reported by RNZ puts AI adoption across agriculture, forestry and fishing just under 40 percent, against 50 percent nationally, with most adopters stuck at the most basic stage</cite>. <cite index=\"1-4\">MPI warns a $15 billion prize could end up offshore</cite> if the gap isn't closed.</p><p>The payback for those who do adopt is already visible. <cite index=\"29-4\">AgriTechNZ chief executive Brendan O'Connell says AI \"has stopped being a future promise\" for farmers</cite>, and <cite index=\"29-3\">NZ Herald reporting cited in the research shows why: the average Halter farmer saves 27 to 28 hours a week, spray drones finish in an hour what took six hours by tractor on hill country, and Ballance's SpreadWise uses computer vision to map where fertiliser should not go</cite>.</p><p>Hawke's Bay already looks like the adoption story the rest of the sector is missing. <cite index=\"10-5\">A Hawke's Bay apple exporter has seen a doubling in what it can process due to artificial intelligence and robotics in his packhouse</cite>. <cite index=\"10-8\">The family owned business has been exporting apples for over 100 years, and fourth generation grower Cameron Taylor told RNZ a lot has changed since then, as these days the entire packing process is fully automated</cite>, now <cite index=\"10-7\">processing 12,000 to 14,000 cartons of apples a day, which is about 3000 apples a minute</cite>. Taylor says automation runs in the family: <cite index=\"10-10\">\"Grandad was the first to have hydraulics on a tractor in New Zealand so I think automation and all that is in our DNA\"</cite>. <cite index=\"10-12,10-13\">After Cyclone Gabrielle destroyed the packhouse in 2023, the family rebuilt the operation and upgraded many of the machines, resulting in the doubling of how many tonnes of apples can be processed, with AI a key tool in checking for blemishes</cite> — <cite index=\"10-14\">each apple is photographed about 500 times before it leaves the site, by an AI machine called 'Spectrim'</cite>, which <cite index=\"10-15\">can detect splits, stem punctures and black spot</cite>. Nearby, <cite index=\"19-2\">a surge in global demand for robotics and AI from the apple industry is driving big changes for a Hawke's Bay robot manufacturer</cite>, with <cite index=\"19-4\">Hawk Technology making the robots in Hastings, then shipping the machines to the US where apple packhouses in Washington DC are lining up to get them</cite>. <cite index=\"19-6\">The first 50 Gen 5 Apple Packers had been installed, with another 250 on order</cite>.</p>",
+      "lens": "The national data says agriculture is productivity's star performer but AI's laggard, with MPI warning a $15 billion prize could drift offshore — yet the two concrete New Zealand case studies cited in that very debate are both from Hawke's Bay: Taylor Corp's Napier packhouse and Hawk Technology's Hastings factory. That's not a coincidence Hawke's Bay should waste: the region already has working, exportable proof that AI and robotics can double throughput, and a local manufacturer good enough that packhouses on the other side of the Pacific are queuing for its machines. The honest move isn't to chase a flashy new initiative; it's to make sure every other grower, winery and packhouse in the Bay — not just the biggest exporters — gets exposure to what Taylor Corp and Hawk Technology have already proven on their own doorstep, and to make noise nationally about the fact that a serious part of the answer to MPI's $15 billion worry is already being built, right now, in Napier and Hastings.",
+      "sources": [
+        {
+          "l": "B2B News NZ",
+          "u": "https://b2bnews.co.nz/news/aws-nz-farm-ai-adoption-under-40-percent-vs-50-percent-nationally/"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1787388/agriculture-industry-slow-to-take-up-new-ai-tech"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/country/597616/ai-and-robots-help-hawke-s-bay-apple-exporter-double-processing-capacity"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/825550/us-demand-for-apple-industry-robotics-driving-change-at-hawke-s-bay-manufacturer"
+        }
+      ]
+    },
+    {
       "date": "08 Oct 2026",
       "chipLabel": "Space",
       "headline": "Canterbury Plots New Spaceport for 100-Tonne Rockets, Up to 12 Launches a Year",
@@ -2239,24 +2261,6 @@
         {
           "l": "University of Auckland",
           "u": "https://www.auckland.ac.nz/en/news/2026/07/03/university-innovation-centre-stage-100-days-start-ups.html"
-        }
-      ]
-    },
-    {
-      "date": "24 Jul 2026",
-      "chipLabel": "Economy",
-      "headline": "NZ tech is now a $20bn sector — and almost all of it sits in two cities",
-      "byline": "National · what the country’s tech boom means for the regions",
-      "brief": "<p>New Zealand’s top 200 tech firms turned over <b>$20 billion</b> last year, with tech exports up <b>12.4%</b> to <b>$15.31 billion</b> — cementing the sector as the country’s third-largest export earner after dairy and tourism, according to the 2025 TIN report. High-tech manufacturing (<b>$9.8 billion</b>) and ICT (<b>$8.93 billion</b>) led the way, and 40 firms now clear <b>$100 million</b> in revenue, up from 19 a decade ago.</p>\n  <p>But the growth is lopsided. <b>Auckland ($10.5b) and Wellington ($5.2b)</b> account for the vast majority of that revenue, leaving the rest of the country to share what’s left. And over the past decade these firms have added offshore jobs about three times faster than domestic ones. The value is compounding — just not where most of the country lives.</p>",
-      "lens": "The country’s tech wealth is real and compounding — but it’s pooling in Auckland and Wellington while those same firms add jobs offshore faster than they do at home. That gap is precisely where a region like Hawke’s Bay can step in. The Bay can’t out-scale the main centres, and shouldn’t try to; what it <em>can</em> do is compete for the work leaking out of them. It has a lower cost base, the lifestyle pull that now moves remote tech workers, and a primary-sector economy — orchards, wineries, packhouses, the port — that throws off real software problems worth solving. The honest catch is that none of this happens by default. It takes deliberate choices: fast, affordable connectivity and housing, visible pathways from local schools and STEM programmes into tech careers, and employers willing to hire and train juniors here rather than import finished talent. The Bay’s opportunity isn’t to beat Auckland — it’s to become the <em>obvious</em> place the overflow lands.",
-      "sources": [
-        {
-          "l": "ITBrief",
-          "u": "https://itbrief.co.nz/story/new-zealand-s-tech-exports-hit-nzd-20bn-led-by-ict-growth"
-        },
-        {
-          "l": "2025 TIN Report",
-          "u": "https://tin100.com/nz-tech-sector-facts/2025-tin-report/"
         }
       ]
     }
