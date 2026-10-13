@@ -1,25 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Space",
+    "chipLabel": "AI/Investment",
     "sector": "bay",
-    "date": "11 Oct 2026",
-    "headline": "A Second NZ Spaceport? French Study Backs Kaitorete Spit as a Gateway for Europe's Rockets",
-    "byline": "Christchurch · what a rival launch site means for Hawke's Bay's Māhia monopoly",
-    "brief": "<p>New reporting this week shows Canterbury's push for a rival launch site is gathering pace. <b>Tāwhaki national aerospace centre is working on plans for a spaceport to launch a dozen rockets of up to 100 tonnes each a year from Kaitorete Spit</b>, with University of Canterbury associate professor Michele Bannister, a rocket emissions expert, saying the launches as proposed would have a <b>'tiny' impact</b> on the skies, with the launcher's scale 'minute, compared to a single Starship launch happening over, say, in North America.' Promoters are hoping <b>Kaitorete's east coast location will make it an attractive launch site for European interests</b>.</p><p>That European interest is already concrete: <b>the Tāwhaki National Aerospace Centre at Kaitōrete and French company SpaceDreamS say a joint study has confirmed the site's viability as an international spaceport for vertical launches</b>, raising the prospect that Canterbury's rocket launch facility could become a spaceport for Europe's space industry. Tāwhaki's acting chief executive John Holt said the study highlights the significant role New Zealand can play in the global space industry and that Tāwhaki is 'ideally positioned.' Nothing is built yet — the study found Kaitorete technically and operationally suitable, but no cost, construction timetable or first launch date has been announced, and commercial arrangements, investment and regulatory approvals still need to be secured.</p><p>Context matters here: <b>Rocket Lab's Māhia is currently the only southern hemisphere launch site</b>, and a spaceport at Kaitōrete would be only the country's second. A functioning, multi-user Kaitorete spaceport would end Māhia's status as New Zealand's sole launch site and give the country its first genuinely open vertical launch option.</p>",
-    "lens": "For Hawke's Bay, this is a story to watch rather than panic about. Māhia's status as New Zealand's only launch site has been a quiet strategic asset for the region and for Rocket Lab specifically — a position a credible, European-backed Kaitorete spaceport would end if it is ever built. But the Canterbury project is still at the feasibility-study stage, with no cost, construction timetable or first launch date yet set, so the honest regional response is measured attention rather than alarm. Officials and the local aerospace-adjacent sector around Wairoa and Māhia should keep a close eye on Tāwhaki's progress with SpaceDreamS and any eventual investment decision, because a second launch site changes New Zealand's bargaining position with international space customers even before it fires a single rocket. Rather than treating this purely as competition, Hawke's Bay's best move is to make the case for complementarity — Māhia's proven operational track record and existing Rocket Lab relationship versus Kaitorete's unbuilt ambitions — while using any national conversation about a second spaceport to lobby for continued investment in the infrastructure, skills and supply chain that keep Māhia's advantage real, not assumed.",
+    "date": "14 Oct 2026",
+    "headline": "NZ Urged to Chase $100 Billion-Plus AI Data Centre Prize Before Australia Grabs It",
+    "byline": "NZ Herald · 13 Oct 2026 — Morrison CEO Paul Newfield says New Zealand is \"naturally way more advantaged\" than Australia on AI data centres, but time is short",
+    "brief": "<p>Speaking at the Institute of Finance Professionals New Zealand 2026 conference, Morrison chief executive Paul Newfield said <b>Australia is primed to benefit from investment in artificial intelligence demand in coming years</b>, but <b>New Zealand has the opportunity to gain a share if it can get the settings right</b>. A 2–3% share of the Asia-Pacific AI market could be worth <b>more than $100 billion</b>.</p><p>Newfield said the value of AI had only recently become clear despite Morrison first investing in the technology in 2016, and that the firm now spends much of its time weighing whether AI's projected gains are real, who benefits from investment in it, and what it means for people. He said he was confident global investment in AI would pay off, pointing out many investors were already backing the technology through their portfolios — but he acknowledged real constraints around energy, safety and social licence, noting demand for AI computing is rising fast and chips still need ever more electricity. He believed safety, not power, would be the first constraint on the industry, pointing to AI agents already acting outside their remit, and warned that social licence for data centres is reaching a crossroads, with protests already common in the US and now beginning in New Zealand too.</p><p>On the regional contest, Newfield argued: <b>\"I know the flags are quite similar, but right now New Zealand should be eating the US's lunch and Australia will. Anthropic are coming down saying we expect Australia to be our biggest, after the US, our biggest global centre for AI development.\"</b> He was blunter still on New Zealand's own position: <b>\"Actually New Zealand is naturally way more advantaged than Australia, we just haven't yet made the case strong enough and we haven't pushed fast enough. This is something we can't afford just to be a fast follower.\"</b></p><p>He pointed to research from Boston Consulting Group showing that if New Zealand captured between 2–3% of the Asia-Pacific AI data-centre market, it would represent a prize worth well over $100 billion — the scale of opportunity, he argued, that New Zealand risks leaving on the table if it doesn't move quickly on the policy settings that would let it compete.</p>",
+    "lens": "This is a national pitch, not a Hawke's Bay announcement — nobody has named this region in the story — but the logic of the pitch is exactly the logic Hawke's Bay should be testing itself against: AI data centres need land, grid headroom and renewable power, and Newfield's argument is that New Zealand as a whole is under-pitching advantages it already has. Whether any of that prize lands in the Bay rather than Auckland, Wellington or across the Tasman depends entirely on work nobody has yet announced — regional economic development agencies making the case to central government that consenting speed, power-connection queues and investment settings could be shaped to favour provincial sites with flat land and existing transmission corridors, not just the main centres. The prize Newfield describes is real and national; turning it into a Hawke's Bay outcome is a choice still waiting to be made, not a done deal.",
     "sources": [
       {
-        "l": "NZ Herald (RNZ)",
-        "u": "https://www.nzherald.co.nz/nz/canterbury-launched-tawhaki-rockets-would-have-tiny-impact-on-skies-expert/4EZUDWXBHFG57IIDFQ4YSKAIII/"
-      },
-      {
-        "l": "The Press",
-        "u": "https://www.thepress.co.nz/nz-news/361093142/canterbury-rocket-launch-spot-poised-become-european-space-gateway"
-      },
-      {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/science-and-technology/1658875/south-island-spaceport-for-european-rocket-launches-found-to-be-feasible"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/technology/morrison-ceo-paul-newfield-urges-new-zealand-to-chase-us60b-ai-opportunity/premium/T5SRUTQCRFCZTBBQJ3UQUP4JFQ/"
       }
     ]
   },
@@ -1696,6 +1688,28 @@
   ],
   "headlines": [
     {
+      "date": "11 Oct 2026",
+      "chipLabel": "Space",
+      "headline": "A Second NZ Spaceport? French Study Backs Kaitorete Spit as a Gateway for Europe's Rockets",
+      "byline": "Christchurch · what a rival launch site means for Hawke's Bay's Māhia monopoly",
+      "brief": "<p>New reporting this week shows Canterbury's push for a rival launch site is gathering pace. <b>Tāwhaki national aerospace centre is working on plans for a spaceport to launch a dozen rockets of up to 100 tonnes each a year from Kaitorete Spit</b>, with University of Canterbury associate professor Michele Bannister, a rocket emissions expert, saying the launches as proposed would have a <b>'tiny' impact</b> on the skies, with the launcher's scale 'minute, compared to a single Starship launch happening over, say, in North America.' Promoters are hoping <b>Kaitorete's east coast location will make it an attractive launch site for European interests</b>.</p><p>That European interest is already concrete: <b>the Tāwhaki National Aerospace Centre at Kaitōrete and French company SpaceDreamS say a joint study has confirmed the site's viability as an international spaceport for vertical launches</b>, raising the prospect that Canterbury's rocket launch facility could become a spaceport for Europe's space industry. Tāwhaki's acting chief executive John Holt said the study highlights the significant role New Zealand can play in the global space industry and that Tāwhaki is 'ideally positioned.' Nothing is built yet — the study found Kaitorete technically and operationally suitable, but no cost, construction timetable or first launch date has been announced, and commercial arrangements, investment and regulatory approvals still need to be secured.</p><p>Context matters here: <b>Rocket Lab's Māhia is currently the only southern hemisphere launch site</b>, and a spaceport at Kaitōrete would be only the country's second. A functioning, multi-user Kaitorete spaceport would end Māhia's status as New Zealand's sole launch site and give the country its first genuinely open vertical launch option.</p>",
+      "lens": "For Hawke's Bay, this is a story to watch rather than panic about. Māhia's status as New Zealand's only launch site has been a quiet strategic asset for the region and for Rocket Lab specifically — a position a credible, European-backed Kaitorete spaceport would end if it is ever built. But the Canterbury project is still at the feasibility-study stage, with no cost, construction timetable or first launch date yet set, so the honest regional response is measured attention rather than alarm. Officials and the local aerospace-adjacent sector around Wairoa and Māhia should keep a close eye on Tāwhaki's progress with SpaceDreamS and any eventual investment decision, because a second launch site changes New Zealand's bargaining position with international space customers even before it fires a single rocket. Rather than treating this purely as competition, Hawke's Bay's best move is to make the case for complementarity — Māhia's proven operational track record and existing Rocket Lab relationship versus Kaitorete's unbuilt ambitions — while using any national conversation about a second spaceport to lobby for continued investment in the infrastructure, skills and supply chain that keep Māhia's advantage real, not assumed.",
+      "sources": [
+        {
+          "l": "NZ Herald (RNZ)",
+          "u": "https://www.nzherald.co.nz/nz/canterbury-launched-tawhaki-rockets-would-have-tiny-impact-on-skies-expert/4EZUDWXBHFG57IIDFQ4YSKAIII/"
+        },
+        {
+          "l": "The Press",
+          "u": "https://www.thepress.co.nz/nz-news/361093142/canterbury-rocket-launch-spot-poised-become-european-space-gateway"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/science-and-technology/1658875/south-island-spaceport-for-european-rocket-launches-found-to-be-feasible"
+        }
+      ]
+    },
+    {
       "date": "09 Oct 2026",
       "chipLabel": "AgriTech",
       "headline": "NZ Farming's $15 Billion AI Gap — And Why Hawke's Bay Is Already Closing It",
@@ -2246,24 +2260,6 @@
         {
           "l": "Space.com",
           "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
-        }
-      ]
-    },
-    {
-      "date": "27 Jul 2026",
-      "chipLabel": "Startups",
-      "headline": "Auckland's mayor is spending 100 days — and 100 t-shirts — championing the city's startups",
-      "byline": "Auckland · what the city's 100-day startup push means for the Bay",
-      "brief": "<p>Auckland mayor <b>Wayne Brown</b> has launched <b>100 Days of Start-ups</b>, wearing a different local startup's branded t-shirt every day for <b>100 days</b> from 3 July to spotlight the city's founders. The campaign builds toward <b>Auckland Startup Week</b> (12–16 October 2026), with the full programme due to launch on 5 August, and is backed by Auckland Council's Economic Development Office, the Auckland Technology and Innovation Alliance and the New Zealand Institute for Advanced Technology.</p>\n  <p>More than a quarter of the 100 featured startups are tied to the University of Auckland — whose Centre for Innovation and Entrepreneurship says its alumni have raised more than <b>$8.2 billion</b> in capital over 23 years — with early names including retail-crime intelligence firm Auror and medical-device maker Kitea Health. “By wearing these shirts, I want to draw attention to the talent we have right here in our city,” Brown said, arguing Auckland is “punching well above our weight in deep tech, heavy industry disruption and pure Kiwi ingenuity.”</p>",
-      "lens": "For Hawke's Bay the interesting part isn't the t-shirts — it's how cheap and effective a bit of civic visibility can be for a startup scene. Auckland already has the capital and the density; the Bay has a real but scattered base of around 500 tech firms and the Hi-Tech Hawke's Bay network, and almost none of the national spotlight. The region could borrow the playbook directly: a low-cost, high-visibility local campaign — the mayors, the port, big employers and EIT actively championing named Bay startups — that turns a loose scene into a story investors and talent can follow. The more concrete move is to plug in rather than compete: get Bay founders and university-linked ventures onto the Auckland Startup Week stage in October, where the capital and networks actually are, and use it to pull investment and profile back to the region. Auckland is showing that celebrating startups is a deliberate choice a city makes; the honest question for Hawke's Bay is whether it will make the same choice or keep its best stories to itself.",
-      "sources": [
-        {
-          "l": "OurAuckland (Auckland Council)",
-          "u": "https://ourauckland.aucklandcouncil.govt.nz/news/2026/07/mayor-to-wear-100-auckland-startup-t-shirts-in-100-days-to-champion-local-innovation/"
-        },
-        {
-          "l": "University of Auckland",
-          "u": "https://www.auckland.ac.nz/en/news/2026/07/03/university-innovation-centre-stage-100-days-start-ups.html"
         }
       ]
     }
