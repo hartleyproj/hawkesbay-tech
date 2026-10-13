@@ -32,6 +32,30 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "13 Oct 2026",
+          "headline": "Christchurch's Harkness AI Tops 50 Clients, Bootstrapped and Profitable Every Month",
+          "brief": "<p>Christchurch startup <b>Harkness AI</b>, founded by mechatronics graduate Blake Harkness, has reached more than <b>50 paying clients</b> in New Zealand and generated six-figure revenue in the first five months of FY27, with monthly revenue up more than fourfold since the start of the year — without taking outside investment, and profitable every month.</p>",
+          "body": [
+            "<p>Harkness AI has reached more than 50 paying clients in New Zealand and generated six-figure revenue in the first five months of FY27. Founded by mechatronics graduate Blake Harkness, the Christchurch business says monthly revenue has risen more than fourfold since the start of the year. It is bootstrapped, has not taken external investment and has been profitable every month, according to Harkness.</p>",
+            "<p>The company works with businesses on AI implementation, custom tools and staff training across sectors including construction, retail, security, tourism and technology. Its clients include Shakti Mat, Maugers Contracting, Trap and Trigger, 2Secure Security, Captivate Technology, Cohesive and the Bed & Breakfast Association of New Zealand.</p>",
+            "<p>Much of the firm's work focuses on linking AI tools to software clients already use, rather than introducing standalone systems — Harkness said many businesses want practical changes to existing workflows, along with support for staff using the tools in day-to-day work. \"Most Kiwi businesses don't need another AI tool. They need AI plugged into the systems they already run, like Xero and their job software, and someone to show the team how to use it,\" he said. One project for Shakti Mat involved building six custom connectors in under four weeks so staff could pull information from Shopify, Xero, stock, marketing and email into a single AI chat. Bootstrapped and profitable, the Christchurch startup's rapid growth suggests Kiwi firms are paying for practical AI help rather than standalone tools.</p>",
+            "<p>Harkness started the business less than two years after leaving university, as debate intensified over how artificial intelligence could affect entry-level work, and his trajectory offers a contrasting example to concerns that junior roles may shrink as software takes on routine tasks. Rather than taking a conventional graduate role, he began building tools for businesses directly and sharing the process online, and has published more than 150 free videos showing what he is building and learning, which he said created more opportunities than a traditional CV.</p>",
+            "<p>\"Everyone's worried AI will take graduate jobs. I graduated into it and went the other way. I just started building with it,\" said Blake Harkness, Founder of Harkness AI. He argues that communication and problem identification will matter as much as technical skill, and that the opportunity lies in understanding business problems and applying available technology to solve them. \"AI can write code now. The person who can sit with a business owner and work out what actually needs fixing is the one getting hired,\" he said.</p>",
+            "<p>His advice to other young New Zealanders eyeing a career in the field: \"Find a real problem at a real business and build something for it this week,\" he said. Harkness also founded Young Kiwis in AI, a network of more than 350 members connecting younger New Zealanders interested in AI careers, and sits on the Engineering New Zealand AI Advisory Committee.</p>"
+          ],
+          "lens": "There's no Hawke's Bay figure or company in this story — it's a Christchurch founder's business, not a Bay one, so the honest read is that the direct connection is thin. What it does offer the region is a template worth studying: Harkness AI's growth came from linking AI into systems businesses already run (like Xero and job-management software) and training staff to use it, rather than selling a generic platform — the kind of narrow, practical fix that could appeal to Bay orchards, wineries, packhouses and small manufacturers wary of vague 'AI transformation' projects. Local businesses and Hi-Tech Hawke's Bay-style networks could treat this as a prompt to look for a Bay-based developer or small team willing to target one concrete operational pain point for a handful of local clients, bootstrapped, rather than waiting on a grant or outside investor. Councils and regional economic development groups could usefully highlight examples like this through the Hawke's Bay Innovation Club circuit to show growers and manufacturers that practical, narrow AI tools are already profitable businesses in provincial New Zealand — not just an Auckland or Wellington phenomenon — while being clear that no such venture has yet emerged in the Bay itself.",
+          "sources": [
+            {
+              "l": "itbrief.co.nz",
+              "u": "https://itbrief.co.nz/story/harkness-ai-tops-50-clients-as-revenue-surges-in-nz"
+            },
+            {
+              "l": "ecommercenews.co.nz",
+              "u": "https://ecommercenews.co.nz/story/harkness-ai-tops-50-clients-as-revenue-surges-in-nz"
+            }
+          ]
+        },
+        {
           "date": "09 Oct 2026",
           "headline": "NZ Cyber Security Centre Warns Frontier AI Could Supercharge Attacks by Early 2027",
           "brief": "<p>New Zealand's National Cyber Security Centre (NCSC) warns that advanced artificial intelligence will accelerate cyberattacks, with malicious actors potentially gaining access to <b>capabilities currently restricted to leading frontier models by early 2027</b>. Its 2026 Cyber Threat Report recorded <b>369 incidents of potential national significance</b> in 2025/26, with criminal or financially motivated incidents rising <b>18 percent to 162</b>.</p>",
@@ -319,27 +343,6 @@
             {
               "l": "Newswire NZ",
               "u": "https://newswire.co.nz/2026/07/government-ai-trial-biosecurity-import-standards/"
-            }
-          ]
-        },
-        {
-          "date": "24 Jul 2026",
-          "headline": "Kiwis use AI everywhere — and have mastered it almost nowhere",
-          "brief": "<p>New Zealand now has its <b>first national AI Strategy</b> (“Investing with confidence”), betting on light-touch rules and fast adoption. Yet while 40–80% of organisations use AI in some form, <b>just 2.7% of workers</b> have it embedded in real workflows, and 79% of employers say they don’t know how to train staff — even as 90% expect AI-powered solutions running by 2028.</p>",
-          "body": [
-            "New Zealand now has its first national AI Strategy, “Investing with confidence,” released by MBIE. It is a deliberately light-touch framework that prioritises adoption and application over home-grown AI development, and leans on existing law rather than new AI-specific rules — betting that fast, safe uptake is the quickest route to lifting the country’s stubborn productivity.",
-            "The appetite is clearly there — depending on how usage is measured, somewhere between 40% and 80% of NZ organisations say they use AI in some form, according to the AI Forum’s review of adoption studies. But the usage is shallow. Analysis by consultancy Cairn finds only about 2.7% of the workforce qualify as genuine AI practitioners with the technology embedded in day-to-day workflows, and the typical organisation still rates itself at level 2 — “experimenting” — with a median maturity score of 2.4 out of 5.",
-            "The bottleneck is people, not tools. Around 79% of employers say they don’t know how to run an AI workforce-training programme, even as roughly 90% expect to be using AI-powered solutions by 2028. New Zealand also sits 37th on the global Government AI Readiness Index as of May 2026, with a stated ambition to climb into the top 30 by 2030 — the gap between enthusiasm and capability that is the whole ballgame."
-          ],
-          "lens": "The gap <em>is</em> the opportunity. If the national average organisation is still merely “experimenting,” a Hawke’s Bay firm that genuinely operationalises AI — not a chatbot bolted on the side, but AI wired into grading, forecasting, rostering or irrigation — leaps past city rivals still dabbling. The region’s advantage is that its problems are concrete: packhouses, wineries, coolstores, logistics and trades all have obvious, repetitive tasks where today’s tools already pay for themselves. The practical moves are unglamorous but decisive — pick one high-volume workflow per business and embed AI properly, lean on EIT and industry bodies to close the 79% training gap locally, and have councils and economic-development agencies treat AI capability as workforce infrastructure rather than a novelty. The honest caveat: a light-touch national strategy means none of this arrives on its own — the pull has to come from the Bay itself.",
-          "sources": [
-            {
-              "l": "MBIE",
-              "u": "https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence"
-            },
-            {
-              "l": "CAIRN",
-              "u": "https://cairn.nz/blog/ai-adoption-in-new-zealand-the-2026-data-and-a-practical-guide"
             }
           ]
         }
