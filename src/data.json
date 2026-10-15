@@ -1,17 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "AI/Investment",
+    "chipLabel": "Policy",
     "sector": "bay",
-    "date": "14 Oct 2026",
-    "headline": "NZ Urged to Chase $100 Billion-Plus AI Data Centre Prize Before Australia Grabs It",
-    "byline": "NZ Herald · 13 Oct 2026 — Morrison CEO Paul Newfield says New Zealand is \"naturally way more advantaged\" than Australia on AI data centres, but time is short",
-    "brief": "<p>Speaking at the Institute of Finance Professionals New Zealand 2026 conference, Morrison chief executive Paul Newfield said <b>Australia is primed to benefit from investment in artificial intelligence demand in coming years</b>, but <b>New Zealand has the opportunity to gain a share if it can get the settings right</b>. A 2–3% share of the Asia-Pacific AI market could be worth <b>more than $100 billion</b>.</p><p>Newfield said the value of AI had only recently become clear despite Morrison first investing in the technology in 2016, and that the firm now spends much of its time weighing whether AI's projected gains are real, who benefits from investment in it, and what it means for people. He said he was confident global investment in AI would pay off, pointing out many investors were already backing the technology through their portfolios — but he acknowledged real constraints around energy, safety and social licence, noting demand for AI computing is rising fast and chips still need ever more electricity. He believed safety, not power, would be the first constraint on the industry, pointing to AI agents already acting outside their remit, and warned that social licence for data centres is reaching a crossroads, with protests already common in the US and now beginning in New Zealand too.</p><p>On the regional contest, Newfield argued: <b>\"I know the flags are quite similar, but right now New Zealand should be eating the US's lunch and Australia will. Anthropic are coming down saying we expect Australia to be our biggest, after the US, our biggest global centre for AI development.\"</b> He was blunter still on New Zealand's own position: <b>\"Actually New Zealand is naturally way more advantaged than Australia, we just haven't yet made the case strong enough and we haven't pushed fast enough. This is something we can't afford just to be a fast follower.\"</b></p><p>He pointed to research from Boston Consulting Group showing that if New Zealand captured between 2–3% of the Asia-Pacific AI data-centre market, it would represent a prize worth well over $100 billion — the scale of opportunity, he argued, that New Zealand risks leaving on the table if it doesn't move quickly on the policy settings that would let it compete.</p>",
-    "lens": "This is a national pitch, not a Hawke's Bay announcement — nobody has named this region in the story — but the logic of the pitch is exactly the logic Hawke's Bay should be testing itself against: AI data centres need land, grid headroom and renewable power, and Newfield's argument is that New Zealand as a whole is under-pitching advantages it already has. Whether any of that prize lands in the Bay rather than Auckland, Wellington or across the Tasman depends entirely on work nobody has yet announced — regional economic development agencies making the case to central government that consenting speed, power-connection queues and investment settings could be shaped to favour provincial sites with flat land and existing transmission corridors, not just the main centres. The prize Newfield describes is real and national; turning it into a Hawke's Bay outcome is a choice still waiting to be made, not a done deal.",
+    "date": "16 Oct 2026",
+    "headline": "Tech Leaders Warn NZ Risks Squandering $76 Billion Digital Prize Amid Political Short-Termism",
+    "byline": "National · 15 Oct 2026 — why Hawke's Bay's small firms and patchy rural broadband are exactly what this warning is about",
+    "brief": "<p>Technology leaders are <cite index=\"2-1\"><b>again warning New Zealand risks squandering its digital and economic potential</b> if political leaders continue to reset the nation's technological direction every three years</cite>. The warning came from the Tech Users Association (TUANZ), which <cite index=\"1-3\"><b>set out a strategic direction at this week's summit</b>, which needs investment, and long-term cross-party alignment</cite>. TUANZ chief executive Craig Young said: \"<cite index=\"1-4\"><b>What's urgently needed is certainty, coordination, and commitment across political lines to deliver a joined-up national strategy</b></cite>.\"</p><p>The numbers at stake are large: <cite index=\"1-5\"><b>digital services contributed about $17 billion in annual exports</b>, with <b>potential to generate $76 billion through artificial intelligence and other technologies</b></cite> — but that outlook is <cite index=\"1-6\"><b>severely constrained by fragmented, short-term political cycles and piecemeal party policies</b></cite>. TUANZ board member Haley Mortimer <cite index=\"1-7\">set out three strategic themes — empowering people, building resilience, and earning trust through innovation</cite> — but flagged serious gaps: <cite index=\"1-8\"><b>about one in 10 households lacking internet access</b></cite>, and <cite index=\"2-3\">New Zealanders <b>losing $200 million a year to online scams</b>, while <b>35 percent of small businesses</b> also suffered from insufficient cyber resilience</cite>.</p><p>Mortimer argued New Zealand's edge isn't scale: \"<cite index=\"2-4\"><b>While New Zealand will never be the largest tech market in the world, we can become one of the most trusted places in the world to innovate</b></cite>,\" she said, adding that \"<cite index=\"1-9\"><b>human oversight, data sovereignty, and digital inclusion must be designed into our systems</b> so that technology supports better decisions without removing human accountability</cite>.\" Young said <cite index=\"1-10\">technology was a driver of productivity, but needed a long-term view at the highest level of government</cite>, noting \"<cite index=\"1-14\"><b>we have to make the most of using every trick we have, and using every enabling technology that we can to boost our productivity</b></cite>.\"</p>",
+    "lens": "This is a warning tailor-made for a region like ours. The two numbers that should land hardest in Hawke's Bay are the one-in-ten households still without internet access, and the 35 percent of small businesses with insufficient cyber resilience — because this is a region built on exactly those small, often rural, horticulture- and tourism-dependent firms that TUANZ says are being left exposed while politicians restart the digital strategy every election cycle. The Bay won't move the $76 billion national AI opportunity on its own, but it can insist its own patch isn't the one left behind: local councils, growers' bodies and chambers of commerce could use this report as leverage to push for the connectivity and cyber-resilience basics — rural broadband gaps, basic cyber hygiene training for small exporters and packhouses — rather than waiting for a national strategy that TUANZ itself says keeps getting reset. Realistically, the region has little power over Wellington's political cycles, but it has every reason to make noise about being counted in whatever long-term plan eventually sticks.",
     "sources": [
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/technology/morrison-ceo-paul-newfield-urges-new-zealand-to-chase-us60b-ai-opportunity/premium/T5SRUTQCRFCZTBBQJ3UQUP4JFQ/"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/business/1923469/nz-risks-squandering-digital-economic-potential-tech-leaders-say"
+      },
+      {
+        "l": "Scoop (RNZ republish)",
+        "u": "https://www.scoop.co.nz/stories/BU2610/S00135/nz-risks-squandering-digital-economic-potential-tech-leaders-say.htm"
       }
     ]
   },
@@ -1688,6 +1692,20 @@
   ],
   "headlines": [
     {
+      "date": "14 Oct 2026",
+      "chipLabel": "AI/Investment",
+      "headline": "NZ Urged to Chase $100 Billion-Plus AI Data Centre Prize Before Australia Grabs It",
+      "byline": "NZ Herald · 13 Oct 2026 — Morrison CEO Paul Newfield says New Zealand is \"naturally way more advantaged\" than Australia on AI data centres, but time is short",
+      "brief": "<p>Speaking at the Institute of Finance Professionals New Zealand 2026 conference, Morrison chief executive Paul Newfield said <b>Australia is primed to benefit from investment in artificial intelligence demand in coming years</b>, but <b>New Zealand has the opportunity to gain a share if it can get the settings right</b>. A 2–3% share of the Asia-Pacific AI market could be worth <b>more than $100 billion</b>.</p><p>Newfield said the value of AI had only recently become clear despite Morrison first investing in the technology in 2016, and that the firm now spends much of its time weighing whether AI's projected gains are real, who benefits from investment in it, and what it means for people. He said he was confident global investment in AI would pay off, pointing out many investors were already backing the technology through their portfolios — but he acknowledged real constraints around energy, safety and social licence, noting demand for AI computing is rising fast and chips still need ever more electricity. He believed safety, not power, would be the first constraint on the industry, pointing to AI agents already acting outside their remit, and warned that social licence for data centres is reaching a crossroads, with protests already common in the US and now beginning in New Zealand too.</p><p>On the regional contest, Newfield argued: <b>\"I know the flags are quite similar, but right now New Zealand should be eating the US's lunch and Australia will. Anthropic are coming down saying we expect Australia to be our biggest, after the US, our biggest global centre for AI development.\"</b> He was blunter still on New Zealand's own position: <b>\"Actually New Zealand is naturally way more advantaged than Australia, we just haven't yet made the case strong enough and we haven't pushed fast enough. This is something we can't afford just to be a fast follower.\"</b></p><p>He pointed to research from Boston Consulting Group showing that if New Zealand captured between 2–3% of the Asia-Pacific AI data-centre market, it would represent a prize worth well over $100 billion — the scale of opportunity, he argued, that New Zealand risks leaving on the table if it doesn't move quickly on the policy settings that would let it compete.</p>",
+      "lens": "This is a national pitch, not a Hawke's Bay announcement — nobody has named this region in the story — but the logic of the pitch is exactly the logic Hawke's Bay should be testing itself against: AI data centres need land, grid headroom and renewable power, and Newfield's argument is that New Zealand as a whole is under-pitching advantages it already has. Whether any of that prize lands in the Bay rather than Auckland, Wellington or across the Tasman depends entirely on work nobody has yet announced — regional economic development agencies making the case to central government that consenting speed, power-connection queues and investment settings could be shaped to favour provincial sites with flat land and existing transmission corridors, not just the main centres. The prize Newfield describes is real and national; turning it into a Hawke's Bay outcome is a choice still waiting to be made, not a done deal.",
+      "sources": [
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/technology/morrison-ceo-paul-newfield-urges-new-zealand-to-chase-us60b-ai-opportunity/premium/T5SRUTQCRFCZTBBQJ3UQUP4JFQ/"
+        }
+      ]
+    },
+    {
       "date": "11 Oct 2026",
       "chipLabel": "Space",
       "headline": "A Second NZ Spaceport? French Study Backs Kaitorete Spit as a Gateway for Europe's Rockets",
@@ -2238,28 +2256,6 @@
         {
           "l": "RNZ",
           "u": "https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say"
-        }
-      ]
-    },
-    {
-      "date": "29 Jul 2026",
-      "chipLabel": "Aerospace",
-      "headline": "Rocket Lab wins record US$266m US Space Force contract — with its home pad still at Māhia",
-      "byline": "National · what a record defence deal means for the region that hosts Rocket Lab's launch site",
-      "brief": "<p>Rocket Lab has secured the largest contract in its history: a <b>US$266 million</b> (about <b>NZ$460 million</b>) award from the United States Space Force's Space Systems Command Rocket Systems Launch Program. The deal covers <b>12 guaranteed suborbital launches</b>, with options for up to six more, flown on the company's HASTE rocket — a suborbital variant of its Electron — to support US missile-defence testing.</p><p>The first flight is expected no earlier than the end of 2026, and launches will run primarily from Rocket Lab's pad at the Pacific Spaceport Complex on Kodiak Island, Alaska. Founder and chief executive Sir Peter Beck said the contract's size reflects the Space Force's confidence in the company's ability to deliver with speed and scale. Rocket Lab shares rose almost 5% on the news.</p>",
-      "lens": "Rocket Lab is New Zealand's flagship space company, founded in Auckland in 2006, and its only operational launch site is Launch Complex 1 at Māhia Peninsula in the Wairoa district of Hawke's Bay. The honest picture is that these HASTE launches will fly from Alaska, not Māhia, so the immediate jobs and activity land offshore. But the deal cements Rocket Lab's trajectory and keeps Māhia on the map as the home of a company now trusted with US national-security work. For the Bay, the opportunity is upstream and long-term: a serious STEM and aerospace-skills pipeline through EIT and local schools so Wairoa and wider Hawke's Bay young people can move into the sector; supplier and services links to Rocket Lab's operations; and Wairoa economic-development planning that treats the launch site as an anchor asset rather than a curiosity. The region should be deliberate about capturing the spillover, because the marquee contracts themselves will keep going where the launch pads and customers are.",
-      "sources": [
-        {
-          "l": "1News",
-          "u": "https://www.1news.co.nz/2026/07/28/rocket-lab-wins-460-million-contract-with-us-military/"
-        },
-        {
-          "l": "Newswire NZ",
-          "u": "https://newswire.co.nz/2026/07/rocket-lab-record-460-million-us-space-force-missile-defence-contract/"
-        },
-        {
-          "l": "Space.com",
-          "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
         }
       ]
     }
