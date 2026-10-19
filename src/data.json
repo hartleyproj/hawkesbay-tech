@@ -1,21 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Policy",
+    "chipLabel": "Fintech",
     "sector": "bay",
-    "date": "16 Oct 2026",
-    "headline": "Tech Leaders Warn NZ Risks Squandering $76 Billion Digital Prize Amid Political Short-Termism",
-    "byline": "National · 15 Oct 2026 — why Hawke's Bay's small firms and patchy rural broadband are exactly what this warning is about",
-    "brief": "<p>Technology leaders are <cite index=\"2-1\"><b>again warning New Zealand risks squandering its digital and economic potential</b> if political leaders continue to reset the nation's technological direction every three years</cite>. The warning came from the Tech Users Association (TUANZ), which <cite index=\"1-3\"><b>set out a strategic direction at this week's summit</b>, which needs investment, and long-term cross-party alignment</cite>. TUANZ chief executive Craig Young said: \"<cite index=\"1-4\"><b>What's urgently needed is certainty, coordination, and commitment across political lines to deliver a joined-up national strategy</b></cite>.\"</p><p>The numbers at stake are large: <cite index=\"1-5\"><b>digital services contributed about $17 billion in annual exports</b>, with <b>potential to generate $76 billion through artificial intelligence and other technologies</b></cite> — but that outlook is <cite index=\"1-6\"><b>severely constrained by fragmented, short-term political cycles and piecemeal party policies</b></cite>. TUANZ board member Haley Mortimer <cite index=\"1-7\">set out three strategic themes — empowering people, building resilience, and earning trust through innovation</cite> — but flagged serious gaps: <cite index=\"1-8\"><b>about one in 10 households lacking internet access</b></cite>, and <cite index=\"2-3\">New Zealanders <b>losing $200 million a year to online scams</b>, while <b>35 percent of small businesses</b> also suffered from insufficient cyber resilience</cite>.</p><p>Mortimer argued New Zealand's edge isn't scale: \"<cite index=\"2-4\"><b>While New Zealand will never be the largest tech market in the world, we can become one of the most trusted places in the world to innovate</b></cite>,\" she said, adding that \"<cite index=\"1-9\"><b>human oversight, data sovereignty, and digital inclusion must be designed into our systems</b> so that technology supports better decisions without removing human accountability</cite>.\" Young said <cite index=\"1-10\">technology was a driver of productivity, but needed a long-term view at the highest level of government</cite>, noting \"<cite index=\"1-14\"><b>we have to make the most of using every trick we have, and using every enabling technology that we can to boost our productivity</b></cite>.\"</p>",
-    "lens": "This is a warning tailor-made for a region like ours. The two numbers that should land hardest in Hawke's Bay are the one-in-ten households still without internet access, and the 35 percent of small businesses with insufficient cyber resilience — because this is a region built on exactly those small, often rural, horticulture- and tourism-dependent firms that TUANZ says are being left exposed while politicians restart the digital strategy every election cycle. The Bay won't move the $76 billion national AI opportunity on its own, but it can insist its own patch isn't the one left behind: local councils, growers' bodies and chambers of commerce could use this report as leverage to push for the connectivity and cyber-resilience basics — rural broadband gaps, basic cyber hygiene training for small exporters and packhouses — rather than waiting for a national strategy that TUANZ itself says keeps getting reset. Realistically, the region has little power over Wellington's political cycles, but it has every reason to make noise about being counted in whatever long-term plan eventually sticks.",
+    "date": "20 Oct 2026",
+    "headline": "Auckland Open-Banking Fintech Qippay Banks NZ$5m as Payments Funding Wave Hits ANZ",
+    "byline": "Auckland · what a fresh fintech raise means for Hawke's Bay's growers, wineries and small exporters",
+    "brief": "<p>Payments technology featured prominently in this week's startup funding activity across Australia and New Zealand, with payments-focused startups in Australia and New Zealand securing $20.3 million in equity funding this week. Auckland-based open banking fintech Qippay has raised NZ$5 million (A$4m), with Australian investor All Roads Wholesale Fund taking a 25% stake in parent business Qippay Group. The deal is expected to complete this week and will support Qippay's growth in New Zealand, including new financial and data infrastructure capabilities, as the fintech also explores a potential Australian expansion using the Consumer Data Right. Melbourne companies Archa and RedOwl raised $11 million and $5.3 million respectively alongside Qippay's raise, with Archa also securing a separate $50 million debt facility.</p><p>Qippay, founded in 2021 by Ashley Lake-Johns and Wayne Deas, builds open banking infrastructure that connects payments with Consumer Data Right services, helping businesses reduce payment costs, automate administrative work and access more current financial information. The startup is based at Auckland Council's GridAKL innovation hub, currently employs six full-time staff, and plans to grow its team to between 12 and 15. All Roads founder and managing director David Palmer will join the Qippay board, having identified commercial potential across the fund's wider financial services interests, including mortgage applications, financial advice, tax and accounting services. The three companies plan to use their funding to develop products, expand their customer bases and build financial infrastructure.</p>",
+    "lens": "Open banking is exactly the kind of plumbing that matters more in a region like Hawke's Bay than the funding headline suggests — wineries, orchards and packhouses live and die by cashflow timing, invoice reconciliation and getting paid on time across long, multi-party supply chains from grower to exporter to retailer. A better-capitalised Qippay building new 'financial and data infrastructure' is a reminder that the tools to fix that friction are being built now, mostly in Auckland, and local firms don't have to wait for a Hawke's Bay-based equivalent to benefit — Business Hawke's Bay, the Hi-Tech Hawke's Bay network and the region's accountants and banks could usefully road-test what open banking payments actually unlock for seasonal, export-heavy businesses. The harder, honest point is that Qippay's raise also underlines how modest and Auckland-centric NZ's fintech capital still is — six staff, a $5m cheque, one GridAKL desk — so the region's real opportunity isn't chasing this particular company, it's making sure Hawke's Bay's own fast-growing agritech and food-tech founders have the same easy path to a GridAKL-style hub and the same investor attention when their turn comes.",
     "sources": [
       {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/1923469/nz-risks-squandering-digital-economic-potential-tech-leaders-say"
+        "l": "nstartup",
+        "u": "https://nstartup.me/news/3734c38b-3cb6-4fa8-9991-e5432989dc6a"
       },
       {
-        "l": "Scoop (RNZ republish)",
-        "u": "https://www.scoop.co.nz/stories/BU2610/S00135/nz-risks-squandering-digital-economic-potential-tech-leaders-say.htm"
+        "l": "Startup Daily",
+        "u": "https://www.startupdaily.net/topic/funding/kiwi-open-banking-fintech-qippay-pockets-nz5-million-for-25-stake/"
       }
     ]
   },
@@ -679,6 +679,36 @@
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
         {
+          "date": "20 Oct 2026",
+          "headline": "Data Vault Plans Second Auckland Data Centre, a 3MW Facility on the North Shore",
+          "brief": "New Zealand-owned colocation operator Data Vault has announced a new 3MW data centre in Rosedale on Auckland's North Shore, its second Auckland site, as part of a wider programme targeting around 6MW of additional capacity across Auckland, Hamilton and Wellington. The company says the push is driven by demand from network operators, cloud providers and international technology companies for mid-density colocation — a deliberate bet against the hyperscale AI infrastructure wave sweeping much of the sector.",
+          "body": [
+            "Data Vault, a New Zealand-owned data centre operator, has announced plans for a new three-megawatt data centre in Rosedale on Auckland's North Shore, targeting six megawatts of additional capacity across its network of data centres alongside the development. It is the company's second site in Auckland, joining its existing Grafton facility. Data Vault has already acquired the building for the North Shore site and confirmed 11 connectivity and service partners for launch: Eon Fibre, Devoli, EdgeIX, Verge Infrastructure, WaveSquared, Hostpearl, Vetta Group, Mercury, Purelink, Vital and Megaport. Fit-out is scheduled to begin in 2027, with the first stage expected to become operational in the second half of that year.",
+            "General Manager Peter White said the expansion follows continued growth at Grafton, where Data Hall 3 is fully contracted, Data Hall 4 is due to become operational in the first quarter of 2027 after securing a major international anchor customer, and Data Hall 5 is scheduled to follow in the third quarter. \"We've seen significant demand from network operators, cloud providers and international technology companies looking for high-quality colocation in New Zealand,\" White said. Beyond the North Shore project, the wider expansion includes a further 1MW at Grafton, another 1MW at the company's Te Rapa facility in Hamilton, and about 300kW at its Wellington data centre, which Data Vault took over from Vital a year ago. Together these developments amount to 5.3MW of identified additional capacity, with further options under review as part of the broader 6MW target.",
+            "Connectivity is central to Data Vault's pitch. Its existing Grafton facility is approaching 70 autonomous system numbers across its network ecosystem and has access to internet exchanges including EdgeIX, NZIX and MegaIX, with the company's website citing access to more than 50 network providers. The North Shore facility will continue Data Vault's carrier-neutral model, and White said the intention is to bring Grafton's connectivity ecosystem to the new site from the outset, with its 11 launch partners providing access to fibre networks, internet services, internet exchanges and cloud connectivity from day one.",
+            "The company is positioning itself against the industry's dominant trend: while much of the data centre market's attention is on hyperscale and AI infrastructure, Data Vault says it sees strong demand for mid-density colocation from network operators, cloud providers, managed service providers and enterprises that do not need very high rack densities. \"Not every customer needs 50kW or 100kW per rack,\" White said. \"There's a significant market for reliable, well-connected mid-density rack space, and that's where we see a real opportunity.\" Energy efficiency is also a stated priority, with modern cooling technologies, advanced aisle containment and efficient power infrastructure designed to deliver industry-leading power usage effectiveness; Data Vault already operates rooftop solar at its Grafton and Hamilton facilities, with further large-scale solar planned as part of the expansion, including at the new North Shore site."
+          ],
+          "lens": "There is no Hawke's Bay angle to manufacture here, and it would be dishonest to force one: this is a story about Auckland's colocation and internet-exchange backbone, not about power deals or hyperscale campuses that might one day touch the regions. What it does confirm is that the practical, unglamorous layer of New Zealand's digital economy — carrier-neutral racks, internet exchange access, mid-density colocation for network operators and enterprise customers — remains concentrated in Auckland, Hamilton and Wellington, with no indication in this announcement of any interest in regional sites. For Hawke's Bay, the honest takeaway is modest: local councils and businesses should not read this as a signal of opportunity to attract colocation investment, since nothing here points that way. The more useful lesson is in the business model itself — Data Vault is carving out value by serving \"ordinary\" infrastructure needs rather than chasing the AI hyperscale wave, which is a reminder that the Bay's own tech effort is probably better spent applying existing cloud and connectivity tools to horticulture, wine and logistics than in trying to build data centre capacity it has no stated case for.",
+          "sources": [
+            {
+              "l": "SecurityBrief NZ",
+              "u": "https://securitybrief.co.nz/story/data-vault-plans-new-north-shore-data-centre-in-auckland"
+            },
+            {
+              "l": "Reseller News",
+              "u": "https://www.reseller.co.nz/article/4236899/data-vault-to-build-north-shore-data-centre-with-11-launch-partners-onboard.html"
+            },
+            {
+              "l": "W.Media",
+              "u": "https://w.media/data-vault-lines-up-11-partners-for-new-auckland-data-centre/"
+            },
+            {
+              "l": "NBR",
+              "u": "https://www.nbr.co.nz/tech/data-vault-plans-new-data-centre-for-north-shore/"
+            }
+          ]
+        },
+        {
           "date": "03 Oct 2026",
           "headline": "National Party Tells AI Data Centres: Bring Your Own Power",
           "brief": "<p>New Zealand's National Party has unveiled an <b>\"Electrify NZ 2.0\"</b> energy policy that would require new AI data-centre developers to supply their own firmed power generation rather than drawing on the existing grid, with the stated goal of keeping the AI boom from pushing up power bills for households and businesses. The party is framing the move as a way to help New Zealand potentially attract <b>$25 billion to $35 billion</b> in AI infrastructure investment while supporting its renewable energy sector.</p>",
@@ -943,23 +973,6 @@
             {
               "l": "Data Center Dynamics",
               "u": "https://www.datacenterdynamics.com/en/news/aws-names-first-customers-for-new-zealand-data-center-region/"
-            }
-          ]
-        },
-        {
-          "date": "12 Jul 2026",
-          "headline": "AI's power bottleneck: the data-centre boom now needs the regions",
-          "brief": "<p>Globally and in New Zealand, hyperscale AI data centres are running into an electricity bottleneck — <b>power, not chips</b>, is becoming the limiting factor for the AI build-out, with more than <b>US$162 billion</b> of projects already blocked or delayed over grid constraints.</p>",
-          "body": [
-            "The constraint on artificial intelligence is no longer chips — it is power. As hyperscalers pour more than US$600 billion into new AI infrastructure in 2026, the limiting factor has become the electricity to run it, with grid capacity now dictating where and how fast data centres can be built.",
-            "The demand is staggering: analysts expect total hyperscale capacity to double in about three years, against a global pipeline of some 770 planned facilities — on top of nearly 1,300 already operating — that will need \"tens of gigawatts\" of aggregate power over the next two to three years. It is already biting: as of mid-2025, more than 36 projects representing US$162 billion of investment were blocked or significantly delayed over power constraints and local opposition, and analysts warn grid outages will become more common.",
-            "Operators are scrambling for workarounds: on-site generation to skip grid queues, closed-loop liquid cooling (as in Microsoft's Fairwater campuses) to cut water use and strain, and long-term renewable deals. The upshot is a strategic reordering — the regions and countries that can supply abundant clean power become the ones that win the data centres."
-          ],
-          "lens": "This is the national backdrop to Hawke's Bay's solar push. New Zealand won't attract the biggest AI campuses without abundant, firm, clean power, and the regions that can generate it become strategically valuable in an AI-hungry economy. The honest read for the Bay is that it won't host a hyperscaler itself — but its sunshine and emerging renewable pipeline are exactly the kind of asset this reordering rewards, and the grid-connection, construction and servicing work that follows generation is where the regional jobs actually sit. The concrete move is to treat firm regional power as an economic asset, not just an emissions play: councils weighing consents for solar and grid upgrades should recognise that spare clean generation is now a magnet for investment, and accelerating it is how the Bay stays on the right side of this shift.",
-          "sources": [
-            {
-              "l": "Data Center Knowledge",
-              "u": "https://www.datacenterknowledge.com/hyperscalers/hyperscalers-in-2026-what-s-next-for-the-world-s-largest-data-center-operators-"
             }
           ]
         }
@@ -1692,6 +1705,24 @@
   ],
   "headlines": [
     {
+      "date": "16 Oct 2026",
+      "chipLabel": "Policy",
+      "headline": "Tech Leaders Warn NZ Risks Squandering $76 Billion Digital Prize Amid Political Short-Termism",
+      "byline": "National · 15 Oct 2026 — why Hawke's Bay's small firms and patchy rural broadband are exactly what this warning is about",
+      "brief": "<p>Technology leaders are <cite index=\"2-1\"><b>again warning New Zealand risks squandering its digital and economic potential</b> if political leaders continue to reset the nation's technological direction every three years</cite>. The warning came from the Tech Users Association (TUANZ), which <cite index=\"1-3\"><b>set out a strategic direction at this week's summit</b>, which needs investment, and long-term cross-party alignment</cite>. TUANZ chief executive Craig Young said: \"<cite index=\"1-4\"><b>What's urgently needed is certainty, coordination, and commitment across political lines to deliver a joined-up national strategy</b></cite>.\"</p><p>The numbers at stake are large: <cite index=\"1-5\"><b>digital services contributed about $17 billion in annual exports</b>, with <b>potential to generate $76 billion through artificial intelligence and other technologies</b></cite> — but that outlook is <cite index=\"1-6\"><b>severely constrained by fragmented, short-term political cycles and piecemeal party policies</b></cite>. TUANZ board member Haley Mortimer <cite index=\"1-7\">set out three strategic themes — empowering people, building resilience, and earning trust through innovation</cite> — but flagged serious gaps: <cite index=\"1-8\"><b>about one in 10 households lacking internet access</b></cite>, and <cite index=\"2-3\">New Zealanders <b>losing $200 million a year to online scams</b>, while <b>35 percent of small businesses</b> also suffered from insufficient cyber resilience</cite>.</p><p>Mortimer argued New Zealand's edge isn't scale: \"<cite index=\"2-4\"><b>While New Zealand will never be the largest tech market in the world, we can become one of the most trusted places in the world to innovate</b></cite>,\" she said, adding that \"<cite index=\"1-9\"><b>human oversight, data sovereignty, and digital inclusion must be designed into our systems</b> so that technology supports better decisions without removing human accountability</cite>.\" Young said <cite index=\"1-10\">technology was a driver of productivity, but needed a long-term view at the highest level of government</cite>, noting \"<cite index=\"1-14\"><b>we have to make the most of using every trick we have, and using every enabling technology that we can to boost our productivity</b></cite>.\"</p>",
+      "lens": "This is a warning tailor-made for a region like ours. The two numbers that should land hardest in Hawke's Bay are the one-in-ten households still without internet access, and the 35 percent of small businesses with insufficient cyber resilience — because this is a region built on exactly those small, often rural, horticulture- and tourism-dependent firms that TUANZ says are being left exposed while politicians restart the digital strategy every election cycle. The Bay won't move the $76 billion national AI opportunity on its own, but it can insist its own patch isn't the one left behind: local councils, growers' bodies and chambers of commerce could use this report as leverage to push for the connectivity and cyber-resilience basics — rural broadband gaps, basic cyber hygiene training for small exporters and packhouses — rather than waiting for a national strategy that TUANZ itself says keeps getting reset. Realistically, the region has little power over Wellington's political cycles, but it has every reason to make noise about being counted in whatever long-term plan eventually sticks.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/1923469/nz-risks-squandering-digital-economic-potential-tech-leaders-say"
+        },
+        {
+          "l": "Scoop (RNZ republish)",
+          "u": "https://www.scoop.co.nz/stories/BU2610/S00135/nz-risks-squandering-digital-economic-potential-tech-leaders-say.htm"
+        }
+      ]
+    },
+    {
       "date": "14 Oct 2026",
       "chipLabel": "AI/Investment",
       "headline": "NZ Urged to Chase $100 Billion-Plus AI Data Centre Prize Before Australia Grabs It",
@@ -2242,20 +2273,6 @@
         {
           "l": "Reseller News",
           "u": "https://www.reseller.co.nz/article/4206394/government-calls-in-chorus-debt-to-fund-roads-classrooms.html"
-        }
-      ]
-    },
-    {
-      "date": "01 Aug 2026",
-      "chipLabel": "AI Policy",
-      "headline": "NZ Court AI Guidelines Unchanged Since 2023 as Academics Flag 'Agentic AI' Gap",
-      "byline": "National · late July 2026 · what unrevised AI court guidance means for Hawke's Bay's lawyers and litigants",
-      "brief": "<p>New Zealand's judiciary is facing calls from some legal academics to update its rules on generative AI use in courtrooms, though not everyone in the profession agrees an overhaul is urgent. <cite index=\"19-3,19-4\">Generative artificial intelligence (GenAI) use in New Zealand's legal system is continuing to increase, a fact the Office of the Chief Justice has acknowledged, but the judiciary's guidelines for AI use were last updated in 2023.</cite></p><p>University of Auckland Law School lecturer Matt Bartlett said <cite index=\"19-5,19-6\">other judiciaries around the world were updating their guidance far more frequently than New Zealand, saying \"they're out of step with the capabilities, the risk profile, and frankly the practice overseas.\"</cite> Bartlett also noted <cite index=\"19-1\">AI use typically did not need to be disclosed, which he said made it difficult to understand the extent to which AI was already influencing the justice system.</cite> Fellow senior lecturer Dr Joshua Yuvaraj argued <cite index=\"19-7\">the technology was evolving so quickly that the guidelines should be reviewed regularly to ensure they remained fit for purpose.</cite></p><p>Yuvaraj's concern isn't just chatbots drafting documents. <cite index=\"1-8,1-9\">Technology, he said, had moved beyond just generative AI technologies to agentic AI, where AI systems could automate tasks such as organising workflows, responding to emails and other administrative work, developments he said warranted some attention in the court's guidelines.</cite> <cite index=\"1-10\">He also wanted to see continual emphasis on the privacy and confidentiality risks associated with using AI tools.</cite></p><p>Not everyone thinks the rules need rewriting, however. Auckland barrister Josh McBride said <cite index=\"1-11,1-12\">while the guidelines were now a few years old, they had largely stood the test of time, saying \"I've looked at them recently, and in fairness, they do a pretty good job.\"</cite> <cite index=\"19-8,19-9,19-10\">McBride did not believe AI use should necessarily have to be disclosed, though he had seen instances where litigants armed with AI tools were producing disproportionate volumes of AI generated material for what the case entailed, and said there was a benefit in clearer rules on the volume of AI-generated material people could file and clearer warnings that litigants were responsible for verifying anything AI produced before submitting it to the court.</cite> For its part, <cite index=\"10-6\">a spokesperson from the Office of the Chief Justice said the judiciary recognised the opportunities created by AI to support access to justice and the timely, efficient and proportionate administration of justice, but it was taking a cautious approach to the exploration and adoption of Generative AI to support the work of the courts.</cite></p>",
-      "lens": "There's no Rocket-Lab-sized dollar figure here, and honestly Hawke's Bay has little direct lever to pull on national court policy — that sits with the Chief Justice's office and the judiciary's own advisory processes, not regional government. But the region does have real skin in this game: our district and High Court sittings in Napier and Hastings, local law firms, Community Law Hawke's Bay, and self-represented litigants are all already living with whatever informal AI practice has grown since the 2023 guidelines were issued, debate about updating them or not. The honest, useful response for the Bay isn't a moonshot — it's plumbing. Local firms and the Hawke's Bay District Law Society could use this moment to run a plain-English session on what's actually permitted when a solicitor or a litigant in person uses ChatGPT-style tools to draft an affidavit or chase case law, rather than waiting for Wellington to settle the Bartlett-versus-McBride debate about whether the rules need a rewrite or just better enforcement. If agentic AI is now quietly triaging emails and workflows inside firms here too, the region's legal community has as much reason as any to watch closely, and weigh in, on whatever the Office of the Chief Justice does next, because whatever rule finally lands will apply just as much in a Hastings courtroom as in Auckland's.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say"
         }
       ]
     }
