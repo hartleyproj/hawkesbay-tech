@@ -1,21 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Fintech",
+    "chipLabel": "Venture Capital",
     "sector": "bay",
-    "date": "20 Oct 2026",
-    "headline": "Auckland Open-Banking Fintech Qippay Banks NZ$5m as Payments Funding Wave Hits ANZ",
-    "byline": "Auckland · what a fresh fintech raise means for Hawke's Bay's growers, wineries and small exporters",
-    "brief": "<p>Payments technology featured prominently in this week's startup funding activity across Australia and New Zealand, with payments-focused startups in Australia and New Zealand securing $20.3 million in equity funding this week. Auckland-based open banking fintech Qippay has raised NZ$5 million (A$4m), with Australian investor All Roads Wholesale Fund taking a 25% stake in parent business Qippay Group. The deal is expected to complete this week and will support Qippay's growth in New Zealand, including new financial and data infrastructure capabilities, as the fintech also explores a potential Australian expansion using the Consumer Data Right. Melbourne companies Archa and RedOwl raised $11 million and $5.3 million respectively alongside Qippay's raise, with Archa also securing a separate $50 million debt facility.</p><p>Qippay, founded in 2021 by Ashley Lake-Johns and Wayne Deas, builds open banking infrastructure that connects payments with Consumer Data Right services, helping businesses reduce payment costs, automate administrative work and access more current financial information. The startup is based at Auckland Council's GridAKL innovation hub, currently employs six full-time staff, and plans to grow its team to between 12 and 15. All Roads founder and managing director David Palmer will join the Qippay board, having identified commercial potential across the fund's wider financial services interests, including mortgage applications, financial advice, tax and accounting services. The three companies plan to use their funding to develop products, expand their customer bases and build financial infrastructure.</p>",
-    "lens": "Open banking is exactly the kind of plumbing that matters more in a region like Hawke's Bay than the funding headline suggests — wineries, orchards and packhouses live and die by cashflow timing, invoice reconciliation and getting paid on time across long, multi-party supply chains from grower to exporter to retailer. A better-capitalised Qippay building new 'financial and data infrastructure' is a reminder that the tools to fix that friction are being built now, mostly in Auckland, and local firms don't have to wait for a Hawke's Bay-based equivalent to benefit — Business Hawke's Bay, the Hi-Tech Hawke's Bay network and the region's accountants and banks could usefully road-test what open banking payments actually unlock for seasonal, export-heavy businesses. The harder, honest point is that Qippay's raise also underlines how modest and Auckland-centric NZ's fintech capital still is — six staff, a $5m cheque, one GridAKL desk — so the region's real opportunity isn't chasing this particular company, it's making sure Hawke's Bay's own fast-growing agritech and food-tech founders have the same easy path to a GridAKL-style hub and the same investor attention when their turn comes.",
+    "date": "21 Oct 2026",
+    "headline": "KiwiSaver Giant Simplicity Pumps $50m Into Icehouse Ventures, Pushing Growth Fund III Past $180m",
+    "byline": "Auckland · what record KiwiSaver-to-startup capital means for Hawke's Bay's growth firms",
+    "brief": "<p>KiwiSaver provider <b>Simplicity</b> has committed <b>$50 million</b> to Icehouse Ventures' Growth Fund III, <cite index=\"4-5\">making it New Zealand's largest KiwiSaver venture capital investor</cite>. <cite index=\"2-4\">The investment will push the size of the fund to $180 million, $30 million higher than when it was opened earlier this year.</cite> <cite index=\"2-5\">The Icehouse Ventures Growth Fund III is designed to invest in 20 late-stage, high-growth Kiwi companies.</cite> <cite index=\"2-6\">It now has investments in three companies, including Halter a virtual fencing tech company, and Calocurb, which has developed a weight-management supplement and Kiwi founded global software company Supabase.</cite> <cite index=\"2-8\">Icehouse Ventures said KiwiSaver providers have now committed at least $190 million to their funds and their portfolio companies, up from $60 million at the close of Growth Fund II in 2024.</cite></p><p><cite index=\"3-4,3-5\">Simplicity has invested $50 million into Icehouse Ventures Growth Fund III – one of the largest contributions by a KiwiSaver player to a venture capital fund, and the second-largest investment by a KiwiSaver fund into venture capital (Kiwi Wealth put $54m into a Movac fund during the Covid VC boom).</cite> <cite index=\"2-7\">Pie Funds is a $10 million cornerstone investor in Growth Fund II and is intending to invest again in Growth Fund III.</cite> <cite index=\"3-7\">The fund is due to close to new investors on December 20.</cite></p><p><cite index=\"3-8,3-9\">Icehouse Ventures chief executive Robbie Paul says VC firms should prove their own chops, rather than KiwiSaver funds being compelled to invest, while he's also looking jealously across the Tasman, where the equivalent to our KiwiSaver is compulsory and the pool of capital looking for a home is much larger.</cite> Simplicity co-founder and managing director Sam Stubbs wants regulatory change, arguing: <b>\"Until it is extended to KiwiSaver, the amount invested in venture capital will be limited.\"</b> <cite index=\"19-8,19-9\">Paul said Fund III was definitely not a startup fund, but would be invested in companies that typically would be five to 10 years old with tens of millions in revenue, and global markets with the potential to earn billions in revenue.</cite></p>",
+    "lens": "This is money, not manifesto: ordinary KiwiSaver balances — including those of Hawke's Bay orchardists, winemakers and tradies — are now a real, growing source of growth capital for Kiwi tech companies, and Halter's presence in the portfolio is a reminder that agritech is exactly the kind of sector this capital is built for. Hawke's Bay doesn't yet have an obvious candidate sitting in Growth Fund III's three current bets, and that's the honest gap: the fund backs firms already five to ten years old with tens of millions in revenue, a bar few regional companies have cleared. What the region can do is make sure its most promising food-tech, agritech and horticulture-tech scale-ups know this capital exists and start building the revenue runway now — because Icehouse's own chief executive has said the fund is growing by the day and, taking verbal commitments into account, is likely to reach the $200 million range by its final close in December, and the firms with traction by then will be the ones in the room.",
     "sources": [
       {
-        "l": "nstartup",
-        "u": "https://nstartup.me/news/3734c38b-3cb6-4fa8-9991-e5432989dc6a"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/business/2031945/simplicity-stumps-up-with-50-million-for-fund-targeting-high-growth-kiwi-companies"
       },
       {
-        "l": "Startup Daily",
-        "u": "https://www.startupdaily.net/topic/funding/kiwi-open-banking-fintech-qippay-pockets-nz5-million-for-25-stake/"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/business/companies/banking-finance/simplicity-invests-record-50m-in-icehouse-ventures-growth-fund-iii-pushing-it-to-180m/premium/Y4ALZJ6HRBA3VBSKHWAMZCOBDY/"
+      },
+      {
+        "l": "BusinessDesk",
+        "u": "https://www.businessdesk.co.nz/companies/startups/simplicity-kiwisaver-invests-50m-into-icehouse-ventures-growth-fund/22UYPSZ66BAK3FFAEPRAXMMYIA/"
       }
     ]
   },
@@ -27,6 +31,27 @@
       "chip": "c-ai",
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
+        {
+          "date": "21 Oct 2026",
+          "headline": "NZ Police Broke Their Own AI Safeguards Multiple Times, Documents Show",
+          "brief": "<p>Official documents reveal that <b>New Zealand Police broke their own safeguards multiple times</b> using generative AI in investigations during 2024 and 2025. Police used unapproved AI workarounds to speed up criminal probes, and the AI tool Whisper was largely suspended in March over the misuse before police started it up again last October.</p>",
+          "body": [
+            "Official documents show police broke their own safeguards multiple times using generative AI in investigations in 2024 and 2025.",
+            "Police used unapproved AI workarounds to speed up criminal probes, but officials say tighter controls are needed to protect privacy and evidence. Police began using Whisper AI in 2024 without having detailed auditing controls over it, though they agreed the logs of how it was used should be expanded to include more information for auditing and analytics, according to the OIA reports and emails.",
+            "Frontline investigators also used Whisper to translate te reo Māori conversations, which broke police rules for the test, the documents showed. The documents released under the OIA showed Detective Inspector Stuart Mills argued last year that officers should be allowed to keep using Whisper AI even though they broke the rules repeatedly in a six-month test of it, using it to transcribe English audio when it was only approved for translating.",
+            "At the same time, the superfast AI translation of phone and online communications sped up criminal investigations, including into the Auckland cult killing of Shulai Wang. Mills, of the National Criminal Investigations Group, told RNZ there was strong operational interest in using the technology, saying in a report in March 2025 that \"introducing additional controls to restrict the use of the service would likely hinder its effectiveness,\" and that automated tools for transcription and translation were not just helpful, but \"essential.\"",
+            "Barrister and privacy law expert Kathryn Dalziel told Checkpoint on Monday it was \"absolutely unacceptable\" that police took data home and loaded it up into open source systems.",
+            "Though Whisper was largely suspended in March because of the misuse, police started it up again last October. Mills said on Monday they had to balance the opportunity to identify critical information more quickly with important privacy and security considerations, adding that police had \"developed approved solutions\" but did not name Whisper or any other AI tool. The force's latest Technology Capabilities List of October 2025 does not refer to \"translation.\"",
+            "Mills said police took a considered approach to adopting new tech, deciding according to operational need, risk, legal requirements and policy considerations, and that they had robust testing, assurance and approval processes to support \"effective policing while maintaining public trust and appropriate privacy protections.\" Police say they are continually assessing how they can use emerging technology to support investigations in a lawful and secure way consistent with their policies."
+          ],
+          "lens": "There is no direct Hawke's Bay angle here — this is a national Police story about internal AI discipline, not something happening in Napier or Hastings stations specifically. But it's still a useful early-warning for the Bay: Police operate under national policies, so any tightening of rules around tools like Whisper, or any further loosening that lets investigators improvise, applies to how local cases are handled too. The honest, practical takeaway for the region isn't to chase this story locally — it's for Hawke's Bay organisations watching AI adoption, from council compliance teams to local legal, health and social-service providers handling sensitive records, to treat this as a cautionary template: write down what AI tools staff are actually allowed to use, check whether staff are quietly reaching for unapproved alternatives when an approved tool is paused or slow, and make sure anyone handling evidence, personal data or client records has a clear, enforced policy — including rules on keeping a human in the loop before AI output is relied on — rather than waiting for a breach to force one.",
+          "sources": [
+            {
+              "l": "IT Brief New Zealand",
+              "u": "https://itbrief.co.nz/story/police-say-they-re-assessing-how-to-use-emerging-technology-after-report-of-risky-ai-use"
+            }
+          ]
+        },
         {
           "date": "13 Oct 2026",
           "headline": "Christchurch's Harkness AI Tops 50 Clients, Bootstrapped and Profitable Every Month",
@@ -322,23 +347,6 @@
             {
               "l": "Newstalk ZB",
               "u": "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/opinion/perspective-with-ryan-bridge-do-we-need-a-moratorium-on-data-centres/"
-            }
-          ]
-        },
-        {
-          "date": "29 Jul 2026",
-          "headline": "Biosecurity NZ trials AI to speed up the rules that keep pests out",
-          "brief": "<p>Biosecurity New Zealand, part of the Ministry for Primary Industries, is running a <b>four-month pilot</b> using AI to help draft import health standards — the legal documents that govern which plants, animals and biological products can enter the country. Biosecurity Minister Andrew Hoggard announced the trial on <b>25 July</b>.</p>",
-          "body": [
-            "Import health standards are the rulebook of New Zealand's border: the legal documents that decide which plants, animals and biological products can come in, and under what conditions. Biosecurity New Zealand has begun a four-month pilot using AI to help draft them, with Biosecurity Minister Andrew Hoggard announcing the trial on 25 July.",
-            "Hoggard framed it carefully as a productivity tool rather than a handover of judgement, saying it is about using smart tools to take on document-heavy work while key decisions remain with Biosecurity New Zealand's experts. The framework the standards sit within is more than 30 years old, and the document workload is significant.",
-            "The stakes behind the paperwork are large. New Zealand's food and fibre export revenue is forecast to reach $64.3 billion for the year ending 30 June 2026, and the Mycoplasma bovis eradication effort cost roughly $886 million over ten years — a reminder of what a biosecurity failure can cost the primary sector."
-          ],
-          "lens": "Hawke's Bay is one of the country's major horticulture and nursery regions, so the speed and quality of import health standards is not an abstract Wellington process — it shapes how quickly local growers can access new plant varieties, rootstock and genetics, and how well the border holds against the pests and diseases that would hit orchards and vineyards first. If AI can clear the document backlog without weakening the expert judgement at the core of these decisions, that is a direct benefit to the Bay. The region's growers, nurseries and industry bodies should make sure their needs are represented as the pilot is evaluated, so faster standards translate into real access to new material rather than just faster paperwork.",
-          "sources": [
-            {
-              "l": "Newswire NZ",
-              "u": "https://newswire.co.nz/2026/07/government-ai-trial-biosecurity-import-standards/"
             }
           ]
         }
@@ -1705,6 +1713,24 @@
   ],
   "headlines": [
     {
+      "date": "20 Oct 2026",
+      "chipLabel": "Fintech",
+      "headline": "Auckland Open-Banking Fintech Qippay Banks NZ$5m as Payments Funding Wave Hits ANZ",
+      "byline": "Auckland · what a fresh fintech raise means for Hawke's Bay's growers, wineries and small exporters",
+      "brief": "<p>Payments technology featured prominently in this week's startup funding activity across Australia and New Zealand, with payments-focused startups in Australia and New Zealand securing $20.3 million in equity funding this week. Auckland-based open banking fintech Qippay has raised NZ$5 million (A$4m), with Australian investor All Roads Wholesale Fund taking a 25% stake in parent business Qippay Group. The deal is expected to complete this week and will support Qippay's growth in New Zealand, including new financial and data infrastructure capabilities, as the fintech also explores a potential Australian expansion using the Consumer Data Right. Melbourne companies Archa and RedOwl raised $11 million and $5.3 million respectively alongside Qippay's raise, with Archa also securing a separate $50 million debt facility.</p><p>Qippay, founded in 2021 by Ashley Lake-Johns and Wayne Deas, builds open banking infrastructure that connects payments with Consumer Data Right services, helping businesses reduce payment costs, automate administrative work and access more current financial information. The startup is based at Auckland Council's GridAKL innovation hub, currently employs six full-time staff, and plans to grow its team to between 12 and 15. All Roads founder and managing director David Palmer will join the Qippay board, having identified commercial potential across the fund's wider financial services interests, including mortgage applications, financial advice, tax and accounting services. The three companies plan to use their funding to develop products, expand their customer bases and build financial infrastructure.</p>",
+      "lens": "Open banking is exactly the kind of plumbing that matters more in a region like Hawke's Bay than the funding headline suggests — wineries, orchards and packhouses live and die by cashflow timing, invoice reconciliation and getting paid on time across long, multi-party supply chains from grower to exporter to retailer. A better-capitalised Qippay building new 'financial and data infrastructure' is a reminder that the tools to fix that friction are being built now, mostly in Auckland, and local firms don't have to wait for a Hawke's Bay-based equivalent to benefit — Business Hawke's Bay, the Hi-Tech Hawke's Bay network and the region's accountants and banks could usefully road-test what open banking payments actually unlock for seasonal, export-heavy businesses. The harder, honest point is that Qippay's raise also underlines how modest and Auckland-centric NZ's fintech capital still is — six staff, a $5m cheque, one GridAKL desk — so the region's real opportunity isn't chasing this particular company, it's making sure Hawke's Bay's own fast-growing agritech and food-tech founders have the same easy path to a GridAKL-style hub and the same investor attention when their turn comes.",
+      "sources": [
+        {
+          "l": "nstartup",
+          "u": "https://nstartup.me/news/3734c38b-3cb6-4fa8-9991-e5432989dc6a"
+        },
+        {
+          "l": "Startup Daily",
+          "u": "https://www.startupdaily.net/topic/funding/kiwi-open-banking-fintech-qippay-pockets-nz5-million-for-25-stake/"
+        }
+      ]
+    },
+    {
       "date": "16 Oct 2026",
       "chipLabel": "Policy",
       "headline": "Tech Leaders Warn NZ Risks Squandering $76 Billion Digital Prize Amid Political Short-Termism",
@@ -2243,36 +2269,6 @@
         {
           "l": "Farmers Weekly",
           "u": "https://www.farmersweekly.co.nz/technology/hawkes-bay-made-apple-robots-find-booming-us-market/"
-        }
-      ]
-    },
-    {
-      "date": "08 Aug 2026",
-      "chipLabel": "Broadband",
-      "headline": "Government Cashes In Chorus Fibre Loans Early for $702m",
-      "byline": "Wellington · what a broadband debt sale means for Hawke's Bay's fibre and infrastructure funding",
-      "brief": "<p>The Government has struck a deal to get its money out of Chorus early. <b>Finance Minister Nicola Willis</b> and <b>Infrastructure Minister Chris Bishop</b> confirmed <cite index=\"14-1,14-2\">the Crown has entered into binding agreements to monetise the debt it holds in telecommunications lines company Chorus</cite>, with Willis saying <cite index=\"13-1\">the transaction delivers net proceeds to the Crown of approximately $702 million</cite> against <cite index=\"11-6\">a book value of $642 million</cite> — <cite index=\"13-2\">\"a strong commercial result representing a gain over book value of over $60 million.\"</cite></p><p><cite index=\"17-3,17-4\">Between 2012 and 2023 the Government provided $1.336 billion in interest-free loans to Chorus to help finance and accelerate the roll-out of fibre broadband across New Zealand, and Chorus repaid $170 million of that funding in 2025.</cite> <cite index=\"12-5\">\"The fibre rollout is now complete and has delivered enormous benefits for New Zealanders, with most people now able to connect seamlessly with family, friends, and colleagues across the country and around the world,\"</cite> Willis said. The loans were not due to be fully repaid until 2036, but <cite index=\"17-6,17-7\">after testing the market, the Government has decided to get the present value of its money back sooner so it can be invested elsewhere — the alternative would be to wait another five to 10 years for Chorus to repay the Crown.</cite> <cite index=\"20-1,20-2\">The deal also appears to include some form of limited investor protection through NIFFCo, or National Infrastructure Funding and Financing Limited, a Crown-owned company set up as the government's shopfront for private capital investment in public infrastructure, though the government has not disclosed the nature, scale, or potential Crown exposure involved.</cite> Crucially, <cite index=\"1-7\">the transaction does not change the ownership of Chorus, or the services and assets it provides or owns.</cite></p><p><cite index=\"17-7\">Infrastructure Minister Chris Bishop says the funds received through this process will be ring-fenced and redeployed into Budget 2026 to help fund</cite> other projects. <cite index=\"1-5\">Willis said the proceeds had been anticipated in Budget 2026, which she said meant it could fund more infrastructure, including roads, hospital upgrades and classrooms, though she did not say the money would be specifically earmarked for those projects.</cite> Settlement <cite index=\"14-9\">is expected to occur in August 2026.</cite> <cite index=\"31-1,31-2\">Chorus acknowledged the Government's announcement on the New Zealand stock exchange (NZX), where its ordinary shares trade at $9.62 each and the company's market capitalisation is $4.17 billion.</cite></p>",
-      "lens": "This is a Wellington balance-sheet story, not a new cable in the ground for Hawke's Bay — the fibre rollout that these loans funded is, as Willis herself put it, already complete and has delivered benefits for New Zealanders connecting with family, friends and colleagues nationwide, so there's no fresh connectivity announcement for the region here. What matters locally is the money's next stop: Bishop says the funds will be ring-fenced and redeployed into Budget 2026 to help fund infrastructure, and Willis floated roads, hospital upgrades and classrooms as candidates without committing any of it to specific projects. Hawke's Bay's honest play is to watch the Budget process closely and make its case loudly — for state highway resilience, for hospital capacity, for school upgrades — because this is genuinely uncommitted capital being freed up, not a regional allocation already decided. There's little else the Bay can or should do beyond that lobbying; this is a financing manoeuvre in Wellington, and pretending it's a local infrastructure win before the Budget confirms where the $702m actually lands would be getting ahead of the facts.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/928385/government-cashes-in-chorus-fibre-loans-early-for-702m"
-        },
-        {
-          "l": "interest.co.nz",
-          "u": "https://www.interest.co.nz/technology/139715/crown-enters-agreements-monetise-debt-it-holds-chorus-so-it-can-fund-more"
-        },
-        {
-          "l": "Beehive.govt.nz",
-          "u": "https://www.beehive.govt.nz/release/earlier-monetisation-chorus-debt-crown"
-        },
-        {
-          "l": "Scoop",
-          "u": "https://www.scoop.co.nz/stories/PA2608/S00057/earlier-monetisation-of-chorus-debt-to-the-crown-supports-infrastructure-investment.htm"
-        },
-        {
-          "l": "Reseller News",
-          "u": "https://www.reseller.co.nz/article/4206394/government-calls-in-chorus-debt-to-fund-roads-classrooms.html"
         }
       ]
     }
