@@ -1,21 +1,33 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Small Business",
+    "chipLabel": "Investment",
     "sector": "bay",
-    "date": "23 Oct 2026",
-    "headline": "Meta Starts Charging Kiwi Small Businesses Up To $883 A Month Just To Post A Link",
-    "byline": "National · what it means for every Hawke's Bay winery, café and tourism operator running their shopfront off a free Facebook page",
-    "brief": "<p>Meta has begun rolling out a new subscription system, <b>Meta One</b>, that limits how many links a Facebook business page can post for free. Under the free plan or the bare-bones Essential tier (US$14.99/NZ$26 a month), a page can now only publish two links a month in unpaid 'organic' posts or comments. Dropping a link into the comments instead of the post - a workaround many small businesses used to dodge algorithm suppression - no longer avoids the restriction. To post more links, pages must upgrade: US$49.99 (NZ$88) buys eight links a month, US$149.99 (NZ$265) buys 20, and US$499.99 (NZ$883) buys the unlimited 'Max' plan. The plans are also priced per account, not per business - Meta's own announcement states plans are 'priced per profile, so each plan covers one account,' meaning a business running both a Facebook page and an Instagram profile that wants links on both has to pay twice.</p><p>The change blindsided operators who built their customer pipeline on what used to be a free shopfront. Canterbury clothing store owner Ben Dobbs, of Blank Space, said he was \"speechless\" when he discovered the charge - he only found out when a pop-up appeared mid-post warning that unlimited links would now cost more than $850 a month. Dobbs has since decided to stop linking out altogether, writing on his business page that \"paying hundreds of dollars every month just to drop a link simply isn't a smart move for us right now.\"</p><p>RNZ's technology correspondent Bill Bennett called the nearly $900 monthly charge for unlimited links \"excessive,\" and warned some small local companies could actually go out of business because of it. \"It's going to really hurt some of the small local companies that use Facebook (or other Meta products),\" he said, noting that the platform's appeal to micro-businesses was always that it was \"in effect, free, or close to free before.\" For a small operator the sums bite fast: a cafe posting one weekly special with a link to its ordering page would use four or five links a month - enough to need the $88 Advanced plan, or $1,056 a year, just for one Facebook page.</p>",
-    "lens": "Hawke's Bay's small-business economy - boutique wineries, orchard-gate stores, B&Bs, cafés and tourism operators - leans harder on a free Facebook page than almost any other sector, precisely because it was, as Bennett notes, close to free, which is the reason micro-businesses used it in the first place. That free ride is now metered, and the region should treat this as a wake-up call rather than a cost to quietly absorb: local operators who've never built their own website, email list or booking system are the most exposed to a platform they don't control pricing access to their own customers. A weekly-special café post, a wine-club link or a B&B booking link can each burn through the free monthly allowance within days, leaving owners to choose between paying per profile for every channel they run, rationing what they post, or shifting customers onto something they actually own. The sensible regional response isn't panic but redirection - business support agencies and tourism bodies here could use this moment to push Bay operators toward owned channels Meta can't toll-gate, while accepting that for many a stripped-back, link-light Facebook presence paired with a cheap owned website may now be the smarter, cheaper play.",
+    "date": "25 Oct 2026",
+    "headline": "Solar Float Ends NZX's Five-Year IPO Drought — And Hawke's Bay Already Has a Farm Rising",
+    "byline": "22 Oct 2026, NZX · Lodestone Energy's $75m listing comes with a sixth solar farm already under construction in the Bay",
+    "brief": "<p>Solar power company Lodestone Energy <cite index=\"20-1\">starts trading on the NZX on Thursday after raising $75 million in the first significant initial public offering (IPO) on the exchange in about five years</cite>. <cite index=\"20-2\">Shares were issued at $2.25 each, giving Lodestone Energy a market value of about $440m on listing</cite>, and <cite index=\"19-2\">the stock first traded at $2.35 – a 10c (4.44%) premium – before settling back to $2.26</cite>. <cite index=\"19-6\">The initial public offering drew in about 10,000 new shareholders</cite>, with <cite index=\"29-5,29-6\">almost half the money coming from everyday investors buying shares for the first time, and the rest from large investment firms, known as institutional investors, and from people who already owned part of the company</cite>.</p><p>Founder and managing director <cite index=\"20-3\">Gary Holden told RNZ the company had reached what he described as a \"magic moment\" to enter the public market</cite>, and said <cite index=\"20-4\">cash flow from its existing developments was starting to cover the company's operating costs</cite>. He said <cite index=\"28-9\">the 10,000 investors covered a broad spectrum of the investment community</cite>. <cite index=\"9-8\">Lodestone now has five operating solar farms, with a sixth under construction in Hawke's Bay</cite>, and <cite index=\"20-6\">is targeting between 16 and 18 operating solar farms by 2032, with plans to bring two to three new farms into operation each year</cite>. <cite index=\"20-5\">Holden said the $75m raised could be allocated almost entirely to new projects, alongside bank debt and capital from its investment partners</cite>.</p><p><cite index=\"9-10\">The company's point of difference is that it does not simply develop farms and sell the output into the wholesale market</cite> — <cite index=\"9-11\">it also sells electricity directly to customers, including The Warehouse Group, Inghams and Briscoes</cite>, and <cite index=\"9-12\">has begun selling to households and small businesses in Hawke's Bay and plans to widen that retail offering</cite>.</p>",
+    "lens": "This is the first genuine new float the NZX has produced in half a decade, and Hawke's Bay isn't a bystander — it's one of the places Lodestone chose to build its next farm, and one of the first regions where it's selling power directly to local households and small businesses. That combination matters: a sixth solar farm under construction locally means construction activity and grid investment now, not in some hypothetical future pipeline; and a retail electricity offer already live here means Bay households and small businesses have a genuine alternative supplier to weigh against the big gentailers. The honest response for the region is modest but real: local councils and business groups should be asking Lodestone directly what the Hawke's Bay farm means for jobs and local contracts during construction, and small businesses should at least get a quote from Lodestone's retail arm alongside their usual provider — this is a company actively selling in the Bay, not just generating nearby. Beyond that, there's little reason for grand regional strategy; it's one company's growth story, not a sector shift, and the Bay's job is simply to make sure it captures the practical upside — jobs, lower power bills, grid resilience — that's already on the table.",
     "sources": [
       {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/2048804/explainer-why-facebook-is-going-to-start-charging-many-new-zealand-small-businesses"
+        "l": "The Press (Stuff)",
+        "u": "https://www.thepress.co.nz/business/361103441/lodestone-energy-make-nzx-debut-after-75m-ipo"
       },
       {
-        "l": "newswire.co.nz",
-        "u": "https://newswire.co.nz/2026/10/facebook-limits-business-pages-to-two-free-links-a-month-and-new-zealand-firms-are-being-quoted-up-to-883-a-month-for-more/"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/business/companies/energy/lodestone-energy-share-offer-attracts-10000-new-investors-company-to-list-on-sharemarket-today/M2NU3WVRIJAX7DLSFMFJE6TIME/"
+      },
+      {
+        "l": "IT Brief NZ",
+        "u": "https://itbrief.co.nz/story/lodestone-energy-lists-on-nzx-after-usd-75-million-ipo"
+      },
+      {
+        "l": "1News",
+        "u": "https://www.1news.co.nz/2026/10/22/solar-firm-lodestone-lists-on-nzx-in-first-major-float-in-five-years/"
+      },
+      {
+        "l": "NZ Business News",
+        "u": "https://nzbusinessnews.nz/lodestone-energy-lists-on-nzx/"
       }
     ]
   },
@@ -1703,6 +1715,24 @@
   ],
   "headlines": [
     {
+      "date": "23 Oct 2026",
+      "chipLabel": "Small Business",
+      "headline": "Meta Starts Charging Kiwi Small Businesses Up To $883 A Month Just To Post A Link",
+      "byline": "National · what it means for every Hawke's Bay winery, café and tourism operator running their shopfront off a free Facebook page",
+      "brief": "<p>Meta has begun rolling out a new subscription system, <b>Meta One</b>, that limits how many links a Facebook business page can post for free. Under the free plan or the bare-bones Essential tier (US$14.99/NZ$26 a month), a page can now only publish two links a month in unpaid 'organic' posts or comments. Dropping a link into the comments instead of the post - a workaround many small businesses used to dodge algorithm suppression - no longer avoids the restriction. To post more links, pages must upgrade: US$49.99 (NZ$88) buys eight links a month, US$149.99 (NZ$265) buys 20, and US$499.99 (NZ$883) buys the unlimited 'Max' plan. The plans are also priced per account, not per business - Meta's own announcement states plans are 'priced per profile, so each plan covers one account,' meaning a business running both a Facebook page and an Instagram profile that wants links on both has to pay twice.</p><p>The change blindsided operators who built their customer pipeline on what used to be a free shopfront. Canterbury clothing store owner Ben Dobbs, of Blank Space, said he was \"speechless\" when he discovered the charge - he only found out when a pop-up appeared mid-post warning that unlimited links would now cost more than $850 a month. Dobbs has since decided to stop linking out altogether, writing on his business page that \"paying hundreds of dollars every month just to drop a link simply isn't a smart move for us right now.\"</p><p>RNZ's technology correspondent Bill Bennett called the nearly $900 monthly charge for unlimited links \"excessive,\" and warned some small local companies could actually go out of business because of it. \"It's going to really hurt some of the small local companies that use Facebook (or other Meta products),\" he said, noting that the platform's appeal to micro-businesses was always that it was \"in effect, free, or close to free before.\" For a small operator the sums bite fast: a cafe posting one weekly special with a link to its ordering page would use four or five links a month - enough to need the $88 Advanced plan, or $1,056 a year, just for one Facebook page.</p>",
+      "lens": "Hawke's Bay's small-business economy - boutique wineries, orchard-gate stores, B&Bs, cafés and tourism operators - leans harder on a free Facebook page than almost any other sector, precisely because it was, as Bennett notes, close to free, which is the reason micro-businesses used it in the first place. That free ride is now metered, and the region should treat this as a wake-up call rather than a cost to quietly absorb: local operators who've never built their own website, email list or booking system are the most exposed to a platform they don't control pricing access to their own customers. A weekly-special café post, a wine-club link or a B&B booking link can each burn through the free monthly allowance within days, leaving owners to choose between paying per profile for every channel they run, rationing what they post, or shifting customers onto something they actually own. The sensible regional response isn't panic but redirection - business support agencies and tourism bodies here could use this moment to push Bay operators toward owned channels Meta can't toll-gate, while accepting that for many a stripped-back, link-light Facebook presence paired with a cheap owned website may now be the smarter, cheaper play.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/2048804/explainer-why-facebook-is-going-to-start-charging-many-new-zealand-small-businesses"
+        },
+        {
+          "l": "newswire.co.nz",
+          "u": "https://newswire.co.nz/2026/10/facebook-limits-business-pages-to-two-free-links-a-month-and-new-zealand-firms-are-being-quoted-up-to-883-a-month-for-more/"
+        }
+      ]
+    },
+    {
       "date": "21 Oct 2026",
       "chipLabel": "Venture Capital",
       "headline": "KiwiSaver Giant Simplicity Pumps $50m Into Icehouse Ventures, Pushing Growth Fund III Past $180m",
@@ -2245,20 +2275,6 @@
         {
           "l": "PSNA",
           "u": "https://www.psna.nz/press-releases/judicial-review-claim-filed-against-government-for-approving-launches-of-spy-satellites-over-gaza"
-        }
-      ]
-    },
-    {
-      "date": "13 Aug 2026",
-      "chipLabel": "Markets",
-      "headline": "Rocket Lab, Xero and Air NZ Shed $90 Billion in Value — With Māhia's Launch Pad in the Middle of It",
-      "byline": "National markets · what a share-market wobble at Rocket Lab means for the region hosting its launch site",
-      "brief": "<p>Three of New Zealand's biggest-name listed companies have had a brutal year on the markets. <b>Rocket Lab, Xero and Air New Zealand have lost a combined $90bn in share value this year</b>, despite all three having strong brands and growing revenue. Rocket Lab — the aerospace company that launches its Electron rockets from Māhia, on the Hawke's Bay coast, and is the most widely held stock among Sharesies investors — is <b>down 55% since May</b>. Air New Zealand, the second most widely held stock on Sharesies, is <b>down 25% since February, continuing a 56% decline since 2021</b>. Xero, the Wellington-based accounting software company, is <b>down 62% from its June 2025 high</b>.</p><p>The downturn began on <b>February 3, 2026</b>, when roughly <b>$NZ485bn of market cap was wiped out in a single day from software and financial services stocks</b> — a rout a Jefferies trader dubbed the <b>\"SaaSpocalypse\"</b>, a term that has since caught on with Wall Street. It isn't just institutional investors feeling it — <b>hundreds of thousands of other New Zealanders have small holdings in these three companies through their KiwiSavers</b>, especially in Air New Zealand, the only of the three currently listed on the NZX. Analysts say the declines can partly be attributed to company-specific management decisions but are <b>more broadly the result of global forces wreaking havoc on their particular industry sectors</b>. Morningstar's Roy van Keulen has argued Xero has become <b>\"materially undervalued\"</b> despite its dominant market share in New Zealand and Australia.</p><p>Rocket Lab's pullback looks less alarming in context: even after losing over half its market cap from its peak, the company is <b>still up 67% over the last 12 months</b>. Between May 2024 and May 2026 its stock ran from <b>US$4 a share to a high of $143.48</b> — a <b>3,487% return</b> for anyone who timed the top perfectly, or a still-hefty <b>1,762%</b> for those who held on. Analysts caution a pullback like this isn't unusual after such a run, for a speculative company that is <b>still yet to turn a profit</b> — but real concerns remain.</p>",
-      "lens": "This is a market story, not a Hawke's Bay story — but it has a physical address here. Rocket Lab's rockets don't just make headlines in Auckland boardrooms; they lift off from Māhia, meaning Wairoa and the wider Bay carry real exposure to a company whose share price has fallen 55% since May, however comfortable its 67% twelve-month return still looks. The honest lens is caution rather than alarm: nothing in this reporting suggests Māhia launch cadence, local jobs or contractor spend has actually been cut — the volatility so far is a listed-market story about valuation, not a confirmed operational pullback at the launch site. What the region can sensibly do is keep an eye on it: local suppliers and contractors tied to the Māhia pad should treat a single company's share-price cycle as a reminder not to over-concentrate around one customer, and anyone with KiwiSaver exposure should recognise, as hundreds of thousands of other New Zealanders now are, that a chunk of their retirement savings rides on names like Rocket Lab and Air New Zealand. Beyond watching the numbers and diversifying where it can, there's little for Hawke's Bay to actively do here — this is a national capital-markets moment playing out on a launch pad the Bay happens to host, not a regional crisis to respond to.",
-      "sources": [
-        {
-          "l": "The Spinoff",
-          "u": "https://thespinoff.co.nz/business/06-08-2026/why-three-of-nzs-highest-profile-companies-have-been-hammered-by-the-stock-market"
         }
       ]
     }
