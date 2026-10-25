@@ -368,6 +368,38 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "26 Oct 2026",
+          "headline": "Genesis Switches On NZ's Newest Grid-Scale Battery — At Huntly, Not the Bay",
+          "brief": "<p>Genesis Energy has officially opened its first grid-scale battery energy storage system, a <b>100 MW/200 MWh</b> unit built alongside the 1.2 GW coal- and gas-fired Huntly power station in Waikato. The company says the unit is the first phase of a planned multi-stage development expected to reach up to <b>400 MW/800 MWh</b> at the site, with a second 100 MW/200 MWh battery already approved and due for full operation in 2028. Genesis says the system was delivered for about NZ$130 million, more than NZ$5 million under budget.</p>",
+          "body": [
+            "Genesis Energy has officially opened its first grid-scale battery energy storage system (BESS) at Huntly Power Station on New Zealand's North Island. <cite index=\"1-3,1-4\">New Zealand government-backed utility Genesis Energy has officially opened its first grid-scale battery at the Huntly power station site on the North Island with the 100 MW/200 MWh battery energy storage system (BESS) now live, built alongside the 1.2 GW coal- and gas-fired Huntly power station.</cite>",
+            "The unit is the first phase of a much larger plan. <cite index=\"1-7\">The Huntly BESS is the first phase of a planned multi-stage development that is expected to deliver up to 400 MW / 800 MWh of energy storage capacity at the site, about 100 kilometres south of Auckland.</cite> <cite index=\"1-9\">A second 100 MW/200 MWh BESS has already been approved for the site with construction expected to begin later this year with full operation due in 2028.</cite>",
+            "Genesis says the site was chosen for its grid position rather than for any link to renewable generation in other regions. <cite index=\"1-8\">Genesis said Huntly is an ideal location for a BESS, close to the high-demand centres of Hamilton, Auckland and Tauranga and connected to the national grid directly via Transpower's Huntley substation.</cite>",
+            "Genesis Chief Operating Officer Tracey Hickman said the battery <cite index=\"1-4\">adds greater flexibility to the power plant's role in the company's energy portfolio and will help support the country's electricity system during periods of high demand.</cite> She added: <cite index=\"1-5\">\"As New Zealand's electricity supply becomes more renewable and subject to weather, this battery will help smooth out fluctuations in supply, ensuring supply remains reliable and secure.\"</cite> Hickman also said <cite index=\"1-6\">\"The BESS can be turned on almost immediately, making it the fastest-starting asset at Huntly power station and allowing it to respond quickly when extra supply is needed.\"</cite>",
+            "On cost, Genesis said <cite index=\"30-7\">the system was delivered for around NZ$130 million (US$74 million), more than NZ$5 million below budget, claiming this makes it the \"cheapest BESS built in New Zealand to date\".</cite> The company has already committed to the follow-up stage: <cite index=\"30-10\">Genesis reached a final investment decision on the NZ$106 million second stage in April 2026, describing it at the time as the lowest-cost committed grid-scale BESS in New Zealand.</cite> <cite index=\"30-9\">That would bring the site's combined BESS capacity to 200MW/400MWh.</cite>",
+            "Genesis frames the project as part of a national resilience push rather than a renewables project in its own right: <cite index=\"11-2\">Genesis Energy has flicked the switch on a 100 MW / 200 MWh battery energy storage system designed to strengthen the resilience and reliability of New Zealand's electricity system.</cite>"
+          ],
+          "lens": "Nothing about this is a Hawke's Bay story in the direct sense — Huntly sits in Waikato, hundreds of kilometres away, and no Hawke's Bay council, lines company or developer is named in any of the reporting on this battery. The honest regional read is that this is a national infrastructure marker, not a local one. What it does usefully show the Bay is a concrete, recent New Zealand cost and timeline benchmark for grid-scale storage: a 100 MW/200 MWh unit delivered for roughly NZ$130 million, under budget, with a near-identical second stage already committed at a lower cost again. As Hawke's Bay's own mix of generation tilts further toward intermittent, weather-dependent sources, any local lines company, solar or wind developer, or council weighing whether to pair storage with a renewable project now has a real, published New Zealand reference point — on price, on scale and on build time — to test its own numbers against, rather than having to work off assumptions or overseas examples. There's no case here for the Bay to chase this specific project or to expect it to change anything locally; the right takeaway is narrower and more useful: when the business case for a Bay battery eventually gets drawn up, Huntly is now part of the evidence base.",
+          "sources": [
+            {
+              "l": "Energy Storage (ess-news.com)",
+              "u": "https://www.ess-news.com/2026/10/21/new-zealand-200-mwh-grid-scale-battery-online/"
+            },
+            {
+              "l": "pv magazine Australia",
+              "u": "http://www.pv-magazine-australia.com/2026/10/20/nz-utility-adds-200-mwh-bess-to-energy-portfolio/"
+            },
+            {
+              "l": "Renewables Now",
+              "u": "https://renewablesnow.com/news/genesis-cuts-ribbon-on-200-mwh-battery-at-new-zealand-thermal-site-1303370/"
+            },
+            {
+              "l": "Energy-Storage.News",
+              "u": "https://www.energy-storage.news/genesis-opens-200mwh-battery-storage-system-at-new-zealands-largest-power-station/"
+            }
+          ]
+        },
+        {
           "date": "04 Oct 2026",
           "headline": "Mercury signs its first big grid-scale solar deal — for a 118MW Wairarapa farm with battery storage",
           "brief": "Mercury NZ Limited has signed a long-term power purchase agreement with developer NZ Clean Energy (NZCE) for its 118 MW Masterton Solar and Energy Storage Project in the Wairarapa — the retailer's first major grid-scale solar PPA. The project is expected to produce approximately 190 GWh annually, enough to supply around 27,000 homes, will keep sheep grazing across the site, and is due to begin full construction in early 2027.",
@@ -1002,6 +1034,34 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "26 Oct 2026",
+          "headline": "New Zealand's Space Agency Funding Frozen for a Decade as Government Chases a Nearly $5 Billion Sector by 2030",
+          "brief": "<p>A ministerial briefing to the incoming Minister for Space reveals the <b>New Zealand Space Agency's</b> annual departmental funding baseline has stayed at <b>$3.75 million</b> since 2016, even as the Government wants New Zealand's space industry to become a <b>nearly $5 billion</b> economic powerhouse by 2030. The same MBIE briefing says the sector contributed an estimated <b>$2.47 billion</b> to the economy in 2024 and supported about <b>17,000</b> direct and indirect jobs, and warns New Zealand risks losing investment, jobs and technology to countries offering incentives it cannot match.</p>",
+          "body": [
+            "The Government wants New Zealand's space industry to become a nearly $5 billion economic powerhouse by 2030, but the agency responsible for regulating and helping develop the sector has had no increase in its core funding for a decade.",
+            "An August briefing to the incoming Minister for Space, prepared by the Ministry of Business, Innovation and Employment (MBIE), reveals the New Zealand Space Agency's annual departmental funding baseline has remained unchanged at $3.75 million since 2016, despite significant growth in the industry.",
+            "The briefing also warns that New Zealand risks losing aerospace investment, highly skilled jobs and valuable technology to countries offering financial incentives it cannot match.",
+            "That competition is already being felt in Canterbury, where Christchurch is pursuing a strategy to build a $1 billion aerospace industry supporting more than 1500 jobs by 2035.",
+            "The MBIE briefing says New Zealand's space sector contributed an estimated $2.47b to the economy in 2024 and supported about 17,000 direct and indirect jobs.",
+            "The Government's New Zealand Space and Advanced Aviation Strategy, launched in 2024, sets an ambition to double the size of both sectors by 2030. ChristchurchNZ Aerospace Growth Sector Lead Emma Renowden said that target was consistent with the strategy's assumed employment growth of about 10% annually.",
+            "However, ChristchurchNZ has not conducted a full recount of the regional aerospace workforce since 2023, and does not plan another comprehensive market-sizing exercise until 2030.",
+            "\"We know Canterbury companies are being approached by overseas jurisdictions offering incentives to relocate or expand there,\" Renowden said. She said the agency shared MBIE's concerns about overseas competition but believed Canterbury had advantages that could help retain and attract businesses.",
+            "Space Minister Paul Goldsmith has inherited an agency whose core annual funding has remained at $3.75m since 2016, despite ambitions to double the industry by 2030.",
+            "Amid the funding freeze, Kea Aerospace recently raised $17.5m and opened a new Christchurch manufacturing facility and mission control centre, which also houses the Canterbury Aerospace Hub."
+          ],
+          "lens": "This is fundamentally a Wellington and Canterbury story, not a Hawke's Bay one, and it would be dishonest to pretend otherwise. The briefing is about the Space Agency's own departmental budget, and the sharpest growth strains it describes sit in Christchurch, where ChristchurchNZ is chasing a $1 billion, 1500-job aerospace industry and says local companies are already being courted by overseas jurisdictions offering incentives New Zealand can't match. Hawke's Bay, Māhia and Wairoa don't feature in this briefing, so there's no direct funding or programme at stake for the region here. What the Bay can honestly take from it is indirect but real: Māhia Peninsula is home to the world's first private orbital launch range, and the same Space Agency now running on a decade-old $3.75 million core budget is the body that regulates rocket launches, launch facilities and payloads there under its licensing system. A flat-funded regulator being asked to help double a whole sector by 2030, at a time when even well-resourced Canterbury is worried about losing ground overseas, is a capacity question that could eventually bear on consenting speed, safety oversight or workforce support tied to Māhia. The honest move for the region isn't to claim a slice of this funding fight — nothing in the briefing earmarks anything for Hawke's Bay — but for Wairoa District Council and regional economic development partners to ask MBIE and the Minister for Space directly whether the agency's stretched core funding is affecting turnaround times or support for the Māhia site, rather than assume that growth targets set in Wellington will automatically translate into local capacity.",
+          "sources": [
+            {
+              "l": "The Press",
+              "u": "https://www.thepress.co.nz/business/361102710/government-wants-booming-space-industry-agency-funding-hasnt-risen-10-years"
+            },
+            {
+              "l": "MBIE — About New Zealand Space Agency",
+              "u": "https://www.mbie.govt.nz/science-and-technology/space/about-nzsa"
+            }
+          ]
+        },
+        {
           "date": "24 Oct 2026",
           "headline": "Rocket Lab's 98th Electron Launch From Māhia Lofts HawkEye 360 Signals-Intelligence Satellites, Nears 100-Flight Milestone",
           "brief": "<p>Rocket Lab's Electron rocket lifted off from Launch Complex 1 on the Māhia Peninsula at <b>8:11 p.m. NZDT on 23 October 2026</b>, carrying three \"Hawk\" signals-intelligence satellites for Virginia-based HawkEye 360 on a mission dubbed \"We're Not Hawking Around.\" It was Rocket Lab's <b>98th Electron launch</b>, its <b>19th of 2026</b>, and its <b>third dedicated Electron launch for HawkEye 360's RF-sensing satellites</b>, moving the rocket closer to a milestone 100 flights.</p>",
@@ -1302,40 +1362,6 @@
             {
               "l": "Rocket Lab Corporation News",
               "u": "https://rocketlabcorp.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/"
-            }
-          ]
-        },
-        {
-          "date": "07 Aug 2026",
-          "headline": "Mahia Launches Rocket Lab's 92nd Electron, Deploying Japanese Radar Satellite for iQPS",
-          "brief": "<p>Rocket Lab launched an Electron rocket from its Mahia Peninsula site on Thursday night, deploying the <b>QPS-SAR-13</b> satellite for Japanese customer the Institute for Q-shu Pioneers of Space, Inc. (iQPS). It was the company's <b>92nd</b> overall Electron mission and its <b>13th</b> Electron launch of 2026, marking the eighth dedicated launch Rocket Lab has flown for iQPS with a 100% mission-success record across those eight flights.</p>",
-          "body": [
-            "Rocket Lab's Electron rocket lifted off on Thursday night on a mission dubbed 'The Grain Goddess Provides', carrying the QPS-SAR-13 satellite into a planned 575km low Earth orbit.",
-            "The mission launched from Rocket Lab Launch Complex 1 in New Zealand at 9:18 p.m. NZST on August 6, 2026, and was Rocket Lab's 92nd overall Electron mission and its 13th Electron launch of the year, deploying the satellite for multi-launch customer the Institute for Q-shu Pioneers of Space, Inc. (iQPS), operator of the QPS-SAR Earth-imaging constellation, which is being built to provide near-real time imagery across twelve different orbits. It was the eighth deployment of a QPS-SAR satellite for Rocket Lab, with 100% mission success across all eight, and Rocket Lab has another 10 dedicated Electron launches already booked by iQPS to complete the constellation before 2030. The company's next Electron flight, carrying another QPS-SAR satellite on a mission called 'The Lightning God Defends', is scheduled for later this month from LC-1.",
-            "The satellite itself, QPS-SAR-13, has been nicknamed MIKURA-I for the Japanese goddess associated with food, abundance, and prosperity. Rocket Lab describes the mission as the eighth of a total of 15 dedicated launches it is contracted to fly to build out iQPS's constellation, with Electron serving as the primary launcher for iQPS's commercial synthetic aperture radar (SAR) network, which is being developed and deployed at a rapid pace to provide high-resolution, near-real-time SAR imagery to its global users. iQPS's satellites use synthetic aperture radar, which collects measurements through radio waves and can produce imagery at night and through clouds and adverse weather; the fully built-out iQPS constellation is planned to have 36 satellites capable of monitoring specific fixed points on Earth every 10 minutes.",
-            "Getting the satellite off the pad took persistence. The original attempt was halted on July 1 after Electron's automatic shutdown sequence activated moments before liftoff, ending the run just before it would have flown as the company's 92nd launch. Rocket Lab subsequently completed its analysis and inspections, addressed the cause of the abort, and confirmed the integrity of the rocket and related equipment. Shares of Rocket Lab (RKLB) slipped 0.5% overnight late Wednesday as 'The Grain Goddess Provides' was put back on the launch calendar, giving Electron another chance to deploy the iQPS radar satellite after that earlier attempt ended just before liftoff."
-          ],
-          "lens": "This is another reminder that the physical infrastructure of the global small-satellite launch industry sits in Hawke's Bay's own backyard, on the Mahia Peninsula, and that it now runs at a steady operational tempo -- this was Rocket Lab's 13th Electron launch of the year and its 92nd Electron mission overall (Rocket Lab now also launches from a second site in Virginia, so not every one of those 92 missions has flown from Mahia, but this one did). There's no locally-owned business or grower angle in this particular story, so the honest read is that the direct economic upside for the Bay from any single launch is limited; the value to the region is cumulative and indirect, through launch-day visitors, contractor and range work, and the profile Mahia gives the wider Bay as a place where serious technology happens. What the region could realistically do is keep leaning into that profile: councils and tourism operators can keep building reliable, well-signposted viewing and visitor experiences around launch windows, local schools and training providers can use the site as a hook to get students into aerospace, engineering and manufacturing pathways, and regional economic development groups should keep tracking whether any of Rocket Lab's supplier or maintenance work can be captured by Hawke's Bay firms rather than assuming Auckland or overseas suppliers will always do it. The scrub-and-retry story behind this particular mission is also a useful reminder to locals that launch-day plans should stay flexible -- Mahia hosts a genuine spaceport with real technical risk, not a scheduled bus service. None of that changes with this particular satellite, but each successful, eventually-on-schedule launch from Mahia is worth banking as evidence the Bay's spaceport is a durable asset, not a novelty.",
-          "sources": [
-            {
-              "l": "Stuff",
-              "u": "https://www.stuff.co.nz/nz-news/361016928/rocket-lab-launches-earth-imaging-satellite-mahia"
-            },
-            {
-              "l": "The Manila Times (GlobeNewswire)",
-              "u": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/rocket-lab-successfully-completes-92nd-electron-mission-8th-launch-for-iqps-earth-imaging-constellation/2399836"
-            },
-            {
-              "l": "Rocket Lab",
-              "u": "https://rocketlabcorp.com/missions/launches/iqps/"
-            },
-            {
-              "l": "Stocktwits",
-              "u": "https://stocktwits.com/news-articles/markets/equity/rklb-retry-92nd-launch-last-minute-electron-abort/cZoJil2RJen"
-            },
-            {
-              "l": "Next Spaceflight",
-              "u": "https://nextspaceflight.com/launches/details/7796/"
             }
           ]
         }
