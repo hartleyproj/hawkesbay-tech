@@ -3,31 +3,23 @@
     "chip": "c-econ",
     "chipLabel": "Investment",
     "sector": "bay",
-    "date": "25 Oct 2026",
-    "headline": "Solar Float Ends NZX's Five-Year IPO Drought — And Hawke's Bay Already Has a Farm Rising",
-    "byline": "22 Oct 2026, NZX · Lodestone Energy's $75m listing comes with a sixth solar farm already under construction in the Bay",
-    "brief": "<p>Solar power company Lodestone Energy <cite index=\"20-1\">starts trading on the NZX on Thursday after raising $75 million in the first significant initial public offering (IPO) on the exchange in about five years</cite>. <cite index=\"20-2\">Shares were issued at $2.25 each, giving Lodestone Energy a market value of about $440m on listing</cite>, and <cite index=\"19-2\">the stock first traded at $2.35 – a 10c (4.44%) premium – before settling back to $2.26</cite>. <cite index=\"19-6\">The initial public offering drew in about 10,000 new shareholders</cite>, with <cite index=\"29-5,29-6\">almost half the money coming from everyday investors buying shares for the first time, and the rest from large investment firms, known as institutional investors, and from people who already owned part of the company</cite>.</p><p>Founder and managing director <cite index=\"20-3\">Gary Holden told RNZ the company had reached what he described as a \"magic moment\" to enter the public market</cite>, and said <cite index=\"20-4\">cash flow from its existing developments was starting to cover the company's operating costs</cite>. He said <cite index=\"28-9\">the 10,000 investors covered a broad spectrum of the investment community</cite>. <cite index=\"9-8\">Lodestone now has five operating solar farms, with a sixth under construction in Hawke's Bay</cite>, and <cite index=\"20-6\">is targeting between 16 and 18 operating solar farms by 2032, with plans to bring two to three new farms into operation each year</cite>. <cite index=\"20-5\">Holden said the $75m raised could be allocated almost entirely to new projects, alongside bank debt and capital from its investment partners</cite>.</p><p><cite index=\"9-10\">The company's point of difference is that it does not simply develop farms and sell the output into the wholesale market</cite> — <cite index=\"9-11\">it also sells electricity directly to customers, including The Warehouse Group, Inghams and Briscoes</cite>, and <cite index=\"9-12\">has begun selling to households and small businesses in Hawke's Bay and plans to widen that retail offering</cite>.</p>",
-    "lens": "This is the first genuine new float the NZX has produced in half a decade, and Hawke's Bay isn't a bystander — it's one of the places Lodestone chose to build its next farm, and one of the first regions where it's selling power directly to local households and small businesses. That combination matters: a sixth solar farm under construction locally means construction activity and grid investment now, not in some hypothetical future pipeline; and a retail electricity offer already live here means Bay households and small businesses have a genuine alternative supplier to weigh against the big gentailers. The honest response for the region is modest but real: local councils and business groups should be asking Lodestone directly what the Hawke's Bay farm means for jobs and local contracts during construction, and small businesses should at least get a quote from Lodestone's retail arm alongside their usual provider — this is a company actively selling in the Bay, not just generating nearby. Beyond that, there's little reason for grand regional strategy; it's one company's growth story, not a sector shift, and the Bay's job is simply to make sure it captures the practical upside — jobs, lower power bills, grid resilience — that's already on the table.",
+    "date": "27 Oct 2026",
+    "headline": "NZ Startup Funding Smashes Records: $776m Raised in Six Months, Even Without Halter's Big Cheque",
+    "byline": "National · 27 Oct 2026 · what a VC boom built on agritech means for Hawke's Bay's farms and founders",
+    "brief": "<p>New Zealand's startup sector has just posted its best six months ever. <cite index=\"11-3\">New Zealand's startup ecosystem has recorded its strongest six months on record, with $776 million invested across 68 deals in the first half of 2026.</cite> The figures come from the latest <cite index=\"24-2\">Young Company Finance report from NZ Growth Capital Partners (NZGCP) and Angel Association</cite> NZ, and the surge dwarfs recent years: <cite index=\"11-4\">that's up 114% on the same period last year and already more than the whole of 2025</cite>, a year that had itself already looked like a standout, with <cite index=\"31-1\">investment activity in the New Zealand startup sector rising 61% year-on-year in 2025 to $754 million</cite>.</p><p>Crucially, this isn't just one mega-raise skewing the numbers. BusinessDesk's read of the same data found that <cite index=\"24-3\">the first half of 2026 reached a new high even excluding Halter's $277m raise</cite>, with <cite index=\"24-1\">the record driven by a few very large rounds at the top end, and a strong recovery in early-stage investment from a low point in 2024</cite>. <cite index=\"24-8\">The average deal size had grown to $11.1m from $4.9m in H1 2025, with 57% of deals led by VC funds</cite> — though <cite index=\"24-10\">the largest three rounds were all led by offshore venture capital firms, including Halter's</cite>, a sign that big, foreign-backed cheques are still doing much of the heavy lifting. <cite index=\"11-4\">Kiwi agritech unicorn Halter</cite> remains the sector's standout name: NBR's headline says Halter <cite index=\"11-1\">confirms $3.4b valuation after $377m Series E</cite>, while BusinessDesk describes the same transaction as <cite index=\"24-6\">Halter's $277m capital raise in March, led by Peter Thiel-backed Founders Fund</cite> — the two outlets differ on the exact size of the round, though both agree Founders Fund led it. <cite index=\"24-7\">However, even without Halter, the total raised in H1 2026 still beats the 2025-year total.</cite></p><p>Taken together, the numbers describe a startup ecosystem moving out of a funding slump and into a genuine capital boom — one still concentrated in a handful of very large, offshore-led rounds, alongside a broader recovery in early-stage deals.</p>",
+    "lens": "The headline number is encouraging, but the detail matters more for Hawke's Bay than the topline figure. Halter, the agritech unicorn whose capital raise anchors this record half, operates in exactly the kind of land-based, pastoral farming sector that underpins this region's economy — a sign that sophisticated offshore investors are willing to back big, serious bets in New Zealand's primary sector, not just software. But BusinessDesk's own figures show the three largest rounds in the half were all led by offshore venture capital firms, Halter's included, which means this is still overwhelmingly a story of concentrated capital from a small number of big, non-local cheques rather than a broad democratisation of funding. And nothing in either report points to a Hawke's Bay startup, fund or deal specifically — the record is national, not local. The honest response for the region is measured: growers' co-ops, regional economic development bodies and agritech or food-tech founders here should treat this as evidence that investors are now willing to write large cheques for proven, land-linked technology, and use that opening to actively pitch into the funds and networks that are clearly active right now, rather than assume record national numbers will automatically translate into capital landing in the Bay.",
     "sources": [
       {
-        "l": "The Press (Stuff)",
-        "u": "https://www.thepress.co.nz/business/361103441/lodestone-energy-make-nzx-debut-after-75m-ipo"
+        "l": "NBR",
+        "u": "https://www.nbr.co.nz/business/halter-raise-contributes-to-record-half-for-startup-funding/"
       },
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/business/companies/energy/lodestone-energy-share-offer-attracts-10000-new-investors-company-to-list-on-sharemarket-today/M2NU3WVRIJAX7DLSFMFJE6TIME/"
+        "l": "BusinessDesk",
+        "u": "https://www.businessdesk.co.nz/companies/startups/start-up-investment-breaks-records-as-companies-scale-and-early-stage-recovers/RGBQLGV3TZBMZPORNNJ7ZFMLUI/"
       },
       {
-        "l": "IT Brief NZ",
-        "u": "https://itbrief.co.nz/story/lodestone-energy-lists-on-nzx-after-usd-75-million-ipo"
-      },
-      {
-        "l": "1News",
-        "u": "https://www.1news.co.nz/2026/10/22/solar-firm-lodestone-lists-on-nzx-in-first-major-float-in-five-years/"
-      },
-      {
-        "l": "NZ Business News",
-        "u": "https://nzbusinessnews.nz/lodestone-energy-lists-on-nzx/"
+        "l": "NBR",
+        "u": "https://www.nbr.co.nz/business/investment-in-startups-soared-in-2025-says-new-report/"
       }
     ]
   },
@@ -1375,6 +1367,24 @@
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
         {
+          "date": "27 Oct 2026",
+          "headline": "Two NZ Agritech Inventions Make Time's 2026 Best Inventions List",
+          "brief": "<p><b>BioLumic</b> and <b>Leaft Foods</b> have both been named to Time magazine's Best Inventions list for 2026 — a UV-light seed treatment that programmes plants to express higher-yielding traits, and a lucerne-derived protein drink whose leftover plant material, fed back to dairy animals, is said to produce milk with lower nitrous emissions.</p>",
+          "body": [
+            "Two New Zealand businesses, BioLumic and Leaft Foods, have made Time magazine's Best Inventions list for 2026, with the 300 inventions on the list chosen, according to Time, because they make the world better, smarter and more fun.",
+            "Palmerston North agritech company BioLumic was named for xTraits, which uses specific ultraviolet light recipes to programme plants via seeds to express genetic traits such as higher yield. BioLumic was founded in 2012 after Dr Jason Wargent heard about the potential of ultraviolet light as a programmable trait controller while working in a faculty position at Massey University, \"with the help of the incubator friends that we had over the road from Massey.\" Wargent said corn was the first crop they started to develop commercially, with field trials now underway for rice in the Philippines and ryegrass in New Zealand, and potential in future to look at crops like tree fruits, \"with the science already there.\" \"We really believe that BioLumic's invention could be a whole new future for how traits get built in ag,\" he said.",
+            "Canterbury-based Leaft Foods, founded in 2019 by Maury Leyland-Penno and her husband John Penno, also a co-founder of Synlait Milk, was recognised for its Leaft Blade product, a ready-to-drink pouch made with rubisco, a protein- and iron-rich enzyme extracted from lucerne leaves that is found in every green leaf and plays a role in photosynthesis. \"It's the most abundant protein in the world, but it's a very tricky protein because trying to separate it from the rest of the leaf is technically exceptionally difficult,\" Leyland-Penno said, adding that isolating it from the leaf is a challenge her team has worked on for six and a half years. Leaft Blade is the company's first consumer product, a vegan, ready-to-drink 100ml pouch containing 18g of protein, iron, a complete amino acid profile and vitamins B2 and B12, which Time described as \"the world's most abundant protein, in a smoothie.\" The co-products from the extraction process go back into the livestock industry as a silage product, since most of the fibrous parts of the leaf are not used, and Leyland-Penno said that when fed to dairy animals, it produces milk with lower nitrous emissions, \"which is a win-win.\"",
+            "Dr Jason Wargent, BioLumic's founder and chief science officer, said the recognition from Time is \"awesome\" and comes at an exciting time for the company."
+          ],
+          "lens": "Neither company is a Hawke's Bay operation — BioLumic is based in Palmerston North and Leaft Foods in Canterbury — so there's no direct local win to claim, and we shouldn't pretend otherwise. But both technologies point at problems the Bay knows intimately. BioLumic's UV seed treatments are aimed at boosting yield traits in crops, which matters to a region built on high-value horticulture and viticulture, where even modest productivity gains in orchard and vine stock can shift returns. Leaft's model — turning a pasture crop like lucerne into a human protein product while feeding the fibrous leftovers back to livestock — speaks to a region still working out how much of its land should stay in pasture versus move into more intensive horticulture. What the Bay could realistically do is practical rather than symbolic: growers, pack-houses and local research partners could watch for opportunities to host trials as these companies look to expand testing of their technologies on new crops, given the region's concentration of orchard and vineyard land and its established horticultural research links. What it should not do is manufacture a local angle where none currently exists. The honest takeaway is that this is a national agritech story, not a Hawke's Bay one — and the region's task is simply to stay alert to where these technologies go next, so that if and when they look for new crops or new regions to trial in, Hawke's Bay is positioned to put its hand up rather than find out after the fact.",
+          "sources": [
+            {
+              "l": "Farmers Weekly",
+              "u": "https://www.farmersweekly.co.nz/technology/nz-agritech-innovations-make-times-best-inventions-list/"
+            }
+          ]
+        },
+        {
           "date": "08 Sep 2026",
           "headline": "Cornell Launches $7.5M Push to Build Robots That Can Pick, Thin and Pollinate Orchards",
           "brief": "<p>Cornell University is leading a new $7.5 million national research effort to build AI-powered robots capable of handling labour-intensive orchard tasks — pollination, thinning, harvesting and weed control. The four-year project, funded through the USDA's Specialty Crop Research Initiative, will establish a Center of Excellence for Orchard Robotics, draws in seven US universities plus an Israeli robotics firm, and comes as one large Washington grower reports labour costs have climbed from about 45% of total costs 15 years ago to more than 60% today.</p>",
@@ -1740,6 +1750,36 @@
     }
   ],
   "headlines": [
+    {
+      "date": "25 Oct 2026",
+      "chipLabel": "Investment",
+      "headline": "Solar Float Ends NZX's Five-Year IPO Drought — And Hawke's Bay Already Has a Farm Rising",
+      "byline": "22 Oct 2026, NZX · Lodestone Energy's $75m listing comes with a sixth solar farm already under construction in the Bay",
+      "brief": "<p>Solar power company Lodestone Energy <cite index=\"20-1\">starts trading on the NZX on Thursday after raising $75 million in the first significant initial public offering (IPO) on the exchange in about five years</cite>. <cite index=\"20-2\">Shares were issued at $2.25 each, giving Lodestone Energy a market value of about $440m on listing</cite>, and <cite index=\"19-2\">the stock first traded at $2.35 – a 10c (4.44%) premium – before settling back to $2.26</cite>. <cite index=\"19-6\">The initial public offering drew in about 10,000 new shareholders</cite>, with <cite index=\"29-5,29-6\">almost half the money coming from everyday investors buying shares for the first time, and the rest from large investment firms, known as institutional investors, and from people who already owned part of the company</cite>.</p><p>Founder and managing director <cite index=\"20-3\">Gary Holden told RNZ the company had reached what he described as a \"magic moment\" to enter the public market</cite>, and said <cite index=\"20-4\">cash flow from its existing developments was starting to cover the company's operating costs</cite>. He said <cite index=\"28-9\">the 10,000 investors covered a broad spectrum of the investment community</cite>. <cite index=\"9-8\">Lodestone now has five operating solar farms, with a sixth under construction in Hawke's Bay</cite>, and <cite index=\"20-6\">is targeting between 16 and 18 operating solar farms by 2032, with plans to bring two to three new farms into operation each year</cite>. <cite index=\"20-5\">Holden said the $75m raised could be allocated almost entirely to new projects, alongside bank debt and capital from its investment partners</cite>.</p><p><cite index=\"9-10\">The company's point of difference is that it does not simply develop farms and sell the output into the wholesale market</cite> — <cite index=\"9-11\">it also sells electricity directly to customers, including The Warehouse Group, Inghams and Briscoes</cite>, and <cite index=\"9-12\">has begun selling to households and small businesses in Hawke's Bay and plans to widen that retail offering</cite>.</p>",
+      "lens": "This is the first genuine new float the NZX has produced in half a decade, and Hawke's Bay isn't a bystander — it's one of the places Lodestone chose to build its next farm, and one of the first regions where it's selling power directly to local households and small businesses. That combination matters: a sixth solar farm under construction locally means construction activity and grid investment now, not in some hypothetical future pipeline; and a retail electricity offer already live here means Bay households and small businesses have a genuine alternative supplier to weigh against the big gentailers. The honest response for the region is modest but real: local councils and business groups should be asking Lodestone directly what the Hawke's Bay farm means for jobs and local contracts during construction, and small businesses should at least get a quote from Lodestone's retail arm alongside their usual provider — this is a company actively selling in the Bay, not just generating nearby. Beyond that, there's little reason for grand regional strategy; it's one company's growth story, not a sector shift, and the Bay's job is simply to make sure it captures the practical upside — jobs, lower power bills, grid resilience — that's already on the table.",
+      "sources": [
+        {
+          "l": "The Press (Stuff)",
+          "u": "https://www.thepress.co.nz/business/361103441/lodestone-energy-make-nzx-debut-after-75m-ipo"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/business/companies/energy/lodestone-energy-share-offer-attracts-10000-new-investors-company-to-list-on-sharemarket-today/M2NU3WVRIJAX7DLSFMFJE6TIME/"
+        },
+        {
+          "l": "IT Brief NZ",
+          "u": "https://itbrief.co.nz/story/lodestone-energy-lists-on-nzx-after-usd-75-million-ipo"
+        },
+        {
+          "l": "1News",
+          "u": "https://www.1news.co.nz/2026/10/22/solar-firm-lodestone-lists-on-nzx-in-first-major-float-in-five-years/"
+        },
+        {
+          "l": "NZ Business News",
+          "u": "https://nzbusinessnews.nz/lodestone-energy-lists-on-nzx/"
+        }
+      ]
+    },
     {
       "date": "23 Oct 2026",
       "chipLabel": "Small Business",
@@ -2279,28 +2319,6 @@
         {
           "l": "NZ Herald (Hawke's Bay Today)",
           "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/rocket-lab-leader-entrepreneur-and-journalist-to-headline-the-2026-profit-unleashed-event-in-hawkes-bay/EUSXS2TFCRH6RPSVWAQZ2R5UPE/"
-        }
-      ]
-    },
-    {
-      "date": "14 Aug 2026",
-      "chipLabel": "Space Law",
-      "headline": "Māhia's Launch Pad Faces High Court Fight Over Gaza Spy Satellites",
-      "byline": "Wellington High Court · a judicial review over BlackSky launches puts Māhia's mana whenua on the record",
-      "brief": "<p>Three New Zealand citizens have taken the Government to the High Court at Wellington over Rocket Lab's Māhia launch site — this time not about money, but about who those rockets are arming. <b>Yasser Abdulaal, Maher Nazzal and Dr Timoti Te Moke</b> have filed proceedings seeking a judicial review of the Government's approval of Rocket Lab's BlackSky satellite launches at Māhia, with the application <span></span><b>backed by the Palestine Solidarity Network Aotearoa (PSNA)</b>. <span></span><cite></cite>The <span></span><span></span>applicants say <b>the satellite launches risked supplying Israel's military with targeting data to use in Gaza</b>, and they want the courts to intervene before more go up.</p><p>The case challenges former Space Minister Judith Collins' approval of four launches, and is also aimed at current Space Minister Chris Penk, who in April approved a further 26 BlackSky launches the plaintiffs are trying to stop. The pleadings are laid under the Outer Space and High-altitude Activities Act 2017. PSNA says it raised its concerns about Israeli military use of BlackSky satellites with Collins in November 2024, after Collins and MBIE had already granted BlackSky's payload permit in December 2023 without, in PSNA's telling, questioning whether the Israeli military was a current end-user of the satellites. PSNA spokeswoman Rinad Tamimi called the ministry's approach <b>\"wilful ignorance\"</b>, saying Collins refused all PSNA requests to reconsider her approval.</p><p>Crucially, this isn't only a Wellington argument — it has a Māhia voice. Sonya Smith, an uri of Māhia iwi Rongomaiwahine and neighbouring Nūhaka iwi Ngāti Rākaipaaka, said mana whenua had real concerns about BlackSky and the direction of the Government, describing the use of ancestral whenua for satellite launches marketed to defence and intelligence agencies, without meaningful engagement with tangata whenua or regard for wāhi tapu, as a Treaty failure and a moral failure.</p>",
-      "lens": "Whatever the court decides, this case puts a distinct kind of pressure on the pad that anchors Hawke's Bay's place in the global space economy — not a commercial question this time, but a legal and moral one that goes to the heart of who Māhia's iwi are, and were, consulted with before rockets carrying foreign payloads leave their whenua. The region has real standing here through Rongomaiwahine and neighbouring Ngāti Rākaipaaka, whose representative has now put mana whenua's unease on the public record, and that's a voice Hawke's Bay institutions — the regional council, Wairoa District Council, and iwi bodies — should be listening to directly rather than leaving the conversation to Wellington lawyers and Auckland advocacy groups. There's little the Bay can or should do to influence the litigation itself; judicial review of ministerial decisions under the Outer Space and High-altitude Activities Act is squarely a national legal and foreign-policy matter. But the region can insist on better local engagement processes for future payload approvals at Māhia, and treat this as a reminder that hosting strategic space infrastructure carries reputational and cultural exposure alongside its economic upside.",
-      "sources": [
-        {
-          "l": "NZ Herald (Gisborne Herald)",
-          "u": "https://www.nzherald.co.nz/gisborne-herald/news/judicial-review-sought-over-governments-approval-of-four-of-rocket-labs-mahia-satellite-launches/premium/WG7HTVFQCVFDBG7P6PRCRMN73M/"
-        },
-        {
-          "l": "Scoop",
-          "u": "https://www.scoop.co.nz/stories/PO2608/S00088/judicial-review-claim-filed-against-government-for-approving-launches-of-spy-satellites-over-gaza.htm"
-        },
-        {
-          "l": "PSNA",
-          "u": "https://www.psna.nz/press-releases/judicial-review-claim-filed-against-government-for-approving-launches-of-spy-satellites-over-gaza"
         }
       ]
     }
