@@ -1,25 +1,37 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Investment",
+    "chipLabel": "Connectivity",
     "sector": "bay",
-    "date": "27 Oct 2026",
-    "headline": "NZ Startup Funding Smashes Records: $776m Raised in Six Months, Even Without Halter's Big Cheque",
-    "byline": "National · 27 Oct 2026 · what a VC boom built on agritech means for Hawke's Bay's farms and founders",
-    "brief": "<p>New Zealand's startup sector has just posted its best six months ever. <cite index=\"11-3\">New Zealand's startup ecosystem has recorded its strongest six months on record, with $776 million invested across 68 deals in the first half of 2026.</cite> The figures come from the latest <cite index=\"24-2\">Young Company Finance report from NZ Growth Capital Partners (NZGCP) and Angel Association</cite> NZ, and the surge dwarfs recent years: <cite index=\"11-4\">that's up 114% on the same period last year and already more than the whole of 2025</cite>, a year that had itself already looked like a standout, with <cite index=\"31-1\">investment activity in the New Zealand startup sector rising 61% year-on-year in 2025 to $754 million</cite>.</p><p>Crucially, this isn't just one mega-raise skewing the numbers. BusinessDesk's read of the same data found that <cite index=\"24-3\">the first half of 2026 reached a new high even excluding Halter's $277m raise</cite>, with <cite index=\"24-1\">the record driven by a few very large rounds at the top end, and a strong recovery in early-stage investment from a low point in 2024</cite>. <cite index=\"24-8\">The average deal size had grown to $11.1m from $4.9m in H1 2025, with 57% of deals led by VC funds</cite> — though <cite index=\"24-10\">the largest three rounds were all led by offshore venture capital firms, including Halter's</cite>, a sign that big, foreign-backed cheques are still doing much of the heavy lifting. <cite index=\"11-4\">Kiwi agritech unicorn Halter</cite> remains the sector's standout name: NBR's headline says Halter <cite index=\"11-1\">confirms $3.4b valuation after $377m Series E</cite>, while BusinessDesk describes the same transaction as <cite index=\"24-6\">Halter's $277m capital raise in March, led by Peter Thiel-backed Founders Fund</cite> — the two outlets differ on the exact size of the round, though both agree Founders Fund led it. <cite index=\"24-7\">However, even without Halter, the total raised in H1 2026 still beats the 2025-year total.</cite></p><p>Taken together, the numbers describe a startup ecosystem moving out of a funding slump and into a genuine capital boom — one still concentrated in a handful of very large, offshore-led rounds, alongside a broader recovery in early-stage deals.</p>",
-    "lens": "The headline number is encouraging, but the detail matters more for Hawke's Bay than the topline figure. Halter, the agritech unicorn whose capital raise anchors this record half, operates in exactly the kind of land-based, pastoral farming sector that underpins this region's economy — a sign that sophisticated offshore investors are willing to back big, serious bets in New Zealand's primary sector, not just software. But BusinessDesk's own figures show the three largest rounds in the half were all led by offshore venture capital firms, Halter's included, which means this is still overwhelmingly a story of concentrated capital from a small number of big, non-local cheques rather than a broad democratisation of funding. And nothing in either report points to a Hawke's Bay startup, fund or deal specifically — the record is national, not local. The honest response for the region is measured: growers' co-ops, regional economic development bodies and agritech or food-tech founders here should treat this as evidence that investors are now willing to write large cheques for proven, land-linked technology, and use that opening to actively pitch into the funds and networks that are clearly active right now, rather than assume record national numbers will automatically translate into capital landing in the Bay.",
+    "date": "01 Nov 2026",
+    "headline": "Two in Three Farmers Can't Call 111 as Rural Mobile Coverage 'Has Gone Backwards'",
+    "byline": "Hawke's Bay, 01 Nov 2026 · Why the Bay's rural heartland can't afford to wait on this",
+    "brief": "<p>A new Federated Farmers rural connectivity report has found that <b>roughly two in three farmers can't reliably call 111 on their farms</b>, RNZ's Local Democracy Reporting service revealed this week. <cite index=\"10-3\">It revealed roughly two in three farmers couldn't rely on reaching 111 on their farm and only 35 percent of respondents could reliably call 111 from most places.</cite> <cite index=\"10-4\">Federated Farmers spoke to 641 farmers between August and September to understand the impacts of losing 3G.</cite> The finding has prompted a blunt verdict from Manawatū district councillor Alison Short, who <cite index=\"10-5\">says \"rural mobile coverage has gone backwards\" since 3G was shut down completely in March.</cite></p><p>For many farming families the gap isn't theoretical — it's measured in metres and minutes. As the report's caption puts it, <cite index=\"10-2\">a trek to the nearest spot on your property with mobile network coverage because you're out of range can make the difference in an emergency, farmers say.</cite></p>",
+    "lens": "For Hawke's Bay this lands close to home: Cyclone Gabrielle already showed the region exactly what it looks like when rural communications fail at the worst possible moment. In Central Hawke's Bay as floodwaters rose, <cite index=\"28-8\">the cellphone network was down, 111 was overloaded.</cite> Further north, <cite index=\"26-11\">the roughly 80-strong Dartmoor community northwest of Napier was completely cut off following Cyclone Gabrielle, with roads at either end out of the town blocked by slips.</cite> Crucially, that 2023 blackout wasn't really about broken towers: nationally, <cite index=\"25-9:10\">the storm damaged only two of the 185 mobile towers that were offline throughout the country post-Gabrielle; the rest were fine, they were just out of juice.</cite> A national finding that two in three farmers still can't reliably dial 111 should be read here not as a distant statistic but as an unresolved local risk, given how much of the Bay's population and economy sits on rural land beyond town cell coverage. There has been some progress worth building on — locally, backup power has already gone into <cite index=\"22-9\">24-hour backup batteries at 44 towers run by the Rural Connectivity Group, along with six hubs</cite> — and during the cyclone response <cite index=\"27-3\">NEMA flew in kits for Elon Musk's Starlink service</cite> to plug the gaps. The region could push harder, through its councils, Federated Farmers branches and the Rural Connectivity Group, to extend battery backup and close blackspots in the hardest-hit rural wards, and in the meantime encourage farmers and growers to treat satellite backup like Starlink as basic emergency kit rather than an optional extra — because the next weather event won't wait for the network to catch up.",
     "sources": [
       {
-        "l": "NBR",
-        "u": "https://www.nbr.co.nz/business/halter-raise-contributes-to-record-half-for-startup-funding/"
+        "l": "RNZ Local Democracy Reporting",
+        "u": "https://www.rnz.co.nz/news/regions_local-democracy-reporting/2199354/without-3g-rural-mobile-coverage-has-gone-backwards"
       },
       {
-        "l": "BusinessDesk",
-        "u": "https://www.businessdesk.co.nz/companies/startups/start-up-investment-breaks-records-as-companies-scale-and-early-stage-recovers/RGBQLGV3TZBMZPORNNJ7ZFMLUI/"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/country/484379/cyclone-gabrielle-concerns-for-rural-hawke-s-bay-residents-still-missing"
       },
       {
-        "l": "NBR",
-        "u": "https://www.nbr.co.nz/business/investment-in-startups-soared-in-2025-says-new-report/"
+        "l": "CHB Mail",
+        "u": "https://www.pressreader.com/new-zealand/chb-mail/20240222/281505051147918"
+      },
+      {
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/jonathan-brewer-just-two-cell-towers-were-damaged-in-cyclone-gabrielle-yet-our-phones-turned-into-expensive-paperweights/3BM4YH23JNHEVBQVHBIXJU7LMY/"
+      },
+      {
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/business/cyclone-gabrielle-mass-mobile-broadband-outages-continue-telcos-struggle-to-fuel-generators-on-east-coast/2EETGC4FRBG4JBTAHYH3QSDIUA/"
+      },
+      {
+        "l": "SunLive",
+        "u": "https://www.sunlive.co.nz/news/360535-keeping-mobiles-working-during-a-natural-disaster.html"
       }
     ]
   },
@@ -1802,6 +1814,28 @@
   ],
   "headlines": [
     {
+      "date": "27 Oct 2026",
+      "chipLabel": "Investment",
+      "headline": "NZ Startup Funding Smashes Records: $776m Raised in Six Months, Even Without Halter's Big Cheque",
+      "byline": "National · 27 Oct 2026 · what a VC boom built on agritech means for Hawke's Bay's farms and founders",
+      "brief": "<p>New Zealand's startup sector has just posted its best six months ever. <cite index=\"11-3\">New Zealand's startup ecosystem has recorded its strongest six months on record, with $776 million invested across 68 deals in the first half of 2026.</cite> The figures come from the latest <cite index=\"24-2\">Young Company Finance report from NZ Growth Capital Partners (NZGCP) and Angel Association</cite> NZ, and the surge dwarfs recent years: <cite index=\"11-4\">that's up 114% on the same period last year and already more than the whole of 2025</cite>, a year that had itself already looked like a standout, with <cite index=\"31-1\">investment activity in the New Zealand startup sector rising 61% year-on-year in 2025 to $754 million</cite>.</p><p>Crucially, this isn't just one mega-raise skewing the numbers. BusinessDesk's read of the same data found that <cite index=\"24-3\">the first half of 2026 reached a new high even excluding Halter's $277m raise</cite>, with <cite index=\"24-1\">the record driven by a few very large rounds at the top end, and a strong recovery in early-stage investment from a low point in 2024</cite>. <cite index=\"24-8\">The average deal size had grown to $11.1m from $4.9m in H1 2025, with 57% of deals led by VC funds</cite> — though <cite index=\"24-10\">the largest three rounds were all led by offshore venture capital firms, including Halter's</cite>, a sign that big, foreign-backed cheques are still doing much of the heavy lifting. <cite index=\"11-4\">Kiwi agritech unicorn Halter</cite> remains the sector's standout name: NBR's headline says Halter <cite index=\"11-1\">confirms $3.4b valuation after $377m Series E</cite>, while BusinessDesk describes the same transaction as <cite index=\"24-6\">Halter's $277m capital raise in March, led by Peter Thiel-backed Founders Fund</cite> — the two outlets differ on the exact size of the round, though both agree Founders Fund led it. <cite index=\"24-7\">However, even without Halter, the total raised in H1 2026 still beats the 2025-year total.</cite></p><p>Taken together, the numbers describe a startup ecosystem moving out of a funding slump and into a genuine capital boom — one still concentrated in a handful of very large, offshore-led rounds, alongside a broader recovery in early-stage deals.</p>",
+      "lens": "The headline number is encouraging, but the detail matters more for Hawke's Bay than the topline figure. Halter, the agritech unicorn whose capital raise anchors this record half, operates in exactly the kind of land-based, pastoral farming sector that underpins this region's economy — a sign that sophisticated offshore investors are willing to back big, serious bets in New Zealand's primary sector, not just software. But BusinessDesk's own figures show the three largest rounds in the half were all led by offshore venture capital firms, Halter's included, which means this is still overwhelmingly a story of concentrated capital from a small number of big, non-local cheques rather than a broad democratisation of funding. And nothing in either report points to a Hawke's Bay startup, fund or deal specifically — the record is national, not local. The honest response for the region is measured: growers' co-ops, regional economic development bodies and agritech or food-tech founders here should treat this as evidence that investors are now willing to write large cheques for proven, land-linked technology, and use that opening to actively pitch into the funds and networks that are clearly active right now, rather than assume record national numbers will automatically translate into capital landing in the Bay.",
+      "sources": [
+        {
+          "l": "NBR",
+          "u": "https://www.nbr.co.nz/business/halter-raise-contributes-to-record-half-for-startup-funding/"
+        },
+        {
+          "l": "BusinessDesk",
+          "u": "https://www.businessdesk.co.nz/companies/startups/start-up-investment-breaks-records-as-companies-scale-and-early-stage-recovers/RGBQLGV3TZBMZPORNNJ7ZFMLUI/"
+        },
+        {
+          "l": "NBR",
+          "u": "https://www.nbr.co.nz/business/investment-in-startups-soared-in-2025-says-new-report/"
+        }
+      ]
+    },
+    {
       "date": "25 Oct 2026",
       "chipLabel": "Investment",
       "headline": "Solar Float Ends NZX's Five-Year IPO Drought — And Hawke's Bay Already Has a Farm Rising",
@@ -2348,28 +2382,6 @@
         {
           "l": "B2B News NZ",
           "u": "https://b2bnews.co.nz/news/nz-drone-makers-eye-200m-defence-contracts/"
-        }
-      ]
-    },
-    {
-      "date": "18 Aug 2026",
-      "chipLabel": "Economy",
-      "headline": "NZ's Tech Sector Now Worth $133 Billion — But Is the Bay Sharing the Upside?",
-      "byline": "National · what a $133b tech stocktake — anchored by Rocket Lab's Māhia pad — means for the Bay",
-      "brief": "<p>New Zealand's technology sector has been handed some strikingly good numbers. A new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion. The report identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion, and two of these are \"decacorns\" valued at more than US$10 billion — aerospace firm Rocket Lab and global financial services provider FNZ, according to University of Auckland entrepreneurship professor Rod McNaughton, writing for The Conversation and republished by RNZ.</p><p>The standout finding isn't just the headline number — it's the efficiency behind it. As McNaughton notes, relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested, suggesting Kiwi founders are punching well above the size of the capital pool backing them. But the report also flags a leakage problem: Dealroom's definition includes companies founded here that subsequently moved overseas, and it identifies more than ten billion-dollar businesses created by Kiwi founders but built offshore, across software, fintech, artificial intelligence and consumer technology — a pattern the report frames as a \"double loss\" for New Zealand.</p><p>McNaughton's core argument is that raw valuation numbers understate the real prize. He writes that the economic value of a successful start-up lies not only in the company it becomes, but also in the companies, capabilities and capital that come after it, since successful firms produce experienced managers, engineers and investors who have learned how to build at a global scale — a cycle the report says is already occurring around companies like Xero, Trade Me, Pushpay and Rocket Lab.</p>",
-      "lens": "For Hawke's Bay, the headline decacorn in this national stocktake isn't some faceless Auckland software firm — it's Rocket Lab, whose Launch Complex 1 sits on Māhia. The site's launch operations are overseen by Luke Smith, who works on land his own Māori ancestors have called home, and who has spoken publicly about what it means to manage a launch complex in a place his whānau has always belonged to. That's a direct, tangible line from a $133 billion national number to a real job, a real whānau connection and real prestige happening on Bay soil. The lens McNaughton offers — that the real prize isn't the valuation but the capability, talent and capital a company leaves behind — is exactly the test the region should apply to Rocket Lab's presence: is Māhia and wider Hawke's Bay building a genuine bench of aerospace, engineering and technician skills that outlasts any single company, or is the Bay simply hosting infrastructure while the value accrues elsewhere? Realistically, the region can do relatively little to shape national venture capital flows or stop founders chasing offshore capital — that's a Wellington and Auckland policy conversation. What Hawke's Bay can and should do is the local, practical version of McNaughton's \"capability\" argument: back local training pipelines, apprenticeships and supplier contracts tied to the Māhia site, so that whatever happens to Rocket Lab's valuation, the skills and community ties it seeds stay rooted here.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
-        },
-        {
-          "l": "The Conversation",
-          "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
-        },
-        {
-          "l": "NZ Herald (Hawke's Bay Today)",
-          "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/rocket-lab-leader-entrepreneur-and-journalist-to-headline-the-2026-profit-unleashed-event-in-hawkes-bay/EUSXS2TFCRH6RPSVWAQZ2R5UPE/"
         }
       ]
     }
