@@ -1,37 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Connectivity",
+    "chipLabel": "Startups",
     "sector": "bay",
-    "date": "01 Nov 2026",
-    "headline": "Two in Three Farmers Can't Call 111 as Rural Mobile Coverage 'Has Gone Backwards'",
-    "byline": "Hawke's Bay, 01 Nov 2026 · Why the Bay's rural heartland can't afford to wait on this",
-    "brief": "<p>A new Federated Farmers rural connectivity report has found that <b>roughly two in three farmers can't reliably call 111 on their farms</b>, RNZ's Local Democracy Reporting service revealed this week. <cite index=\"10-3\">It revealed roughly two in three farmers couldn't rely on reaching 111 on their farm and only 35 percent of respondents could reliably call 111 from most places.</cite> <cite index=\"10-4\">Federated Farmers spoke to 641 farmers between August and September to understand the impacts of losing 3G.</cite> The finding has prompted a blunt verdict from Manawatū district councillor Alison Short, who <cite index=\"10-5\">says \"rural mobile coverage has gone backwards\" since 3G was shut down completely in March.</cite></p><p>For many farming families the gap isn't theoretical — it's measured in metres and minutes. As the report's caption puts it, <cite index=\"10-2\">a trek to the nearest spot on your property with mobile network coverage because you're out of range can make the difference in an emergency, farmers say.</cite></p>",
-    "lens": "For Hawke's Bay this lands close to home: Cyclone Gabrielle already showed the region exactly what it looks like when rural communications fail at the worst possible moment. In Central Hawke's Bay as floodwaters rose, <cite index=\"28-8\">the cellphone network was down, 111 was overloaded.</cite> Further north, <cite index=\"26-11\">the roughly 80-strong Dartmoor community northwest of Napier was completely cut off following Cyclone Gabrielle, with roads at either end out of the town blocked by slips.</cite> Crucially, that 2023 blackout wasn't really about broken towers: nationally, <cite index=\"25-9:10\">the storm damaged only two of the 185 mobile towers that were offline throughout the country post-Gabrielle; the rest were fine, they were just out of juice.</cite> A national finding that two in three farmers still can't reliably dial 111 should be read here not as a distant statistic but as an unresolved local risk, given how much of the Bay's population and economy sits on rural land beyond town cell coverage. There has been some progress worth building on — locally, backup power has already gone into <cite index=\"22-9\">24-hour backup batteries at 44 towers run by the Rural Connectivity Group, along with six hubs</cite> — and during the cyclone response <cite index=\"27-3\">NEMA flew in kits for Elon Musk's Starlink service</cite> to plug the gaps. The region could push harder, through its councils, Federated Farmers branches and the Rural Connectivity Group, to extend battery backup and close blackspots in the hardest-hit rural wards, and in the meantime encourage farmers and growers to treat satellite backup like Starlink as basic emergency kit rather than an optional extra — because the next weather event won't wait for the network to catch up.",
+    "date": "02 Nov 2026",
+    "headline": "'One Rocket Lab Can Birth Several Unicorns': NZ Launches National Startup Hub Network",
+    "byline": "Christchurch · what a nationwide founder network means for Hawke's Bay's own tech hopefuls",
+    "brief": "<p>Ministry of Awesome's vision to increase the density of New Zealand's startup ecosystem has led to the establishment of a national Startup Hub Network, branded NEST, in central Christchurch. At the launch, chief executive Graham Scown said, \"History has shown us that one Rocket Lab can give birth to several new unicorns.\" \"That's the ambition of a space like this, and programmes like ours,\" he said. \"We've already seen huge successes, like Partly, come out of Ministry of Awesome.\"</p><p>The aim, Scown said, was to give startup businesses faster, easier access to the space, community, mentoring and networks that accelerate the journey from idea to investment to export. He framed the problem as one of geography: \"We're geographically challenged, and so when you look at those ecosystems around the world that have been so incredibly successful, there's a real concentration, a geographical concentration,\" adding that \"In New Zealand we're a little bit cursed with people saying New Zealand's a small country.\" He said one aim of the network was to stop regions competing over scarce funding, and that \"one of the key components for me is that we are actively avoiding replicating or duplicating anything that already exists.\" The Christchurch hub itself offers work stations, meeting rooms, event spaces and recording studios, along with amenities such as changing rooms and garage usage.</p>",
+    "lens": "A network built to connect startup hubs across the country is only useful to Hawke's Bay if the region actually has a node plugged into it, and that is the open question the launch leaves hanging: Scown's pitch was about Christchurch as the pilot, with no detail yet on which regions follow or how they join. Hawke's Bay is not short of raw material for a Scown-style density play, but it is scattered rather than concentrated: the region already runs its own Innovation Club, a practical network connecting businesses, agencies and leaders around food, beverage and agritech out of Hastings. If Ministry of Awesome's model is genuinely about linking existing hubs rather than duplicating them, as Scown insists it is, then the honest next step for the Bay is finding out whether a food-and-fibre-focused club like that could be the region's plug-in point, not building something new from scratch. Given how little public detail there still is on how regions outside Christchurch actually join this network, watchful interest beats premature action: find out who to call in Christchurch before deciding what, if anything, the Bay needs to build.",
     "sources": [
       {
-        "l": "RNZ Local Democracy Reporting",
-        "u": "https://www.rnz.co.nz/news/regions_local-democracy-reporting/2199354/without-3g-rural-mobile-coverage-has-gone-backwards"
-      },
-      {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/country/484379/cyclone-gabrielle-concerns-for-rural-hawke-s-bay-residents-still-missing"
+        "u": "https://www.rnz.co.nz/news/business/2232078/ministry-of-awesome-launches-national-startup-network-in-christchurch"
       },
       {
-        "l": "CHB Mail",
-        "u": "https://www.pressreader.com/new-zealand/chb-mail/20240222/281505051147918"
-      },
-      {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/jonathan-brewer-just-two-cell-towers-were-damaged-in-cyclone-gabrielle-yet-our-phones-turned-into-expensive-paperweights/3BM4YH23JNHEVBQVHBIXJU7LMY/"
-      },
-      {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/business/cyclone-gabrielle-mass-mobile-broadband-outages-continue-telcos-struggle-to-fuel-generators-on-east-coast/2EETGC4FRBG4JBTAHYH3QSDIUA/"
-      },
-      {
-        "l": "SunLive",
-        "u": "https://www.sunlive.co.nz/news/360535-keeping-mobiles-working-during-a-natural-disaster.html"
+        "l": "Foodeast",
+        "u": "https://www.foodeast.co.nz/2026/03/big-names-back-foodeast-innovation-vision/"
       }
     ]
   },
@@ -669,6 +653,28 @@
       "tag": "Satellites and rural broadband lifting the ceiling on what the back-country can do.",
       "stories": [
         {
+          "date": "02 Nov 2026",
+          "headline": "Canadian Carrier Rogers Switches On Starlink Satellite Roaming for Travellers to New Zealand, Japan and Australia",
+          "brief": "<p>Canadian carrier Rogers has <b>expanded its satellite-to-mobile roaming service to Japan, Australia and New Zealand</b>, letting its customers stay connected while travelling outside traditional cellular coverage. The service runs on SpaceX's Starlink network and takes Rogers' international satellite roaming footprint to <b>four countries</b>, including the United States.</p>",
+          "body": [
+            "Rogers has announced that it is taking its satellite-to-mobile coverage internationally, bringing the service to Japan, Australia, and New Zealand.",
+            "Rogers Chief Technology Officer Mark Kennedy said: \"Canadians want to stay connected wherever their travels take them. With satellite-to-mobile roaming in Japan, Australia, and New Zealand, we're extending coverage to more destinations around the world so customers can stay connected when travelling abroad.\" The expansion follows Rogers' launch of satellite-to-mobile roaming in the United States earlier this year, when the company says it became the first and only Canadian carrier to offer the service south of the border, and brings its international satellite-to-mobile roaming coverage to four countries, including the United States. Rogers says more satellite-ready apps are on the way, although the company has not provided a timeline for their availability.",
+            "International satellite-to-mobile roaming is included in Rogers' $100/mo Ultimate plans, alongside eligible Roam Like Home options and select Travel Passes, including International and International plus Cruises packages. Rogers uses Elon Musk's Starlink to operate the service, and using it customers can access apps including WhatsApp, Messenger and X, along with Google Maps, AllTrails and weather updates from AccuWeather.",
+            "The rollout is a roaming arrangement for Rogers' own Canadian customer base rather than a new piece of New Zealand telecommunications infrastructure, but it is another sign of how satellite operator Starlink's direct-to-cell technology is being built into mainstream carrier plans well beyond the country where the satellites themselves operate."
+          ],
+          "lens": "There is no direct Hawke's Bay business angle here, and it would be dishonest to pretend otherwise: this is a roaming add-on for Canadian Rogers customers, not new infrastructure on the ground in the Bay. But it is still worth noting, because visitors to the region's vineyards, coastal walks, farm stays and back-country tracks do routinely move through patches with no cell signal, and a Canadian tourist with a compatible phone and an eligible Rogers plan could now text or check the weather by satellite in those gaps rather than being cut off entirely. Hawke's Bay tourism operators and visitor centres could reasonably mention this to North American guests as one extra safety option to be aware of, alongside whatever local advice they already give about patchy coverage. What the region should not do is read too much into it: the service only works for Rogers customers on specific plans with a compatible device, it does nothing for the vast majority of visitors or for Hawke's Bay residents, farmers and emergency services, and it says nothing about the pace or extent of New Zealand's own mobile and satellite coverage build-out. It is a convenience for a subset of overseas travellers, not evidence of any change to connectivity on the ground in the Bay.",
+          "sources": [
+            {
+              "l": "Drive Tesla Canada",
+              "u": "https://driveteslacanada.ca/news/rogers-satellite-mobile-roaming-japan-australia-new-zealand/"
+            },
+            {
+              "l": "MobileSyrup",
+              "u": "https://mobilesyrup.com/2026/10/29/rogers-expands-satellite-to-mobile-coverage-internationally/"
+            }
+          ]
+        },
+        {
           "date": "30 Oct 2026",
           "headline": "Farmers Say Rural Mobile Coverage Has 'Gone Backwards' Since 3G Shutdown",
           "brief": "<p>A Federated Farmers rural connectivity report has found mobile coverage on farms has deteriorated since New Zealand's 3G network closed in March 2026, with around half of farms surveyed having coverage on less than half their property and roughly two in three farmers unable to reliably reach 111 from most of their land.</p>",
@@ -1089,6 +1095,28 @@
       "tag": "New Zealand’s launch industry — with its pad inside the Hawke’s Bay region.",
       "stories": [
         {
+          "date": "02 Nov 2026",
+          "headline": "Rocket Lab's Next Māhia Launch Puts Electron One Flight From a World-First 100",
+          "brief": "Rocket Lab is targeting <b>16:41 UTC on Monday, November 2</b> for its next Electron launch from Māhia, carrying a Japanese iQPS radar satellite on a mission called 'The Sea God Surveys.' <cite index=\"36-2\">The mission, named \"The Sea God Surveys\" and designated iQPS Launch 9, is targeted for liftoff at 16:41 UTC on Monday.</cite> If successful, it will be Electron's 99th flight overall — <cite index=\"10-4\">one successful launch away from reaching 100, a total no privately-developed small-lift rocket has previously achieved</cite>.",
+          "body": [
+            "Rocket Lab is preparing to launch an Electron rocket from Launch Complex 1 on the Māhia Peninsula carrying Japan's 10th iQPS radar satellite, in a mission named 'The Sea God Surveys' and designated iQPS Launch 9. <cite index=\"36-2\">The payload is a single QPS-SAR satellite for the Institute for Q-shu Pioneers of Space, Inc.</cite> <cite index=\"10-3\">The payload will join iQPS's network at 575 kilometers (357 miles) altitude in a circular orbit inclined 42° to the equator.</cite> The launch window falls on Monday, November 2, with liftoff from Rocket Lab's Māhia Peninsula pad.",
+            "The flight carries outsized significance for the programme. <cite index=\"10-4\">With Electron at 98 completed missions as of October, \"The Sea God Surveys\" would be the rocket's 99th flight overall — a number that places Rocket Lab one successful launch away from reaching 100, a total no privately-developed small-lift rocket has previously achieved.</cite> The mission would also push iQPS's constellation into new territory: <cite index=\"36-1\">the launch would bring the network to 10 operational spacecraft, crossing the first double-digit milestone in the network's build toward near-real-time global radar coverage.</cite> <cite index=\"36-2,36-3\">With 36 satellites planned in four orbital planes of nine each — a Walker constellation geometry — iQPS projects an average revisit interval of approximately ten minutes anywhere on Earth once complete, and the company has set interim targets of 24 satellites by late 2028 and the full 36 by 2030, describing 24 as the minimum threshold for commercially meaningful revisit performance.</cite> Ten satellites, as one analysis of the mission noted, is a meaningful step but still well short of that bar.",
+            "The mission also extends a record year for the pad. <cite index=\"10-2\">If it proceeds as planned, \"The Sea God Surveys\" will be the 20th Electron launch of 2026 — one more than the 19 Rocket Lab completed through October in what is already a record-pace year.</cite>",
+            "'The Sea God Surveys' is the ninth Electron-iQPS mission, but <cite index=\"36-6\">iQPS has been launching satellites since before the two companies ever worked together.</cite> <cite index=\"36-7\">The partnership with Rocket Lab began in December 2023, when Electron launched QPS-SAR-5 — nicknamed \"TSUKUYOMI-I\" — on the mission \"The Moon God Awakens.\"</cite> <cite index=\"36-8\">Every subsequent iQPS launch has been on Electron, and every mission has successfully delivered its payload to the intended orbit.</cite>"
+          ],
+          "lens": "Māhia is the point of this story for Hawke's Bay: whatever the payload or the satellite operator, the rocket itself leaves from a pad on this region's coastline, not from Florida or California, and a 100th Electron flight — whenever it lands, whether on this mission or the next — is a number the region can genuinely say it hosted. The honest caveat is that the sources behind this piece are about Rocket Lab's launch cadence and iQPS's Japanese radar constellation, not about the Bay's economic or civic arrangements around the pad — so this isn't the place to assert specifics about local contracts, consents or spending that haven't been reported. What's fair to say is simpler: a milestone like this is a natural hook. Local schools, training providers and tourism operators have an opportunity to use the approach to Electron's 100th flight as a talking point — for aerospace career pathways, for visitor interest in launch windows, for the region's profile as the only place in New Zealand where orbital rockets fly — without needing to overstate what's actually known about the economic mechanics behind it. The payload itself, a Japanese Earth-imaging satellite for a Fukuoka-based company, has no Hawke's Bay content beyond departure; the region's stake in this story is the launch, not the cargo.",
+          "sources": [
+            {
+              "l": "Tech Times",
+              "u": "https://www.techtimes.com/articles/329833/20261101/rocket-lab-targets-100th-electron-launch-after-iqps-radar-mission-monday.htm"
+            },
+            {
+              "l": "KeepTrack Week in Review",
+              "u": "https://keeptrack.space/week-in-review/week-in-review-2026-11-01"
+            }
+          ]
+        },
+        {
           "date": "26 Oct 2026",
           "headline": "New Zealand's Space Agency Funding Frozen for a Decade as Government Chases a Nearly $5 Billion Sector by 2030",
           "brief": "<p>A ministerial briefing to the incoming Minister for Space reveals the <b>New Zealand Space Agency's</b> annual departmental funding baseline has stayed at <b>$3.75 million</b> since 2016, even as the Government wants New Zealand's space industry to become a <b>nearly $5 billion</b> economic powerhouse by 2030. The same MBIE briefing says the sector contributed an estimated <b>$2.47 billion</b> to the economy in 2024 and supported about <b>17,000</b> direct and indirect jobs, and warns New Zealand risks losing investment, jobs and technology to countries offering incentives it cannot match.</p>",
@@ -1390,33 +1418,6 @@
             {
               "l": "StockTitan",
               "u": "https://www.stocktitan.net/news/RKLB/mission-success-rocket-lab-launches-93rd-electron-m3vcq1tm4k8j.html"
-            }
-          ]
-        },
-        {
-          "date": "15 Aug 2026",
-          "headline": "Rocket Lab Clears US Antitrust Hurdle, Advances Iridium Takeover",
-          "brief": "Rocket Lab Corporation says it has cleared major milestones in its plan to acquire satellite operator Iridium Communications: the US Hart-Scott-Rodino antitrust waiting period expired at 11:59 p.m. Eastern Time on August 12, 2026, a Form S-4 registration statement was filed with the SEC, and FCC applications seeking consent to transfer Iridium's licences and authorisations to Rocket Lab were filed on August 10, 2026. Founder and CEO Sir Peter Beck called the steps major markers in the execution timeline for what the company describes as a \"transformative transaction.\"",
-          "body": [
-            "Rocket Lab first agreed to acquire Iridium in a deal announced on June 29, 2026, under which Rocket Lab will acquire all outstanding Iridium common stock for $54 per share in cash and stock, representing an enterprise value for Iridium of approximately $8.0 billion. The companies described it as one of the most transformative deals in the space industry, uniting Rocket Lab's launch and satellite manufacturing capabilities with Iridium's global satellite communications network, spectrum and 500-plus strong partner ecosystem, giving Rocket Lab an immediate foothold in satellite Internet of Things, direct-to-device, PNT and safety-of-life services built on a network that supports more than 2.55 million active subscribers worldwide.",
-            "On August 13, 2026, Rocket Lab announced substantial further milestones in that acquisition. The waiting period under the U.S. Hart-Scott-Rodino Antitrust Improvements Act of 1976 expired at 11:59 p.m. Eastern Time on August 12, 2026, clearing US antitrust review. Rocket Lab also filed its Registration Statement on Form S-4 with the SEC to register the Rocket Lab securities to be delivered to Iridium shareholders as equity consideration at closing, though that registration statement is not yet effective. Separately, on August 10, 2026, Rocket Lab and Iridium jointly filed applications with the Federal Communications Commission seeking its consent to transfer control of Iridium's licenses and authorizations to Rocket Lab.",
-            "Sir Peter Beck, founder and CEO of Rocket Lab, said: \"Filing the Form S-4 and the FCC applications and receiving U.S. antitrust clearance are all major steps for us in the execution timeline for the Iridium acquisition,\" adding that the milestones \"continue to pave the way toward the completion of this transformative transaction that will position Rocket Lab to accelerate our future into space applications.\"",
-            "On financing, the company confirmed it has a commitment letter with Deutsche Bank Securities Inc., Wells Fargo Bank, National Association, Wells Fargo Securities, LLC and Deutsche Bank AG New York Branch for a 364-day senior secured bridge term loan facility of $3.6 billion, entered into when the merger agreement was signed. Rocket Lab intends to replace that bridge facility with a mix of permanent debt and equity financing. As part of that strategy, Rocket Lab and Iridium intend to seek amendments to Iridium's existing term loan credit facility, which had $1.775 billion outstanding as of June 30, 2026, so it can remain in place after closing on more attractive terms than the bridge facility — though this requires lender consent that is not yet assured. Rocket Lab also separately announced a new at-the-market equity program, replacing its May 2026 program, to help fund cash payments for the acquisition and reduce bridge-facility commitments.",
-            "The company noted that information about Rocket Lab, which may be deemed a participant in Iridium's shareholder solicitation, is included in a preliminary proxy statement/prospectus filed with the SEC on August 13, 2026."
-          ],
-          "lens": "This is a Washington-and-Wall-Street story, not a Mahia one, and it would be dishonest to dress it up as a Hawke's Bay development in itself: there is no announced change here to launch cadence, staffing or infrastructure at Launch Complex 1. But the Bay does have a real, if indirect, stake in how it plays out. An $8 billion acquisition funded substantially by a $3.6 billion bridge loan is a serious stretch of Rocket Lab's balance sheet, and the outcome of debt-for-equity refinancing and lender consents over the coming months will shape how much capital the company has free to keep investing in its Mahia launch site versus servicing new obligations elsewhere. A bigger, debt-laden but successfully vertically integrated Rocket Lab could mean more launch demand and more local contracts over time; a strained one could mean the opposite. What the region can do now is modest but real: keep talking to Rocket Lab directly about workforce, housing and supply-chain planning around Mahia and Napier so that local businesses are positioned to compete for any growth in launches, staff or capital works, while being clear-eyed that this particular announcement is a regulatory and financing milestone in a US-based deal, not a signal of imminent change on the ground in Hawke's Bay.",
-          "sources": [
-            {
-              "l": "GlobeNewswire (Rocket Lab Corporation)",
-              "u": "https://www.globenewswire.com/news-release/2026/08/13/3344359/0/en/rocket-lab-corporation-announces-progress-on-iridium-acquisition-hsr-period-lapses-form-s-4-filed-fcc-applications-filed-capital-strategy-underway.html"
-            },
-            {
-              "l": "Rocket Lab Investor Relations",
-              "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-corporation-announces-progress-iridium-acquisition"
-            },
-            {
-              "l": "Rocket Lab Corporation News",
-              "u": "https://rocketlabcorp.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/"
             }
           ]
         }
@@ -1813,6 +1814,40 @@
     }
   ],
   "headlines": [
+    {
+      "date": "01 Nov 2026",
+      "chipLabel": "Connectivity",
+      "headline": "Two in Three Farmers Can't Call 111 as Rural Mobile Coverage 'Has Gone Backwards'",
+      "byline": "Hawke's Bay, 01 Nov 2026 · Why the Bay's rural heartland can't afford to wait on this",
+      "brief": "<p>A new Federated Farmers rural connectivity report has found that <b>roughly two in three farmers can't reliably call 111 on their farms</b>, RNZ's Local Democracy Reporting service revealed this week. <cite index=\"10-3\">It revealed roughly two in three farmers couldn't rely on reaching 111 on their farm and only 35 percent of respondents could reliably call 111 from most places.</cite> <cite index=\"10-4\">Federated Farmers spoke to 641 farmers between August and September to understand the impacts of losing 3G.</cite> The finding has prompted a blunt verdict from Manawatū district councillor Alison Short, who <cite index=\"10-5\">says \"rural mobile coverage has gone backwards\" since 3G was shut down completely in March.</cite></p><p>For many farming families the gap isn't theoretical — it's measured in metres and minutes. As the report's caption puts it, <cite index=\"10-2\">a trek to the nearest spot on your property with mobile network coverage because you're out of range can make the difference in an emergency, farmers say.</cite></p>",
+      "lens": "For Hawke's Bay this lands close to home: Cyclone Gabrielle already showed the region exactly what it looks like when rural communications fail at the worst possible moment. In Central Hawke's Bay as floodwaters rose, <cite index=\"28-8\">the cellphone network was down, 111 was overloaded.</cite> Further north, <cite index=\"26-11\">the roughly 80-strong Dartmoor community northwest of Napier was completely cut off following Cyclone Gabrielle, with roads at either end out of the town blocked by slips.</cite> Crucially, that 2023 blackout wasn't really about broken towers: nationally, <cite index=\"25-9:10\">the storm damaged only two of the 185 mobile towers that were offline throughout the country post-Gabrielle; the rest were fine, they were just out of juice.</cite> A national finding that two in three farmers still can't reliably dial 111 should be read here not as a distant statistic but as an unresolved local risk, given how much of the Bay's population and economy sits on rural land beyond town cell coverage. There has been some progress worth building on — locally, backup power has already gone into <cite index=\"22-9\">24-hour backup batteries at 44 towers run by the Rural Connectivity Group, along with six hubs</cite> — and during the cyclone response <cite index=\"27-3\">NEMA flew in kits for Elon Musk's Starlink service</cite> to plug the gaps. The region could push harder, through its councils, Federated Farmers branches and the Rural Connectivity Group, to extend battery backup and close blackspots in the hardest-hit rural wards, and in the meantime encourage farmers and growers to treat satellite backup like Starlink as basic emergency kit rather than an optional extra — because the next weather event won't wait for the network to catch up.",
+      "sources": [
+        {
+          "l": "RNZ Local Democracy Reporting",
+          "u": "https://www.rnz.co.nz/news/regions_local-democracy-reporting/2199354/without-3g-rural-mobile-coverage-has-gone-backwards"
+        },
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/country/484379/cyclone-gabrielle-concerns-for-rural-hawke-s-bay-residents-still-missing"
+        },
+        {
+          "l": "CHB Mail",
+          "u": "https://www.pressreader.com/new-zealand/chb-mail/20240222/281505051147918"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/jonathan-brewer-just-two-cell-towers-were-damaged-in-cyclone-gabrielle-yet-our-phones-turned-into-expensive-paperweights/3BM4YH23JNHEVBQVHBIXJU7LMY/"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/business/cyclone-gabrielle-mass-mobile-broadband-outages-continue-telcos-struggle-to-fuel-generators-on-east-coast/2EETGC4FRBG4JBTAHYH3QSDIUA/"
+        },
+        {
+          "l": "SunLive",
+          "u": "https://www.sunlive.co.nz/news/360535-keeping-mobiles-working-during-a-natural-disaster.html"
+        }
+      ]
+    },
     {
       "date": "27 Oct 2026",
       "chipLabel": "Investment",
@@ -2360,28 +2395,6 @@
         {
           "l": "The Conversation",
           "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
-        }
-      ]
-    },
-    {
-      "date": "19 Aug 2026",
-      "chipLabel": "Defence Tech",
-      "headline": "Kiwi Workshops in the Running as Defence Opens Up to Homegrown Drones",
-      "byline": "17-18 Aug 2026 · No Bay firm named yet — but a $100m-$300m supply chain is opening up",
-      "brief": "<p>New Zealand's drone-manufacturing world got a rare public airing this week when RNZ's The Detail visited Obsidian Systems, a workshop run by <b>Philip Solaris</b> <span data-cite=\"1-2\">at the end of a winding, gravel road in the far north of Auckland - overlooking a valley of native bush, and beyond to Hauturu in the Hauraki Gulf</span>. Solaris, chief executive of the firm, says <span data-cite=\"1-3\">\"We like to think of ourselves as the Skunk Works of robots\"</span>, a nod to Lockheed Martin's secretive innovation arm. The piece is <span data-cite=\"1-1\">an insight into the world of drones and their makers, how they're used in conservation and disasters, and what our defence force plans to do with them</span>, and it landed just as the Defence Force signalled real openings for local manufacturers.</p><p><span data-cite=\"1-7\">Last month, the government announced it is starting the process to purchase long-range one-way strike drones</span>, with the aim to <span data-cite=\"2-8\">review, trial and select a strike drone by the end of March next year</span>. Defence is separately <span data-cite=\"1-9\">doing market research this week on unarmed long-range uncrewed aircraft systems that can conduct maritime surveillance tasks, starting with a request for information from businesses</span>. Asked how the strike drones will be used, the Defence Force said that would <span data-cite=\"1-8\">\"depend on a number of factors such as manufacturing, delivery, integration of various sub-systems and the time to train NZDF personnel to operate the new drones\"</span>. Then-minister Chris Penk said <span data-cite=\"1-10\">both investments have $100 million to $300 million allocated</span>, and Solaris — <span data-cite=\"1-11\">who has worked on robotic systems for nearly two decades</span> — says <span data-cite=\"2-13\">New Zealand companies like his are capable of filling the orders for drones</span>. <span data-cite=\"2-14\">\"I believe all the capability is within New Zealand to be world leaders in this realm, I really do, I've seen it,\"</span> he says, adding <span data-cite=\"2-15\">\"it's not just our company, there's a whole lot of companies in New Zealand that can all be part of that\"</span> — noting <span data-cite=\"2-16\">\"we can't manufacture huge frigates but we can manufacture thousands of small craft\"</span>.</p><p>The scale of the wider opportunity is backed by industry figures: <span data-cite=\"20-1\">a Deloitte study commissioned by MBIE in April 2025 found New Zealand's advanced aviation sector generated $0.53 billion in revenue in FY2024 and directly supported 2,000 full-time jobs</span>.</p>",
-      "lens": "No Hawke's Bay company gets a mention in any of this — and pretending otherwise would be dishonest. What's real is the shape of the opportunity: a defence budget line worth $100 million to $300 million for long-range strike drones, a parallel maritime-surveillance programme out for market research, and a Defence Force openly saying it wants to know what local manufacturers can build, deliver and integrate. That's a door, not a guarantee, and by Solaris's own account it favours a scattered field of small workshops rather than one or two big primes. If the Bay has precision engineering, composites, electronics or aviation-adjacent firms with the discipline to meet defence-grade standards, the sensible move now is simply to find the current RFI and put a submission in — not to wait for a press release confirming Napier or Hastings already has a seat at the table, because right now it doesn't.",
-      "sources": [
-        {
-          "l": "Newsroom",
-          "u": "https://newsroom.co.nz/2026/08/17/the-incredible-world-of-kiwi-made-drones/"
-        },
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1020784/the-incredible-world-of-kiwi-made-drones"
-        },
-        {
-          "l": "B2B News NZ",
-          "u": "https://b2bnews.co.nz/news/nz-drone-makers-eye-200m-defence-contracts/"
         }
       ]
     }
