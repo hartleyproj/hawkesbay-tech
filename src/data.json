@@ -1,21 +1,41 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Startups",
+    "chipLabel": "Fintech",
     "sector": "bay",
-    "date": "02 Nov 2026",
-    "headline": "'One Rocket Lab Can Birth Several Unicorns': NZ Launches National Startup Hub Network",
-    "byline": "Christchurch · what a nationwide founder network means for Hawke's Bay's own tech hopefuls",
-    "brief": "<p>Ministry of Awesome's vision to increase the density of New Zealand's startup ecosystem has led to the establishment of a national Startup Hub Network, branded NEST, in central Christchurch. At the launch, chief executive Graham Scown said, \"History has shown us that one Rocket Lab can give birth to several new unicorns.\" \"That's the ambition of a space like this, and programmes like ours,\" he said. \"We've already seen huge successes, like Partly, come out of Ministry of Awesome.\"</p><p>The aim, Scown said, was to give startup businesses faster, easier access to the space, community, mentoring and networks that accelerate the journey from idea to investment to export. He framed the problem as one of geography: \"We're geographically challenged, and so when you look at those ecosystems around the world that have been so incredibly successful, there's a real concentration, a geographical concentration,\" adding that \"In New Zealand we're a little bit cursed with people saying New Zealand's a small country.\" He said one aim of the network was to stop regions competing over scarce funding, and that \"one of the key components for me is that we are actively avoiding replicating or duplicating anything that already exists.\" The Christchurch hub itself offers work stations, meeting rooms, event spaces and recording studios, along with amenities such as changing rooms and garage usage.</p>",
-    "lens": "A network built to connect startup hubs across the country is only useful to Hawke's Bay if the region actually has a node plugged into it, and that is the open question the launch leaves hanging: Scown's pitch was about Christchurch as the pilot, with no detail yet on which regions follow or how they join. Hawke's Bay is not short of raw material for a Scown-style density play, but it is scattered rather than concentrated: the region already runs its own Innovation Club, a practical network connecting businesses, agencies and leaders around food, beverage and agritech out of Hastings. If Ministry of Awesome's model is genuinely about linking existing hubs rather than duplicating them, as Scown insists it is, then the honest next step for the Bay is finding out whether a food-and-fibre-focused club like that could be the region's plug-in point, not building something new from scratch. Given how little public detail there still is on how regions outside Christchurch actually join this network, watchful interest beats premature action: find out who to call in Christchurch before deciding what, if anything, the Bay needs to build.",
+    "date": "04 Nov 2026",
+    "headline": "Revolut Goes Live as New Zealand's First Digital-Only Bank, Promises $120m Local Investment",
+    "byline": "3 November 2026 · Wellington — what a branchless, app-only bank means for Hawke's Bay",
+    "brief": "<p>New Zealand has its first fully digital bank. <b>Revolut gained banking registration from the Reserve Bank on Tuesday</b>, becoming the country's <b>27th registered bank</b>, with the Reserve Bank's own announcement noting Revolut NZ \"becomes the 27th registered bank in New Zealand,\" and <b>the first financial technology company to receive a banking licence in New Zealand</b>. Reserve Bank director of specialist supervision Scott McKinnon said <b>\"the Reserve Bank recognises the value that credible new entrants can bring to a competitive, resilient, inclusive and efficient financial system, and we are pleased Revolut NZ has met the required standard for bank registration in New Zealand.\"</b></p><p>Revolut, which has <b>more than 80 million customers worldwide</b>, has <b>pledged to invest $120 million into the local market over the next five years</b>, an investment the company says will <b>span product innovation, growth, and expanding its employer footprint</b>. From day one it is offering Instant Access Savings accounts featuring a <b>3.50% p.a. variable introductory rate for new retail customers for their first four months</b>, available on personal balances up to $50,000, with <b>eligible deposits of up to $100,000 protected by the Depositor Compensation Scheme</b>. The company <b>employs about 60 people in New Zealand (up from 10 earlier this year)</b>, with offices only in Auckland and Wellington, and <b>will continue operating without physical branches</b> — taking aim at the big four Australian-owned banks, which Revolut says are <b>dominant with more than 80% of lending</b> in New Zealand.</p><p>Revolut Bank New Zealand chief executive Ryan Brosnahan said <b>\"it's clear the market is primed for disruption, and this licence is the launchpad for our next chapter,\"</b> after an application process that <b>began when Revolut lodged its registration bid in December 2024</b>. Founder and global CEO Nik Storonsky said launching the New Zealand bank marked <b>another significant step in the company's mission to build the world's first truly global bank</b>, adding in his own statement that <b>\"securing our seventh bank licence, and our fifth this year alone, is a testament to our business model and our team.\"</b> Credit ratings agency <b>S&P Global has assigned Revolut an investment-grade BBB+ long-term credit rating, with a positive outlook.</b></p>",
+    "lens": "For Hawke's Bay, Revolut's arrival is a real but modest story — it's a new banking option, not a new local investment. The sources confirm Revolut's only New Zealand offices are in Auckland and Wellington, that staff numbers there have grown to only about 60, and that it will keep operating with no physical branches at all, so there are no jobs, no premises and no direct economic activity landing in Napier, Hastings or anywhere else in the region. What does change is choice: Hawke's Bay households and small businesses, like everyone else in the country, can now open a fully app-based savings account backed by the same Depositor Compensation Scheme protection as the big banks, at an introductory rate the big four — who hold more than 80% of lending nationally — will have to think about matching. For a region with plenty of small operators — orchardists, vineyards, tourism businesses, tradies — who already run their finances from a phone, that's a genuine, low-friction alternative worth knowing about rather than a reason for any civic response. The honest takeaway is: watch this as a consumer-choice story, not a Hawke's Bay growth story — there's little the region needs to \"do\" beyond individuals and small businesses deciding whether a branchless bank, with its time-limited introductory savings rate, suits them better than what's already on offer locally.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/2232078/ministry-of-awesome-launches-national-startup-network-in-christchurch"
+        "u": "https://www.rnz.co.nz/news/business/2311552/revolut-becomes-nz-s-first-digital-only-bank"
       },
       {
-        "l": "Foodeast",
-        "u": "https://www.foodeast.co.nz/2026/03/big-names-back-foodeast-innovation-vision/"
+        "l": "BusinessDesk",
+        "u": "https://www.businessdesk.co.nz/finance/revolut-secures-bank-registration/YBOLJFYX7VHWVNCQZTOWFUP45Q/"
+      },
+      {
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/business/companies/banking-finance/reserve-bank-grants-revolut-a-banking-licence-in-a-nz-first-enabling-the-tech-company-to-offer-savings-accounts-and-credit-cards/5ZTIJ2MM75EJLPURH7TAGFT52A/"
+      },
+      {
+        "l": "1News",
+        "u": "https://www.1news.co.nz/2026/11/03/fintech-revolut-officially-registered-as-nz-bank/"
+      },
+      {
+        "l": "Stuff",
+        "u": "https://www.stuff.co.nz/money/361054511/rbnz-registers-revolut-nzs-first-digi-only-bank"
+      },
+      {
+        "l": "Reserve Bank of New Zealand",
+        "u": "https://www.rbnz.govt.nz/news-and-events/news/2026/11/rbnz-registers-revolut-as-a-bank-in-new-zealand"
+      },
+      {
+        "l": "Otago Daily Times",
+        "u": "https://www.odt.co.nz/business/revolut-becomes-nzs-first-digital-only-bank-yoh7jnj2"
       }
     ]
   },
@@ -1841,6 +1861,24 @@
   ],
   "headlines": [
     {
+      "date": "02 Nov 2026",
+      "chipLabel": "Startups",
+      "headline": "'One Rocket Lab Can Birth Several Unicorns': NZ Launches National Startup Hub Network",
+      "byline": "Christchurch · what a nationwide founder network means for Hawke's Bay's own tech hopefuls",
+      "brief": "<p>Ministry of Awesome's vision to increase the density of New Zealand's startup ecosystem has led to the establishment of a national Startup Hub Network, branded NEST, in central Christchurch. At the launch, chief executive Graham Scown said, \"History has shown us that one Rocket Lab can give birth to several new unicorns.\" \"That's the ambition of a space like this, and programmes like ours,\" he said. \"We've already seen huge successes, like Partly, come out of Ministry of Awesome.\"</p><p>The aim, Scown said, was to give startup businesses faster, easier access to the space, community, mentoring and networks that accelerate the journey from idea to investment to export. He framed the problem as one of geography: \"We're geographically challenged, and so when you look at those ecosystems around the world that have been so incredibly successful, there's a real concentration, a geographical concentration,\" adding that \"In New Zealand we're a little bit cursed with people saying New Zealand's a small country.\" He said one aim of the network was to stop regions competing over scarce funding, and that \"one of the key components for me is that we are actively avoiding replicating or duplicating anything that already exists.\" The Christchurch hub itself offers work stations, meeting rooms, event spaces and recording studios, along with amenities such as changing rooms and garage usage.</p>",
+      "lens": "A network built to connect startup hubs across the country is only useful to Hawke's Bay if the region actually has a node plugged into it, and that is the open question the launch leaves hanging: Scown's pitch was about Christchurch as the pilot, with no detail yet on which regions follow or how they join. Hawke's Bay is not short of raw material for a Scown-style density play, but it is scattered rather than concentrated: the region already runs its own Innovation Club, a practical network connecting businesses, agencies and leaders around food, beverage and agritech out of Hastings. If Ministry of Awesome's model is genuinely about linking existing hubs rather than duplicating them, as Scown insists it is, then the honest next step for the Bay is finding out whether a food-and-fibre-focused club like that could be the region's plug-in point, not building something new from scratch. Given how little public detail there still is on how regions outside Christchurch actually join this network, watchful interest beats premature action: find out who to call in Christchurch before deciding what, if anything, the Bay needs to build.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/2232078/ministry-of-awesome-launches-national-startup-network-in-christchurch"
+        },
+        {
+          "l": "Foodeast",
+          "u": "https://www.foodeast.co.nz/2026/03/big-names-back-foodeast-innovation-vision/"
+        }
+      ]
+    },
+    {
       "date": "01 Nov 2026",
       "chipLabel": "Connectivity",
       "headline": "Two in Three Farmers Can't Call 111 as Rural Mobile Coverage 'Has Gone Backwards'",
@@ -2395,32 +2433,6 @@
         {
           "l": "Otago Daily Times",
           "u": "https://www.odt.co.nz/business/data-centre-builds-could-create-5000-jobs-report-x3iia0ym"
-        }
-      ]
-    },
-    {
-      "date": "21 Aug 2026",
-      "chipLabel": "Economy",
-      "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Is the Country Keeping the Gains?",
-      "byline": "National · 18 Aug 2026 · A landmark valuation of NZ's startup economy, and a warning about where the benefits actually land",
-      "brief": "<p><b>New Zealand's technology sector has received some unusually good news.</b> <span>A new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion. It identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</span> <span>Two of these are \"decacorns\" valued at more than US$10 billion – aerospace firm Rocket Lab and global financial services provider FNZ.</span> <span>Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested</span>, an analysis of the report by University of Auckland Business School entrepreneurship professor Rod McNaughton notes. Even so, <span>despite its high capital efficiency, New Zealand has less venture capital-backed enterprise value per person than several comparable innovation economies.</span></p><p>But the report's real sting is in the question it raises rather than the number it produces. <span>Is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</span> <span>A company can remain headquartered in New Zealand while its economic centre of gravity progressively moves elsewhere. Equally, a company can establish its headquarters offshore while retaining substantial research, engineering and other high-value activities in New Zealand.</span></p><p><span>Successful firms such as Xero, Trade Me, Pushpay and Rocket Lab produce experienced managers, engineers and investors who have learned how to build at a global scale.</span> <span>That is why the report describes Kiwi founders building major companies offshore as a \"double loss\" — New Zealand can miss both some of the original value creation and the subsequent recycling of talent and capital that helps produce the next generation of companies.</span> <span>Innovation policy should therefore pay as much attention to the productive capability successful firms leave behind as it does to capital invested, company valuations and unicorn counts.</span> <span>Ultimately, the greatest value of a successful technology company may be the capability it leaves behind. That is what makes the next success more likely.</span></p>",
-      "lens": "There's no Hawke's Bay unicorn in this report, and it would be dishonest to pretend otherwise — the region doesn't feature in it. But the argument at the heart of the piece is one the Bay should take personally: value isn't just what a company is worth at exit, it's whether the engineers, managers and technical know-how it trained stick around afterwards. For a region without a Rocket Lab or an FNZ, the practical takeaway isn't chasing unicorns — it's making sure that when Bay-connected people do cut their teeth at Auckland or Wellington scale-ups, or when a promising local software or agritech venture gets acquired, there's a reason for that experience and capability to come home rather than simply cash out and relocate. That means local firms and regional business support networks investing in retention — flexible remote-work arrangements, local advisory roles for returning talent, and visible pathways for founders who want to build from the regions rather than only from the main centres. It's a slower, less headline-grabbing strategy than landing a defence contract, but the report's own argument is that capability, not capital alone, is what compounds.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
-        },
-        {
-          "l": "NZ Herald",
-          "u": "https://www.nzherald.co.nz/nz/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits/7COPMECISVDKXBQHEDQQU3XUZE/"
-        },
-        {
-          "l": "University of Auckland",
-          "u": "https://www.auckland.ac.nz/en/news/2026/08/18/keeping-nz-tech-benefits.html"
-        },
-        {
-          "l": "The Conversation",
-          "u": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789"
         }
       ]
     }
