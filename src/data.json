@@ -1,41 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Fintech",
+    "chipLabel": "AI & Jobs",
     "sector": "bay",
-    "date": "04 Nov 2026",
-    "headline": "Revolut Goes Live as New Zealand's First Digital-Only Bank, Promises $120m Local Investment",
-    "byline": "3 November 2026 · Wellington — what a branchless, app-only bank means for Hawke's Bay",
-    "brief": "<p>New Zealand has its first fully digital bank. <b>Revolut gained banking registration from the Reserve Bank on Tuesday</b>, becoming the country's <b>27th registered bank</b>, with the Reserve Bank's own announcement noting Revolut NZ \"becomes the 27th registered bank in New Zealand,\" and <b>the first financial technology company to receive a banking licence in New Zealand</b>. Reserve Bank director of specialist supervision Scott McKinnon said <b>\"the Reserve Bank recognises the value that credible new entrants can bring to a competitive, resilient, inclusive and efficient financial system, and we are pleased Revolut NZ has met the required standard for bank registration in New Zealand.\"</b></p><p>Revolut, which has <b>more than 80 million customers worldwide</b>, has <b>pledged to invest $120 million into the local market over the next five years</b>, an investment the company says will <b>span product innovation, growth, and expanding its employer footprint</b>. From day one it is offering Instant Access Savings accounts featuring a <b>3.50% p.a. variable introductory rate for new retail customers for their first four months</b>, available on personal balances up to $50,000, with <b>eligible deposits of up to $100,000 protected by the Depositor Compensation Scheme</b>. The company <b>employs about 60 people in New Zealand (up from 10 earlier this year)</b>, with offices only in Auckland and Wellington, and <b>will continue operating without physical branches</b> — taking aim at the big four Australian-owned banks, which Revolut says are <b>dominant with more than 80% of lending</b> in New Zealand.</p><p>Revolut Bank New Zealand chief executive Ryan Brosnahan said <b>\"it's clear the market is primed for disruption, and this licence is the launchpad for our next chapter,\"</b> after an application process that <b>began when Revolut lodged its registration bid in December 2024</b>. Founder and global CEO Nik Storonsky said launching the New Zealand bank marked <b>another significant step in the company's mission to build the world's first truly global bank</b>, adding in his own statement that <b>\"securing our seventh bank licence, and our fifth this year alone, is a testament to our business model and our team.\"</b> Credit ratings agency <b>S&P Global has assigned Revolut an investment-grade BBB+ long-term credit rating, with a positive outlook.</b></p>",
-    "lens": "For Hawke's Bay, Revolut's arrival is a real but modest story — it's a new banking option, not a new local investment. The sources confirm Revolut's only New Zealand offices are in Auckland and Wellington, that staff numbers there have grown to only about 60, and that it will keep operating with no physical branches at all, so there are no jobs, no premises and no direct economic activity landing in Napier, Hastings or anywhere else in the region. What does change is choice: Hawke's Bay households and small businesses, like everyone else in the country, can now open a fully app-based savings account backed by the same Depositor Compensation Scheme protection as the big banks, at an introductory rate the big four — who hold more than 80% of lending nationally — will have to think about matching. For a region with plenty of small operators — orchardists, vineyards, tourism businesses, tradies — who already run their finances from a phone, that's a genuine, low-friction alternative worth knowing about rather than a reason for any civic response. The honest takeaway is: watch this as a consumer-choice story, not a Hawke's Bay growth story — there's little the region needs to \"do\" beyond individuals and small businesses deciding whether a branchless bank, with its time-limited introductory savings rate, suits them better than what's already on offer locally.",
+    "date": "05 Nov 2026",
+    "headline": "Police Cut Two Dozen File Management Jobs After Years of AI 'Panic' — Even As Its Own Papers Predict AI Will Reshape the Workforce",
+    "byline": "Wellington · 4 Nov 2026 · what a quiet police restructure says about every regional back office running on AI",
+    "brief": "<p>RNZ has revealed that <cite index=\"1-2\">police cut two dozen jobs in their file management unit last month, in a restructure in which more than 60 positions were disestablished, created or shifted</cite>. <cite index=\"1-3\">Transcription Services has been largely spared from the job cuts, but is now subject to its own modernisation programme</cite>, after <cite index=\"1-4\">its staff have talked about \"panic\" over job security since police began introducing AI tools to speed up investigations two years ago</cite>.</p><p>Police insist the technology isn't to blame: <cite index=\"12-5,12-6\">front-line file management and transcription services national manager Sarah Hutchings said people were still needed to transcribe accurate, quality statements, such as for court, and that \"Artificial Intelligence was not a factor of workforce reductions in this review.\"</cite> Yet <cite index=\"13-6\">Police's own July 2026 restructure document states: \"As these technologies become fully embedded, they will directly influence the size, structure, and skill mix of our workforce.\"</cite> The Police Association, which <cite index=\"19-4\">has about 280 members in the restructured unit</cite>, <cite index=\"1-7\">said AI came up in its talks with police about the changes</cite>, and association president <cite index=\"19-7\">Steve Watt told RNZ that police \"reassured us that it was simply a trial and that no jobs were under threat as a result of the technology that they were introducing.\"</cite></p><p>The anxiety dates back to <cite index=\"19-5\">Transcription Services hearing that police in the regions were using Whisper in mid-2024, after which staff voiced job fears and contacted the Police Association</cite>. <cite index=\"10-10\">Whisper use was largely suspended for about six months</cite>, after <cite index=\"13-7\">a trial was undermined by officers breaching safeguards, leading Police to ban it from transcribing English, te reo Maori and Pacific languages</cite> — a ban that, according to one internal report, was <cite index=\"1-8\">\"not driven by concerns about technological risk, but rather by the potential impact on specific roles\"</cite>. When leadership later moved to reintroduce the tool, <cite index=\"28-9\">a Transcription Services manager emailed them: \"Last time this happened, it caused a panic amongst our team and concerns over job security.\"</cite></p>",
+    "lens": "Strip away the Wellington politics and this is a template for exactly the kind of change that could land in Hawke's Bay's own public-sector and admin-heavy workplaces — council back offices, health record-keeping, regional agency file units — before it ever touches a frontline role anyone was watching. The scale of the risk is real: <cite index=\"4-9\">in 2025 McKinsey estimated 60-70% of activities in office support, customer service and professional services could be automated</cite>, and <cite index=\"4-10\">a University of Auckland analysis in April 2026 found AI was mostly automating tasks rather than whole roles, but that more than half of NZ employers surveyed reported significant displacement and slower entry-level hiring</cite>. The Police case shows how that plays out on the ground — a manager can tell staff a tool is \"simply a trial\" while a planning document elsewhere says the same technology will \"directly influence the size, structure, and skill mix\" of the workforce, and staff can end up hearing about a pilot through the grapevine rather than a plan. Hawke's Bay employers and unions with back-office teams — council, health, insurance, agribusiness admin — would do well to ask now, before any tool is trialled, exactly what decisions it will influence, who decides if it changes headcount, and how staff are told. That's a cheap, sensible step the region can take today; a Mission Control-style AI taskforce or hub is overkill for a story that is, so far, about a few dozen Wellington file-management jobs — but the governance lesson travels well before the technology does.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/2311552/revolut-becomes-nz-s-first-digital-only-bank"
+        "u": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles"
       },
       {
-        "l": "BusinessDesk",
-        "u": "https://www.businessdesk.co.nz/finance/revolut-secures-bank-registration/YBOLJFYX7VHWVNCQZTOWFUP45Q/"
+        "l": "Scoop",
+        "u": "https://www.scoop.co.nz/stories/SC2611/S00004/ai-panic-back-office-jobs-cut-but-not-the-expected-roles.htm"
       },
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/business/companies/banking-finance/reserve-bank-grants-revolut-a-banking-licence-in-a-nz-first-enabling-the-tech-company-to-offer-savings-accounts-and-credit-cards/5ZTIJ2MM75EJLPURH7TAGFT52A/"
-      },
-      {
-        "l": "1News",
-        "u": "https://www.1news.co.nz/2026/11/03/fintech-revolut-officially-registered-as-nz-bank/"
-      },
-      {
-        "l": "Stuff",
-        "u": "https://www.stuff.co.nz/money/361054511/rbnz-registers-revolut-nzs-first-digi-only-bank"
-      },
-      {
-        "l": "Reserve Bank of New Zealand",
-        "u": "https://www.rbnz.govt.nz/news-and-events/news/2026/11/rbnz-registers-revolut-as-a-bank-in-new-zealand"
-      },
-      {
-        "l": "Otago Daily Times",
-        "u": "https://www.odt.co.nz/business/revolut-becomes-nzs-first-digital-only-bank-yoh7jnj2"
+        "l": "b2bnews.co.nz",
+        "u": "https://b2bnews.co.nz/news/nz-police-cut-file-jobs-as-ai-reshapes-the-back-office/"
       }
     ]
   },
@@ -1861,6 +1845,44 @@
   ],
   "headlines": [
     {
+      "date": "04 Nov 2026",
+      "chipLabel": "Fintech",
+      "headline": "Revolut Goes Live as New Zealand's First Digital-Only Bank, Promises $120m Local Investment",
+      "byline": "3 November 2026 · Wellington — what a branchless, app-only bank means for Hawke's Bay",
+      "brief": "<p>New Zealand has its first fully digital bank. <b>Revolut gained banking registration from the Reserve Bank on Tuesday</b>, becoming the country's <b>27th registered bank</b>, with the Reserve Bank's own announcement noting Revolut NZ \"becomes the 27th registered bank in New Zealand,\" and <b>the first financial technology company to receive a banking licence in New Zealand</b>. Reserve Bank director of specialist supervision Scott McKinnon said <b>\"the Reserve Bank recognises the value that credible new entrants can bring to a competitive, resilient, inclusive and efficient financial system, and we are pleased Revolut NZ has met the required standard for bank registration in New Zealand.\"</b></p><p>Revolut, which has <b>more than 80 million customers worldwide</b>, has <b>pledged to invest $120 million into the local market over the next five years</b>, an investment the company says will <b>span product innovation, growth, and expanding its employer footprint</b>. From day one it is offering Instant Access Savings accounts featuring a <b>3.50% p.a. variable introductory rate for new retail customers for their first four months</b>, available on personal balances up to $50,000, with <b>eligible deposits of up to $100,000 protected by the Depositor Compensation Scheme</b>. The company <b>employs about 60 people in New Zealand (up from 10 earlier this year)</b>, with offices only in Auckland and Wellington, and <b>will continue operating without physical branches</b> — taking aim at the big four Australian-owned banks, which Revolut says are <b>dominant with more than 80% of lending</b> in New Zealand.</p><p>Revolut Bank New Zealand chief executive Ryan Brosnahan said <b>\"it's clear the market is primed for disruption, and this licence is the launchpad for our next chapter,\"</b> after an application process that <b>began when Revolut lodged its registration bid in December 2024</b>. Founder and global CEO Nik Storonsky said launching the New Zealand bank marked <b>another significant step in the company's mission to build the world's first truly global bank</b>, adding in his own statement that <b>\"securing our seventh bank licence, and our fifth this year alone, is a testament to our business model and our team.\"</b> Credit ratings agency <b>S&P Global has assigned Revolut an investment-grade BBB+ long-term credit rating, with a positive outlook.</b></p>",
+      "lens": "For Hawke's Bay, Revolut's arrival is a real but modest story — it's a new banking option, not a new local investment. The sources confirm Revolut's only New Zealand offices are in Auckland and Wellington, that staff numbers there have grown to only about 60, and that it will keep operating with no physical branches at all, so there are no jobs, no premises and no direct economic activity landing in Napier, Hastings or anywhere else in the region. What does change is choice: Hawke's Bay households and small businesses, like everyone else in the country, can now open a fully app-based savings account backed by the same Depositor Compensation Scheme protection as the big banks, at an introductory rate the big four — who hold more than 80% of lending nationally — will have to think about matching. For a region with plenty of small operators — orchardists, vineyards, tourism businesses, tradies — who already run their finances from a phone, that's a genuine, low-friction alternative worth knowing about rather than a reason for any civic response. The honest takeaway is: watch this as a consumer-choice story, not a Hawke's Bay growth story — there's little the region needs to \"do\" beyond individuals and small businesses deciding whether a branchless bank, with its time-limited introductory savings rate, suits them better than what's already on offer locally.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/2311552/revolut-becomes-nz-s-first-digital-only-bank"
+        },
+        {
+          "l": "BusinessDesk",
+          "u": "https://www.businessdesk.co.nz/finance/revolut-secures-bank-registration/YBOLJFYX7VHWVNCQZTOWFUP45Q/"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/business/companies/banking-finance/reserve-bank-grants-revolut-a-banking-licence-in-a-nz-first-enabling-the-tech-company-to-offer-savings-accounts-and-credit-cards/5ZTIJ2MM75EJLPURH7TAGFT52A/"
+        },
+        {
+          "l": "1News",
+          "u": "https://www.1news.co.nz/2026/11/03/fintech-revolut-officially-registered-as-nz-bank/"
+        },
+        {
+          "l": "Stuff",
+          "u": "https://www.stuff.co.nz/money/361054511/rbnz-registers-revolut-nzs-first-digi-only-bank"
+        },
+        {
+          "l": "Reserve Bank of New Zealand",
+          "u": "https://www.rbnz.govt.nz/news-and-events/news/2026/11/rbnz-registers-revolut-as-a-bank-in-new-zealand"
+        },
+        {
+          "l": "Otago Daily Times",
+          "u": "https://www.odt.co.nz/business/revolut-becomes-nzs-first-digital-only-bank-yoh7jnj2"
+        }
+      ]
+    },
+    {
       "date": "02 Nov 2026",
       "chipLabel": "Startups",
       "headline": "'One Rocket Lab Can Birth Several Unicorns': NZ Launches National Startup Hub Network",
@@ -2415,24 +2437,6 @@
         {
           "l": "Wairoa i-SITE",
           "u": "https://www.visitwairoa.co.nz/welcome-to-wairoa/space-coast-new-zealand/"
-        }
-      ]
-    },
-    {
-      "date": "23 Aug 2026",
-      "chipLabel": "Infrastructure",
-      "headline": "BCG Report: NZ Data-Centre Boom Could Be Worth $120 Billion — With 3,500 Construction Jobs Up For Grabs",
-      "byline": "23 August 2026 · National data-centre push and its trades boom — the electrical, mechanical and civil jobs on offer, and why Hawke's Bay should be paying attention",
-      "brief": "<p>A new report from Boston Consulting Group (BCG) has sharply lifted New Zealand's growth story for data centres. <b><cite index=\"1-3\">The report by Boston Consulting Group (BCG) said New Zealand could capture up to $120 billion in economic activity from new data centres over the next decade if it moved quickly.</cite></b> That's a big jump — <b><cite index=\"1-4\">up from the group's earlier forecast of $70 billion</cite></b> in potential economic gains — and it's built on <b><cite index=\"1-5\">a larger future data centre build-out of 1 gigawatt (GW)</cite></b>.</p><p>The jobs numbers are just as striking. BCG said a construction programme of that scale could drive economic activity across the country's supply chain, <b><cite index=\"1-6\">creating about 3500 jobs during the peak construction period</cite></b>, with <b><cite index=\"1-7\">about 60 percent of those roles</cite></b> expected to be <b>in electrical and mechanical trades</b>, and <b><cite index=\"1-7\">civil trades accounting for a further 21 percent</cite></b>. Once built, <cite index=\"18-1\">the report said that once operational, data centres typically sustain about one role for every megawatt of capacity, resulting in about 1000 ongoing jobs</cite>. BCG New Zealand managing director and partner Kelly Newton said <cite index=\"1-9\">\"Between New Zealand's natural advantages, renewables development, stable political environment, and growing investor interest, it has the opportunity to move quickly to capture its slice of the global data centre pie, worth approximately $120 billion in economic activity.\"</cite></p><p>The forecast lands as real projects start moving: <b><cite index=\"1-10\">Contact Energy announced it was exploring plans with CDC Data Centres for a potential large-scale 250-megawatt data centre at Stratford in Taranaki</cite></b>, while in the south, <b><cite index=\"1-11\">Datagrid is preparing to build a large-scale data centre at Makarewa, north of Invercargill</cite></b>. It's not uncontested — <cite index=\"1-12,1-13\">large builds have faced local opposition in the United States and the Greens have recently called for a one-year moratorium</cite> on data centre construction here.</p>",
-      "lens": "None of this build-out is landing in Hawke's Bay yet — the projects named are in Taranaki and Southland, not here — but the workforce mix BCG describes is the region's bread and butter: electricians, mechanical fitters and civil contractors are exactly the trades Hawke's Bay's ITOs and polytechs already train for orchards, wineries and post-Cyclone Gabrielle rebuild work. If a genuine gigawatt-scale national build-out arrives, the honest opportunity for the Bay isn't hosting a hyperscale campus — that will chase cheap land, grid capacity and renewable generation elsewhere — it's supplying skilled trades labour and components into a construction pipeline that BCG says will peak nationally within the decade. The region's economic development agencies and training providers should be watching where the actual consented projects land and making sure local apprentices and contractors are visible and ready to bid into that supply chain, rather than assuming a data centre itself is coming to Napier or Hastings.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1063865/data-centre-build-could-create-5000-jobs-report-says"
-        },
-        {
-          "l": "Otago Daily Times",
-          "u": "https://www.odt.co.nz/business/data-centre-builds-could-create-5000-jobs-report-x3iia0ym"
         }
       ]
     }
