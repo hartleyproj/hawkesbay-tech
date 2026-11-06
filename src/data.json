@@ -1,25 +1,29 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "AI & Jobs",
+    "chipLabel": "Infrastructure",
     "sector": "bay",
-    "date": "05 Nov 2026",
-    "headline": "Police Cut Two Dozen File Management Jobs After Years of AI 'Panic' — Even As Its Own Papers Predict AI Will Reshape the Workforce",
-    "byline": "Wellington · 4 Nov 2026 · what a quiet police restructure says about every regional back office running on AI",
-    "brief": "<p>RNZ has revealed that <cite index=\"1-2\">police cut two dozen jobs in their file management unit last month, in a restructure in which more than 60 positions were disestablished, created or shifted</cite>. <cite index=\"1-3\">Transcription Services has been largely spared from the job cuts, but is now subject to its own modernisation programme</cite>, after <cite index=\"1-4\">its staff have talked about \"panic\" over job security since police began introducing AI tools to speed up investigations two years ago</cite>.</p><p>Police insist the technology isn't to blame: <cite index=\"12-5,12-6\">front-line file management and transcription services national manager Sarah Hutchings said people were still needed to transcribe accurate, quality statements, such as for court, and that \"Artificial Intelligence was not a factor of workforce reductions in this review.\"</cite> Yet <cite index=\"13-6\">Police's own July 2026 restructure document states: \"As these technologies become fully embedded, they will directly influence the size, structure, and skill mix of our workforce.\"</cite> The Police Association, which <cite index=\"19-4\">has about 280 members in the restructured unit</cite>, <cite index=\"1-7\">said AI came up in its talks with police about the changes</cite>, and association president <cite index=\"19-7\">Steve Watt told RNZ that police \"reassured us that it was simply a trial and that no jobs were under threat as a result of the technology that they were introducing.\"</cite></p><p>The anxiety dates back to <cite index=\"19-5\">Transcription Services hearing that police in the regions were using Whisper in mid-2024, after which staff voiced job fears and contacted the Police Association</cite>. <cite index=\"10-10\">Whisper use was largely suspended for about six months</cite>, after <cite index=\"13-7\">a trial was undermined by officers breaching safeguards, leading Police to ban it from transcribing English, te reo Maori and Pacific languages</cite> — a ban that, according to one internal report, was <cite index=\"1-8\">\"not driven by concerns about technological risk, but rather by the potential impact on specific roles\"</cite>. When leadership later moved to reintroduce the tool, <cite index=\"28-9\">a Transcription Services manager emailed them: \"Last time this happened, it caused a panic amongst our team and concerns over job security.\"</cite></p>",
-    "lens": "Strip away the Wellington politics and this is a template for exactly the kind of change that could land in Hawke's Bay's own public-sector and admin-heavy workplaces — council back offices, health record-keeping, regional agency file units — before it ever touches a frontline role anyone was watching. The scale of the risk is real: <cite index=\"4-9\">in 2025 McKinsey estimated 60-70% of activities in office support, customer service and professional services could be automated</cite>, and <cite index=\"4-10\">a University of Auckland analysis in April 2026 found AI was mostly automating tasks rather than whole roles, but that more than half of NZ employers surveyed reported significant displacement and slower entry-level hiring</cite>. The Police case shows how that plays out on the ground — a manager can tell staff a tool is \"simply a trial\" while a planning document elsewhere says the same technology will \"directly influence the size, structure, and skill mix\" of the workforce, and staff can end up hearing about a pilot through the grapevine rather than a plan. Hawke's Bay employers and unions with back-office teams — council, health, insurance, agribusiness admin — would do well to ask now, before any tool is trialled, exactly what decisions it will influence, who decides if it changes headcount, and how staff are told. That's a cheap, sensible step the region can take today; a Mission Control-style AI taskforce or hub is overkill for a story that is, so far, about a few dozen Wellington file-management jobs — but the governance lesson travels well before the technology does.",
+    "date": "07 Nov 2026",
+    "headline": "Copper Thieves Are Cutting Auckland's Internet — And Rural and Elderly Residents Are Paying the Price",
+    "byline": "Auckland · a West Auckland telecom-crime wave exposes just how fragile rural and elderly connectivity really is",
+    "brief": "<p>Police have issued a fresh warning after a wave of copper thefts tore through telecommunications infrastructure in West Auckland, with officers saying <b>thousands of Aucklanders</b> could be affected by internet outages as offenders strip out old copper wiring for scrap. <cite index=\"8-3\">Waitematā Police say they are concerned about an increase in thefts targeting telecommunications infrastructure, power cables, and electrical substations across our communities</cite>, with <cite index=\"1-6\">thefts often occurring overnight, with offenders sometimes posing as legitimate workers to avoid suspicion</cite>.</p><p>The human cost is now on the record. <cite index=\"8-6\">One recent report saw internet lines supplying a school in Swanson deliberately cut</cite>, and <cite index=\"10-6\">staff at the school were unable to immediately access the student's online medical records when the emergency occurred, resulting in a 20-minute delay while information was manually retrieved from local servers</cite>. <cite index=\"8-7,8-8\">A second report of a damaged fibre cable left more than 3,100 households and businesses across West Auckland without internet services, with the outage affecting over 10,000 people in the Swanson and Massey areas</cite>. <cite index=\"8-9,8-10\">An 80-year-old Henderson Valley resident who lives rurally and relies on copper telecommunications lost all connectivity for a month after infrastructure was repeatedly targeted, leaving them isolated and without a reliable means of contacting emergency assistance during that period</cite>. <cite index=\"10-3\">Stealing telecommunications assets and power cables carries a maximum penalty of seven years' imprisonment</cite>.</p><p>Detective Sergeant Luke Blignaut explained why fibre keeps getting caught in the crossfire: <cite index=\"17-3\">thieves were damaging fibre cables while trying to steal copper wiring from the disused landline and internet cables which fibre has mostly replaced</cite>, and because <cite index=\"17-1\">fibre lines are often run alongside the legacy copper lines, offenders are often mistaking these new fibre lines and cutting them as well</cite>. Police are now asking scrap metal dealers to help: <cite index=\"3-8,3-9\">Blignaut said scrap dealers needed to work with police to combat the issue, advising that if they suspect anything they should contact police immediately</cite>, warning that <cite index=\"17-8\">if scrap dealers are accepting this stolen copper, that is enabling these offenders to continue</cite>.</p>",
+    "lens": "This is, on paper, a West Auckland crime story — but it lands differently in a region that already knows exactly how it feels to lose connectivity when it matters most. Hawke's Bay has rural properties, elderly residents living alone down long driveways, orchards and vineyards running EFTPOS and irrigation off copper and fibre, and a tourism economy that cannot afford silent eftpos terminals or unreachable emergency numbers — all the same vulnerabilities this police warning describes, just with a Cyclone Gabrielle memory layered on top. The sensible, low-drama response is not a new regional tech initiative but basic vigilance: local scrap metal dealers working with Eastern Police District the way Waitematā's are being asked to, Chorus and lines companies flagging any unusual copper-removal jobs in rural Hawke's Bay before cables are cut rather than after, and councils or community boards quietly reminding isolated and elderly residents what backup options — a charged phone, a neighbour check-in, a satellite option — exist if the line goes dead. There's no case here for a big regional tech investment; the honest answer is that Hawke's Bay's job is prevention and preparedness, not invention — making sure this stays a West Auckland story that never needs a Hawke's Bay sequel.",
     "sources": [
       {
         "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles"
+        "u": "https://www.rnz.co.nz/news/crime-and-justice/2385506/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
       },
       {
-        "l": "Scoop",
-        "u": "https://www.scoop.co.nz/stories/SC2611/S00004/ai-panic-back-office-jobs-cut-but-not-the-expected-roles.htm"
+        "l": "Stuff",
+        "u": "https://www.stuff.co.nz/nz-news/361055757/school-medical-emergency-delayed-after-copper-thieves-cut-west-auckland-lines"
       },
       {
-        "l": "b2bnews.co.nz",
-        "u": "https://b2bnews.co.nz/news/nz-police-cut-file-jobs-as-ai-reshapes-the-back-office/"
+        "l": "LiveNews (NZ Police release)",
+        "u": "https://livenews.co.nz/2026/11/06/cutting-the-connection-police-warn-copper-thieves/"
+      },
+      {
+        "l": "InfrastructureNews NZ",
+        "u": "https://infrastructurenews.co.nz/story/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
       }
     ]
   },
@@ -656,6 +660,29 @@
       "chip": "c-conn",
       "tag": "Satellites and rural broadband lifting the ceiling on what the back-country can do.",
       "stories": [
+        {
+          "date": "07 Nov 2026",
+          "headline": "One NZ's $100m Mobile Network Push This Year Included New Work in Hawke's Bay",
+          "brief": "<p>One New Zealand completed <b>28 mobile network upgrades and new site builds</b> between July and September 2026, including <b>six new Rural Connectivity Group towers</b> for rural coverage, as part of a year in which the telco spent roughly <b>$100 million</b> on its mobile network — with Hawke's Bay named among the regions that received new or improved infrastructure.</p>",
+          "body": [
+            "One New Zealand completed work on 28 mobile network sites across the country between July and September 2026, responding to ongoing increases in data use and customer demand. Of these, 22 were extending 5G coverage — eight of them new site builds and 14 upgrades to existing sites — while the remaining six were new Rural Connectivity Group (RCG) sites, helping extend mobile connectivity to more of rural New Zealand.",
+            "Crucially for the region, One NZ's own account of the quarter's work names Hawke's Bay among the places that received new or improved mobile network infrastructure, alongside Auckland, Northland, Waikato, Bay of Plenty, Wellington, Canterbury, Otago and the West Coast — a spread the company describes as running \"from Paihia and Kaitaia in the north, to Queenstown and Wānaka in the south.\" Neither of the cited reports names the specific Hawke's Bay site or sites involved.",
+            "By the end of September, One New Zealand had completed work on 109 mobile network sites during 2026 as a whole. That included 61 new site builds, 86 sites with coverage improvements and 91 sites where new 5G technology had been added, alongside upgrades to its core network. In FY26, One NZ invested approximately $100 million in its mobile network and supporting infrastructure, which the company says \"follows the shutdown of legacy 3G networks, and continued investment right across New Zealand, from cities to farms and lots of places in between.\"",
+            "One NZ also points to satellite as a complement to ground-based towers in areas without conventional coverage. According to the company, satellite connectivity extends reach across about 40% of New Zealand's landmass outside traditional mobile coverage, as well as up to 85 nautical miles offshore. One NZ says it led the New Zealand market in launching both 4G and 5G, was the first operator globally to launch a nationwide Satellite TXT service powered by Starlink, and has been named the country's best mobile network by global testing company Umlaut for five years running.",
+            "Rural connectivity remains a priority for New Zealand's telecoms sector because of the country's geography and persistent gaps in mobile coverage beyond towns and transport corridors — the gap the RCG site builds and the satellite-complement strategy are both aimed at closing."
+          ],
+          "lens": "The headline fact for the Bay is easy to miss inside a national roundup, but it's real: One NZ's own account of this quarter's 28-site programme explicitly lists Hawke's Bay among the regions that got new or improved mobile infrastructure, not just the big centres. That's a genuine, sourced local inclusion — not a case of the Bay waiting on the sidelines of a national statistic, as a purely national-only framing might suggest. What's missing from the company's statements, though, is exactly the detail locals would need to act on it: which Hawke's Bay site or sites were touched, whether it was a coverage fix in town or capacity work on a transport corridor, and whether any of the six new RCG rural towers built nationally this quarter landed in our own hill country or back blocks. Given how much of Hawke's Bay's rural economy — orchards, vineyards, sheep and beef stations — depends on reliable mobile coverage for things like payments, on-farm monitoring and basic safety, the practical next step for local councils, Business Hawke's Bay and grower groups is straightforward: ask One NZ and the Rural Connectivity Group directly which site here this quarter's work covered, and press for the same transparency on where the stated $100 million FY26 spend and the satellite service's reach into the roughly 40% of the country outside normal coverage are actually showing up locally. There's a confirmed hook to pull on here — the job now is to find out exactly what it bought for the Bay.",
+          "sources": [
+            {
+              "l": "Scoop",
+              "u": "https://www.scoop.co.nz/stories/BU2611/S00055/one-nz-completes-28-mobile-upgrades-and-new-site-builds-in-the-past-quarter.htm"
+            },
+            {
+              "l": "IT Brief NZ",
+              "u": "https://itbrief.co.nz/story/one-new-zealand-completes-28-mobile-network-upgrades"
+            }
+          ]
+        },
         {
           "date": "02 Nov 2026",
           "headline": "Canadian Carrier Rogers Switches On Starlink Satellite Roaming for Travellers to New Zealand, Japan and Australia",
@@ -1845,6 +1872,28 @@
   ],
   "headlines": [
     {
+      "date": "05 Nov 2026",
+      "chipLabel": "AI & Jobs",
+      "headline": "Police Cut Two Dozen File Management Jobs After Years of AI 'Panic' — Even As Its Own Papers Predict AI Will Reshape the Workforce",
+      "byline": "Wellington · 4 Nov 2026 · what a quiet police restructure says about every regional back office running on AI",
+      "brief": "<p>RNZ has revealed that <cite index=\"1-2\">police cut two dozen jobs in their file management unit last month, in a restructure in which more than 60 positions were disestablished, created or shifted</cite>. <cite index=\"1-3\">Transcription Services has been largely spared from the job cuts, but is now subject to its own modernisation programme</cite>, after <cite index=\"1-4\">its staff have talked about \"panic\" over job security since police began introducing AI tools to speed up investigations two years ago</cite>.</p><p>Police insist the technology isn't to blame: <cite index=\"12-5,12-6\">front-line file management and transcription services national manager Sarah Hutchings said people were still needed to transcribe accurate, quality statements, such as for court, and that \"Artificial Intelligence was not a factor of workforce reductions in this review.\"</cite> Yet <cite index=\"13-6\">Police's own July 2026 restructure document states: \"As these technologies become fully embedded, they will directly influence the size, structure, and skill mix of our workforce.\"</cite> The Police Association, which <cite index=\"19-4\">has about 280 members in the restructured unit</cite>, <cite index=\"1-7\">said AI came up in its talks with police about the changes</cite>, and association president <cite index=\"19-7\">Steve Watt told RNZ that police \"reassured us that it was simply a trial and that no jobs were under threat as a result of the technology that they were introducing.\"</cite></p><p>The anxiety dates back to <cite index=\"19-5\">Transcription Services hearing that police in the regions were using Whisper in mid-2024, after which staff voiced job fears and contacted the Police Association</cite>. <cite index=\"10-10\">Whisper use was largely suspended for about six months</cite>, after <cite index=\"13-7\">a trial was undermined by officers breaching safeguards, leading Police to ban it from transcribing English, te reo Maori and Pacific languages</cite> — a ban that, according to one internal report, was <cite index=\"1-8\">\"not driven by concerns about technological risk, but rather by the potential impact on specific roles\"</cite>. When leadership later moved to reintroduce the tool, <cite index=\"28-9\">a Transcription Services manager emailed them: \"Last time this happened, it caused a panic amongst our team and concerns over job security.\"</cite></p>",
+      "lens": "Strip away the Wellington politics and this is a template for exactly the kind of change that could land in Hawke's Bay's own public-sector and admin-heavy workplaces — council back offices, health record-keeping, regional agency file units — before it ever touches a frontline role anyone was watching. The scale of the risk is real: <cite index=\"4-9\">in 2025 McKinsey estimated 60-70% of activities in office support, customer service and professional services could be automated</cite>, and <cite index=\"4-10\">a University of Auckland analysis in April 2026 found AI was mostly automating tasks rather than whole roles, but that more than half of NZ employers surveyed reported significant displacement and slower entry-level hiring</cite>. The Police case shows how that plays out on the ground — a manager can tell staff a tool is \"simply a trial\" while a planning document elsewhere says the same technology will \"directly influence the size, structure, and skill mix\" of the workforce, and staff can end up hearing about a pilot through the grapevine rather than a plan. Hawke's Bay employers and unions with back-office teams — council, health, insurance, agribusiness admin — would do well to ask now, before any tool is trialled, exactly what decisions it will influence, who decides if it changes headcount, and how staff are told. That's a cheap, sensible step the region can take today; a Mission Control-style AI taskforce or hub is overkill for a story that is, so far, about a few dozen Wellington file-management jobs — but the governance lesson travels well before the technology does.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles"
+        },
+        {
+          "l": "Scoop",
+          "u": "https://www.scoop.co.nz/stories/SC2611/S00004/ai-panic-back-office-jobs-cut-but-not-the-expected-roles.htm"
+        },
+        {
+          "l": "b2bnews.co.nz",
+          "u": "https://b2bnews.co.nz/news/nz-police-cut-file-jobs-as-ai-reshapes-the-back-office/"
+        }
+      ]
+    },
+    {
       "date": "04 Nov 2026",
       "chipLabel": "Fintech",
       "headline": "Revolut Goes Live as New Zealand's First Digital-Only Bank, Promises $120m Local Investment",
@@ -2415,28 +2464,6 @@
         {
           "l": "Mobile World Live",
           "u": "https://www.mobileworldlive.com/operators/new-zealand-pair-eye-ran-sharing-move"
-        }
-      ]
-    },
-    {
-      "date": "26 Aug 2026",
-      "chipLabel": "Investment",
-      "headline": "NZ's Venture-Backed Tech Firms Now Worth $133 Billion — But Who's Cashing In?",
-      "byline": "National · a nationwide tally of unicorns raises the question of what regions outside the big cities actually get from the boom",
-      "brief": "<p>New Zealand's technology sector has received some unusually good news: <cite index=\"1-1\">a new report by global data platform Dealroom and NZ Growth Capital Partners estimates the combined enterprise value of New Zealand's venture-backed companies at NZ$133 billion.</cite> <cite index=\"1-2\">The report identifies more than 400 firms, including eight \"unicorns\" that have reached a valuation or exit of more than US$1 billion.</cite></p><p>Two of those firms have gone further still: <cite index=\"1-3\">two of these are \"decacorns\" valued at more than US$10 billion — aerospace firm Rocket Lab and global financial services provider FNZ.</cite> <cite index=\"1-5,1-6\">Relative to peer innovation economies, New Zealand generates unusually high enterprise value relative to the venture capital invested, an impressive result for a country of New Zealand's size.</cite></p><p>But <cite index=\"1-7,1-8\">it also prompts a question many local observers will be asking: is New Zealand as good at retaining the wider economic benefits of successful technology companies as it is at creating them?</cite> That framing points to the real debate behind the numbers: value creation at this scale hasn't necessarily translated into broad-based national benefit, raising questions about where the gains actually land.</p>",
-      "lens": "<p>Hawke's Bay isn't as absent from this story as a national tally might suggest. One of the two firms Dealroom and NZ Growth Capital Partners count as a New Zealand decacorn already operates on the Bay's doorstep. <cite index=\"11-4\">Rocket Lab's first rocket lifted off in May 2017 from its launch pad in Hawke's Bay, and the company has since grown into a major space business built around its 18-metre Electron rocket.</cite> <cite index=\"29-2\">The Wairoa District coastline is home to Rocket Lab's Launch Complex 1, the world's first and only private orbital launch site.</cite> <cite index=\"29-1\">Rocket Lab's Mahia operations have generated dozens of local jobs in engineering, launch-pad work, logistics and administrative support, alongside a network of more than 300 local suppliers.</cite> Launch nights still draw locals and visitors to <cite index=\"11-1\">the official viewing site near Morere Lodge, at the end of Blucks Pit Road in Nūhaka.</cite></p><p>So the honest local reading of this report isn't that Hawke's Bay has no stake in the country's tech wealth — it's that hosting the infrastructure and hosting the value are two different things. <cite index=\"11-15\">Rocket Lab became a publicly listed company on the US stock market in 2021,</cite> and the enterprise value Dealroom is now measuring sits overwhelmingly with shareholders and head-office functions well beyond Wairoa. The rockets go up from Mahia; the equity, the listing proceeds and most of the highest-value jobs sit elsewhere. That's the same tension the national report raises, already playing out locally. Councils and regional economic agencies don't need to chase a Rocket Lab of their own — the Bay already hosts part of one. The more useful question is whether Wairoa and the wider region are capturing a fair share of the value that a decacorn's actual launch pad generates, in supplier contracts, skills pipelines and the tourism economy that has grown up around watching Electron lift off, rather than simply providing the view.</p>",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1023715/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits"
-        },
-        {
-          "l": "NZ Herald – Hawke's Bay Today",
-          "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/lift-off-rocket-lab-to-celebrate-50th-rocket-launch-from-mahia/7VBSAXQQXFDDZEBEXQMLMVNSKA/"
-        },
-        {
-          "l": "Wairoa i-SITE",
-          "u": "https://www.visitwairoa.co.nz/welcome-to-wairoa/space-coast-new-zealand/"
         }
       ]
     }
