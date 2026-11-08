@@ -1,29 +1,21 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Infrastructure",
+    "chipLabel": "Startups",
     "sector": "bay",
-    "date": "07 Nov 2026",
-    "headline": "Copper Thieves Are Cutting Auckland's Internet — And Rural and Elderly Residents Are Paying the Price",
-    "byline": "Auckland · a West Auckland telecom-crime wave exposes just how fragile rural and elderly connectivity really is",
-    "brief": "<p>Police have issued a fresh warning after a wave of copper thefts tore through telecommunications infrastructure in West Auckland, with officers saying <b>thousands of Aucklanders</b> could be affected by internet outages as offenders strip out old copper wiring for scrap. <cite index=\"8-3\">Waitematā Police say they are concerned about an increase in thefts targeting telecommunications infrastructure, power cables, and electrical substations across our communities</cite>, with <cite index=\"1-6\">thefts often occurring overnight, with offenders sometimes posing as legitimate workers to avoid suspicion</cite>.</p><p>The human cost is now on the record. <cite index=\"8-6\">One recent report saw internet lines supplying a school in Swanson deliberately cut</cite>, and <cite index=\"10-6\">staff at the school were unable to immediately access the student's online medical records when the emergency occurred, resulting in a 20-minute delay while information was manually retrieved from local servers</cite>. <cite index=\"8-7,8-8\">A second report of a damaged fibre cable left more than 3,100 households and businesses across West Auckland without internet services, with the outage affecting over 10,000 people in the Swanson and Massey areas</cite>. <cite index=\"8-9,8-10\">An 80-year-old Henderson Valley resident who lives rurally and relies on copper telecommunications lost all connectivity for a month after infrastructure was repeatedly targeted, leaving them isolated and without a reliable means of contacting emergency assistance during that period</cite>. <cite index=\"10-3\">Stealing telecommunications assets and power cables carries a maximum penalty of seven years' imprisonment</cite>.</p><p>Detective Sergeant Luke Blignaut explained why fibre keeps getting caught in the crossfire: <cite index=\"17-3\">thieves were damaging fibre cables while trying to steal copper wiring from the disused landline and internet cables which fibre has mostly replaced</cite>, and because <cite index=\"17-1\">fibre lines are often run alongside the legacy copper lines, offenders are often mistaking these new fibre lines and cutting them as well</cite>. Police are now asking scrap metal dealers to help: <cite index=\"3-8,3-9\">Blignaut said scrap dealers needed to work with police to combat the issue, advising that if they suspect anything they should contact police immediately</cite>, warning that <cite index=\"17-8\">if scrap dealers are accepting this stolen copper, that is enabling these offenders to continue</cite>.</p>",
-    "lens": "This is, on paper, a West Auckland crime story — but it lands differently in a region that already knows exactly how it feels to lose connectivity when it matters most. Hawke's Bay has rural properties, elderly residents living alone down long driveways, orchards and vineyards running EFTPOS and irrigation off copper and fibre, and a tourism economy that cannot afford silent eftpos terminals or unreachable emergency numbers — all the same vulnerabilities this police warning describes, just with a Cyclone Gabrielle memory layered on top. The sensible, low-drama response is not a new regional tech initiative but basic vigilance: local scrap metal dealers working with Eastern Police District the way Waitematā's are being asked to, Chorus and lines companies flagging any unusual copper-removal jobs in rural Hawke's Bay before cables are cut rather than after, and councils or community boards quietly reminding isolated and elderly residents what backup options — a charged phone, a neighbour check-in, a satellite option — exist if the line goes dead. There's no case here for a big regional tech investment; the honest answer is that Hawke's Bay's job is prevention and preparedness, not invention — making sure this stays a West Auckland story that never needs a Hawke's Bay sequel.",
+    "date": "09 Nov 2026",
+    "headline": "Government Puts $2.85m Into New Deep-Tech Incubator Pilot to Get NZ Startups Investment-Ready",
+    "byline": "06 Nov 2026 · MBIE funding round · what a national deep-tech push could mean for Hawke's Bay's homegrown robotics exporters",
+    "brief": "<p>The Ministry of Business, Innovation and Employment has put fresh money behind New Zealand's deep-tech pipeline. As NBR's Fiona Rotherham reported on Friday 6 November 2026, <b>the Ministry of Business, Innovation and Employment (MBIE) has allocated $2.85 million to fund a new deep-tech incubator pilot aimed at helping startups get further towards commercialisation before seeking external funding</b>. The pilot is described as the newest addition to taxpayer-funded support for founders.</p><p>The thinking behind it, per NBR: deep-tech has become more popular with investors, but they want the technology to carry less risk before providing backing. The same week also saw an announcement of how new research commercialisation funding will be allocated, with MBIE, founders, tech transfer offices, universities and public research organisations all named as the players in the system.</p><p>It's a modest sum by Beehive standards, and NBR frames the real question as how the pilot will fit into overall taxpayer-funded support for founders and startups, including that new research commercialisation funding, rather than whether $2.85 million alone moves the dial.</p>",
+    "lens": "This is a national-policy story, but it lands in territory Hawke's Bay already occupies for real. Hastings-based Hawk Technology is making robots locally and shipping them to the US, where apple packhouses in Washington are lining up to get them, with the first 50 Gen 5 Apple Packers already installed and another 250 on order. General manager Sam Combs has said the company built a few hundred machines for the New Zealand market over the past few years and that the US market is now really taking off, to the point where, in his words, the demand at this stage is greater than its manufacturing capability. The company's first product was a Tray Denester, which separates bundles of apple trays, followed by a Tray Inserter and then its Robotic Apple Packer; seven years ago it had just two research and design staff, a team that has since grown to more than 50 workers, and its next target is robotics for the stone fruit industry. That is exactly the kind of homegrown, export-ready deep-tech engineering a commercialisation-focused incubator pilot is meant to help more of. The honest take: $2.85 million spread nationally is not going to single-handedly fund the next Hawk Technology, and the pilot's fine print - eligibility, and how tech transfer offices and universities will route applicants to it - isn't public yet. What the region can sensibly do is make sure local intermediaries are watching for how MBIE opens this pilot up, and make sure Hawke's Bay's own hardware and agritech founders know it exists the moment applications do, rather than finding out about a Wellington-announced scheme after the window has closed.",
     "sources": [
       {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/crime-and-justice/2385506/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
+        "l": "NBR",
+        "u": "https://www.nbr.co.nz/tech/new-deep-tech-incubator-pilot-gets-2-85m-in-funding/"
       },
       {
-        "l": "Stuff",
-        "u": "https://www.stuff.co.nz/nz-news/361055757/school-medical-emergency-delayed-after-copper-thieves-cut-west-auckland-lines"
-      },
-      {
-        "l": "LiveNews (NZ Police release)",
-        "u": "https://livenews.co.nz/2026/11/06/cutting-the-connection-police-warn-copper-thieves/"
-      },
-      {
-        "l": "InfrastructureNews NZ",
-        "u": "https://infrastructurenews.co.nz/story/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/nz/us-demand-for-apple-industry-robotics-driving-change-at-hawkes-bay-manufacturer/VPEQRWGRGRH6ZF6IMCWFWMTF7E/"
       }
     ]
   },
@@ -1872,6 +1864,32 @@
   ],
   "headlines": [
     {
+      "date": "07 Nov 2026",
+      "chipLabel": "Infrastructure",
+      "headline": "Copper Thieves Are Cutting Auckland's Internet — And Rural and Elderly Residents Are Paying the Price",
+      "byline": "Auckland · a West Auckland telecom-crime wave exposes just how fragile rural and elderly connectivity really is",
+      "brief": "<p>Police have issued a fresh warning after a wave of copper thefts tore through telecommunications infrastructure in West Auckland, with officers saying <b>thousands of Aucklanders</b> could be affected by internet outages as offenders strip out old copper wiring for scrap. <cite index=\"8-3\">Waitematā Police say they are concerned about an increase in thefts targeting telecommunications infrastructure, power cables, and electrical substations across our communities</cite>, with <cite index=\"1-6\">thefts often occurring overnight, with offenders sometimes posing as legitimate workers to avoid suspicion</cite>.</p><p>The human cost is now on the record. <cite index=\"8-6\">One recent report saw internet lines supplying a school in Swanson deliberately cut</cite>, and <cite index=\"10-6\">staff at the school were unable to immediately access the student's online medical records when the emergency occurred, resulting in a 20-minute delay while information was manually retrieved from local servers</cite>. <cite index=\"8-7,8-8\">A second report of a damaged fibre cable left more than 3,100 households and businesses across West Auckland without internet services, with the outage affecting over 10,000 people in the Swanson and Massey areas</cite>. <cite index=\"8-9,8-10\">An 80-year-old Henderson Valley resident who lives rurally and relies on copper telecommunications lost all connectivity for a month after infrastructure was repeatedly targeted, leaving them isolated and without a reliable means of contacting emergency assistance during that period</cite>. <cite index=\"10-3\">Stealing telecommunications assets and power cables carries a maximum penalty of seven years' imprisonment</cite>.</p><p>Detective Sergeant Luke Blignaut explained why fibre keeps getting caught in the crossfire: <cite index=\"17-3\">thieves were damaging fibre cables while trying to steal copper wiring from the disused landline and internet cables which fibre has mostly replaced</cite>, and because <cite index=\"17-1\">fibre lines are often run alongside the legacy copper lines, offenders are often mistaking these new fibre lines and cutting them as well</cite>. Police are now asking scrap metal dealers to help: <cite index=\"3-8,3-9\">Blignaut said scrap dealers needed to work with police to combat the issue, advising that if they suspect anything they should contact police immediately</cite>, warning that <cite index=\"17-8\">if scrap dealers are accepting this stolen copper, that is enabling these offenders to continue</cite>.</p>",
+      "lens": "This is, on paper, a West Auckland crime story — but it lands differently in a region that already knows exactly how it feels to lose connectivity when it matters most. Hawke's Bay has rural properties, elderly residents living alone down long driveways, orchards and vineyards running EFTPOS and irrigation off copper and fibre, and a tourism economy that cannot afford silent eftpos terminals or unreachable emergency numbers — all the same vulnerabilities this police warning describes, just with a Cyclone Gabrielle memory layered on top. The sensible, low-drama response is not a new regional tech initiative but basic vigilance: local scrap metal dealers working with Eastern Police District the way Waitematā's are being asked to, Chorus and lines companies flagging any unusual copper-removal jobs in rural Hawke's Bay before cables are cut rather than after, and councils or community boards quietly reminding isolated and elderly residents what backup options — a charged phone, a neighbour check-in, a satellite option — exist if the line goes dead. There's no case here for a big regional tech investment; the honest answer is that Hawke's Bay's job is prevention and preparedness, not invention — making sure this stays a West Auckland story that never needs a Hawke's Bay sequel.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/crime-and-justice/2385506/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
+        },
+        {
+          "l": "Stuff",
+          "u": "https://www.stuff.co.nz/nz-news/361055757/school-medical-emergency-delayed-after-copper-thieves-cut-west-auckland-lines"
+        },
+        {
+          "l": "LiveNews (NZ Police release)",
+          "u": "https://livenews.co.nz/2026/11/06/cutting-the-connection-police-warn-copper-thieves/"
+        },
+        {
+          "l": "InfrastructureNews NZ",
+          "u": "https://infrastructurenews.co.nz/story/copper-thieves-causing-widespread-fibre-outages-in-hunt-for-scrap-metal"
+        }
+      ]
+    },
+    {
       "date": "05 Nov 2026",
       "chipLabel": "AI & Jobs",
       "headline": "Police Cut Two Dozen File Management Jobs After Years of AI 'Panic' — Even As Its Own Papers Predict AI Will Reshape the Workforce",
@@ -2438,32 +2456,6 @@
         {
           "l": "RNZ",
           "u": "https://www.rnz.co.nz/news/business/1225519/bumper-year-of-profits-for-nz-s-top-tech-companies"
-        }
-      ]
-    },
-    {
-      "date": "01 Sep 2026",
-      "chipLabel": "Telecoms",
-      "headline": "One NZ and 2degrees Propose Combining Radio Access Networks Into New Joint Venture 'RANCo'",
-      "byline": "National · what shared radio network infrastructure could mean for rural Hawke's Bay coverage and resilience",
-      "brief": "<p>One NZ and 2degrees <cite index=\"4-2\">have launched a proposal to share their mobile network infrastructure</cite>, combining the radio access network (RAN) — <cite index=\"4-4\">active equipment on mobile sites, such as electronics and antennae</cite> — into a new, jointly owned wholesale company <cite index=\"21-2\">provisionally known as RANCo</cite>. <cite index=\"4-3\">Under the proposal, which will require regulatory approval, each company would combine its existing mobile radio access network infrastructure, or RAN, into a new, separate, jointly owned wholesale company.</cite> <cite index=\"4-5\">One NZ said the new entity would own, manage and operate the shared RAN infrastructure, providing network services back to each company through separate wholesale agreements.</cite></p><p>Crucially, <cite index=\"4-6\">if approved, One NZ and 2degrees would continue to operate as fully independent retail and wholesale businesses and continue to compete strongly for both consumer and business customers</cite>, with each company <cite index=\"19-12\">continuing to own and invest in its spectrum management rights, core networks, fibre backhaul assets and satellite innovations, preserving areas of differentiation between the businesses</cite>. Incoming One NZ chief executive Nick Judd <cite index=\"16-4\">said RAN network sharing was already common in overseas markets and enabled more efficient investment in mobile infrastructure</cite>, while 2degrees chief executive Mark Callander said sharing infrastructure where it makes sense would deliver <cite index=\"17-6\">\"better coverage, greater capacity, stronger resilience and faster access to new technology.\"</cite></p><p>The deal <cite index=\"19-13\">builds on an existing commercial sharing arrangement between the two operators that already covers a smaller number of sites across New Zealand</cite> and now needs sign-off from <cite index=\"27-4\">the New Zealand Commerce Commission and the Overseas Investment Office</cite>, with the transaction <cite index=\"21-4\">expected to complete in the first half of 2027</cite>. Callander has also <cite index=\"27-2\">said the proposed arrangement would create greater opportunities to expand rural and regional coverage, increase capacity in urban areas and strengthen the resilience of New Zealand's mobile infrastructure</cite>.</p>",
-      "lens": "For a region like Hawke's Bay — with long rural roads, patchy coverage in the ranges, and a hard-won memory of communications blackouts during Cyclone Gabrielle — the promise of stronger resilience and expanded rural and regional coverage from a shared radio access network is the part worth watching closely, not the corporate structuring. If RANCo genuinely lets One NZ and 2degrees jointly upgrade or avoid duplicating equipment across the same rural footprint, that is a tangible chance for better black-spot and disaster-resilience coverage on routes like SH2, SH5 and the back roads into Wairoa and Central Hawke's Bay, without waiting for either telco to justify a solo build. But the deal still needs Commerce Commission and Overseas Investment Office approval and is not expected to complete before the first half of 2027, so there is little for local councils or businesses to act on right now beyond making the case — through submissions and regional lobbying once the regulatory process opens — that any efficiency gains from shared infrastructure are actually directed at closing Hawke's Bay's rural and emergency-resilience gaps, rather than just cutting cost in the main centres.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1151904/one-nz-and-2degrees-launch-bid-to-share-mobile-network-infrastructure"
-        },
-        {
-          "l": "Channel Life NZ",
-          "u": "https://channellife.co.nz/story/one-nz-2degrees-plan-shared-mobile-network-business"
-        },
-        {
-          "l": "Intelligent CIO APAC",
-          "u": "https://www.intelligentcio.com/apac/2026/08/28/2degrees-and-one-nz-propose-mobile-network-infrastructure-sharing-venture/"
-        },
-        {
-          "l": "Mobile World Live",
-          "u": "https://www.mobileworldlive.com/operators/new-zealand-pair-eye-ran-sharing-move"
         }
       ]
     }
