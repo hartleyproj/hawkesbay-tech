@@ -356,6 +356,26 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "11 Nov 2026",
+          "headline": "Lightyears Secures NZ$174m from Japan and Australia to Fast-Track 300MW of NZ Solar and Battery Storage",
+          "brief": "<p>New Zealand solar developer Lightyears has secured <b>NZ$174 million (US$102 million)</b> from Japanese construction group Obayashi and Australian lender Infradebt to accelerate its solar PV build-out, with the funding supporting delivery of <b>more than 300MW</b> of utility-scale solar and battery storage infrastructure over the next five years.</p>",
+          "body": [
+            "New Zealand solar developer Lightyears has secured NZ$174 million (US$102 million) from Japanese construction group Obayashi and Australian lender Infradebt to accelerate its solar PV build-out, with the company saying the money will support delivery of more than 300MW of utility-scale solar and battery storage infrastructure over the next five years.",
+            "Obayashi plans to invest NZ$74 million, taking a 90% stake in a new company, LYOC1, which will hold solar projects, with Lightyears saying Obayashi will invest in stages as each project reaches development milestones. The equity comes from a construction group already active in New Zealand's power sector. Infradebt, meanwhile, is providing a NZ$100 million lending facility for the wider Lightyears platform.",
+            "Infradebt is a returning lender: the Australian renewable energy financier first worked with Lightyears in 2025, its first New Zealand transaction, when it refinanced debt previously provided by the government-backed New Zealand Green Investment Finance, which is being wound down. Lightyears reported a 27MW portfolio across five solar plants at the time. Lightyears has not said which projects will sit within LYOC1, how its 300MW pipeline is split between solar and battery storage, or the terms and pricing of the Infradebt facility.",
+            "Lightyears develops, builds and operates solar plants connected to regional distribution networks, describing its sites as dual-use, with farming continuing alongside generation in a form of development known as agrivoltaics, or agriPV. Its 14MW Reefton solar plant on the West Coast is nearing completion. Construction is also under way on the 15MW Te Aho o te Rā solar PV plant near Kuratau in the central North Island, a joint venture with eight local Māori land trusts, incorporations and related investment entities, and work has started at a 6MW site in Ashburton, which will connect to the local Electricity Ashburton network.",
+            "\"Obayashi and Infradebt are ideal partners to support the next phase of growth for the Lightyears energy platform,\" said Matt Shanks, managing director and co-founder of Lightyears. On the regional build-out, Shanks said: \"This funding lets us add new generation in the regions that need it.\"",
+            "The deal comes at a busy time for New Zealand solar. It adds Japanese and Australian capital to a market that is drawing growing interest from overseas investors, including UAE developer Masdar, which last week signed an agreement to explore up to NZ$1 billion of solar, wind and battery storage investment in the country."
+          ],
+          "lens": "This is a national capital-markets story, and honesty requires saying so plainly: the specific sites named in the reporting — Reefton on the West Coast, Te Aho o te Rā near Kuratau, and Ashburton — are all outside Hawke's Bay, and nothing in the coverage points to a Lightyears project, partner or pipeline site in this region. What the deal does usefully signal for Hawke's Bay is the shape of the money now moving into New Zealand solar: a Tokyo-listed builder taking a staged equity stake tied to construction milestones, an Australian lender returning for a second New Zealand transaction after refinancing government-backed debt that is being wound down, and a Gulf state-backed developer separately circling a further NZ$1 billion across solar, wind and storage. For a region with real agricultural land, existing grid connections and sunshine hours to match the agrivoltaic model Lightyears is using elsewhere, the lesson isn't that Hawke's Bay already has a seat at this particular table — it doesn't, on the evidence here — but that the kind of staged, milestone-gated finance now flowing to smaller New Zealand developers is exactly the structure that could eventually reach a regional proposal, if and when one attracts a developer's attention. Local landowners and lines companies watching this market should treat it as a signal to get commercially ready — understanding what milestone-based equity and project-finance debt actually require of a site — rather than a sign that capital is already on its way.",
+          "sources": [
+            {
+              "l": "pv-tech.org",
+              "u": "https://www.pv-tech.org/lightyears-secures-nz174-million-from-obayashi-and-infradebt-for-new-zealand-solar/"
+            }
+          ]
+        },
+        {
           "date": "29 Oct 2026",
           "headline": "NZ Solar Scene Consolidates: Sunergise Buys Infratec to Build One of the Country's Largest Solar and Battery Businesses",
           "brief": "<p><b>Sunergise</b> has agreed to acquire <b>Infratec</b> from WEL Networks, combining Sunergise's commercial solar portfolio with Infratec's utility-scale solar and battery energy storage work to create what the companies describe as one of New Zealand's largest solar businesses. Infratec brings a track record of <b>194 megawatts</b> of solar PV built and <b>49 megawatt-hours</b> of battery storage deployed, including the Te Herenga o Te Rā solar farm in the Bay of Plenty and the New Plymouth Airport Solar project.</p>",
@@ -1453,6 +1473,35 @@
       "chip": "c-agri",
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
+        {
+          "date": "11 Nov 2026",
+          "headline": "Havelock North Weather-Tech Firm Metris Adds Pest and Disease Alerts for Hawke's Bay Orchards",
+          "brief": "<b>Fresh Fruit Company</b>, which runs <b>350 hectares</b> of primarily apple orchards in Hawke's Bay, relies on data from Havelock North firm <b>Metris</b> for orchard-specific frost, wind, evapotranspiration and moisture alerts, and Metris chief executive <b>Mark Bart</b> has now started extending that system to include disease and pest alerts built on existing models of the conditions those threats thrive in.",
+          "body": [
+            "Life has become a bit easier for Greig Taylor and his staff at the Hawke's Bay-based Fresh Fruit Company, thanks to the data and information provided by Metris, a Havelock North environmental and weather monitoring and forecasting company.",
+            "Metris operates about 400 weather stations servicing about 2000 customers, gathering information from more than 3000 sensors across New Zealand from which it provides weather risk information. That information is processed in the cloud and fed into what company chair Justin Courtney calls \"a hyper-local forecast model\" tailored to customers.",
+            "Taylor, a director of the Fresh Fruit Company, said the combination of weather and environmental forecasting and strategically placed sensors provide information for orchard-specific management such as frost warnings, wind or evapotranspiration. Courtney said the information Metris provides differs from general weather forecasts by being geographically specific, and that its water telemetry system allows growers to prescribe seasonal irrigation needs based on the crop, time of year, water application system and plant science — married with information from soil probes inserted throughout the orchard and daily weather forecasts.",
+            "The Fresh Fruit Company operates 350 hectares of primarily apple orchards in Hawke's Bay and has started developing a new apple orchard in Nelson. Taylor said such information is as varied as warning of frost, information for disease risk and enabling staff to check wind conditions on orchards before arriving on site for weather-dependent tasks such as spraying. \"The technology is fantastic and it's getting better,\" he said.",
+            "Metris chief executive Mark Bart describes Metris as a weather forecasting application. After a brief period working in air quality, he had the opportunity to buy Metris from Howard Staines, who had run it as a weather forecasting business in Hawke's Bay. The Metris telemetry monitoring system sends an alert if moisture levels exceed or are below a predetermined band.",
+            "Bart has started extending the information provided by Metris to include disease and pest alerts, using existing models that know the ideal conditions in which pests and diseases thrive. Those models flag bacterial and fungal infection risk based on weather conditions, taking into account factors such as heat and leaf wetness. Metris's horticulture arm already runs daily crop-specific forecasts for apple and stonefruit with blackspot and brownrot risk forecasting and infection-period modelling, alongside botrytis risk forecasting for viticulture clients. Bart said he is excited by the potential for this type of technology: \"There is more technology coming which is really exciting.\"",
+            "Horticulture remains the bulk of Metris's business, with what Bart has called \"a promising side-hustle in construction.\""
+          ],
+          "lens": "For Hawke's Bay, this story is a reminder that useful agritech doesn't have to be imported or invented from scratch — it's already headquartered on Arataki Road in Havelock North, run by a local who bought a Hawke's Bay forecasting business and built it into a service now reaching about 2000 customers and 400 weather stations nationwide. The value to a grower like Fresh Fruit Company isn't abstract: knowing a specific apple block, not just the wider region, is heading into a frost, a dry spell or a blackspot infection window is the difference between a targeted spray and a blind one. The sensible regional move is straightforward — more Hawke's Bay orchards and vineyards piloting the expanded pest and disease alerts now, ahead of the next scab or brownrot risk period, since Metris's models for apple blackspot and brownrot already exist and don't need to be built from nothing. Councils and economic development agencies have a genuine, modest role: helping local firms like Metris connect with growers and packhouses, and making sure the jobs and intellectual property tied to this kind of sensor and forecasting work stay rooted in the Bay rather than being replaced by offshore platforms. The honest caveat is that this is incremental, service-layer agritech — better alerts on an existing weather and telemetry network — not a dramatic robotics or biotech leap. But a locally owned tool that a real orchard business is already using, and that is actively being extended, is worth more to the regional economy than a flashier pilot that never scales.",
+          "sources": [
+            {
+              "l": "Farmers Weekly",
+              "u": "https://www.farmersweekly.co.nz/technology/weather-technology-takes-guesswork-out-of-orchard-management/"
+            },
+            {
+              "l": "BayBuzz",
+              "u": "https://baybuzz.co.nz/ahead-of-the-weather/"
+            },
+            {
+              "l": "Metris",
+              "u": "https://www.metris.nz/"
+            }
+          ]
+        },
         {
           "date": "27 Oct 2026",
           "headline": "Two NZ Agritech Inventions Make Time's 2026 Best Inventions List",
