@@ -1,21 +1,33 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Startups",
+    "chipLabel": "Markets",
     "sector": "bay",
-    "date": "09 Nov 2026",
-    "headline": "Government Puts $2.85m Into New Deep-Tech Incubator Pilot to Get NZ Startups Investment-Ready",
-    "byline": "06 Nov 2026 · MBIE funding round · what a national deep-tech push could mean for Hawke's Bay's homegrown robotics exporters",
-    "brief": "<p>The Ministry of Business, Innovation and Employment has put fresh money behind New Zealand's deep-tech pipeline. As NBR's Fiona Rotherham reported on Friday 6 November 2026, <b>the Ministry of Business, Innovation and Employment (MBIE) has allocated $2.85 million to fund a new deep-tech incubator pilot aimed at helping startups get further towards commercialisation before seeking external funding</b>. The pilot is described as the newest addition to taxpayer-funded support for founders.</p><p>The thinking behind it, per NBR: deep-tech has become more popular with investors, but they want the technology to carry less risk before providing backing. The same week also saw an announcement of how new research commercialisation funding will be allocated, with MBIE, founders, tech transfer offices, universities and public research organisations all named as the players in the system.</p><p>It's a modest sum by Beehive standards, and NBR frames the real question as how the pilot will fit into overall taxpayer-funded support for founders and startups, including that new research commercialisation funding, rather than whether $2.85 million alone moves the dial.</p>",
-    "lens": "This is a national-policy story, but it lands in territory Hawke's Bay already occupies for real. Hastings-based Hawk Technology is making robots locally and shipping them to the US, where apple packhouses in Washington are lining up to get them, with the first 50 Gen 5 Apple Packers already installed and another 250 on order. General manager Sam Combs has said the company built a few hundred machines for the New Zealand market over the past few years and that the US market is now really taking off, to the point where, in his words, the demand at this stage is greater than its manufacturing capability. The company's first product was a Tray Denester, which separates bundles of apple trays, followed by a Tray Inserter and then its Robotic Apple Packer; seven years ago it had just two research and design staff, a team that has since grown to more than 50 workers, and its next target is robotics for the stone fruit industry. That is exactly the kind of homegrown, export-ready deep-tech engineering a commercialisation-focused incubator pilot is meant to help more of. The honest take: $2.85 million spread nationally is not going to single-handedly fund the next Hawk Technology, and the pilot's fine print - eligibility, and how tech transfer offices and universities will route applicants to it - isn't public yet. What the region can sensibly do is make sure local intermediaries are watching for how MBIE opens this pilot up, and make sure Hawke's Bay's own hardware and agritech founders know it exists the moment applications do, rather than finding out about a Wellington-announced scheme after the window has closed.",
+    "date": "13 Nov 2026",
+    "headline": "Xero's Profit Crashes 86% to $18.6m — But NZ's Biggest Tech Export Unveils A$1b Buyback and Lifts Outlook",
+    "byline": "National · 11–12 Nov 2026 · What a wobble at NZ's flagship tech export means for Bay business owners who run on Xero",
+    "brief": "<p>Xero, New Zealand's biggest home-grown tech success story, delivered one of its roughest results in years this week alongside one of its biggest shows of confidence. <b><cite index=\"1-1\">Xero's profit for its half-year ending September 30 crashed to $18.6 million from the year-ago period's $134.8m</cite></b>, while <cite index=\"10-1\">revenue was up 46% to $1.75b</cite>. The plunge was blamed on <cite index=\"1-3\">costs associated with integrating Melio, the unprofitable, 87,000-customer Israeli-American payments platform that Xero bought in June last year in a deal worth up to US$3 billion with earnouts</cite>.</p><p>Despite the profit collapse, <cite index=\"9-8\">Xero's board approved an on-market share buyback of up to A$1 billion, to be completed over the next 12 months</cite> — reported by NBR as <cite index=\"10-3\">an A$1 billion ($1.23b) share buyback</cite> — on top of a separate <b><cite index=\"1-4\">A$550m programme to prevent dilution from share-based compensation, which has been completed</cite></b>. Xero also upgraded its full-year guidance and <b><cite index=\"7-4\">added a net 226,000 subscribers, taking the base to about 5.15 million</cite></b>. Shares <cite index=\"35-6\">surged 6% to $75.17 on Thursday following the release of the company's half-year results</cite>, with Yahoo Finance's Proactive reporting that <cite index=\"29-1\">shares have surged 13% to a 10-week high of $80.50, with what appears to be a major bout of short covering</cite> amplifying the response, after <cite index=\"29-2\">short interest in Xero had recently reached a multi-year high of around 7%</cite>. Morningstar analyst Roy van Keulen told the Herald the <cite index=\"1-8\">buyback makes sense \"given we already thought shares were undervalued, even before today's upgrade to guidance\"</cite>.</p><p>The result lands alongside leadership turbulence: <b><cite index=\"19-1\">the buyback follows a halving of its share price, as CFO Claire Bramley becomes the third executive to depart in six months</cite></b>, and <b><cite index=\"33-1\">Xero entered 2026 with a market capitalisation of over A$19 billion, a figure that has since fallen as low as A$10.2 billion</cite></b>. CEO Sukhinder Singh Cassidy maintains the market is undervaluing the company, saying <cite index=\"33-6\">\"We believe current market valuations do not fully reflect Xero's long-term value and growth potential.\"</cite></p>",
+    "lens": "Xero isn't based in Hawke's Bay and this is honestly more a Wellington/Auckland/ASX story than a regional one — but almost every orchardist, vineyard, café, builder and professional-services firm in the Bay runs its books on this platform, so when NZ's flagship tech exporter swings from a $134.8m profit to $18.6m in a year, and loses its third executive in six months, that's a reminder of how concentrated our \"big tech win\" story still is. The sensible regional response is modest: local accountants and business advisors should keep an eye on how the Melio integration and any pricing or support changes flow through to SME customers here, rather than panic about the headline numbers — the buyback and raised guidance suggest the board sees this as growing pains, not collapse. For Bay policymakers chasing the next Xero via deep-tech incubators, the lesson is sobering too: even our biggest success story is discovering that global scale-up via a multi-billion-dollar US acquisition can cost more than expected before it pays off.",
     "sources": [
       {
-        "l": "NBR",
-        "u": "https://www.nbr.co.nz/tech/new-deep-tech-incubator-pilot-gets-2-85m-in-funding/"
+        "l": "NZ Herald",
+        "u": "https://www.nzherald.co.nz/business/xero-first-half-profit-crashes-to-186m-but-it-lifts-outlook-and-announces-a1-billion-buyback/premium/VMNYUXIGENF3JBYMQ2O65FVS5M/"
       },
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/nz/us-demand-for-apple-industry-robotics-driving-change-at-hawkes-bay-manufacturer/VPEQRWGRGRH6ZF6IMCWFWMTF7E/"
+        "l": "NBR",
+        "u": "https://www.nbr.co.nz/investment/xero-launches-a1b-buyback-profit-falls-but-outlook-upgraded/"
+      },
+      {
+        "l": "Kalkine",
+        "u": "https://kalkine.com.au/news/technology/xero-asxxro-lifts-fy27-outlook-and-unveils-aud-1-billion-share-buy-back"
+      },
+      {
+        "l": "Forbes Australia",
+        "u": "https://www.forbes.com.au/news/investing/xero-launches-1-billion-stock-buyback-plan-as-cfo-exits/"
+      },
+      {
+        "l": "Yahoo Finance (Proactive)",
+        "u": "https://au.finance.yahoo.com/news/xero-surges-13-1-billion-023500710.html"
       }
     ]
   },
@@ -1474,6 +1486,34 @@
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
         {
+          "date": "13 Nov 2026",
+          "headline": "$3m Government Loan to Build Central Hawke's Bay Seed Processing Hub",
+          "brief": "<p>The Government has approved a <b>$3 million</b> Regional Infrastructure Fund loan for a grower-led seed cleaning, processing and storage facility in Central Hawke's Bay, which will build on an earlier <b>$1.4m</b> seed-drying facility in Ōtāne that the Government previously backed. The announcement follows a rocky stretch for the district's arable growers since the closure of the McCain and Wattie's facilities, and comes in a year when high-value seed exports earned around <b>$339m</b>. Central Hawke's Bay mayor Will Foley called the news \"fabulous,\" saying seed processing in the district \"makes sense.\"</p>",
+          "body": [
+            "<p>A $3 million government loan has sown new hope for Central Hawke's Bay's future as a one-stop-shop for high-value seed processing. <span>The loan from the Regional Infrastructure Fund will be used to build a grower-led seed cleaning, processing and storage facility.</span> <span>The announcement means growers can build on earlier investment in a seed-drying facility in Ōtāne, and the full seed value chain will be together in one location, from drying and cleaning through to processing and storage.</span> Mayor Foley said the new project will build on the $1.4m seed-drying facility in Ōtāne that the Government previously backed with a loan that was working well.</p>",
+            "<p>The announcement comes after a rocky stretch for the district's arable sector. <span>Central Hawke's Bay mayor Will Foley says it's been a rocky time for arable growers since the closure of McCain and Wattie's facilities.</span> <span>He said the decisions by McCain Foods and Wattie's to close factories impacted the regional economy and food supply chain,</span> and <span>many farmers in the region who were supplying McCain are now growing forage crops while they look for longer-term options.</span> Against that backdrop, <span>high-value seed exports earned around $339m in the year to last June.</span></p>",
+            "<p><span>Fifth-generation Hawke's Bay arable farmer Simon White, of Ōtāne, was part of a collective of growers pitching the seed facility concept to local representatives and politicians in recent years.</span> <span>White said the need for seed and grain infrastructure across the area inspired the bid, as multinational firms again exited the region.</span> <span>White ran a diverse farming system, growing a number of crops including cereals, vegetable seeds, stock feed, malting barley, hemp, and they also finished sheep and beef.</span> \"Having some of that good infrastructure to be able to export straight out of Hawke's Bay allows us to open up these opportunities of getting investment into other infrastructure that traps the whole shooting box, so growing, processing and then exporting out of Hawke's Bay,\" he said. <span>He said it was about unlocking Hawke's Bay's potential by using its strengths of good soils, water and sunlight hours to grow the high-value sector.</span> <span>He accepted there was a lot of work ahead, including fundraising $750,000 required for the Government loan, which he was optimistic could be raised among growers.</span></p>",
+            "<p><span>Central Hawke's Bay District Council's economic growth team worked closely with growers on the loan application.</span> \"This is enabling infrastructure, it means arable growers, not just from Hawke's Bay but along the East Coast, will be able to grow seeds as part of their crop rotation,\" <span>Central Hawke's Bay District Council economic growth manager Libby Tosswill said.</span> \"This is fabulous news. Seed processing in Central Hawke's Bay makes sense,\" Foley said. The investment comes in the wake of another setback: <span>it comes three months after Hawke's Bay growers abandoned their bid to purchase the former McCain processing facility in Hastings.</span></p>",
+            "<p>The Hawke's Bay decision was one of a handful of final funding calls the government made ahead of last weekend's general election; <span>it also approved a $1.5m loan for a new grain drying and 4000-tonne capacity storage facility for Carterton in nearby Wairarapa.</span> <span>Recently announced closures of Hawke's Bay vegetable processing factories and Malteurop's Marton malthouse, the largest in the country, cast uncertainty over the season ahead for growers, farmers and workers.</span> \"Obviously, the arable sector and the small seeds sector are under a bit of pressure, so it's the government's way where we can show confidence in those particular industries that they are going to come out the other end,\" the minister said, adding: \"We've got every confidence they'll turn this into a winner for Central Hawke's Bay and Wairarapa.\" He framed it as a wider East Coast play: \"It's about this whole East Coast, all the communities between Hawke's Bay, Manawatū and Wairarapa.\" <span>These were led by vegetable seeds, then ryegrass, clover, legume seeds and other grains like maize.</span></p>",
+            "<p>Looking beyond the facility itself, <span>Foley said it wanted to develop options for diversification, including bolstering water storage.</span></p>"
+          ],
+          "lens": "This is a civil-infrastructure story, not a tech one, and it would be dishonest to dress it up as agritech — a seed cleaning shed, a dryer and some storage bins won't by themselves put Hawke's Bay on a robotics or AI map. What it is, honestly, is the physical precondition for any future agritech in the district's arable sector: with McCain and Wattie's gone and growers abandoning their own bid to buy the old McCain plant, Central Hawke's Bay is rebuilding its food-production base from the ground up, and a $3m loan plus grower fundraising is a modest but real bet that the arable and seed sector — explicitly described by officials as under pressure — can come out the other side. The region's honest position is that it has little direct tech story to tell yet; the real opportunity is procedural, not inventive. As the facility is designed and built, council and the grower collective behind it have a narrow window to specify data capture on seed lots, traceability and quality-grading systems as part of the build, rather than bolting them on afterwards once concrete is poured and plant is installed. Given the council's own framing of this as enabling infrastructure for growers along the whole East Coast, getting that digital layer right now is the difference between a hub that merely saves on freight and one that genuinely positions the district — and the wider Hawke's Bay, Manawatū and Wairarapa corridor — as an export-grade seed platform for the next decade, not just a replacement for the sheds McCain and Wattie's left behind.",
+          "sources": [
+            {
+              "l": "Farmers Weekly",
+              "u": "https://www.farmersweekly.co.nz/news/horticulture/hawkes-bay-eyes-one-stop-shop-for-seed-growing-and-processing/"
+            },
+            {
+              "l": "NZ Herald",
+              "u": "https://www.nzherald.co.nz/the-country/news/could-hawkes-bay-become-nzs-next-seeds-powerhouse/5F7KO2DKNJETXIJTUYNGPA2UDA/"
+            },
+            {
+              "l": "Farmers Weekly",
+              "u": "https://www.farmersweekly.co.nz/news/arable/government-loan-plants-seeds-for-hawkes-bay-growth/"
+            }
+          ]
+        },
+        {
           "date": "11 Nov 2026",
           "headline": "Havelock North Weather-Tech Firm Metris Adds Pest and Disease Alerts for Hawke's Bay Orchards",
           "brief": "<b>Fresh Fruit Company</b>, which runs <b>350 hectares</b> of primarily apple orchards in Hawke's Bay, relies on data from Havelock North firm <b>Metris</b> for orchard-specific frost, wind, evapotranspiration and moisture alerts, and Metris chief executive <b>Mark Bart</b> has now started extending that system to include disease and pest alerts built on existing models of the conditions those threats thrive in.",
@@ -1912,6 +1952,24 @@
     }
   ],
   "headlines": [
+    {
+      "date": "09 Nov 2026",
+      "chipLabel": "Startups",
+      "headline": "Government Puts $2.85m Into New Deep-Tech Incubator Pilot to Get NZ Startups Investment-Ready",
+      "byline": "06 Nov 2026 · MBIE funding round · what a national deep-tech push could mean for Hawke's Bay's homegrown robotics exporters",
+      "brief": "<p>The Ministry of Business, Innovation and Employment has put fresh money behind New Zealand's deep-tech pipeline. As NBR's Fiona Rotherham reported on Friday 6 November 2026, <b>the Ministry of Business, Innovation and Employment (MBIE) has allocated $2.85 million to fund a new deep-tech incubator pilot aimed at helping startups get further towards commercialisation before seeking external funding</b>. The pilot is described as the newest addition to taxpayer-funded support for founders.</p><p>The thinking behind it, per NBR: deep-tech has become more popular with investors, but they want the technology to carry less risk before providing backing. The same week also saw an announcement of how new research commercialisation funding will be allocated, with MBIE, founders, tech transfer offices, universities and public research organisations all named as the players in the system.</p><p>It's a modest sum by Beehive standards, and NBR frames the real question as how the pilot will fit into overall taxpayer-funded support for founders and startups, including that new research commercialisation funding, rather than whether $2.85 million alone moves the dial.</p>",
+      "lens": "This is a national-policy story, but it lands in territory Hawke's Bay already occupies for real. Hastings-based Hawk Technology is making robots locally and shipping them to the US, where apple packhouses in Washington are lining up to get them, with the first 50 Gen 5 Apple Packers already installed and another 250 on order. General manager Sam Combs has said the company built a few hundred machines for the New Zealand market over the past few years and that the US market is now really taking off, to the point where, in his words, the demand at this stage is greater than its manufacturing capability. The company's first product was a Tray Denester, which separates bundles of apple trays, followed by a Tray Inserter and then its Robotic Apple Packer; seven years ago it had just two research and design staff, a team that has since grown to more than 50 workers, and its next target is robotics for the stone fruit industry. That is exactly the kind of homegrown, export-ready deep-tech engineering a commercialisation-focused incubator pilot is meant to help more of. The honest take: $2.85 million spread nationally is not going to single-handedly fund the next Hawk Technology, and the pilot's fine print - eligibility, and how tech transfer offices and universities will route applicants to it - isn't public yet. What the region can sensibly do is make sure local intermediaries are watching for how MBIE opens this pilot up, and make sure Hawke's Bay's own hardware and agritech founders know it exists the moment applications do, rather than finding out about a Wellington-announced scheme after the window has closed.",
+      "sources": [
+        {
+          "l": "NBR",
+          "u": "https://www.nbr.co.nz/tech/new-deep-tech-incubator-pilot-gets-2-85m-in-funding/"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/nz/us-demand-for-apple-industry-robotics-driving-change-at-hawkes-bay-manufacturer/VPEQRWGRGRH6ZF6IMCWFWMTF7E/"
+        }
+      ]
+    },
     {
       "date": "07 Nov 2026",
       "chipLabel": "Infrastructure",
@@ -2491,20 +2549,6 @@
         {
           "l": "Tech Startups",
           "u": "https://techstartups.com/2026/09/03/startup-funding-news-today-september-3-2026-backbone-plenti-rightcharge-outlier-space-zeit-ai-more/"
-        }
-      ]
-    },
-    {
-      "date": "03 Sep 2026",
-      "chipLabel": "Tech Economy",
-      "headline": "NZ's Top Tech Companies Post $1.8 Billion Revenue Rise in a 'Bumper Year'",
-      "byline": "National · 2 September 2026 · What a $1.8b tech export surge means for the Bay",
-      "brief": "<p>New figures from the Technology Investment Network show <cite index=\"1-1\">TIN200 companies increased revenues by NZ$1.8 billion or 10 percent in 2025 over 2024</cite>. <cite index=\"1-3\">The Technology Investment Network TIN200 annual report on New Zealand's 200 largest globally focused technology companies indicates continued export momentum across a range of sectors</cite>, with <cite index=\"1-9\">growth across a range of companies operating across information and communications technology (ICT), high-tech manufacturing and biotech</cite>. Growth was especially concentrated at the top: <cite index=\"1-11\">the ten highest revenue growth companies saw combined revenues in 2025 up $1.4b, more than triple the $400 million growth recorded by the top ten growth companies a decade earlier (2015)</cite>.</p><p>TIN head of research <cite index=\"15-1,15-2\">Narjis Adnan said current conditions provide a strong foundation for continued growth across the technology sector, and \"We expect TIN200 revenues to continue their strong growth in 2026\"</cite>, adding <cite index=\"15-5\">\"More companies are reaching meaningful global scale, creating a stronger and more resilient technology sector with the capacity to compete and grow across international markets\"</cite>. NZ Growth Partners investment director <cite index=\"10-6\">Jacques Richter said \"Our ecosystem has created world-leading value from a modest capital base\"</cite>, while BNZ technology industries development manager <cite index=\"1-12\">Josh Starkey said the growing maturity was an important development for the wider New Zealand economy</cite>. TIN managing director <cite index=\"1-4,1-5,1-6\">Greg Shanahan said the global economy's shift away from fossil fuels was changing trading patterns and positioned New Zealand's technology exporters to take advantage of emerging opportunities, saying \"The world economy is going through a major transition... That creates a significant opportunity for globally ambitious New Zealand technology companies to step forward, lead in emerging sectors, and strengthen their position in global markets\"</cite>.</p><p>The report also flagged a constraint: <cite index=\"15-6\">maintaining access to the right talent will be critical to sustaining this growth</cite>. Adnan called it <cite index=\"15-7\">\"another strong signal of the opportunity ahead for New Zealand's technology sector, which continues to punch above its weight globally\"</cite>. <cite index=\"20-8\">The full 2026 TIN report is expected to be released on 5 November</cite>.</p>",
-      "lens": "No Hawke's Bay company is named among the TIN200 growth leaders in this report, and the region's tech firms are simply too small to register on a ranking built around global-scale exporters clustered in Auckland and Wellington. That's a fair thing to say plainly rather than dress up. But the two threads the report pulls on, talent and the shift away from fossil fuels reshaping global trade, are ones this region has a real stake in. Hawke's Bay's horticulture, food and fibre exporters already sell into the same international markets TIN's companies are chasing, and any local software, sensor or agritech operators riding on that base face exactly the same talent-access squeeze the report flags nationally, just at a smaller and more fragile scale: losing a handful of engineers or data specialists to Auckland or Wellington can hurt a Hawke's Bay firm far more than it hurts a TIN200 company with hundreds of staff. There's nothing for Hawke's Bay to announce today, and that's honest too, the useful local response between now and the full TIN report landing on 5 November is making sure the region's employers, EIT and its small tech and agritech operators are actively engaging with this growth story, not simply reading about it afterwards.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1225519/bumper-year-of-profits-for-nz-s-top-tech-companies"
         }
       ]
     }
