@@ -350,6 +350,36 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "16 Nov 2026",
+          "headline": "Cattle Graze Beneath Elevated Solar Trackers as NZ's Newest Agrivoltaic Farm Opens at Galatea",
+          "brief": "<p>A new agrivoltaic project at Galatea, in New Zealand's Whakatāne District, has paired <b>4.7 MW</b> of solar generation across <b>8 hectares</b> with a dairy farm operation of around <b>700 cattle</b>, with its official opening held on <b>Thursday 12 November 2026</b> at the Gordon Dairy Farm, 228 Grant Road, Galatea, in the Bay of Plenty Region. At the Gordon Cattle and Solar Farm, trackers elevated to <b>2.2 metres</b> let stock keep grazing beneath the panels while the system follows the sun to optimise generation.</p>",
+          "body": [
+            "<cite index=\"23-3\">An agrivoltaic project in Galatea, in New Zealand's Whakatāne District, combines electricity generation and dairy farming on the same land.</cite> <cite index=\"11-3\">The Gordon Cattle and Solar Farm, located in the Whakatāne District, combines a 4.7 MW solar installation on 8 hectares of land with a dairy farm operation of around 700 cattle heads.</cite> <cite index=\"11-4\">The official opening of the project took place on Thursday, 12 November 2026, at the Gordon Dairy Farm in Galatea</cite>, <cite index=\"11-9\">at 228 Grant Road, Galatea, New Zealand</cite>, with the open day running <cite index=\"2-5\">from 10:30 AM to 1:30 PM</cite>. Organisers described it as <cite index=\"2-6\">\"the official opening of the Galatea Solar Tracker Project at the Gordon Dairy Farm, a pioneering development that demonstrates how renewable energy and dairy farming can work together to create greater value from the same piece of land.\"</cite>",
+            "<cite index=\"11-5\">Trackers are elevated to 2.2 metres, allowing cattle to continue grazing beneath the installation.</cite> <cite index=\"5-3\">During daylight hours, the tracking system follows the sun to optimise electricity generation, while the farm retains its agricultural function.</cite> According to the project's press release, <cite index=\"23-8\">shading would reduce direct sun exposure of the ground, lower soil temperatures, limit moisture loss and cut irrigation needs.</cite> <cite index=\"23-9,23-10\">For livestock, shaded areas could ease the effects of heat, and vegetation and moisture under the panels could also help moderate module temperature.</cite> <cite index=\"1-7\">Additional benefits sought by the dairy owners, beyond electricity generation, include free roaming for the cattle, shade for grazing areas, lowering of soil temperatures which helps to retain in-ground moisture, and stress relief for cattle during hot weather.</cite>",
+            "<cite index=\"11-6\">The Gordon Solar Farm has been delivered through collaboration between the Gordon family, TCL Solar, Clenergy, Micropico, insurance and financial partners.</cite> <cite index=\"20-4\">Featuring TCL Solar 625W TOPCon modules and Clenergy ezTrackers D1P, the project brings together solar technology, agricultural expertise and tracking infrastructure to demonstrate the potential of dual-purpose land use.</cite> Because <cite index=\"1-5\">exposure to ammonia in an agricultural setting is a technical challenge for agrivoltaics deployed in proximity to livestock, where waste, manure and farm processes can affect susceptible materials and components within solar modules</cite>, <cite index=\"31-3\">the TCL Solar TOPCon modules supplied for the Gordon project have undergone ammonia corrosion resistance testing in accordance with IEC 62716, the international standard for assessing resistance to ammonia exposure.</cite> <cite index=\"31-1\">For TCL Solar, the project demonstrates the importance of reliable module technology in installations with specific operational and environmental demands.</cite> The farm sits <cite index=\"1-1\">on the North Island, 300 kilometres southeast of Auckland</cite>.",
+            "<cite index=\"33-8\">The public opening event brought together representatives of the agricultural and renewable energy sectors, project partners and local communities.</cite> <cite index=\"33-9\">A live panel discussion addressed the lessons from the project and the question of how landowners can create additional value from their land while supporting the farming businesses and communities that depend on it.</cite> <cite index=\"11-8\">As New Zealand continues to expand its renewable energy capacity, the Gordon Solar Farm offers a practical example of how solar energy can become part of the wider agricultural landscape, creating opportunities for farmers, energy providers and rural communities alike.</cite>"
+          ],
+          "lens": "This is a Bay of Plenty story with no direct Hawke's Bay link — none of the reporting mentions a Hawke's Bay grower, council, developer or site, and nothing here should be read as evidence that any local project has adopted this design. The honest reason to cover it is the underlying tension it speaks to, one Hawke's Bay knows well as solar development spreads across orchard, vineyard and pastoral land in the region: standard ground-mount arrays typically take paddocks or rows out of production for the life of the lease, while landowners and councils weigh the trade-off between power revenue and farming income. The Gordon farm's elevated, 2.2-metre single-axis trackers, built to let a working dairy herd keep grazing underneath, show that dual land-use is technically possible rather than purely theoretical — reducing soil-temperature swings, cutting irrigation demand and giving stock shade, according to the project's own account. Hawke's Bay developers, Federated Farmers members and district planners weighing solar leases on grazing or cropping land would be sensible to treat this as a reference point worth scrutinising — cost, livestock safety, module durability near animals and consenting implications all need local testing — rather than assuming it is a plug-and-play template. At this stage, though, it remains exactly what it is: a single demonstration farm on the other side of the North Island, not a proof that any Hawke's Bay site has gone this route, or that it necessarily should without its own cost-benefit case.",
+          "sources": [
+            {
+              "l": "Manila Times / PR Newswire",
+              "u": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/from-pasture-to-power-gordon-solar-farm-showcases-the-future-of-farming-and-solar-energy-in-new-zealand/2466040"
+            },
+            {
+              "l": "Energy News",
+              "u": "https://energynews.pro/en/new-zealand-hosts-gordon-agrivoltaic-farm-47-mw-on-a-working-dairy-farm"
+            },
+            {
+              "l": "Eventbrite - Gordon Cattle & Solar Farm Open Day",
+              "u": "https://www.eventbrite.com.au/e/gordon-cattle-solar-farm-open-day-tickets-1999419592825"
+            },
+            {
+              "l": "pv magazine Australia",
+              "u": "http://www.pv-magazine-australia.com/2026/11/12/ammonia-corrosion-resistance-testing-preps-panels-for-4-7-mw-agrivoltaic-project/"
+            }
+          ]
+        },
+        {
           "date": "11 Nov 2026",
           "headline": "Lightyears Secures NZ$174m from Japan and Australia to Fast-Track 300MW of NZ Solar and Battery Storage",
           "brief": "<p>New Zealand solar developer Lightyears has secured <b>NZ$174 million (US$102 million)</b> from Japanese construction group Obayashi and Australian lender Infradebt to accelerate its solar PV build-out, with the funding supporting delivery of <b>more than 300MW</b> of utility-scale solar and battery storage infrastructure over the next five years.</p>",
@@ -633,27 +663,6 @@
             {
               "l": "Electricity Authority",
               "u": "https://www.ea.govt.nz/news/eye-on-electricity/grid-connected-solar-is-having-its-time-in-the-sun/"
-            }
-          ]
-        },
-        {
-          "date": "14 Jul 2026",
-          "headline": "Sheep graze under the panels — and 32 farms trial solar and batteries",
-          "brief": "<p>New Zealand's <b>EECA</b> has selected <b>32 farms</b> for a solar-and-battery trial — its 'Solar on Farms' programme — collectively installing about <b>3,616 kW</b> of generation across dairy, sheep, beef, horticulture, poultry, nursery and wine operations. Separately, agrivoltaic sites like the <b>Rangitaiki</b> solar farm in the Bay of Plenty already run sheep beneath raised panels, generating power and farming the same land.</p>",
-          "body": [
-            "New Zealand is testing, on two fronts, whether farms can generate power without giving up productive land. The government's Energy Efficiency and Conservation Authority (EECA) has selected 32 farms for a solar-and-battery trial under its 'Solar on Farms' programme, with the properties collectively installing about 3,616 kW of solar — systems ranging from 30 kW to well over 150 kW, plus four battery-only sites — across dairy, sheep, beef, horticulture, poultry, nursery and wine operations. One participant, the Balle Bros Group, has paired a 216 kW array on a packhouse roof with a 116 kWh battery. In return for partial funding, the farms will share performance data and host demonstration events to encourage wider uptake.",
-            "The more eye-catching idea is agrivoltaics — farming directly beneath the panels. At Lodestone Energy's 32 MW Rangitaiki solar farm near Edgecumbe in the Bay of Plenty, nearly 60,000 bi-facial panels sit on trackers mounted high enough for sheep to graze and move freely underneath, with the operator reporting that roughly 80 percent of grass productivity is retained while the panels provide shade. Lodestone is also trialling strawberry cultivation between the rows, treating the site as a prototype for pairing generation with farming rather than displacing it.",
-            "The appeal is dual use of the same hectares: a generation lease or on-farm power on top of ordinary farm returns, sheep doubling as low-cost vegetation control, shade and shelter for stock, and — where batteries are added, as in the EECA trial — a measure of on-farm energy security. For a country wrestling with how to decarbonise without paving over productive land, 'solar and food' is a far easier proposition than 'solar or food.'"
-          ],
-          "lens": "This is the solar story that fits a farming region best. Hawke's Bay's sheep-and-beef blocks, orchards and vineyards could earn a second income from generation on land they already farm, with raised panels adding shade and shelter for stock and batteries firming supply on remote blocks. The practical steps are unglamorous but decisive: growers and station owners running the numbers on a generation lease versus rooftop-and-battery ownership; industry bodies and EECA bringing a Bay farm into the next demonstration round so the data is <em>local</em>, not just Bay-of-Plenty; and lines companies signalling where on the network farm-scale solar can connect. Done well, <em>solar vs food</em> becomes <em>solar and food</em> — extra revenue and resilience without taking a hectare out of production.",
-          "sources": [
-            {
-              "l": "pv magazine",
-              "u": "https://www.pv-magazine.com/2026/02/20/new-zealand-selects-32-farms-for-solar-and-battery-trial/"
-            },
-            {
-              "l": "Farmers Weekly",
-              "u": "https://www.farmersweekly.co.nz/technology/rangitaiki-solar-farm-completed-in-bop/"
             }
           ]
         }
@@ -1468,6 +1477,34 @@
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
         {
+          "date": "16 Nov 2026",
+          "headline": "NZ Agritech Startup Aimer Farming Raises NZ$3m to Push Pasture Tech Into Beef Farming Ahead of 2027 Launch",
+          "brief": "<p>New Zealand agritech startup <b>Aimer Farming</b>, which helps farmers calculate how much grass they have to feed beef cattle, has raised <b>NZ$3 million (A$2.44m)</b> in a round co-led by Cultivate Ventures, the Erbacher Food Family, Pacific Channel and Agnition, with backing from Australia's Antipodean Capital and New Zealand investors Flying Kiwi Angels, Enterprise Angels and Angel HQ. The raise takes the Hamilton company's total funding since November 2024 to around <b>NZ$5.15 million</b>, and will fund a beef farming offering due to launch in 2027, alongside further dairy product development and wider rollout of its satellite pasture-measurement tool.</p>",
+          "body": [
+            "New Zealand agritech startup Aimer Farming, which helps farmers calculate how much grass they have to feed beef cattle, has raised NZ$3 million (A$2.44m). The round was co-led by Cultivate Ventures, the Erbacher Food Family, Pacific Channel and Agnition, with backing from Australia's Antipodean Capital and Aotearoa investors Flying Kiwi Angels, Enterprise Angels and Angel HQ. The raise takes Aimer's total funding since November 2024 to around NZ$5.15 million.",
+            "Founder and chief technology officer Dr Jeremy Bryant launched Aimer in 2023 from Hamilton. The business now counts more than 800 dairy farms across New Zealand, Chile and the UK, where it launched in June. Farmers in the three countries have scanned their pasture via smartphones more than 500,000 times, while those with a satellite service can monitor their paddocks remotely. Aimer combines smartphone and satellite measurements with forecasts of pasture growth to help farmers decide where to graze their herd.",
+            "Aimer Farming has completed the capital raise to support its next stage of growth, including a beef farming offering due to launch in 2027. The funding will also go toward further development of its dairy offering, wider adoption of its AIMER Satellite pasture measurement tool, and expansion into selected overseas markets through strategic partnerships. Cultivate Ventures has increased its stake in the company through the latest round, with Cultivate Director Marcus Henderson saying Aimer Farming stands out for combining technical expertise with an understanding of pasture-based farming. \"Its growing farmer customer base shows AIMER is addressing a real need. We're pleased to back Jeremy and his team as they turn that farmer demand into a sustainable business,\" he said.",
+            "Bryant said one of the biggest decisions farmers grapple with is when to sell their cattle. \"Knowing how much grass is available, and what's coming, helps beef farmers plan how many cattle they can carry and when to finish them,\" he said. On the dairy side, Bryant has said farmers tell the company AIMER helps them make better use of the grass they've grown, plan ahead and reduce reliance on supplementary feed, with AIMER Satellite letting farmers monitor pasture remotely and more dairy farmers choosing it as part of their subscription.",
+            "Aimer has also hired Casey Molloy as chief operating officer, Shane Nolan as chief revenue officer and Nitika Shah as head of growth and product marketing over the past year.",
+            "The raise builds on a funding history stretching back to November 2024, when Aimer had backing from Sprout Agritech, Pacific Channel, NZVC, Agnition Ventures and the Erbacher family, with Cultivate Ventures first coming on board in November 2025."
+          ],
+          "lens": "There is no stated Hawke's Bay angle in this story, and it would be wrong to invent one: this is a Hamilton-founded, nationally-backed funding round for a dairy-pasture tool pivoting into beef, not a Bay business or Bay trial. But the problem it is built to solve — knowing how much grass is available and what's coming, so farmers can plan how many cattle they carry and when to finish them, rather than letting feed shortages dictate sale timing — sits squarely inside Hawke's Bay's sheep, beef and dry-stock farming base. The company's own numbers show real traction (more than 800 dairy farms across three countries and over 500,000 pasture scans), which should give Bay farmers and investors reason to take the 2027 beef launch seriously rather than dismiss it as vapourware. The honest move for the region is not to claim credit for this raise but to watch the opportunity it signals: Angel HQ is already a backer, so Hawke's Bay's angel networks have a direct line into any follow-on round as Aimer scales into beef; and Bay drystock operations are a natural audience to approach once the 2027 beef product is closer to market, rather than waiting for someone else's region to run the first trials. Beyond that, there is little more to honestly say yet — no Hawke's Bay farms, funders or trials are named in the reporting, and the beef product itself does not exist until 2027.",
+          "sources": [
+            {
+              "l": "Startup Daily",
+              "u": "https://www.startupdaily.net/topic/funding/kiwi-agtech-aimer-farming-raises-2-44-million-to-solve-the-grass-to-beef-ratio-problem/"
+            },
+            {
+              "l": "Farmers Weekly",
+              "u": "https://www.farmersweekly.co.nz/news/aimer-farming-attracts-funding-for-next-growth-stage/"
+            },
+            {
+              "l": "Rural News Group",
+              "u": "https://www.ruralnewsgroup.co.nz/rural-news/rural-agribusiness/aimer-farming-3-million-capital-raise-beef-launch-2027"
+            }
+          ]
+        },
+        {
           "date": "13 Nov 2026",
           "headline": "$3m Government Loan to Build Central Hawke's Bay Seed Processing Hub",
           "brief": "<p>The Government has approved a <b>$3 million</b> Regional Infrastructure Fund loan for a grower-led seed cleaning, processing and storage facility in Central Hawke's Bay, which will build on an earlier <b>$1.4m</b> seed-drying facility in Ōtāne that the Government previously backed. The announcement follows a rocky stretch for the district's arable growers since the closure of the McCain and Wattie's facilities, and comes in a year when high-value seed exports earned around <b>$339m</b>. Central Hawke's Bay mayor Will Foley called the news \"fabulous,\" saying seed processing in the district \"makes sense.\"</p>",
@@ -1704,23 +1741,6 @@
             {
               "l": "University of Auckland",
               "u": "https://www.auckland.ac.nz/en/news/2025/05/13/agritech-start-up-cropsy-technologies-changing-viticulture.html"
-            }
-          ]
-        },
-        {
-          "date": "08 Jul 2026",
-          "headline": "A Hawke's Bay apple just signed one of China's biggest stars",
-          "brief": "<p><b>Rockit</b> — the snack-sized apple pioneered in Hawke's Bay around 20 years ago as the world's first miniature apple — has signed Chinese superstar <b>Wang Yibo</b> as brand ambassador to drive sales in China, the world's largest apple market. It now sells across <b>30+ territories</b> and grows in <b>eight regions</b> worldwide.</p>",
-          "body": [
-            "Rockit, the snack-sized apple pioneered in Hawke's Bay around 20 years ago as the world's first miniature apple, has landed a marketing coup: it has signed Chinese superstar Wang Yibo — an actor, singer, dancer and motorsport competitor, and previously a face for Chanel and Lacoste — as brand ambassador to drive sales in China, the world's largest and most dynamic apple market, from May 2026.",
-            "The company now sells in more than 30 territories and grows across eight regions worldwide to keep year-round supply, all from a brand that began as one small New Zealand apple. Rockit Global chief executive Grant McBeath said partnering with an ambassador of Wang's calibre was \"a powerful way to reach new audiences at scale,\" and significant for any brand, \"let alone one from a small market like New Zealand,\" noting that around 80 percent of people who try the apple go on to repurchase it.",
-            "Rockit's story is less about fruit than about intellectual property, branding and marketing muscle exported from the Bay to the world — a template other regional food producers are studying as they look to capture value beyond the raw commodity."
-          ],
-          "lens": "Rockit turned a small Bay apple into a global premium brand — proof the region can export <em>IP, branding and marketing muscle</em>, not just fruit. The lesson for other Hawke's Bay food producers is that the value sits in the brand and the repeat customer, not the raw crop: the same playbook of a protected variety, tight quality control and serious offshore marketing could work for the Bay's stonefruit, wine or specialty produce. The practical question for growers and investors here is whether to keep selling commodities or to build the brand and distribution muscle that captures the margin Rockit has shown is on the table.",
-          "sources": [
-            {
-              "l": "NZBusiness",
-              "u": "https://nzbusiness.co.nz/business/hawkes-bay-apple-brand-rockit-signs-chinese-megastar-wang-yibo"
             }
           ]
         }
