@@ -1,33 +1,33 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Resilience",
+    "chipLabel": "Innovation",
     "sector": "bay",
-    "date": "15 Nov 2026",
-    "headline": "Global Microsoft Outage Halts NZ Visa Processing and Property Settlements, Exposing the Country's Cloud Dependence",
-    "byline": "Nov 15, 2026 · a global cloud failure this week showed how exposed Hawke's Bay's law firms, visa applicants and public services are to a handful of global tech suppliers",
-    "brief": "<p>A major Microsoft outage disrupted Outlook, Teams and Copilot around the world this week, and the company's own repair efforts stumbled. Microsoft said <cite index=\"28-3,28-4\">it had traced the outage to overwhelmed servers, although its changes applied to improve serviceability were \"not taking as expected.\"</cite> Images taken as the fault dragged on <cite index=\"28-2\">showed Microsoft's Outlook, Teams and CoPilot unable to connect.</cite> Microsoft later said the fault was technical, not malicious: <cite index=\"14-5,14-6,14-7\">\"This was a technical issue not related to cyber or AI/agents,\" a Microsoft spokesperson said, adding the incident \"was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change.\"</cite></p><p>In New Zealand the effects were immediate and wide. <cite index=\"10-1,10-2\">Immigration New Zealand announced it had paused processing all visa applications until further notice because of the global Microsoft outage, with the affected applications including temporary entry visas for families of New Zealand citizens.</cite> INZ said the outage <cite index=\"10-6\">also left customers unable to apply for visas via its enhanced Immigration Online platform,</cite> and confirmed <cite index=\"10-7,10-8\">the outage had affected its plans to make a number of system changes from Monday 16 November 2026, with all those changes postponed for a week to come into effect on Monday 23 November.</cite> Beyond immigration, <cite index=\"19-1\">the New Zealand Law Society said the outage was significantly disrupting property settlements across New Zealand, preventing firms from issuing undertakings and receiving bank drawdown information,</cite> while <cite index=\"19-3\">courts remained available to accept urgent applications over the counter or via courier.</cite> Not every service was equally hit: <cite index=\"19-2\">Health NZ told RNZ there had been \"minimal disruption\" to patient services so far,</cite> even as <cite index=\"14-2\">the New Zealand Herald reported the outage had impacted major government agencies, schools, businesses, health services, property settlements and court appearances across the country.</cite></p><p>The episode has reopened a bigger question about New Zealand's digital infrastructure. <cite index=\"19-6,19-7\">Catalyst, a New Zealand software development firm, told RNZ the outage highlighted the country's vulnerability to global technology glitches, with managing director Don Christie saying the economy was particularly reliant on a handful of global suppliers for digital services.</cite> <cite index=\"19-8,19-9\">Christie said other countries mandated open-source software, which was free, as the default for government procurement, and that New Zealand should do the same, pointing to Denmark, Singapore and South Korea as countries with exemplar government IT strategies.</cite></p>",
-    "lens": "For Hawke's Bay this wasn't an abstract Silicon Valley story. It was a week where New Zealand law firms couldn't complete property settlements, visa applicants, including partners and children of Bay residents, were left waiting indefinitely, and courts had to fall back on over-the-counter and courier filings while front-line digital tools went dark. Local law firms, councils and health providers should recognise that the same handful of global suppliers Catalyst's Don Christie flagged as a systemic weak point underpin daily operations here too: one misconfigured network change on the other side of the world is enough to take core conveyancing, immigration and court tools offline at once. Health NZ's own experience this time, describing only minimal disruption to patient care, is a reminder that resilience is achievable, but it shouldn't be left to chance. Hawke's Bay firms, councils and health providers should treat this as a free resilience audit: test whether critical functions such as property settlement undertakings and visa paperwork have a workable non-cloud fallback, and push regional law and real-estate bodies to build manual contingency plans before the next outage, not after it.",
+    "date": "17 Nov 2026",
+    "headline": "One NZ Turns Retired Network Gear Into Cash for Conservation Tech — Including a Hunt for a Bird Thought Extinct",
+    "byline": "17 Nov 2026 · a national telco's e-waste-to-conservation pivot — and a funding door Hawke's Bay's own conservation tech could walk through",
+    "brief": "<p>One New Zealand has today launched a new Nature Tech Fund to back conservation projects using connectivity, AI, remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa. The fund takes a circular approach, reinvesting rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</p><p>The scale of that recycling pipeline is a real headline figure — in FY26 alone, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill, and a portion of that recovered value will now help fund new conservation technology projects. The fund builds on One NZ's National Conservation Partnership with the Department of Conservation, which is exploring how connectivity and emerging technologies can improve conservation outcomes.</p><p>Three initial projects have been named. The most striking is the <b>One NZ Hark Fiordland Piopio Expedition</b>, backing conservation technology company Hark's search for evidence of the piopio — a bird currently listed as extinct — using acoustic monitoring devices connected via One NZ Satellite that will record forest sounds in remote Fiordland, with AI helping researchers analyse the data for potential signs of the bird. A second project supports the Predator Free Hauraki Coromandel Community Trust, trialling 4G and 5G-connected cameras to strengthen predator monitoring and native species recovery. The third sees new 5G-connected beehives installed at One NZ's Auckland support office, using cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</p><p>\"What makes the Nature Tech Fund particularly exciting is the circular thinking behind it. We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\" said Nicky Preston, One NZ's head of sustainability and corporate affairs. \"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</p><p>It's a small fund by national economic standards, but it's a genuinely new model: a major telco monetising its own hardware waste stream and redirecting the proceeds into frontier conservation tech, rather than treating e-waste recycling purely as a compliance or PR line item.</p>",
+    "lens": "For Hawke's Bay, this is less about the dollars and more about the door it opens. The region already runs on the same ingredients this fund is designed to reward — remote sensing, acoustic monitoring and connected cameras applied to conservation problems across difficult terrain, from pest-control networks to coastal and forest sanctuaries. A corporate fund that explicitly wants to back connectivity-plus-AI conservation projects, and that has just named its first cohort spanning Fiordland, the Coromandel and an Auckland office rooftop, is exactly the kind of national funding call regional conservation and tech groups should be putting proposals in front of rather than assuming is aimed only at the places already named. The honest caveat is that this is one telco's modest, circular-economy-funded pilot, not a government programme — so the sensible regional response is simply to make sure Hawke's Bay's conservation tech operators know it exists and get an application in, rather than waiting for a bigger pot that may never specifically target the Bay.",
     "sources": [
       {
-        "l": "RNZ",
-        "u": "https://www.rnz.co.nz/news/business/2583930/microsoft-battling-major-outlook-outage"
+        "l": "One NZ (media.one.nz)",
+        "u": "https://media.one.nz/nature-tech-fund"
       },
       {
-        "l": "Otago Daily Times",
-        "u": "https://www.odt.co.nz/news/world/global-microsoft-outage-locks-users-out-of-email-oemh9bwu"
+        "l": "Scoop",
+        "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
       },
       {
-        "l": "BusinessDesk",
-        "u": "https://www.businessdesk.co.nz/news/immigration-nz-pauses-all-visa-processing-after-global-microsoft-outage/Z6N37DMBFZEB7A372LTMIBWWLQ/"
+        "l": "Reseller News",
+        "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
       },
       {
-        "l": "1News",
-        "u": "https://www.1news.co.nz/2026/11/13/microsoft-fix-not-taking-as-expected-global-outage-drags-on/"
+        "l": "The Fast Mode",
+        "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
       },
       {
-        "l": "Newsweek",
-        "u": "https://www.newsweek.com/microsoft-outage-hits-global-operations-from-airlines-to-visas-12708940"
+        "l": "Telco News NZ",
+        "u": "https://telconews.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
       }
     ]
   },
@@ -1955,6 +1955,36 @@
   ],
   "headlines": [
     {
+      "date": "15 Nov 2026",
+      "chipLabel": "Resilience",
+      "headline": "Global Microsoft Outage Halts NZ Visa Processing and Property Settlements, Exposing the Country's Cloud Dependence",
+      "byline": "Nov 15, 2026 · a global cloud failure this week showed how exposed Hawke's Bay's law firms, visa applicants and public services are to a handful of global tech suppliers",
+      "brief": "<p>A major Microsoft outage disrupted Outlook, Teams and Copilot around the world this week, and the company's own repair efforts stumbled. Microsoft said <cite index=\"28-3,28-4\">it had traced the outage to overwhelmed servers, although its changes applied to improve serviceability were \"not taking as expected.\"</cite> Images taken as the fault dragged on <cite index=\"28-2\">showed Microsoft's Outlook, Teams and CoPilot unable to connect.</cite> Microsoft later said the fault was technical, not malicious: <cite index=\"14-5,14-6,14-7\">\"This was a technical issue not related to cyber or AI/agents,\" a Microsoft spokesperson said, adding the incident \"was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change.\"</cite></p><p>In New Zealand the effects were immediate and wide. <cite index=\"10-1,10-2\">Immigration New Zealand announced it had paused processing all visa applications until further notice because of the global Microsoft outage, with the affected applications including temporary entry visas for families of New Zealand citizens.</cite> INZ said the outage <cite index=\"10-6\">also left customers unable to apply for visas via its enhanced Immigration Online platform,</cite> and confirmed <cite index=\"10-7,10-8\">the outage had affected its plans to make a number of system changes from Monday 16 November 2026, with all those changes postponed for a week to come into effect on Monday 23 November.</cite> Beyond immigration, <cite index=\"19-1\">the New Zealand Law Society said the outage was significantly disrupting property settlements across New Zealand, preventing firms from issuing undertakings and receiving bank drawdown information,</cite> while <cite index=\"19-3\">courts remained available to accept urgent applications over the counter or via courier.</cite> Not every service was equally hit: <cite index=\"19-2\">Health NZ told RNZ there had been \"minimal disruption\" to patient services so far,</cite> even as <cite index=\"14-2\">the New Zealand Herald reported the outage had impacted major government agencies, schools, businesses, health services, property settlements and court appearances across the country.</cite></p><p>The episode has reopened a bigger question about New Zealand's digital infrastructure. <cite index=\"19-6,19-7\">Catalyst, a New Zealand software development firm, told RNZ the outage highlighted the country's vulnerability to global technology glitches, with managing director Don Christie saying the economy was particularly reliant on a handful of global suppliers for digital services.</cite> <cite index=\"19-8,19-9\">Christie said other countries mandated open-source software, which was free, as the default for government procurement, and that New Zealand should do the same, pointing to Denmark, Singapore and South Korea as countries with exemplar government IT strategies.</cite></p>",
+      "lens": "For Hawke's Bay this wasn't an abstract Silicon Valley story. It was a week where New Zealand law firms couldn't complete property settlements, visa applicants, including partners and children of Bay residents, were left waiting indefinitely, and courts had to fall back on over-the-counter and courier filings while front-line digital tools went dark. Local law firms, councils and health providers should recognise that the same handful of global suppliers Catalyst's Don Christie flagged as a systemic weak point underpin daily operations here too: one misconfigured network change on the other side of the world is enough to take core conveyancing, immigration and court tools offline at once. Health NZ's own experience this time, describing only minimal disruption to patient care, is a reminder that resilience is achievable, but it shouldn't be left to chance. Hawke's Bay firms, councils and health providers should treat this as a free resilience audit: test whether critical functions such as property settlement undertakings and visa paperwork have a workable non-cloud fallback, and push regional law and real-estate bodies to build manual contingency plans before the next outage, not after it.",
+      "sources": [
+        {
+          "l": "RNZ",
+          "u": "https://www.rnz.co.nz/news/business/2583930/microsoft-battling-major-outlook-outage"
+        },
+        {
+          "l": "Otago Daily Times",
+          "u": "https://www.odt.co.nz/news/world/global-microsoft-outage-locks-users-out-of-email-oemh9bwu"
+        },
+        {
+          "l": "BusinessDesk",
+          "u": "https://www.businessdesk.co.nz/news/immigration-nz-pauses-all-visa-processing-after-global-microsoft-outage/Z6N37DMBFZEB7A372LTMIBWWLQ/"
+        },
+        {
+          "l": "1News",
+          "u": "https://www.1news.co.nz/2026/11/13/microsoft-fix-not-taking-as-expected-global-outage-drags-on/"
+        },
+        {
+          "l": "Newsweek",
+          "u": "https://www.newsweek.com/microsoft-outage-hits-global-operations-from-airlines-to-visas-12708940"
+        }
+      ]
+    },
+    {
       "date": "13 Nov 2026",
       "chipLabel": "Markets",
       "headline": "Xero's Profit Crashes 86% to $18.6m — But NZ's Biggest Tech Export Unveils A$1b Buyback and Lifts Outlook",
@@ -2549,20 +2579,6 @@
         {
           "l": "RNZ",
           "u": "https://www.rnz.co.nz/news/business/571040/in-an-economic-slump-tech-startups-are-in-hot-demand"
-        }
-      ]
-    },
-    {
-      "date": "07 Sep 2026",
-      "chipLabel": "Economy",
-      "headline": "NZ's Top Tech Firms Post Bumper Profits: TIN200 Revenues Up $1.8 Billion in a Year",
-      "byline": "National · what a tech boom among New Zealand's biggest tech exporters means for scaling businesses in the Bay",
-      "brief": "<p>New Zealand's biggest technology companies have just posted a bumper year of growth, according to new TIN200 figures reported by RNZ. <b>TIN200 companies increased revenues by NZ$1.8 billion or 10 percent in 2025 over 2024</b>, with growth concentrated among the largest players: <b>the ten highest revenue growth companies saw combined revenues in 2025 up $1.4b, more than triple the $400 million growth recorded by the top ten growth companies a decade earlier in 2015</b>. The growth was across companies operating in information and communications technology (ICT), high-tech manufacturing and biotech.</p><p>TIN head of research Narjis Adnan said current conditions provide a strong foundation for continued growth across the technology sector, adding: \"We expect TIN200 revenues to continue their strong growth in 2026,\" and that \"more companies are reaching meaningful global scale, creating a stronger and more resilient technology sector with the capacity to compete and grow across international markets.\" The report noted that maintaining access to the right talent will be critical to sustaining this growth. NZ Growth Partners investment director Jacques Richter said the country's \"ecosystem has created world-leading value from a modest capital base,\" while BNZ technology industries development manager Josh Starkey said the growing maturity was an important development for the wider New Zealand economy, adding that BNZ was \"proud to support many of our country's technology companies as they grow, innovate, and expand into international markets.\"</p>",
-      "lens": "For Hawke's Bay, this is a story about where the country's tech gravity is sitting — and it isn't here yet. The revenue surge is concentrated in a small cluster of already-large ICT, biotech and high-tech manufacturing firms reaching \"meaningful global scale,\" which mostly means head offices far from the region, not regional operators. But the signal underneath the numbers matters locally: a maturing national tech sector with real export revenue is exactly the kind of market Hawke's Bay's smaller tech, agritech and food-manufacturing exporters need to plug into as suppliers, integrators or acquisition targets, rather than compete against directly. The sharper warning is the one the report itself flagged — talent. If the country's most successful tech firms are already being told that access to the right people is critical to sustaining double-digit growth, that squeeze will be felt hardest by regions like ours that don't have a deep local graduate pipeline or a critical mass of senior tech roles to keep skilled people from drifting to the main centres or overseas. Honestly, there's little Hawke's Bay can or should do to chase this particular boom directly — we don't have TIN200-scale firms and shouldn't pretend otherwise. What the region can do is treat this as a talent-retention alarm: use EIT and local schools to keep building a pipeline of digitally skilled graduates, and make sure Hawke's Bay's existing exporters and food-tech firms are visibly plugged into the national conversation so that when this capital and confidence looks for its next growth story, it doesn't automatically skip past us.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1225519/bumper-year-of-profits-for-nz-s-top-tech-companies"
         }
       ]
     }
