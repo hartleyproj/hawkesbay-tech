@@ -1,33 +1,33 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Innovation",
+    "chipLabel": "Space",
     "sector": "bay",
-    "date": "17 Nov 2026",
-    "headline": "One NZ Turns Retired Network Gear Into Cash for Conservation Tech — Including a Hunt for a Bird Thought Extinct",
-    "byline": "17 Nov 2026 · a national telco's e-waste-to-conservation pivot — and a funding door Hawke's Bay's own conservation tech could walk through",
-    "brief": "<p>One New Zealand has today launched a new Nature Tech Fund to back conservation projects using connectivity, AI, remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa. The fund takes a circular approach, reinvesting rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</p><p>The scale of that recycling pipeline is a real headline figure — in FY26 alone, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill, and a portion of that recovered value will now help fund new conservation technology projects. The fund builds on One NZ's National Conservation Partnership with the Department of Conservation, which is exploring how connectivity and emerging technologies can improve conservation outcomes.</p><p>Three initial projects have been named. The most striking is the <b>One NZ Hark Fiordland Piopio Expedition</b>, backing conservation technology company Hark's search for evidence of the piopio — a bird currently listed as extinct — using acoustic monitoring devices connected via One NZ Satellite that will record forest sounds in remote Fiordland, with AI helping researchers analyse the data for potential signs of the bird. A second project supports the Predator Free Hauraki Coromandel Community Trust, trialling 4G and 5G-connected cameras to strengthen predator monitoring and native species recovery. The third sees new 5G-connected beehives installed at One NZ's Auckland support office, using cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</p><p>\"What makes the Nature Tech Fund particularly exciting is the circular thinking behind it. We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\" said Nicky Preston, One NZ's head of sustainability and corporate affairs. \"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</p><p>It's a small fund by national economic standards, but it's a genuinely new model: a major telco monetising its own hardware waste stream and redirecting the proceeds into frontier conservation tech, rather than treating e-waste recycling purely as a compliance or PR line item.</p>",
-    "lens": "For Hawke's Bay, this is less about the dollars and more about the door it opens. The region already runs on the same ingredients this fund is designed to reward — remote sensing, acoustic monitoring and connected cameras applied to conservation problems across difficult terrain, from pest-control networks to coastal and forest sanctuaries. A corporate fund that explicitly wants to back connectivity-plus-AI conservation projects, and that has just named its first cohort spanning Fiordland, the Coromandel and an Auckland office rooftop, is exactly the kind of national funding call regional conservation and tech groups should be putting proposals in front of rather than assuming is aimed only at the places already named. The honest caveat is that this is one telco's modest, circular-economy-funded pilot, not a government programme — so the sensible regional response is simply to make sure Hawke's Bay's conservation tech operators know it exists and get an application in, rather than waiting for a bigger pot that may never specifically target the Bay.",
+    "date": "18 Nov 2026",
+    "headline": "Electron's 100th Launch: The Rocket Beating Falcon 9 to the Milestone Lifts Off From Our Region",
+    "byline": "Mahia, 14-17 Nov 2026 · what 100 launches from next door means for the Bay",
+    "brief": "<p>Rocket Lab has rewritten the record books. <b>The mission, named \"The Mountain God Rises,\" lifted off from Rocket Lab Launch Complex 1 in New Zealand at 6:30 p.m. on November 14, 2026</b>, carrying Japan's <b>YAMATSUMI-II</b> (also designated QPS-SAR-19) synthetic aperture radar satellite for the <b>Institute for Q-shu Pioneers of Space (iQPS)</b> into a <b>575-kilometer</b> low Earth orbit. It was <b>Rocket Lab's 11th Electron launch for iQPS</b>, and, crucially, <b>Electron's 100th flight overall</b> — reaching the milestone <b>faster than any other commercially developed launch vehicle</b>, with Rocket Lab noting <b>no commercially developed rocket has gotten there faster, not even SpaceX's Falcon 9</b>.</p><p>Speaking on Rocket Lab's third-quarter earnings call days before the mission flew, founder and CEO Peter Beck called the approaching milestone <b>\"an unprecedented milestone for a commercial small-lift orbital rocket, and a threshold rarely crossed in modern spaceflight,\"</b> adding that <b>\"what matters most to us and our customers is that we have achieved a 96% reliability rate across 99 launches.\"</b> Electron — built from carbon-composite structures with 3D-printed Rutherford engines — now has a manifest Rocket Lab says <b>extends into the next decade, with the next 100 Electron missions already booked</b>, while the operating experience is feeding directly into development of Neutron, the company's planned reusable medium-lift rocket. The launch came days after Rocket Lab posted <b>record quarterly revenue of $268 million and a backlog that grew 52% to a record $3.57 billion</b>.</p><p>None of it would exist without the paddock-turned-spaceport at the end of the Mahia Peninsula, where Electron No.100 actually left the ground less than a decade after Electron's first flight from the same pad in 2017 — a company that now employs about 3500 people worldwide, including roughly 1000 in New Zealand.</p>",
+    "lens": "Rocket Lab's Launch Complex 1 sits at the tip of Mahia Peninsula, in Wairoa District - our own Hawke's Bay back yard - which means hitting 100 launches faster than any commercially built rocket in history, including Falcon 9, is as much a regional story as a national one. Every one of those Electron missions, the record backlog, and the Neutron development pipeline runs through a strip of coast most of the country only sees on a livestream. For Hawke's Bay, the sensible response isn't chest-thumping, it's practical: lean harder into the supply chain, workforce training and tourism opportunities that a world-record launch cadence on our doorstep already creates, rather than letting Auckland and Wellington tell the story of a site that's actually ours.",
     "sources": [
       {
-        "l": "One NZ (media.one.nz)",
-        "u": "https://media.one.nz/nature-tech-fund"
+        "l": "pulse2.com",
+        "u": "https://pulse2.com/rocket-lab-completes-100th-electron-launch/"
       },
       {
-        "l": "Scoop",
-        "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
+        "l": "Space.com",
+        "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite"
       },
       {
-        "l": "Reseller News",
-        "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
+        "l": "NZ Herald",
+        "u": "https://nzherald.co.nz/business/fastest-to-100-launches-rocket-lab-celebrates-golden-milestone/OMULC4VPVFAYDCWQMJ26OOLM3E"
       },
       {
-        "l": "The Fast Mode",
-        "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
+        "l": "Rocket Lab",
+        "u": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/"
       },
       {
-        "l": "Telco News NZ",
-        "u": "https://telconews.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
+        "l": "SEC / Rocket Lab Q3 2026 Results",
+        "u": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000073/rklb-11092026ex991.htm"
       }
     ]
   },
@@ -1955,6 +1955,36 @@
   ],
   "headlines": [
     {
+      "date": "17 Nov 2026",
+      "chipLabel": "Innovation",
+      "headline": "One NZ Turns Retired Network Gear Into Cash for Conservation Tech — Including a Hunt for a Bird Thought Extinct",
+      "byline": "17 Nov 2026 · a national telco's e-waste-to-conservation pivot — and a funding door Hawke's Bay's own conservation tech could walk through",
+      "brief": "<p>One New Zealand has today launched a new Nature Tech Fund to back conservation projects using connectivity, AI, remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa. The fund takes a circular approach, reinvesting rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</p><p>The scale of that recycling pipeline is a real headline figure — in FY26 alone, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill, and a portion of that recovered value will now help fund new conservation technology projects. The fund builds on One NZ's National Conservation Partnership with the Department of Conservation, which is exploring how connectivity and emerging technologies can improve conservation outcomes.</p><p>Three initial projects have been named. The most striking is the <b>One NZ Hark Fiordland Piopio Expedition</b>, backing conservation technology company Hark's search for evidence of the piopio — a bird currently listed as extinct — using acoustic monitoring devices connected via One NZ Satellite that will record forest sounds in remote Fiordland, with AI helping researchers analyse the data for potential signs of the bird. A second project supports the Predator Free Hauraki Coromandel Community Trust, trialling 4G and 5G-connected cameras to strengthen predator monitoring and native species recovery. The third sees new 5G-connected beehives installed at One NZ's Auckland support office, using cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</p><p>\"What makes the Nature Tech Fund particularly exciting is the circular thinking behind it. We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\" said Nicky Preston, One NZ's head of sustainability and corporate affairs. \"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</p><p>It's a small fund by national economic standards, but it's a genuinely new model: a major telco monetising its own hardware waste stream and redirecting the proceeds into frontier conservation tech, rather than treating e-waste recycling purely as a compliance or PR line item.</p>",
+      "lens": "For Hawke's Bay, this is less about the dollars and more about the door it opens. The region already runs on the same ingredients this fund is designed to reward — remote sensing, acoustic monitoring and connected cameras applied to conservation problems across difficult terrain, from pest-control networks to coastal and forest sanctuaries. A corporate fund that explicitly wants to back connectivity-plus-AI conservation projects, and that has just named its first cohort spanning Fiordland, the Coromandel and an Auckland office rooftop, is exactly the kind of national funding call regional conservation and tech groups should be putting proposals in front of rather than assuming is aimed only at the places already named. The honest caveat is that this is one telco's modest, circular-economy-funded pilot, not a government programme — so the sensible regional response is simply to make sure Hawke's Bay's conservation tech operators know it exists and get an application in, rather than waiting for a bigger pot that may never specifically target the Bay.",
+      "sources": [
+        {
+          "l": "One NZ (media.one.nz)",
+          "u": "https://media.one.nz/nature-tech-fund"
+        },
+        {
+          "l": "Scoop",
+          "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
+        },
+        {
+          "l": "Reseller News",
+          "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
+        },
+        {
+          "l": "The Fast Mode",
+          "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
+        },
+        {
+          "l": "Telco News NZ",
+          "u": "https://telconews.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
+        }
+      ]
+    },
+    {
       "date": "15 Nov 2026",
       "chipLabel": "Resilience",
       "headline": "Global Microsoft Outage Halts NZ Visa Processing and Property Settlements, Exposing the Country's Cloud Dependence",
@@ -2561,24 +2591,6 @@
         {
           "l": "NZ Herald",
           "u": "https://www.nzherald.co.nz/nz/politics/election-2026-labour-reveals-rules-it-wants-imposed-on-new-data-centres-artificial-intelligence-policy/A7HJT7UA4RG3JDEWIORJKUAT6M/"
-        }
-      ]
-    },
-    {
-      "date": "08 Sep 2026",
-      "chipLabel": "Startups",
-      "headline": "1,400 Investors, One Hawke's Bay Watch Party: Icehouse Showcase Signals Startup Confidence Amid the Slump",
-      "byline": "Auckland/national · a Hawke's Bay watch party sat inside NZ's biggest investor night",
-      "brief": "<p>New Zealand's startup investment scene had its biggest night of the year, and Hawke's Bay was literally in the room for it. <b>Icehouse Ventures brought together more than 1,400 investors for its 16th annual Showcase in Auckland and at watch parties across New Zealand</b>, with <b>more than 1,000 investors gathered at Spark Arena while another 400 watched from 10 regional events in Hamilton, Tauranga, New Plymouth, Hawke's Bay, Wellington, Nelson, Blenheim, Christchurch, Dunedin and Queenstown</b>. <b>Around 200 founders, operators and aspiring entrepreneurs</b> from Icehouse's First Cut community also attended, as <b>companies from space, medtech, energy, retail, marketing and transport</b> took the stage.</p><p>RNZ's coverage captured the mood: <b>1000 of the country's wealthiest people gathered for a banquet at Spark Arena where they were asked to pledge millions of dollars</b>, on a night organiser and Icehouse chief executive Robbie Paul called <b>\"a very curated group.\"</b> Nine entrepreneurs had four minutes each to pitch, and interest in some was so hot that, according to Paul, <b>an investor had committed to Dawn Aerospace before co-founder Stefan Powell even got on the stage to pitch</b>. One investor told RNZ that among the guests were <b>rich foreigners eyeing up the local tech companies and tapping into the newly relaxed 'golden visa' requirement</b>. Icehouse director and investor Anne Catley reframed Kiwi founders working overseas as part of a maturing ecosystem rather than a brain drain, saying <b>\"it's part of a mature ecosystem, people go away, some come back.\"</b></p><p>The night also had its own hall-of-fame moment: the <b>2026 Ray Thomson Award</b> went to Parrot Analytics founder and chief executive <b>Wared Seger</b>, who first pitched Parrot Analytics at Showcase back in 2014. Accepting it, Seger said <b>\"Entrepreneurship is hard,\"</b> adding that <b>\"fundamentally, I think it's about building the future, imagining something that doesn't exist yet that we want to create,\"</b> and that it <b>\"can't happen without an entire ecosystem supporting it.\"</b> Of the <b>120 companies that have presented at Showcase over the last 15 years, Paul noted 26 have failed and 12 have sold</b>, with the rest still going — a reminder that the enthusiasm on display doesn't guarantee every bet pays off.</p>",
-      "lens": "The headline number for us isn't the 1,400 investors or the arena crowd — it's the ten words buried in the regional list: a watch party was held in Hawke's Bay alongside Hamilton, Tauranga and Wellington. That means someone locally already judged there were enough investors, founders or the simply curious here to fill a room for New Zealand's most-watched startup pitch night — proof the Bay is treated as part of the national circuit, not an afterthought. The honest question for the region is what happens between Showcases: whether that one-night audience turns into the kind of ongoing local investor network, mentoring and follow-on capital that turns attendance into actual deal flow for Hawke's Bay-based founders, or whether it stays a pleasant annual outing. Given the story's own numbers show even well-known founders can spend years and dozens of failed peers before breaking through, the region's most useful role may simply be patient, connected capital and visibility — making sure Bay entrepreneurs are in that watch-party room every year until one of them is the one being pledged to before they've even reached the stage.",
-      "sources": [
-        {
-          "l": "itbrief.co.nz",
-          "u": "https://itbrief.co.nz/story/icehouse-ventures-showcases-kiwi-startups-in-auckland"
-        },
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/571040/in-an-economic-slump-tech-startups-are-in-hot-demand"
         }
       ]
     }
