@@ -1,33 +1,37 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Space",
+    "chipLabel": "Innovation",
     "sector": "bay",
-    "date": "18 Nov 2026",
-    "headline": "Electron's 100th Launch: The Rocket Beating Falcon 9 to the Milestone Lifts Off From Our Region",
-    "byline": "Mahia, 14-17 Nov 2026 · what 100 launches from next door means for the Bay",
-    "brief": "<p>Rocket Lab has rewritten the record books. <b>The mission, named \"The Mountain God Rises,\" lifted off from Rocket Lab Launch Complex 1 in New Zealand at 6:30 p.m. on November 14, 2026</b>, carrying Japan's <b>YAMATSUMI-II</b> (also designated QPS-SAR-19) synthetic aperture radar satellite for the <b>Institute for Q-shu Pioneers of Space (iQPS)</b> into a <b>575-kilometer</b> low Earth orbit. It was <b>Rocket Lab's 11th Electron launch for iQPS</b>, and, crucially, <b>Electron's 100th flight overall</b> — reaching the milestone <b>faster than any other commercially developed launch vehicle</b>, with Rocket Lab noting <b>no commercially developed rocket has gotten there faster, not even SpaceX's Falcon 9</b>.</p><p>Speaking on Rocket Lab's third-quarter earnings call days before the mission flew, founder and CEO Peter Beck called the approaching milestone <b>\"an unprecedented milestone for a commercial small-lift orbital rocket, and a threshold rarely crossed in modern spaceflight,\"</b> adding that <b>\"what matters most to us and our customers is that we have achieved a 96% reliability rate across 99 launches.\"</b> Electron — built from carbon-composite structures with 3D-printed Rutherford engines — now has a manifest Rocket Lab says <b>extends into the next decade, with the next 100 Electron missions already booked</b>, while the operating experience is feeding directly into development of Neutron, the company's planned reusable medium-lift rocket. The launch came days after Rocket Lab posted <b>record quarterly revenue of $268 million and a backlog that grew 52% to a record $3.57 billion</b>.</p><p>None of it would exist without the paddock-turned-spaceport at the end of the Mahia Peninsula, where Electron No.100 actually left the ground less than a decade after Electron's first flight from the same pad in 2017 — a company that now employs about 3500 people worldwide, including roughly 1000 in New Zealand.</p>",
-    "lens": "Rocket Lab's Launch Complex 1 sits at the tip of Mahia Peninsula, in Wairoa District - our own Hawke's Bay back yard - which means hitting 100 launches faster than any commercially built rocket in history, including Falcon 9, is as much a regional story as a national one. Every one of those Electron missions, the record backlog, and the Neutron development pipeline runs through a strip of coast most of the country only sees on a livestream. For Hawke's Bay, the sensible response isn't chest-thumping, it's practical: lean harder into the supply chain, workforce training and tourism opportunities that a world-record launch cadence on our doorstep already creates, rather than letting Auckland and Wellington tell the story of a site that's actually ours.",
+    "date": "19 Nov 2026",
+    "headline": "One NZ Turns Old Network Gear Into Cash for Conservation Tech",
+    "byline": "Auckland, 17 Nov 2026 · what circular-economy tech funding could mean for Hawke's Bay's own predator-control and biodiversity projects",
+    "brief": "<p>One New Zealand has launched a <b>Nature Tech Fund</b> to back conservation projects using connectivity, artificial intelligence, remote monitoring and other emerging technologies <b>to deliver better outcomes for nature across Aotearoa</b>. <cite index=\"1-2\">Today, One New Zealand is launching a new Nature Tech Fund to back conservation projects using connectivity, artificial intelligence (AI), remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa.</cite> The twist is where the money comes from: <cite index=\"1-3\">the fund takes a circular approach to conservation funding, using rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</cite> The telco says <cite index=\"1-4\">in FY26, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill,</cite> and <cite index=\"1-5\">a portion of the recovered value will now help fund new conservation technology.</cite></p><p>Head of Sustainability & Corporate Affairs Nicky Preston put it bluntly: <cite index=\"10-9\">\"We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\"</cite> she said. She was careful to frame tech as a support act rather than the star: <cite index=\"22-2,22-3\">\"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</cite> <cite index=\"1-8\">The fund builds on One NZ's National Conservation Partnership with the Department of Conservation (DOC), which is exploring how connectivity and emerging technologies can improve conservation outcomes.</cite></p><p>Three projects kick things off, <cite index=\"19-4\">focused on species monitoring, predator control and urban biodiversity.</cite> The flagship is the <b>One NZ Hark Fiordland Piopio Expedition</b>, <cite index=\"1-9\">backing Hark's search for evidence of the piopio, a bird currently listed as extinct, using acoustic monitoring devices connected by One NZ Satellite.</cite> A second project will see <cite index=\"20-5\">Predator Free Hauraki Coromandel Community Trust trialling 4G and 5G-connected cameras to strengthen predator monitoring and support native species recovery efforts.</cite> A third, smaller-scale project will see <cite index=\"24-4\">new 5G-connected beehives at One NZ's Auckland support office use cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</cite></p>",
+    "lens": "Hawke's Bay already runs some of the country's most ambitious volunteer and iwi-led predator-control and species-recovery efforts, and all of them live and die by exactly the kind of remote acoustic monitoring, satellite connectivity and AI-assisted analysis this fund is built to pay for. The honest takeaway is that there's nothing for the region to 'do' right now beyond watching and applying: the three announced projects sit in Fiordland, the Hauraki Coromandel and an Auckland office rooftop, with no Hawke's Bay allocation mentioned anywhere in the coverage. But the funding model is the real story here, not the geography - a telco turning its own recycled cell-site and network e-waste into a recurring conservation grant pool is a template local trusts, EIT researchers and the region's satellite-dependent farmers and orchardists should be pitching into next, especially given how much of rural Hawke's Bay still relies on patchy coverage that satellite-linked monitoring gear like One NZ's could finally leapfrog.",
     "sources": [
       {
-        "l": "pulse2.com",
-        "u": "https://pulse2.com/rocket-lab-completes-100th-electron-launch/"
+        "l": "One NZ (media.one.nz)",
+        "u": "https://media.one.nz/nature-tech-fund"
       },
       {
-        "l": "Space.com",
-        "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite"
+        "l": "IT Brief New Zealand",
+        "u": "https://itbrief.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
       },
       {
-        "l": "NZ Herald",
-        "u": "https://nzherald.co.nz/business/fastest-to-100-launches-rocket-lab-celebrates-golden-milestone/OMULC4VPVFAYDCWQMJ26OOLM3E"
+        "l": "Scoop",
+        "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
       },
       {
-        "l": "Rocket Lab",
-        "u": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/"
+        "l": "Telecompaper",
+        "u": "https://www.telecompaper.com/news/one-nz-launches-fund-to-support-technology-based-conservation-projects--1589033"
       },
       {
-        "l": "SEC / Rocket Lab Q3 2026 Results",
-        "u": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000073/rklb-11092026ex991.htm"
+        "l": "Reseller News",
+        "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
+      },
+      {
+        "l": "The Fast Mode",
+        "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
       }
     ]
   },
@@ -1754,6 +1758,28 @@
       "tag": "Tech and innovation happening right here in Hawke’s Bay.",
       "stories": [
         {
+          "date": "19 Nov 2026",
+          "headline": "Havelock North Inventor Unveils Rosie, the Robot That Cooks Food-Truck Chips",
+          "brief": "<p>Havelock North entrepreneur <b>Bonar Vossen-Chong</b> — known as <b>Bono</b> to his mum — has built <b>Rosie</b>, a giant robotic arm that cooks and serves chips for his food-truck venture <b>Dr Bon Vons Chip O Matic</b>. Customers order and pay via phone or QR code, and the robot takes it from there, frying and bagging the chips with no human server involved.</p>",
+          "body": [
+            "Hawke's Bay entrepreneur and former superette owner Bonar Vossen-Chong — known to his mum as \"Bono\" — has built Rosie, a robotic food-truck vendor now working in Havelock North, whom he contemplates is on the cusp of a new era of food dispensing. He first started thinking about Rosie a few years ago while running the Clive Four Square Superette, long before he knew her name or what she would look like.",
+            "Rosie, a giant robotic arm, is the centrepiece of Dr Bon Vons Chip O Matic and has been attracting curious crowds at the Havelock North food truck. Customers order and pay for food on their phones — including by scanning a QR code — and can then track her progress as she fills her basket with chips, dips them in the fryer, lifts them out, drops them into a tray, lets the buyer know they're ready and hands over the goods when they come to collect. Once an order lands, Rosie grabs chips from the freezer and cooks them twice in hot oil before dropping the finished product into a cardboard box, a process founder Bono Vossen-Chong says takes about three to four minutes.",
+            "Getting Rosie ready for customers took plenty of trial and error, Vossen-Chong says, including broken baskets and a collision with the deep fryers. \"She has caused a few problems,\" he says, \"but there's not too many scratches on her now.\" The process also included him travelling to China to suss out the robotic options available in the factory there, before Rosie arrived at what he calls her \"first date\" — albeit, by his own admission, one with six happening at once.",
+            "The robot has become something of a local attraction. \"Kids love it, they just want to put their hands all over it,\" Vossen-Chong says. \"Adults often watch it and they giggle and they laugh like kids again.\" He credits Rosie with doing the heavy lifting: \"She really does most of the work for us.\" As for her work ethic, he's blunt: \"Rosie's the ultimate employee. When she's done her chips, there's no fuss.\""
+          ],
+          "lens": "This is a charming, small-scale story rather than a sector-shifting one, and it's worth being straightforward about that: one entrepreneur, one food truck, one robotic arm — not a factory of jobs or a funding round. But it says something real about where grassroots tech tinkering happens in the Bay: in a Havelock North car park, not a lab, with the inventor going as far as China himself to find the right hardware before building, breaking and fixing Rosie through a run of trial and error that included broken baskets and a collision with the deep fryers. The appeal is obvious — kids pressing their hands against her, adults laughing like kids again — because this is automation that's visible and fun rather than abstract. What's genuinely useful for the region to take from this is modest: Rosie is a cheap, working, local proof that unmanned food vending is achievable in a small market like Hawke's Bay, something other hospitality operators, market organisers and food-truck owners can go and watch for themselves rather than only reading about automation happening elsewhere. What's missing from the public account so far is any detail on cost, compliance or food-safety sign-off — permitting for a robot handling hot oil and frying food unattended is the kind of regulatory question that will matter far more than the engineering once more than one Rosie is running in the region, and that's the conversation the Bay should be having quietly now, before the novelty wears off and the next backyard inventor tries to build one.",
+          "sources": [
+            {
+              "l": "Hawke's Bay Today (NZ Herald)",
+              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/dr-bon-vons-chip-o-matic-rosie-the-robot-cooking-hawkes-bays-chips-without-any-attitude/K6MWAAM4VVBZLPQMZY7XV24YGY/"
+            },
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/09/18/meet-the-robot-serving-up-chips-in-less-than-three-minutes/"
+            }
+          ]
+        },
+        {
           "date": "03 Nov 2026",
           "headline": "Central Hawke's Bay topdressing family turns to GPS and automation to fly fertiliser with precision",
           "brief": "<p><b>Josh and Suzie Calder</b>, who founded Central Hawke's Bay aerial topdressing firm <b>Rural Air Work</b> <b>13 years ago</b>, have built their business around precision GPS and automated spreading technology. <cite index=\"1-6\">Josh and Suzie Calder founded Rural Air Work 13 years ago and are using Tabula technology in all their equipment.</cite> The centrepiece is <b>Smart Gate</b>, a Tabula-built system that <cite index=\"19-7\">automatically adjusts the hopper doors to create a variable rate application</cite> from a farmer's digital map, giving growers proof of exactly where fertiliser landed.</p>",
@@ -1954,6 +1980,36 @@
     }
   ],
   "headlines": [
+    {
+      "date": "18 Nov 2026",
+      "chipLabel": "Space",
+      "headline": "Electron's 100th Launch: The Rocket Beating Falcon 9 to the Milestone Lifts Off From Our Region",
+      "byline": "Mahia, 14-17 Nov 2026 · what 100 launches from next door means for the Bay",
+      "brief": "<p>Rocket Lab has rewritten the record books. <b>The mission, named \"The Mountain God Rises,\" lifted off from Rocket Lab Launch Complex 1 in New Zealand at 6:30 p.m. on November 14, 2026</b>, carrying Japan's <b>YAMATSUMI-II</b> (also designated QPS-SAR-19) synthetic aperture radar satellite for the <b>Institute for Q-shu Pioneers of Space (iQPS)</b> into a <b>575-kilometer</b> low Earth orbit. It was <b>Rocket Lab's 11th Electron launch for iQPS</b>, and, crucially, <b>Electron's 100th flight overall</b> — reaching the milestone <b>faster than any other commercially developed launch vehicle</b>, with Rocket Lab noting <b>no commercially developed rocket has gotten there faster, not even SpaceX's Falcon 9</b>.</p><p>Speaking on Rocket Lab's third-quarter earnings call days before the mission flew, founder and CEO Peter Beck called the approaching milestone <b>\"an unprecedented milestone for a commercial small-lift orbital rocket, and a threshold rarely crossed in modern spaceflight,\"</b> adding that <b>\"what matters most to us and our customers is that we have achieved a 96% reliability rate across 99 launches.\"</b> Electron — built from carbon-composite structures with 3D-printed Rutherford engines — now has a manifest Rocket Lab says <b>extends into the next decade, with the next 100 Electron missions already booked</b>, while the operating experience is feeding directly into development of Neutron, the company's planned reusable medium-lift rocket. The launch came days after Rocket Lab posted <b>record quarterly revenue of $268 million and a backlog that grew 52% to a record $3.57 billion</b>.</p><p>None of it would exist without the paddock-turned-spaceport at the end of the Mahia Peninsula, where Electron No.100 actually left the ground less than a decade after Electron's first flight from the same pad in 2017 — a company that now employs about 3500 people worldwide, including roughly 1000 in New Zealand.</p>",
+      "lens": "Rocket Lab's Launch Complex 1 sits at the tip of Mahia Peninsula, in Wairoa District - our own Hawke's Bay back yard - which means hitting 100 launches faster than any commercially built rocket in history, including Falcon 9, is as much a regional story as a national one. Every one of those Electron missions, the record backlog, and the Neutron development pipeline runs through a strip of coast most of the country only sees on a livestream. For Hawke's Bay, the sensible response isn't chest-thumping, it's practical: lean harder into the supply chain, workforce training and tourism opportunities that a world-record launch cadence on our doorstep already creates, rather than letting Auckland and Wellington tell the story of a site that's actually ours.",
+      "sources": [
+        {
+          "l": "pulse2.com",
+          "u": "https://pulse2.com/rocket-lab-completes-100th-electron-launch/"
+        },
+        {
+          "l": "Space.com",
+          "u": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite"
+        },
+        {
+          "l": "NZ Herald",
+          "u": "https://nzherald.co.nz/business/fastest-to-100-launches-rocket-lab-celebrates-golden-milestone/OMULC4VPVFAYDCWQMJ26OOLM3E"
+        },
+        {
+          "l": "Rocket Lab",
+          "u": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/"
+        },
+        {
+          "l": "SEC / Rocket Lab Q3 2026 Results",
+          "u": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000073/rklb-11092026ex991.htm"
+        }
+      ]
+    },
     {
       "date": "17 Nov 2026",
       "chipLabel": "Innovation",
@@ -2577,20 +2633,6 @@
         {
           "l": "Newstalk ZB",
           "u": "https://www.newstalkzb.co.nz/news/business/nz-halves-time-to-launch-rockets-in-space-goldrush/"
-        }
-      ]
-    },
-    {
-      "date": "10 Sep 2026",
-      "chipLabel": "Policy",
-      "headline": "Labour Vows to Make AI Data Centres 'Pay Their Own Way' as Election AI Policy Lands",
-      "byline": "New Zealand · 9 Sep 2026 · Grid rules and child-safety promises with real stakes for a hydro-and-wind region like the Bay",
-      "brief": "<p>With the 7 November election looming, Labour has released an artificial intelligence policy built around a tougher line on the data centres now racing to power the AI boom. <cite index=\"19-4\">Labour will make data centres \"pay their own way\", including by requiring that they secure their own renewable energy supply and reduce electricity demand during peak periods.</cite> <cite index=\"19-5\">The party doesn't want data centres to drive up energy costs for New Zealanders and has outlined a series of rules it would seek to impose if elected at the November 7 election.</cite> Specifically, <cite index=\"19-6\">they include requiring data centres to secure their own renewable energy supply, pay for their own connection costs, reduce electricity demand during peak stress periods, and use water \"efficiently\".</cite></p><p>The policy also reaches into how AI touches everyday life. <cite index=\"10-1,10-2\">The party would work to identify and address gaps in New Zealand's law that don't protect children from AI scams, deepfakes, non-consensual images and other threats, including banning non-consensual deepfake pornography.</cite> On oversight, <cite index=\"10-6,10-7\">Labour says it will \"expand the AI Expert Advisory Panel to bring together technical and legal experts, small business, unions, the arts, and iwi Māori and report directly to ministers as the technology develops. The group will advise the Government on emerging issues and help make sure we seize the opportunities from AI while managing the risks and protecting what matters to New Zealanders.\"</cite> The party is also promising <cite index=\"10-8\">a framework for the use of copyright material by AI, including how creators can control and be remunerated for their work.</cite> <cite index=\"10-9\">Clear standards would be outlined for how private information can be used, while ensuring human oversight and accountability, Labour says.</cite></p><p>Leader Chris Hipkins framed the package around a simple test for the technology's spread. <cite index=\"19-2,19-3\">Labour's leader Chris Hipkins says AI needs to work for New Zealanders.</cite> <cite index=\"19-11,19-12,19-13,19-14\">\"Used well, AI has huge benefits. It can cut hospital paperwork so doctors and nurses have more time with patients. Workers and small businesses can be more productive. Certain services can be delivered more efficiently,\" said Hipkins.</cite> <cite index=\"19-15,19-16\">\"But we cannot leave it to big international tech companies to decide how it shapes our future. Labour has a plan to make AI work for New Zealanders, not just the companies that build and own it.\"</cite></p>",
-      "lens": "Data centres and the electricity they gulp are a live regional question, not just an Auckland or Wellington one. Hawke's Bay sits on a grid drawing on hydro, and in recent years growing wind and solar generation, exactly the kind of renewable capacity a would-be data-centre host would be told to bring itself under Labour's proposed rules. If this policy becomes law, any pitch to land a data centre in the Bay would have to stack up against real requirements to self-supply renewable power, cover its own grid connection, and dial back demand in peak periods, a useful test the region's economic development agencies should be running now, before any land is optioned, rather than after. On the child-safety and deepfake provisions, schools, libraries and local media in the Bay have as much stake in enforceable rules against non-consensual AI imagery as any city does, and the promised inclusion of iwi Māori voices in an expanded AI Expert Advisory Panel is a channel local hapū and Māori business networks should watch and use. None of this is Hawke's Bay-specific yet, it's an opposition policy months from any vote, let alone law, so the honest response for now is to watch, submit if consultation opens, and make sure the region's voice on energy and grid capacity is in the conversation rather than an afterthought.",
-      "sources": [
-        {
-          "l": "NZ Herald",
-          "u": "https://www.nzherald.co.nz/nz/politics/election-2026-labour-reveals-rules-it-wants-imposed-on-new-data-centres-artificial-intelligence-policy/A7HJT7UA4RG3JDEWIORJKUAT6M/"
         }
       ]
     }
