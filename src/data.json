@@ -1,37 +1,17 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Innovation",
+    "chipLabel": "Jobs",
     "sector": "bay",
-    "date": "19 Nov 2026",
-    "headline": "One NZ Turns Old Network Gear Into Cash for Conservation Tech",
-    "byline": "Auckland, 17 Nov 2026 · what circular-economy tech funding could mean for Hawke's Bay's own predator-control and biodiversity projects",
-    "brief": "<p>One New Zealand has launched a <b>Nature Tech Fund</b> to back conservation projects using connectivity, artificial intelligence, remote monitoring and other emerging technologies <b>to deliver better outcomes for nature across Aotearoa</b>. <cite index=\"1-2\">Today, One New Zealand is launching a new Nature Tech Fund to back conservation projects using connectivity, artificial intelligence (AI), remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa.</cite> The twist is where the money comes from: <cite index=\"1-3\">the fund takes a circular approach to conservation funding, using rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</cite> The telco says <cite index=\"1-4\">in FY26, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill,</cite> and <cite index=\"1-5\">a portion of the recovered value will now help fund new conservation technology.</cite></p><p>Head of Sustainability & Corporate Affairs Nicky Preston put it bluntly: <cite index=\"10-9\">\"We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\"</cite> she said. She was careful to frame tech as a support act rather than the star: <cite index=\"22-2,22-3\">\"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</cite> <cite index=\"1-8\">The fund builds on One NZ's National Conservation Partnership with the Department of Conservation (DOC), which is exploring how connectivity and emerging technologies can improve conservation outcomes.</cite></p><p>Three projects kick things off, <cite index=\"19-4\">focused on species monitoring, predator control and urban biodiversity.</cite> The flagship is the <b>One NZ Hark Fiordland Piopio Expedition</b>, <cite index=\"1-9\">backing Hark's search for evidence of the piopio, a bird currently listed as extinct, using acoustic monitoring devices connected by One NZ Satellite.</cite> A second project will see <cite index=\"20-5\">Predator Free Hauraki Coromandel Community Trust trialling 4G and 5G-connected cameras to strengthen predator monitoring and support native species recovery efforts.</cite> A third, smaller-scale project will see <cite index=\"24-4\">new 5G-connected beehives at One NZ's Auckland support office use cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</cite></p>",
-    "lens": "Hawke's Bay already runs some of the country's most ambitious volunteer and iwi-led predator-control and species-recovery efforts, and all of them live and die by exactly the kind of remote acoustic monitoring, satellite connectivity and AI-assisted analysis this fund is built to pay for. The honest takeaway is that there's nothing for the region to 'do' right now beyond watching and applying: the three announced projects sit in Fiordland, the Hauraki Coromandel and an Auckland office rooftop, with no Hawke's Bay allocation mentioned anywhere in the coverage. But the funding model is the real story here, not the geography - a telco turning its own recycled cell-site and network e-waste into a recurring conservation grant pool is a template local trusts, EIT researchers and the region's satellite-dependent farmers and orchardists should be pitching into next, especially given how much of rural Hawke's Bay still relies on patchy coverage that satellite-linked monitoring gear like One NZ's could finally leapfrog.",
+    "date": "20 Nov 2026",
+    "headline": "Xero Goes Silent as Insider Says NZ Software Engineers Face the Axe",
+    "byline": "Auckland/Wellington · 19 Nov 2026 · a flagship Kiwi tech firm's AI-driven restructure, and what it signals for Bay software jobs",
+    "brief": "<p>New Zealand's best-known software export is under scrutiny after <b>RNZ</b> reported that <cite index=\"1-1\">Software accounting firm Xero is refusing to answer questions about whether it is cutting its New Zealand and Australian workforces.</cite> The story broke on <b>19 November 2026</b>, the day before this edition.</p><p>According to the report, <cite index=\"1-2\">the NZ Herald reported an insider saying New Zealand software engineers and some Australian staff had been called into a meeting on Wednesday</cite>, and <cite index=\"1-3\">affected staff would be given an option to reapply for a reduced number of roles or \"receive an opt-out package.\"</cite></p><p>Xero itself has declined to engage: <cite index=\"1-4\">Xero remained tight-lipped in response to RNZ's requests and said it would not comment on \"individual employees or internal processes.\"</cite> A company spokesperson added only that <cite index=\"1-5\">\"Xero evolves the structure of its global teams, as needed, to best support our customers, business needs and strategy. We share any proposed changes through the appropriate internal channels and operate in compliance with our legal obligations.\"</cite></p><p>The unease follows Xero's turbulent few years under chief executive Sukhinder Singh Cassidy: <cite index=\"1-6,1-7\">a former Xero employee, who was made redundant three years ago, told RNZ the company had moved executive roles offshore and to the United States after San Francisco based chief executive Sukhinder Singh Cassidy took over the role at the beginning of 2023, and soon after the company said it would be slashing about 800 roles from its 4500 global staff.</cite> The former staffer said <cite index=\"1-8\">\"They have kind of topped out in New Zealand whereas the States and UK give them the opportunity to expand more.\"</cite> He linked the latest moves to automation, saying <cite index=\"1-9,1-10\">in addition to relocating functions and roles to new more cost effective locations, the firm was looking to embrace AI as a part of a strategy \"to create opportunities for further efficiencies in workflow\" — \"which in everyday language would mean fewer people and therefore lower costs across the business.\"</cite></p><p>The restructuring talk comes as Xero's bottom line weakens: <cite index=\"1-11\">according to the company's interim report, released last Tuesday, Xero's profit for the half year ending September fell to $18.6 million, a $116.2 million drop from profits posted for the same time the previous year.</cite></p>",
+    "lens": "Xero is woven into daily life for many Hawke's Bay orchards, wineries and small firms that do their books through it, so this isn't a distant Silicon Valley story - it's about the accounting platform a large share of the region's SMEs rely on, now facing claims that AI will mean fewer people for the same work. None of the Bay's own jobs are directly on the line here, since Xero's engineering roles sit in Wellington, Auckland and overseas, but the signal matters: if a company this size is this evasive about whether AI is driving fewer software jobs, any local software contractor, bookkeeper-adjacent tech worker or remote-first developer in Hastings or Napier should treat it as an early warning rather than a faraway headline. The honest answer for the region right now is mostly to watch and adapt rather than act - there's no local Xero office or plant at risk - but it's a good prompt for Bay businesses to ask their accountants and IT providers how exposed their own workflows are to the same cost-cutting logic now playing out inside Xero itself.",
     "sources": [
       {
-        "l": "One NZ (media.one.nz)",
-        "u": "https://media.one.nz/nature-tech-fund"
-      },
-      {
-        "l": "IT Brief New Zealand",
-        "u": "https://itbrief.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
-      },
-      {
-        "l": "Scoop",
-        "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
-      },
-      {
-        "l": "Telecompaper",
-        "u": "https://www.telecompaper.com/news/one-nz-launches-fund-to-support-technology-based-conservation-projects--1589033"
-      },
-      {
-        "l": "Reseller News",
-        "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
-      },
-      {
-        "l": "The Fast Mode",
-        "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/business/2665129/xero-remains-tight-lipped-over-cuts-to-new-zealand-and-australian-jobs"
       }
     ]
   },
@@ -354,6 +334,36 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "20 Nov 2026",
+          "headline": "Lodestone's Half-Year Results Show Hawke's Bay Solar Farm On Time and On Budget, as EASY Plan Launched Locally First",
+          "brief": "<p>Solar gentailer Lodestone Energy (NZX: LOD) reported <b>solar production up 57%</b>, electricity sold up <b>36%</b>, and energy margin <b>more than tripling</b> for the six months to 30 September 2026, alongside a $9.4 million net loss. Construction of its sixth farm, on Ongaonga Road in Hawke's Bay, is confirmed on time and on budget, with first power targeted for early autumn 2027 — and the company's new residential EASY Plan launched in Hawke's Bay before anywhere else.</p>",
+          "body": [
+            "Lodestone Energy, described in its own results release as the solar gentailer that brought utility-scale solar to New Zealand, has reported strong growth in generation, sales and energy margin for the six months ended 30 September 2026. Managing director Gary Holden said relative to the first half of FY26, solar production rose 57%, electricity sold grew 36%, energy margin more than tripled, five new commercial customers signed on, and the company's newest farm is its lowest cost to date on a $m/GWh basis. Chief financial officer Chris Jewell said solar production exceeded expectations, and that the capital raised and progress across the business positioned it to deliver the growth outlined in its Product Disclosure Statement.",
+            "The growth was driven in part by Clandeboye, Lodestone's fifth farm and its first in the South Island, which produced first power on 3 August 2026, on time and under budget. That addition lifted Lodestone's operating farms to a total of 169 megawatts (dc) of capacity. For the half year, energy margin was $10.4 million and net loss after tax was $9.4 million.",
+            "For Hawke's Bay, the key line is on the sixth farm: construction at Ongaonga Road in Hawke's Bay is on time and on budget, with first power targeted for early autumn 2027. Lodestone is also nearing a final investment decision on a seventh farm, at Kairanga in Manawatū, as it keeps building out its national pipeline.",
+            "The results also confirm that Hawke's Bay was first in line for Lodestone's move into retail. In September the company entered the residential and small-business market in Hawke's Bay with its EASY plan, a simple solar-backed electricity plan, before launching in Waikato in November. Under the residential EASY Plan, a customer's estimated annual usage is matched to a portion of a solar farm's projected annual output. Holden summed up the company's ambition simply: \"Our vision is a solar farm in every community.\" The company's FY29 and FY32 target metrics include 16 to 18 operating farms, energy revenue of $169 million to $195 million, and proportionate operational EBITDAF of $85 million to $108 million by FY32."
+          ],
+          "lens": "This is Lodestone's story, not Hawke's Bay's invention, but the region is clearly central to it: the Ongaonga Road farm is the company's sixth and is tracking on time and on budget for first power in early autumn 2027, and Hawke's Bay was chosen ahead of every other region to trial the EASY residential plan. What the half-year numbers don't spell out, but is worth remembering locally, is that this isn't simply a Lodestone project dropped into the district — it is a 50:50 joint venture with Centralines, the consumer-owned lines company serving Central Hawke's Bay, with the electricity connecting directly into the Centralines network for a region that has historically relied on power sourced from distant parts of the national grid. Centralines chair Fenton Wilson has framed the venture as reflecting the lines company's focus on long-term regional investment, which gives the project a local-ownership dimension that a purely private developer rollout wouldn't have. The practical opportunity for the Bay is less about the hardware and more about being the proving ground for Lodestone's retail model — local households and small businesses who sign up to EASY are effectively early adopters of a pricing plan the company is now extending to other regions, and that early-mover position is worth paying attention to. Councils and regional development bodies have little reason to intervene in a private commercial build, but there is a modest case for local business groups to engage directly with Lodestone and Centralines on the EASY Plan's terms while Hawke's Bay still has first-mover status, and for the region to keep an eye on whether the Ongaonga construction stays on its stated autumn 2027 timeline given how much of the EASY pitch to residents depends on that farm actually being delivered.",
+          "sources": [
+            {
+              "l": "Scoop Business",
+              "u": "https://www.scoop.co.nz/stories/BU2611/S00179/lodestone-energy-delivers-strong-growth.htm"
+            },
+            {
+              "l": "NZX Announcement",
+              "u": "https://www.nzx.com/announcements/484046"
+            },
+            {
+              "l": "IT Brief NZ",
+              "u": "https://itbrief.co.nz/story/lodestone-energy-lifts-output-as-fifth-solar-farm-starts"
+            },
+            {
+              "l": "PV Tech",
+              "u": "https://www.pv-tech.org/lodestone-energy-begins-work-on-31-5mwp-solar-pv-plant-in-new-zealand/"
+            }
+          ]
+        },
+        {
           "date": "16 Nov 2026",
           "headline": "Cattle Graze Beneath Elevated Solar Trackers as NZ's Newest Agrivoltaic Farm Opens at Galatea",
           "brief": "<p>A new agrivoltaic project at Galatea, in New Zealand's Whakatāne District, has paired <b>4.7 MW</b> of solar generation across <b>8 hectares</b> with a dairy farm operation of around <b>700 cattle</b>, with its official opening held on <b>Thursday 12 November 2026</b> at the Gordon Dairy Farm, 228 Grant Road, Galatea, in the Bay of Plenty Region. At the Gordon Cattle and Solar Farm, trackers elevated to <b>2.2 metres</b> let stock keep grazing beneath the panels while the system follows the sun to optimise generation.</p>",
@@ -648,27 +658,6 @@
               "u": "https://heliosenergy.co.nz/projects/ongaonga/"
             }
           ]
-        },
-        {
-          "date": "22 Jul 2026",
-          "headline": "NZ's biggest solar farm just switched on — and it won't hold the title for long",
-          "brief": "<p>The <b>150 MW Tauhei Solar Farm</b> near Hamilton energised on 15 July 2026 — nearly 330,000 panels generating an estimated 280 GWh a year, enough to power about <b>35,000 homes</b>, with Meridian buying 100% of output for a decade. It dwarfs the previous 47 MW record and leads a wave of grid-scale projects racing to connect as costs fall.</p>",
-          "body": [
-            "New Zealand's largest solar farm has come online. The 150 MW Tauhei Solar Farm, on a 182-hectare site near Hamilton in the Waikato, was energised on 15 July 2026, its almost 330,000 panels able to generate an estimated 280 GWh of electricity a year — enough to power roughly 35,000 homes.",
-            "Built by UK-headquartered Harmony Energy with backing from infrastructure investor Igneo Infrastructure Partners, the farm has a deal with Meridian Energy to buy 100% of its output for the first 10 years of operation — the kind of long-term power-purchase agreement that makes utility-scale solar bankable. It dwarfs the country's previous record-holder, the 47 MW Lauriston Solar Farm developed by Genesis and FRV near Christchurch in Canterbury.",
-            "Tauhei is the biggest of a wave. Grid-connected solar has moved from a rounding error to a fast-growing slice of New Zealand's generation as panel costs fall and consenting speeds up. The Electricity Authority reports that 247 MW of grid-connected solar has been installed since 2023, with solar setting a new half-hourly record of 210 MW on 30 January 2026 and a pipeline of large projects — some 783 MW expected in 2026/27 — racing to connect over the next few years."
-          ],
-          "lens": "Hawke's Bay is one of the country's sunniest regions, which makes grid-scale solar a natural fit — and, with Lodestone and Centralines' Ruataniwha Plains farm now under construction, no longer hypothetical. For energy-hungry packhouses and coolstores, cheaper daytime power is the direct prize; for landowners, a generation lease is new revenue from the same paddock; and after Cyclone Gabrielle severed power to much of the region, local generation paired with batteries is a tangible resilience play. The concrete move for the Bay is to treat Tauhei as a proof point and get the enabling work done early: councils resourcing fast, predictable consenting, lines companies planning grid capacity for connection, and growers and cooperatives lining up power-purchase deals so the next wave of projects chooses Hawke's Bay rather than passing it by.",
-          "sources": [
-            {
-              "l": "pv magazine",
-              "u": "https://www.pv-magazine.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/"
-            },
-            {
-              "l": "Electricity Authority",
-              "u": "https://www.ea.govt.nz/news/eye-on-electricity/grid-connected-solar-is-having-its-time-in-the-sun/"
-            }
-          ]
         }
       ]
     },
@@ -837,6 +826,28 @@
       "chip": "c-cloud",
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
+        {
+          "date": "20 Nov 2026",
+          "headline": "Microsoft Breaks Ground on New Build at Its Auckland Data Centre Site",
+          "brief": "<p>Construction has started on a new build at Microsoft's Westgate data centre site in Auckland, with the company's project overview page stating that works began in September this year. <b>Data Center Dynamics</b>, reporting on <b>19 November 2026</b>, says it appears to be an expansion of Microsoft's existing New Zealand cloud region, which launched in <b>December 2024</b>.</p>",
+          "body": [
+            "<p>Work has begun on a new build at Microsoft's Westgate data centre site in Auckland, according to a report from Data Center Dynamics published on 19 November 2026. <cite index=\"1-1,1-2\">Works on Microsoft's Westgate data center in New Zealand have begun, and according to the company's project overview page, construction works started in September of this year.</cite></p>",
+            "<p><cite index=\"1-5,1-6,1-7\">Current and upcoming works include \"site establishment, piling, earthworks, excavation, concrete works, crane activity, and deliveries,\" with the site accessed from Kakano Road; according to Facebook posts from Stop Data Centres Auckland, the project is located at 7 Kakano Road with an entrance at 85 Rotu Drive.</cite> <cite index=\"1-8\">Details about the data center have not been provided, but it seems to be an expansion of the company's existing cloud region in the country.</cite></p>",
+            "<p>The new works build on Microsoft's original Westgate development. <cite index=\"1-9\">First announced in May 2020 and receiving approval in September of that year, Microsoft's New Zealand cloud region launched in December 2024.</cite> <cite index=\"1-10\">In 2022, the company revealed that the cloud region would be powered by 100 percent renewable energy, later signing a 51.4MW ten-year geothermal PPA with Contact Energy for the Te Huka 3 power station.</cite> That deal, announced in May 2023, is classified by data centre market trackers as a Renewable Attribute Purchase Agreement providing <cite index=\"17-6\">renewable certificates over 51.4MW of geothermal, without physical supply</cite>, rather than a physical electricity supply.</p>",
+            "<p>Separately, other reporting on the New Zealand data centre market notes that the country's two biggest hyperscalers have pulled back on new ground-up construction: <cite index=\"28-4,28-5,28-6,28-7\">the hyperscalers have stopped building and started leasing -- AWS opened its Auckland region in September 2025 against a NZ$7.5bn commitment first announced in 2021 and spread across roughly fifteen years, and its New Zealand entity then wrote off NZ$44.9m on a Westgate development abandoned after initial earthworks, while Microsoft, which spent around NZ$1bn at Westgate, let a time-limited Overseas Investment Office consent lapse on a second Auckland site at Whenuapai.</cite> Against that backdrop, Microsoft committing new piling and earthworks to its existing Westgate campus -- rather than leasing or walking away, as it did at Whenuapai -- stands out as a rare example of a hyperscaler still building rather than leasing in New Zealand.</p>"
+          ],
+          "lens": "There is no direct Hawke's Bay angle here, and it would be dishonest to pretend otherwise: this is an expansion at an existing Auckland campus, built on land Microsoft already owns, tied to a geothermal energy deal and grid infrastructure that sit nowhere near the Bay. The wider market context matters more for the region than the construction news itself -- hyperscalers are increasingly choosing to lease colocation space rather than build fresh sites, and even Microsoft has let a second Auckland consent lapse at Whenuapai, which suggests the economics of hosting a data hall are tightening even for the biggest players, let alone a region without Auckland's existing fibre backbone and renewable power contracts. The honest, limited play for Hawke's Bay isn't chasing a campus like Westgate; it's making sure the capacity now live in-country is actually used -- encouraging local growers, processors, councils and schools to migrate systems onto New Zealand-based cloud regions for the latency and data-residency benefits Microsoft and Contact Energy have already built, while accepting that the jobs and investment from the next wave of hyperscale construction will keep landing in Auckland, not here.",
+          "sources": [
+            {
+              "l": "DatacenterDynamics",
+              "u": "https://www.datacenterdynamics.com/en/news/microsoft-begins-work-on-westgate-data-center-in-new-zealand/"
+            },
+            {
+              "l": "Certified Strategic",
+              "u": "https://certifiedstrategic.com/insights/new-zealand-data-centres"
+            }
+          ]
+        },
         {
           "date": "20 Oct 2026",
           "headline": "Data Vault Plans Second Auckland Data Centre, a 3MW Facility on the North Shore",
@@ -1115,23 +1126,6 @@
             {
               "l": "The Spinoff",
               "u": "https://thespinoff.co.nz/business/06-07-2026/nz-inc-is-going-all-in-on-ai-data-centres"
-            }
-          ]
-        },
-        {
-          "date": "20 Jul 2026",
-          "headline": "AWS switched on a $7.5bn NZ cloud region — the plumbing under everything else",
-          "brief": "<p>Amazon's <b>NZ$7.5 billion</b> AWS Auckland cloud region — three data centres — is live, with first named customers including <b>One NZ, Vector and Datacom</b>. On-shore cloud keeps data in the country and lowers the barrier for local startups, councils and agritech to build serious software at scale.</p>",
-          "body": [
-            "The biggest piece of digital infrastructure New Zealand has ever hosted is now switched on. Amazon Web Services' NZ$7.5 billion Auckland cloud region — three data centres — has gone live, giving local businesses and government the ability to run workloads on AWS without their data leaving the country. The region was first announced in 2021 and originally targeted for 2024, opening after construction delays.",
-            "The first named customers include One NZ, Vector and Datacom, the last of which will host its own customers' workloads in the region. One NZ chief executive Jason Paris said the local region would let the telco \"leverage in-region workloads to support low latency and AI-driven customer experiences,\" while Vector's Jerry Li pointed to faster local access to AWS services helping \"accelerate our vision of creating a new energy future\" for the grid. To power the region more cleanly, AWS has agreed to buy half the output of Mercury's 103MW Turitea South wind farm.",
-            "On-shore cloud lowers latency and satisfies data-sovereignty rules, and it drops the barrier for local startups, councils and agritech firms to build serious software at scale. The one shadow over the whole hyperscale build-out — here and worldwide — is electricity, which is fast becoming the limiting factor."
-          ],
-          "lens": "Little of this lands physically in Hawke's Bay — the region has no hyperscale data centre and won't get one. But on-shore cloud is a genuine enabler for the Bay's software and agritech firms: lower latency, data kept onshore, and no need to ship sensitive council, health or grower data offshore. The concrete opportunity here is <em>adoption</em>, not construction. Bay startups, councils and horticulture businesses can now build data-heavy tools — yield models, cold-chain tracking, satellite and drone imagery analysis — on world-class infrastructure at a lower barrier than a year ago, and local firms selling to public-sector or export clients can now credibly promise their data never leaves New Zealand.",
-          "sources": [
-            {
-              "l": "Data Center Dynamics",
-              "u": "https://www.datacenterdynamics.com/en/news/aws-names-first-customers-for-new-zealand-data-center-region/"
             }
           ]
         }
@@ -1981,6 +1975,40 @@
   ],
   "headlines": [
     {
+      "date": "19 Nov 2026",
+      "chipLabel": "Innovation",
+      "headline": "One NZ Turns Old Network Gear Into Cash for Conservation Tech",
+      "byline": "Auckland, 17 Nov 2026 · what circular-economy tech funding could mean for Hawke's Bay's own predator-control and biodiversity projects",
+      "brief": "<p>One New Zealand has launched a <b>Nature Tech Fund</b> to back conservation projects using connectivity, artificial intelligence, remote monitoring and other emerging technologies <b>to deliver better outcomes for nature across Aotearoa</b>. <cite index=\"1-2\">Today, One New Zealand is launching a new Nature Tech Fund to back conservation projects using connectivity, artificial intelligence (AI), remote monitoring and other emerging technologies to deliver better outcomes for nature across Aotearoa.</cite> The twist is where the money comes from: <cite index=\"1-3\">the fund takes a circular approach to conservation funding, using rebates generated from recycling One NZ's retired network equipment and technology, in partnership with Echo Tech.</cite> The telco says <cite index=\"1-4\">in FY26, One NZ processed more than 90 tonnes of e-waste, diverting 99% from landfill,</cite> and <cite index=\"1-5\">a portion of the recovered value will now help fund new conservation technology.</cite></p><p>Head of Sustainability & Corporate Affairs Nicky Preston put it bluntly: <cite index=\"10-9\">\"We're literally recovering gold and other precious metals from old network equipment and using some of that value to fund biodiversity projects,\"</cite> she said. She was careful to frame tech as a support act rather than the star: <cite index=\"22-2,22-3\">\"Technology can't replace the local people who know their whenua and species best. But it can give them another set of eyes and ears, helping monitor remote places and turn data into useful insights.\"</cite> <cite index=\"1-8\">The fund builds on One NZ's National Conservation Partnership with the Department of Conservation (DOC), which is exploring how connectivity and emerging technologies can improve conservation outcomes.</cite></p><p>Three projects kick things off, <cite index=\"19-4\">focused on species monitoring, predator control and urban biodiversity.</cite> The flagship is the <b>One NZ Hark Fiordland Piopio Expedition</b>, <cite index=\"1-9\">backing Hark's search for evidence of the piopio, a bird currently listed as extinct, using acoustic monitoring devices connected by One NZ Satellite.</cite> A second project will see <cite index=\"20-5\">Predator Free Hauraki Coromandel Community Trust trialling 4G and 5G-connected cameras to strengthen predator monitoring and support native species recovery efforts.</cite> A third, smaller-scale project will see <cite index=\"24-4\">new 5G-connected beehives at One NZ's Auckland support office use cameras, sensors and AI to explore how weather, pollen and environmental conditions influence bee activity and urban biodiversity.</cite></p>",
+      "lens": "Hawke's Bay already runs some of the country's most ambitious volunteer and iwi-led predator-control and species-recovery efforts, and all of them live and die by exactly the kind of remote acoustic monitoring, satellite connectivity and AI-assisted analysis this fund is built to pay for. The honest takeaway is that there's nothing for the region to 'do' right now beyond watching and applying: the three announced projects sit in Fiordland, the Hauraki Coromandel and an Auckland office rooftop, with no Hawke's Bay allocation mentioned anywhere in the coverage. But the funding model is the real story here, not the geography - a telco turning its own recycled cell-site and network e-waste into a recurring conservation grant pool is a template local trusts, EIT researchers and the region's satellite-dependent farmers and orchardists should be pitching into next, especially given how much of rural Hawke's Bay still relies on patchy coverage that satellite-linked monitoring gear like One NZ's could finally leapfrog.",
+      "sources": [
+        {
+          "l": "One NZ (media.one.nz)",
+          "u": "https://media.one.nz/nature-tech-fund"
+        },
+        {
+          "l": "IT Brief New Zealand",
+          "u": "https://itbrief.co.nz/story/one-new-zealand-launches-fund-for-conservation-tech"
+        },
+        {
+          "l": "Scoop",
+          "u": "https://www.scoop.co.nz/stories/BU2611/S00144/one-nz-launches-nature-tech-fund-to-put-technology-to-work-for-nature.htm"
+        },
+        {
+          "l": "Telecompaper",
+          "u": "https://www.telecompaper.com/news/one-nz-launches-fund-to-support-technology-based-conservation-projects--1589033"
+        },
+        {
+          "l": "Reseller News",
+          "u": "https://www.reseller.co.nz/article/4249358/one-nz-launches-fund-to-back-ai-powered-conservation-projects.html"
+        },
+        {
+          "l": "The Fast Mode",
+          "u": "https://www.thefastmode.com/services-and-innovations/51439-one-nz-turns-recycled-network-equipment-into-biodiversity-funding"
+        }
+      ]
+    },
+    {
       "date": "18 Nov 2026",
       "chipLabel": "Space",
       "headline": "Electron's 100th Launch: The Rocket Beating Falcon 9 to the Milestone Lifts Off From Our Region",
@@ -2611,28 +2639,6 @@
         {
           "l": "The Spinoff",
           "u": "https://thespinoff.co.nz/the-bulletin/10-09-2026/labours-ai-plan-data-centre-rules-copyright-protections-and-an-online-safety-regulator"
-        }
-      ]
-    },
-    {
-      "date": "11 Sep 2026",
-      "chipLabel": "Aerospace",
-      "headline": "Government Halves Rocket-Launch Approval Times as Space Boom Tests Māhia's Limits",
-      "byline": "Māhia, Hawke's Bay · why the paperwork speeding up at NZ's only spaceport matters more than the AI headlines",
-      "brief": "<p>The Government has quietly rewritten the rules governing the country's busiest piece of space infrastructure — Rocket Lab's launch pad on the Māhia Peninsula. <b><cite index=\"2-1,2-2\">The government has halved the time it takes to approve rocket launches as it chases the biggest global space boom in history</cite></b>, with <b><cite index=\"2-3\">national security and other checks on rocket payloads now taking just over five weeks on average instead of 11 weeks</cite></b>. <cite index=\"2-4\">The checking process still allows the Space Minister to raise issues or the spy agencies to order extra checks on a payload.</cite> Officials confirm <b><cite index=\"3-2\">Rocket Lab feedback is informing proposed changes to New Zealand's space laws</cite></b>, and briefings show <cite index=\"6-17,6-18\">officials have already been taking advice from Rocket Lab, with a briefing to the then Space Minister noting \"Rocket Lab has suggested improvements that we are either already pursuing or are considering for inclusion in the package of proposed amendments for industry consultation.\"</cite> New Space Minister Paul Goldsmith says <b><cite index=\"1-12\">\"these changes ensure New Zealand has a world-leading regulatory environment and remains an attractive place for aerospace firms to invest, develop and commercialise new technologies.\"</cite></b> He explained the speed-up simply: <cite index=\"1-4\">\"MBIE advised that they reviewed their internal processes and found they could be more efficient without affecting the quality of assessments.\"</cite></p><p>Briefing papers show just how central Māhia has become: <b><cite index=\"2-5\">Māhia is this country's only spaceport but its private owner, the NZ-founded US-listed Rocket Lab, is so busy that last year New Zealand ranked third-equal with Russia for total launches</cite></b>. <cite index=\"21-11\">Launch efforts have struggled to add any public capacity beyond the private pad at Māhia.</cite> The pressure that puts on the system isn't only bureaucratic — <cite index=\"23-13\">opposition extends to recent legal action calling for a judicial review of payload approvals for Rocket Lab's BlackSky satellite launches at Māhia</cite>, even as <cite index=\"23-14\">the Government has lifted a cap on total launch numbers by ten times, to 1000</cite>.</p><p>A May 2026 meeting between then Space Minister Chris Penk and Rocket Lab founder Sir Peter Beck — <cite index=\"2-8\">Penk's first engagement as Space Minister after taking over from Judith Collins</cite> — was followed by <cite index=\"2-9\">a reception at the US consulate, where remarks penned for Penk praised US-NZ space collaboration and added that New Zealand hosts \"the most US space launches of any country outside of the US.\"</cite> Beck told Penk the countries' space-technology arrangement was a <cite index=\"2-11,2-12\">\"rare\" agreement, adding New Zealand was primed to leverage its launch capability in a multibillion-dollar industry, and its regulatory regime was well calibrated to support growth \"while managing risks.\"</cite> Penk has since resigned as minister.</p><p>But there's a catch buried in the same briefings: officials were told <b><cite index=\"22-8\">\"Rocket Lab is currently in the final stages of development of a larger medium-lift launch vehicle, Neutron,\"</cite></b> and that <b><cite index=\"22-9\">\"much of the R&D for Neutron took place in New Zealand; however, production is largely based in the US and it will launch from the US.\"</cite></b> The reason given was blunt: <cite index=\"22-10\">\"Rocket Lab has cited the small scale of New Zealand's industrial base as a reason for Neutron not launching from New Zealand.\"</cite> The company, now <cite index=\"22-11\">Nasdaq-listed with a market capitalisation around $70 billion, is experiencing \"record demand\" partly because of other countries' limited sovereign launch options</cite>, and <cite index=\"23-8\">now also makes satellites and space components in several factories in North America and in Auckland</cite> — not Māhia. Meanwhile, <b><cite index=\"2-6\">the National Aerospace Centre, a government-iwi joint venture, is scouting for private foreign investment for a second launchpad at Kaitorete Spit, south of Christchurch</cite></b> — not in Hawke's Bay at all, a sign the industry's next big infrastructure bet is being placed a thousand kilometres from Māhia.</p>",
-      "lens": "Māhia is Hawke's Bay, and the region has spent a decade quietly hosting one of the world's busiest orbital launch sites without much of the economic story being told locally. Faster payload approvals are genuinely good news for the pad's future, and the sheer numbers — New Zealand running third-equal with Russia for total launches out of a single peninsula site — are a reminder of how much national significance sits on Wairoa's doorstep. But the honest reading of these briefing papers is sobering for anyone hoping this is a growth story for Hawke's Bay specifically. The next-generation Neutron rocket was designed with Kiwi engineering input but will be built and launched in America, citing New Zealand's small industrial base as the reason. Rocket Lab's other manufacturing has gone to Auckland and North America, not Wairoa. And the industry's proposed second launchpad — the infrastructure project that would actually diversify and grow New Zealand's space sector beyond one company's private pad — is earmarked for Kaitorete Spit near Christchurch, not for Hawke's Bay. That should sharpen, not dull, the region's ambition: if local government, iwi and business want more than a launch-day spectacle and a live-stream, they need to be arguing now for engineering, logistics, testing and supplier work to anchor in Wairoa and Napier, rather than watching the money and the metal move south and offshore while the rockets keep going up from the beach.",
-      "sources": [
-        {
-          "l": "NZ Herald",
-          "u": "https://www.nzherald.co.nz/business/nz-halves-time-to-launch-rockets-in-space-goldrush/ZUGDBRPJFZCIFKJ3TNG6GRWPNU/"
-        },
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1192237/nz-halves-time-to-launch-rockets-in-space-goldrush"
-        },
-        {
-          "l": "Newstalk ZB",
-          "u": "https://www.newstalkzb.co.nz/news/business/nz-halves-time-to-launch-rockets-in-space-goldrush/"
         }
       ]
     }
