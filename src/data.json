@@ -3,31 +3,23 @@
     "chip": "c-econ",
     "chipLabel": "Cybersecurity",
     "sector": "bay",
-    "date": "22 Nov 2026",
-    "headline": "NZDF And Forest & Bird Both Confirm Cyberattacks This Week",
-    "byline": "20 Nov 2026 · a defence-force database breach and a conservation charity's stolen supporter data became public within the same news cycle — what it means for Hawke's Bay's councils, iwi and NGOs",
-    "brief": "<p>New Zealand's cyber-defences had a rough week. RNZ reported that <b>the New Zealand Defence Force is responding to a cybersecurity incident affecting its public websites</b>, and that it <b>removed affected websites from service and began a forensic investigation</b>. Preliminary inquiries indicated the breach involved a database linked to the Force4Families Defence Discounts scheme, and that database <b>included names and email addresses of registered users</b>; a spokesperson said <b>individuals whose information may have been affected had been contacted and given advice on how to protect themselves from malicious activity</b>. The Defence Force said <b>\"at this stage, investigations remain ongoing and we continue to determine the full extent of any information affected,\"</b> and warned <b>\"individuals registered through the website should remain alert to phishing emails, scams and unsolicited requests for personal information.\"</b> The Privacy Commissioner has been informed of the incident.</p><p>Separately, environmental charity Forest & Bird revealed it had been hacked, with supporters' details exposed and the number of people affected still unclear. The organisation told RNZ it <b>was alerted to the problem on Wednesday evening</b>, with its investigation into the incident's scale still ongoing. <b>Primarily people's names, phone numbers and email addresses were accessed, although the organisation said a \"small subset\" of people may have had payment card details, dates of birth and physical addresses taken.</b> Chief executive <b>Sam Rowland told RNZ it had taken immediate steps to secure its systems, including a forensic search of the website that uncovered malicious files hidden to read data</b>, saying <b>\"we're working with our technology and cybersecurity experts to establish the full extent of the incident,\"</b> and that the charity was <b>\"contacting people we know who have been affected, explaining what information has been accessed and directing them to Own Your Online for guidance on staying safe.\"</b></p><p>A cybersecurity expert, Cogent chief information security officer Anthony Grasso, told RNZ the two attacks were likely unrelated — a coincidence rather than a coordinated campaign, though he noted two such breaches in quick succession wasn't surprising given how often New Zealand organisations are now being targeted by criminal gangs. He suspected the Forest & Bird hackers were chasing donor money through follow-up phishing scams, while the NZDF breach could involve anything from a foreign intelligence actor to a gang hunting for exploitable data.</p>",
-    "lens": "Neither breach has a named Hawke's Bay victim, and it would be dishonest to pretend otherwise — but the pattern is what matters here. Regional councils, iwi organisations, health providers, sports clubs and charities across Hawke's Bay hold exactly the kind of data taken from Forest & Bird supporters — names, phone numbers, emails, and in some cases payment details, birthdates and addresses — often on far thinner IT budgets and security staffing than a Crown entity like NZDF. The expert quoted on these breaches made a point worth sitting with locally: lifting cybersecurity isn't primarily about spending big, it's about getting good advice and doing the basics properly — multi-factor authentication, patched systems, limited exposure of unnecessary data, and a plan for what to tell supporters or clients if a local database is targeted next. If a defence force network and a well-known national charity can both be compromised in the same week, the sensible regional response isn't panic, it's audit — a quiet stocktake by Hawke's Bay's councils, iwi bodies and NGOs of who holds what personal data locally, and whether it's actually protected as well as the people who handed it over assumed it would be.",
+    "date": "23 Nov 2026",
+    "headline": "AI Agents Can Now Breach a System in 15 Minutes, Palo Alto Networks Executive Warns NZ",
+    "byline": "Wellington · what 15-minute AI breaches mean for Hawke's Bay's growers, councils and small firms",
+    "brief": "<p>A top global cyber security executive has told New Zealand that the rules of digital defence have changed. <b>Nicole Quinn</b>, a vice president of global cyber security firm Palo Alto Networks, told RNZ's Nine to Noon that <b>where a human hacker might once take nine days to successfully infiltrate a system, an autonomous AI agent can now do it in as little as 15 minutes</b>. <cite index=\"30-1\">Nicole Quinn is a vice president of global cyber security firm Palo Alto, which provides firewalls and internet security to 70,000 organisations in more than 150 countries.</cite> <cite index=\"30-4\">She was in New Zealand last week, having earlier given evidence to an Australian Parliamentary inquiry into AI.</cite></p><p>Quinn said attackers aren't inventing new methods — just getting dramatically faster. <cite index=\"2-7\">She said they were not seeing new ways of undertaking cyber attacks but the change was the speed at which they could be carried out.</cite> As one example, <cite index=\"2-8\">a vulnerability in a phone which had not been updated previously might be spotted by criminals wanting to take advantage of it in seven to nine days but it was now taking them about 22 minutes to spot that vulnerability.</cite> <b>\"We have seen a significant step change in the ability of AI in the cyber security space to move fast and at scale,\"</b> <cite index=\"2-6\">she said.</cite> She said some of the most alarming incidents have surfaced in testing and development environments, where organisations challenging AI agents have <cite index=\"29-4\">been caught by surprise on how quickly it learns and how quickly it does it to scale</cite>. Quinn said giving each AI agent a trackable identity meant <cite index=\"30-8\">cyber security professionals could see and track the AI agent as well as being able to see if it decides to go rogue.</cite></p><p>The warning lands alongside a parallel alert from New Zealand's own cyber watchdog. <cite index=\"20-4\">National Cyber Security Centre cyber defence operations director Dr Emma Bickerstaffe said</cite> <cite index=\"12-5,12-6\">the key change was that phases of an attack could now be automated, enabling threat actors to act faster — meaning what might have previously taken weeks to a matter of hours to go from initial reconnaissance and targeting and scanning of an organisation to exploitation.</cite> <cite index=\"12-1\">Bickerstaffe's comments come after Forest & Bird and the New Zealand Defence Force both reported cyber security incidents on Friday.</cite> <cite index=\"12-10,12-11,12-12,12-13\">The New Zealand Defence Force took some of its websites down following a breach, after being informed by its website provider of unauthorised access to its website systems, with preliminary inquiries indicating a database associated with the Force4Families Defence Discounts scheme had been accessed.</cite> <cite index=\"12-2\">Forest & Bird confirmed supporters' details had been exposed.</cite></p>",
+    "lens": "Last week Hawke's Bay already got a sharp reminder that no sector is immune, with the National Cyber Security Centre confirming two national organisations, the Defence Force and Forest & Bird, had both reported cyber security incidents within days of each other. Quinn's warning takes that threat and compresses it: if a breach that used to take nine days can now happen in 15 minutes, the gap between \"we have an incident response plan\" and \"we have a plan that actually works at machine speed\" is where regional organisations will get caught out. Hawke's Bay's economy runs on exactly the kind of mid-sized operations — orchards and packhouses running IoT sensors and robotics, Napier Port's logistics systems, wineries' export platforms, local councils, EIT and the district health network — that typically lack a dedicated security operations centre watching the clock in minutes rather than days. The region doesn't need to panic-buy enterprise security stacks it can't staff, but it should treat this as the moment to ask the boring, unglamorous questions: who in a Hastings or Napier business actually owns the incident response plan, has it ever been rehearsed against a 15-minute scenario rather than a nine-day one, and does anyone know every AI tool or connector quietly plugged into their systems? For a region whose tech story so far has been about homegrown innovation — robotics, precision agtech, Mahia's rocket launches — the next chapter may simply be about catching up on the unsexy basics of cyber hygiene before the attackers' AI outpaces the defenders' patience.",
     "sources": [
       {
-        "l": "RNZ — New Zealand Defence Force confirms database compromised, websites removed from service",
-        "u": "https://www.rnz.co.nz/news/business_media/2711202/new-zealand-defence-force-confirms-database-compromised-websites-removed-from-service"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/crime-and-justice/2719225/cyber-attacks-can-happen-within-minutes-thanks-to-ai"
       },
       {
-        "l": "RNZ — Forest & Bird supporters' details stolen by hackers",
-        "u": "https://www.rnz.co.nz/news/crime-and-justice/2709843/forest-and-bird-supporters-details-stolen-by-hackers"
+        "l": "Scoop (RNZ republish)",
+        "u": "https://www.scoop.co.nz/stories/SC2611/S00020/cyber-attacks-can-happen-within-minutes-thanks-to-ai.htm"
       },
       {
-        "l": "Otago Daily Times — Forest & Bird supporters' details stolen by hackers",
-        "u": "https://www.odt.co.nz/news/national/forest-bird-supporters-details-stolen-by-hackers-t8219tba"
-      },
-      {
-        "l": "RNZ — Forest & Bird, NZDF cyber attacks likely unrelated, expert says",
-        "u": "https://www.rnz.co.nz/news/crime-and-justice/2717785/forest-and-bird-nzdf-cyber-attacks-likely-unrelated-expert-says"
-      },
-      {
-        "l": "Otago Daily Times — Forest & Bird, NZDF cyber attacks likely unrelated, expert says",
-        "u": "https://www.odt.co.nz/news/national/forest-bird-nzdf-cyber-attacks-likely-unrelated-expert-says-jrixmhnu"
+        "l": "1News",
+        "u": "https://www.1news.co.nz/2026/11/22/nz-businesses-warned-as-hackers-use-ai-for-cyber-attacks"
       }
     ]
   },
@@ -848,6 +840,30 @@
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
         {
+          "date": "23 Nov 2026",
+          "headline": "Infratil's data-centre bet pays off as CDC earnings jump 84 percent, with a Taranaki campus on the drawing board",
+          "brief": "<p>Infrastructure investor <b>Infratil</b> has lifted its first-half earnings guidance after reporting a <b>28 per cent</b> increase in proportionate operational EBITDAF to <b>NZ$711 million</b> for the six months ended 30 September, driven largely by data-centre operator <b>CDC</b> and telecommunications provider <b>One NZ</b>. CDC delivered EBITDAF of <b>A$339 million</b> during the half, up <b>84 per cent</b> year-on-year, and Infratil highlighted plans being explored by CDC and <b>Contact Energy</b> for a proposed <b>250MW</b> data-centre development at Stratford, Taranaki, as New Zealand emerges as a key expansion market for the Australian-based operator.</p>",
+          "body": [
+            "<p>Infratil has lifted first-half earnings guidance after reporting a 28 per cent increase in proportionate operational EBITDAF to NZ$711 million for the six months ended 30 September, driven largely by strong growth from data centre operator CDC and telecommunications provider One NZ.</p>",
+            "<p>CDC, which is partly owned by Infratil, delivered EBITDAF of A$339 million during the half, up 84 per cent year-on-year. Contracted capacity grew to 1.1GW following the signing of 625MW of new contracts, while 810MW remains under construction across multiple campuses. Once fully deployed, that contracted capacity is expected to generate annualised EBITDAF of A$2.2 billion.</p>",
+            "<p>The results come as Infratil sharpens its portfolio strategy around infrastructure sectors expected to benefit most from AI adoption, with data centres and renewable energy now firmly at the centre of its growth plans. Infratil also noted that EonFibre is now operating independently within One NZ, leveraging its domestic terrestrial and subsea fibre assets to support rising demand for data connectivity.</p>",
+            "<p>While most of CDC's current footprint is in Australia, New Zealand is emerging as a key expansion market. Infratil highlighted plans being explored by CDC and Contact Energy for a proposed 250MW data centre development in Stratford, Taranaki -- a project the company said would support regional infrastructure investment, increase demand for renewable energy generation and strengthen New Zealand's digital capabilities. The Stratford proposal builds on CDC's broader development pipeline, which includes a planned New Zealand campus capable of supporting around 120MW of capacity.</p>",
+            "<p>The proposed Stratford site sits on North Island land near Contact Energy's former Taranaki Combined Cycle power station, which CDC said already has energy and connectivity infrastructure, including high-capacity terrestrial and subsea fibre offering a connection to Auckland, where New Zealand's international cables land. Electricity for the facility would be supplied under a long-term contract backed by Contact Energy's renewable development pipeline, and CDC's other New Zealand data centres are already powered by 100 percent renewable energy. The potential facility would focus on critical and sovereign workloads across government and public-sector systems, healthcare and emergency services, research computing, and banking and payments, and would use a closed-loop cooling system as seen at CDC's other sites. \"This is where sovereign data is held, where critical systems stay online, and where the most sensitive information stays in country,\" said CDC founder and chief executive Greg Boorer. Founded in 2007, Infratil-backed CDC has nearly 20 sites in operation and development across Sydney, Canberra, Melbourne and Auckland, with more than 600MW of data centre capacity in operation and development across those markets; the Stratford announcement came a week after CDC said it would develop a new campus in Sydney.</p>",
+            "<p>Infratil chief executive Jason Boyes said the company's near-term focus is on \"capturing more value from the positions we already have in data centres and renewable energy,\" rather than looking for an entirely new large investment sector. Infratil said it has approximately NZ$1.4 billion of available liquidity to support future investments and expects ongoing growth from CDC, One NZ and other digital infrastructure assets as AI-driven demand continues to increase across the region.</p>"
+          ],
+          "lens": "There's no Hawke's Bay project here, and it would be dishonest to pretend otherwise -- Stratford, not Napier or Hastings, is the North Island town in line for the next big CDC campus, and even that remains at the exploration stage rather than a confirmed build. But the story still matters locally in two concrete ways. First, Infratil is a familiar name in Kiwi portfolios, KiwiSaver funds and local investment clubs, so Bay residents already have indirect exposure to the data-centre boom through CDC and One NZ earnings -- worth knowing, and worth asking a financial adviser about if considering adding to a position. Second, the Stratford model is instructive for regional economic development thinking: a provincial North Island town with existing power and fibre infrastructure near a former power station site has become a serious contender for hundreds of megawatts of hyperscale investment, specifically because of its grid connections, fibre links to Auckland's international cables, and a renewable-energy partner willing to back a long-term power contract. Hawke's Bay Regional Council, Napier City Council and Hastings District Council's economic development arms could reasonably study what made Stratford attractive and assess honestly whether any Bay sites could ever compete for similar interest, rather than assuming the sector is Auckland- or Taranaki-only. For now, though, the realistic local takeaway is about investment exposure and policy learning, not a data centre on Bay soil.",
+          "sources": [
+            {
+              "l": "Reseller News",
+              "u": "https://www.reseller.co.nz/article/4249908/infratil-doubles-down-on-data-centre-ambitions-as-cdc-and-one-nz-drive-earnings-growth.html"
+            },
+            {
+              "l": "Data Centre Dynamics",
+              "u": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/"
+            }
+          ]
+        },
+        {
           "date": "20 Nov 2026",
           "headline": "Microsoft Breaks Ground on New Build at Its Auckland Data Centre Site",
           "brief": "<p>Construction has started on a new build at Microsoft's Westgate data centre site in Auckland, with the company's project overview page stating that works began in September this year. <b>Data Center Dynamics</b>, reporting on <b>19 November 2026</b>, says it appears to be an expansion of Microsoft's existing New Zealand cloud region, which launched in <b>December 2024</b>.</p>",
@@ -1113,40 +1129,6 @@
             {
               "l": "Newswire NZ",
               "u": "https://newswire.co.nz/2026/07/southland-ai-data-centre-water-consent-groundwater/"
-            }
-          ]
-        },
-        {
-          "date": "25 Jul 2026",
-          "headline": "Mercury buys into Southland's $3.5b 'AI factory' — as locals demand answers",
-          "brief": "<p>Power giant <b>Mercury NZ</b> has taken a <b>12.7% stake</b> for <b>US$30m (NZ$53m)</b> in Datagrid NZ, the Singapore-backed developer building a <b>360MW</b> hyperscale AI data centre at North Makarewa, Southland. The deal — struck as hundreds of locals packed a public meeting demanding Datagrid front up over water, power and noise concerns — shows how gentailers are now buying equity stakes directly into AI infrastructure, not just selling it electricity.</p>",
-          "body": [
-            "Mercury NZ has acquired a 12.7% minority equity stake in Datagrid NZ for US$30 million (NZ$53 million), deepening a relationship that began with the 15-year, 140MW power purchase option the pair signed in March 2026. Mercury chief executive Stew Hamilton has been appointed to Datagrid NZ's board and framed the move as locking in long-duration electricity demand rather than a speculative punt, saying it \"bolsters our position alongside an important emerging source of long-term electricity demand.\"",
-            "The investment underpins Datagrid's planned 360MW hyperscale campus at North Makarewa, north of Invercargill — a 78,000 square metre facility that already holds full resource consent and is slated to open in 2028, with a final investment decision expected later in 2026. Datagrid NZ, majority-owned by a Singapore-based parent and chaired by founder Rémi Galasso, bills the project as \"New Zealand's first AI factory.\" Mercury, a 100% renewable generator, cast the deal as a way to pair its wind and geothermal pipeline — including the Kaiwera Downs and Kaiwaikawe wind farms and a Ngā Tamariki geothermal expansion due this year — with steady demand from a single, enormous customer.",
-            "The equity round lands as local opposition intensifies. Hundreds of Southlanders packed the Invercargill Workingmen's Club for a public meeting, some left standing in the hallway, frustrated that Datagrid representatives did not attend to answer questions about power draw, noise and water use. \"We've reached out in good faith and it's a shame,\" organiser Kelly Blomfield said. Datagrid has said the facility will rely on free ambient-air cooling rather than groundwater — helped by Southland's cool climate — and that construction will create around 1,200 jobs, dropping to roughly 80 permanent staff once operational, a ratio critics say underscores how little ongoing employment the project may deliver relative to its scale and resource demands.",
-            "The transaction is also a signal for the wider sector: it is the clearest example yet of a New Zealand electricity generator taking a direct ownership stake in a hyperscale AI facility rather than simply supplying it. With the government's Invest New Zealand agency talking up the potential to attract $25–35 billion of private investment in data centres, renewables, fibre and transmission over the next five years, expect more gentailer-developer tie-ups as power companies look to lock in the AI boom's biggest electricity customers before rivals do."
-          ],
-          "lens": "Hawke's Bay doesn't have Southland's scale of renewable generation or a hyperscale AI campus on the table, and honestly it isn't going to. But the Mercury-Datagrid deal is a template worth watching: power companies are now treating AI data-centre demand as a strategic asset worth <em>owning</em> equity in, not just billing for. For the Bay, the sharpest lesson is in the jobs math out of Makarewa — a construction boom but a thin permanent headcount — which argues for the region to chase servicing and supply-chain roles (civil construction, fibre, cooling, grid-connection work) around the national data-centre build-out rather than a facility of its own. It is also a reminder that any future Bay-based digital-infrastructure play — cloud-linked cold storage for horticulture, or agri-data processing — will need local generators and lines companies at the table early, because power supply and data-centre approvals are now tightly bound together nationally.",
-          "sources": [
-            {
-              "l": "RNZ",
-              "u": "https://www.rnz.co.nz/news/business/775668/mercury-spends-53m-on-stake-in-datagrid-nz"
-            },
-            {
-              "l": "interest.co.nz",
-              "u": "https://www.interest.co.nz/business/139502/mercury-nz-secures-127-stake-worth-53-million-datagrid-nz%E2%80%99s-35-billion-southland-ai"
-            },
-            {
-              "l": "1News",
-              "u": "https://www.1news.co.nz/2026/07/24/southand-community-has-questions-about-35b-ai-data-centre/"
-            },
-            {
-              "l": "w.media",
-              "u": "https://w.media/mercury-takes-stake-in-datagrid-nz-as-southland-ai-campus-nears-go-ahead/"
-            },
-            {
-              "l": "The Spinoff",
-              "u": "https://thespinoff.co.nz/business/06-07-2026/nz-inc-is-going-all-in-on-ai-data-centres"
             }
           ]
         }
@@ -1996,6 +1978,36 @@
   ],
   "headlines": [
     {
+      "date": "22 Nov 2026",
+      "chipLabel": "Cybersecurity",
+      "headline": "NZDF And Forest & Bird Both Confirm Cyberattacks This Week",
+      "byline": "20 Nov 2026 · a defence-force database breach and a conservation charity's stolen supporter data became public within the same news cycle — what it means for Hawke's Bay's councils, iwi and NGOs",
+      "brief": "<p>New Zealand's cyber-defences had a rough week. RNZ reported that <b>the New Zealand Defence Force is responding to a cybersecurity incident affecting its public websites</b>, and that it <b>removed affected websites from service and began a forensic investigation</b>. Preliminary inquiries indicated the breach involved a database linked to the Force4Families Defence Discounts scheme, and that database <b>included names and email addresses of registered users</b>; a spokesperson said <b>individuals whose information may have been affected had been contacted and given advice on how to protect themselves from malicious activity</b>. The Defence Force said <b>\"at this stage, investigations remain ongoing and we continue to determine the full extent of any information affected,\"</b> and warned <b>\"individuals registered through the website should remain alert to phishing emails, scams and unsolicited requests for personal information.\"</b> The Privacy Commissioner has been informed of the incident.</p><p>Separately, environmental charity Forest & Bird revealed it had been hacked, with supporters' details exposed and the number of people affected still unclear. The organisation told RNZ it <b>was alerted to the problem on Wednesday evening</b>, with its investigation into the incident's scale still ongoing. <b>Primarily people's names, phone numbers and email addresses were accessed, although the organisation said a \"small subset\" of people may have had payment card details, dates of birth and physical addresses taken.</b> Chief executive <b>Sam Rowland told RNZ it had taken immediate steps to secure its systems, including a forensic search of the website that uncovered malicious files hidden to read data</b>, saying <b>\"we're working with our technology and cybersecurity experts to establish the full extent of the incident,\"</b> and that the charity was <b>\"contacting people we know who have been affected, explaining what information has been accessed and directing them to Own Your Online for guidance on staying safe.\"</b></p><p>A cybersecurity expert, Cogent chief information security officer Anthony Grasso, told RNZ the two attacks were likely unrelated — a coincidence rather than a coordinated campaign, though he noted two such breaches in quick succession wasn't surprising given how often New Zealand organisations are now being targeted by criminal gangs. He suspected the Forest & Bird hackers were chasing donor money through follow-up phishing scams, while the NZDF breach could involve anything from a foreign intelligence actor to a gang hunting for exploitable data.</p>",
+      "lens": "Neither breach has a named Hawke's Bay victim, and it would be dishonest to pretend otherwise — but the pattern is what matters here. Regional councils, iwi organisations, health providers, sports clubs and charities across Hawke's Bay hold exactly the kind of data taken from Forest & Bird supporters — names, phone numbers, emails, and in some cases payment details, birthdates and addresses — often on far thinner IT budgets and security staffing than a Crown entity like NZDF. The expert quoted on these breaches made a point worth sitting with locally: lifting cybersecurity isn't primarily about spending big, it's about getting good advice and doing the basics properly — multi-factor authentication, patched systems, limited exposure of unnecessary data, and a plan for what to tell supporters or clients if a local database is targeted next. If a defence force network and a well-known national charity can both be compromised in the same week, the sensible regional response isn't panic, it's audit — a quiet stocktake by Hawke's Bay's councils, iwi bodies and NGOs of who holds what personal data locally, and whether it's actually protected as well as the people who handed it over assumed it would be.",
+      "sources": [
+        {
+          "l": "RNZ — New Zealand Defence Force confirms database compromised, websites removed from service",
+          "u": "https://www.rnz.co.nz/news/business_media/2711202/new-zealand-defence-force-confirms-database-compromised-websites-removed-from-service"
+        },
+        {
+          "l": "RNZ — Forest & Bird supporters' details stolen by hackers",
+          "u": "https://www.rnz.co.nz/news/crime-and-justice/2709843/forest-and-bird-supporters-details-stolen-by-hackers"
+        },
+        {
+          "l": "Otago Daily Times — Forest & Bird supporters' details stolen by hackers",
+          "u": "https://www.odt.co.nz/news/national/forest-bird-supporters-details-stolen-by-hackers-t8219tba"
+        },
+        {
+          "l": "RNZ — Forest & Bird, NZDF cyber attacks likely unrelated, expert says",
+          "u": "https://www.rnz.co.nz/news/crime-and-justice/2717785/forest-and-bird-nzdf-cyber-attacks-likely-unrelated-expert-says"
+        },
+        {
+          "l": "Otago Daily Times — Forest & Bird, NZDF cyber attacks likely unrelated, expert says",
+          "u": "https://www.odt.co.nz/news/national/forest-bird-nzdf-cyber-attacks-likely-unrelated-expert-says-jrixmhnu"
+        }
+      ]
+    },
+    {
       "date": "20 Nov 2026",
       "chipLabel": "Jobs",
       "headline": "Xero Goes Silent as Insider Says NZ Software Engineers Face the Axe",
@@ -2646,20 +2658,6 @@
         {
           "l": "NZ Tech Expo",
           "u": "https://nztechexpo.co.nz/"
-        }
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "chipLabel": "Govt Tech",
-      "headline": "Immigration NZ Pauses $336m Tech Overhaul After $134m 'Flawed Assumptions' Blunder",
-      "byline": "Wellington, 14 Sep 2026 · A stalled digital overhaul at the agency Hawke's Bay's orchards and wineries lean on for RSE workers",
-      "brief": "<p>Immigration New Zealand has paused its flagship technology transformation programme, Our Future Services (OFS), after admitting it overestimated the project's benefits by <b>$134 million</b> because of what it called \"significantly flawed assumptions\". MBIE has decided to pause the project and reconsider the strategic case for change and its key technology choices before more expense is incurred.</p><p>New Immigration NZ head Andy Milne did not mince words on the failure, telling the Association for Migration and Investment conference in Auckland, \"One of the questions I asked at our last OFS board was, how do we get those benefits so wrong?\" He said aiming for a 50 percent productivity uplift from a process improvement was \"pretty much unheard of\", and that the business case's assumed overhead savings of roughly $50,000 per full-time role did not reflect how organisations actually cut costs, since \"you don't get those kind of overhead cuts as you reduce by fives and 10s\".</p><p>The scale of the miscalculation is stark: the $134 million overestimate amounts to more than a quarter of the $453 million in savings OFS was originally forecast to deliver. That means if the <b>$336 million</b> project goes ahead as planned, it will now cost more than it saves — even though its financial credentials had been a key drawcard when ministers chose it. A Cabinet paper shows both the project's productivity boosts and its overhead savings from staffing cuts were overstated, despite OFS having passed an independent quality assurance review and a Treasury review in 2024 before getting the go-ahead. Officials had extrapolated productivity gains from permanent resident visas processed on the Adept system — where automation lifted throughput to 20 visas a day per officer, from five — even though PR applications are simpler, have a lower decline rate, and are handled by a small team at one site.</p><p>Immigration Minister Erica Stanford said she and other ministers had also been kept in the dark about the programme's progress, but did not believe the benefits had been deliberately inflated, calling it \"a genuine error\" while acknowledging \"it's disappointing that they haven't got some of their figures right.\" Both OFS and the separate Biometric Capability Upgrade, which cost about $36 million, are now the subject of a Public Service Commission review.</p>",
-      "lens": "Hawke's Bay has more riding on Immigration NZ's plumbing than most regions — the RSE scheme that staffs orchards, packhouses and vineyards through Hastings and Central Hawke's Bay runs on the same visa-processing systems this stalled transformation was meant to modernise. A paused, over-budget rebuild that MBIE itself admits was built on flawed assumptions is a caution light for growers already juggling seasonal labour shortages: it's a reminder not to assume smoother, faster visa processing is imminent, and to keep pressing local MPs and RSE employer groups for clarity on timelines. It's also a broader lesson for the Bay's own tech ambitions — from council digital projects to the region's growing hi-tech and agritech sector — that big transformation programmes need honestly stress-tested savings cases, not headline numbers used to win sign-off, and that even projects cleared by independent quality assurance and Treasury review can still be built on assumptions that don't survive contact with reality. For now, the sensible regional response is watchfulness and advocacy rather than any new local initiative — this is a Wellington-run system failure, not one Hawke's Bay can fix, but one it should be loudly asking questions about given how much the horticulture sector depends on it working.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/politics/1361424/flawed-assumptions-behind-immigration-nz-s-bungling-of-tech-upgrade"
         }
       ]
     }
