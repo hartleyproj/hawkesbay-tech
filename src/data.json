@@ -32,6 +32,46 @@
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
         {
+          "date": "24 Nov 2026",
+          "headline": "NZ Competition Watchdog Tells Businesses: AI Doesn't Shift Your Legal Responsibility",
+          "brief": "<p>The <b>Commerce Commission</b> published new guidance on <b>18 November 2026</b> explaining how the <b>Commerce Act 1986</b> and <b>Fair Trading Act 1986</b> apply when businesses use AI, with Deputy Chair <b>Anne Callinan</b> warning that \"using AI does not shift that accountability and responsibility.\" The three-part guidance covers the Fair Trading Act, the Commerce Act and algorithmic collusion, flags specific risks such as misleading AI-generated content and anti-competitive pricing tools, and urges boards to treat AI as a governance issue. The Commission is hosting a free webinar with the AI Forum on <b>24 November</b> to walk businesses through it.</p>",
+          "body": [
+            "The Commerce Commission has released new guidance to help businesses understand how New Zealand's competition and consumer protection laws apply to their use of artificial intelligence (AI). The guidance comprises three parts, each accompanied by a fact sheet: AI and the Fair Trading Act, AI and the Commerce Act, and Algorithmic Collusion and the Commerce Act.",
+            "Deputy Chair Anne Callinan said AI is changing how businesses operate, but it does not change their legal responsibilities. \"Using AI does not shift that accountability and responsibility,\" she said. \"Businesses must make sure the information they provide is accurate, their decisions comply with the law, and consumers are treated fairly.\" The guidance comes as businesses increasingly use AI to support commercial decision-making, engage with consumers, transact and compete.",
+            "Callinan said the Commission's focus is not on regulating AI technology itself, but on the impact AI can have on consumers, competition and markets. \"As AI continues to evolve, policymakers and regulators will continue to consider whether additional regulatory tools or safeguards may be needed. But businesses have clear obligations today, and they should not assume AI changes those responsibilities.\"",
+            "The Commission is encouraging boards and senior leaders to treat AI as a governance issue. \"Boards should have visibility of how AI is being used across their organisation and ensure competition and consumer protection considerations are built into their AI governance and risk management frameworks,\" Callinan said. \"Organisations need to continually monitor where and how AI is being used, how it is influencing decisions, the products and outcomes it is creating, and whether sufficient safeguards are in place.\" The message signals that the Commission expects businesses to keep a record of AI deployment and assess legal exposure before problems emerge. Businesses using AI \"should act now: know where AI is being used, understand the risks it creates, and put the right safeguards in place before problems arise.\"",
+            "On specific risks, the Fair Trading Act fact sheet warns that online businesses with no New Zealand presence may mislead consumers if they use AI-generated content to create the false appearance of being a local retailer with physical stores - so-called \"ghost shops\". The Algorithmic Collusion fact sheet notes that many businesses use algorithms, AI, machine learning and automated pricing tools to help make decisions, and that while these technologies can improve efficiency, reduce costs and help businesses respond more quickly to market changes, they can also create competition law risks. Under the Commerce Act, businesses must still comply with competition law regardless of whether decisions are made by people, software, algorithms or AI systems, and penalties for breaches run up to $10 million, three times the commercial gain from the breach, or 10% of turnover.",
+            "The Commerce Commission is New Zealand's competition, consumer protection and economic regulator, and alongside enforcing the Fair Trading Act and Commerce Act it also regulates sectors including telecommunications, electricity lines, gas pipelines, airports and dairy. The Commission will also host a free webinar with the AI Forum on 24 November at 12pm to walk businesses through the new guidance."
+          ],
+          "lens": "Hawke's Bay has no shortage of businesses now running AI quietly in the background: wineries and orchards using it for pricing and inventory, retailers for customer chatbots, tourism operators for marketing copy, and local IT shops building AI workflow tools for SME clients. This guidance matters directly to them because it removes any excuse that \"the algorithm did it\" - a grower's dynamic pricing tool, a retailer's AI-generated promotion, or a hospitality chatbot's claim to a customer still has to stack up under the Fair Trading Act and Commerce Act, with the business on the hook either way, and the Commission's own example of overseas-based \"ghost shops\" using AI content to fake a local presence is a direct warning for any Bay retailer competing online against lookalike storefronts. The honest answer is that this is a compliance story, not a growth opportunity, so the region's gain here is modest but real: Bay business owners and boards should treat the free 24 November webinar as a practical first step, audit where AI tools are actually being used across their operation (not just the ones IT signed off on), and keep a simple record of what each tool does, who checks its output, and who's accountable if it gets something wrong. Given that Commerce Act breaches can carry penalties running into the millions, this is not a risk worth shrugging off as someone else's problem. Local accountancy, legal and IT advisory firms could usefully package this guidance into plain-English sessions for Hastings and Napier SMEs, and the wider Hawke's Bay business community should see it as a prompt to write down an AI policy before a pricing glitch or a chatbot promise turns into a Fair Trading Act complaint.",
+          "sources": [
+            {
+              "l": "Commerce Commission",
+              "u": "https://www.comcom.govt.nz/news-and-media/news-and-events/2026/commerce-commission-issues-ai-guidance-for-new-zealand-businesses/"
+            },
+            {
+              "l": "Commerce Commission - AI guidance for businesses",
+              "u": "https://www.comcom.govt.nz/business/your-obligations-as-a-business/ai-guidance-for-businesses/"
+            },
+            {
+              "l": "Concurrences",
+              "u": "https://www.concurrences.com/en/bulletin/news-issues/preview/the-new-zealand-competition-authority-publishes-guidance-on-how-competition-and"
+            },
+            {
+              "l": "Safety News NZ",
+              "u": "https://safetynews.co.nz/story/new-zealand-warns-businesses-ai-won-t-shift-legal-risk"
+            },
+            {
+              "l": "Lexology",
+              "u": "https://www.lexology.com/library/detail.aspx?g=c6dce77b-ea09-4966-87c6-d0add5908532"
+            },
+            {
+              "l": "FMCG Business",
+              "u": "https://www.fmcgbusiness.co.nz/comcom-issues-ai-guidance-for-nz-businesses/"
+            }
+          ]
+        },
+        {
           "date": "21 Nov 2026",
           "headline": "AI Skills Feature More in NZ Job Ads as Competition for Work Builds for a Fifth Month",
           "brief": "<p>The latest SEEK NZ Employment Report shows New Zealand job seekers being told to highlight AI skills on applications, with AI capability most sought in tech-sector roles. SEEK managing director David Swift said AI skills were referenced in <b>4.2 percent</b> of job ads in October, with the highest share in Information &amp; Communication Technology roles, even as <b>applications per job ad</b> rose <b>2.6 percent</b> month-on-month for a fifth straight month and total job ads fell 0.6 percent.</p>",
@@ -305,35 +345,6 @@
             {
               "l": "Startup Daily",
               "u": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/"
-            }
-          ]
-        },
-        {
-          "date": "13 Aug 2026",
-          "headline": "Havelock North's Margaret Thomas, 79, talks to Alexa before her feet hit the floor — and she's not alone",
-          "brief": "In her Havelock North retirement village townhouse, 79-year-old Margaret Thomas now runs her whole morning through an AI voice assistant, and she was one of 43 people aged 60 to 92 who attended Love Heart Social Learning's first Hawke's Bay AI workshop in June. The workshop's co-founder, educator Frances Valintine, says older Kiwis are far more switched-on to AI than they're given credit for — while also warning about deepfake risks.",
-          "body": [
-            "Margaret Thomas wakes up about 8am each day, and before her feet even touch the floor, she starts talking to one of her closest daily companions. In her Havelock North retirement village townhouse, the 79-year-old has turned artificial intelligence into part of her daily routine. Alexa turns on the lights, boils the jug, starts the TV, plays music in the bedroom and adds items to her shopping list. \"I just say, 'Alexa, cup of tea',\" Margaret said.",
-            "Margaret was among 43 people, aged 60 to 92, who attended Love Heart Social Learning's first Hawke's Bay AI workshop in June, led by educator and Love Heart Social Learning co-founder Frances Valintine, who said learning it helped give seniors the confidence to feel connected to the world. She said older people were often underestimated. \"I think other people make them feel left behind,\" Frances said. \"Too many people put them in a box, saying they are of a certain age. My experience is that a lot of them are all over AI.\"",
-            "Frances said AI could help older people research holidays, create personalised cards, understand basic health information before seeing a doctor, or stay mentally engaged. But she also warned about the risks, saying AI \"doesn't have a scamming ability as it's just generating a probability response\" — while people are using AI to do a deepfake, to pretend to be someone.",
-            "For Margaret, technology does not replace people. \"I still think there needs to be human interaction,\" she said. She is not interested in a future where robots replace nurses or carers entirely, although she can see the benefit of technology helping with physical tasks as people age.",
-            "Love Heart co-founder and managing director Fee Webby said the programme was designed for people aged over 60 who were still curious and wanted both learning and connection. \"We need to make sure that we keep people cognitively engaged and we know the importance of ongoing learning for the brain to keep them stimulated,\" she said. \"But also, more importantly, is that face-to-face connection.\"",
-            "Love Heart is a social enterprise founded by Hawke's Bay-based Fee Webby, who spent 10 years running private Auckland training establishment The Mind Lab, and Auckland tech educationalist and entrepreneur Frances Valintine CNZM. The programme began with a six-week Technological Impact course starting in Hawke's Bay on May 7, before expanding into Auckland with a six-week Society and Us course starting on June 4.",
-            "Fee, who lives in Hastings, said: \"We're ageing differently and we expect more from the many decades we might live post-retirement.\" Love Heart launched in Hawke's Bay before popping up in other centres across Aotearoa, with the pair — who previously worked together building The Mind Lab — kicking off courses, activities and excursions across Hawke's Bay before expanding into Auckland. \"Older people are healthier, more engaged and more intellectually curious than ever,\" Frances said."
-          ],
-          "lens": "This is a small story with an outsized point: the AI opportunity in Hawke's Bay isn't only about data centres and export manufacturing, it's also about digital confidence in a region with a large retired and semi-retired population, many living independently in retirement villages from Havelock North outward. Love Heart Social Learning has already shown there's real appetite here — 43 people turned up to a single June workshop, drawn from a Hawke's Bay-launched enterprise that has since expanded to Auckland — and that model could be scaled through retirement villages, libraries and community groups across Napier, Hastings and rural Hawke's Bay, pairing basic AI literacy with the scam and deepfake awareness Frances Valintine flagged as the real risk. Councils and community boards could back more sessions like this cheaply, aged-care providers could build simple voice-assistant setups into new tenancies as a selling point, and local retailers or health providers could use the same workshops to explain how AI tools might help with health information or daily tasks — all low-cost, high-trust moves that meet older residents where they already are, rather than chasing them into unfamiliar tech spaces. The flip side is real: as Margaret Thomas herself insists, no amount of AI literacy should be mistaken for a substitute for human contact and care, especially for a generation actively being targeted by AI-enabled scams.",
-          "sources": [
-            {
-              "l": "NZ Herald / Hawke's Bay Today",
-              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/meet-the-hawkes-bay-woman-using-ai-to-run-her-retirement-village-townhouse/premium/YMADLRZ5J5GZZJEEENO4WJHA6I/"
-            },
-            {
-              "l": "NZ Herald / Hawke's Bay Today",
-              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/love-heart-over-60s-learning-experience-launches-in-hawkes-bay/XFLYBZAJZJAW7B3Y45HNUOWAFE/"
-            },
-            {
-              "l": "BayBuzz",
-              "u": "https://baybuzz.co.nz/in-a-class-of-its-own/"
             }
           ]
         }
@@ -1478,6 +1489,32 @@
       "tag": "Robotics, AI and biotech remaking the primary sector the Bay lives on.",
       "stories": [
         {
+          "date": "24 Nov 2026",
+          "headline": "John Deere Buys Orchard AI's Tree-by-Tree Crop Vision Tech, Betting on 'Actionable Farm Data'",
+          "brief": "John Deere announced on 19 November 2026 that it has acquired San Francisco agtech firm Orchard Robotics, which operates as Orchard AI, bolting its vehicle-mounted, AI-powered crop cameras onto Deere's precision agriculture and equipment business. Terms were not disclosed. The system gathers plant-level yield, fruit-count, size, colour, canopy, water-stress and disease data for individual trees, vines and plants throughout the growing season.",
+          "body": [
+            "John Deere (NYSE: DE) announced on 19 November 2026 that it has acquired Orchard Robotics, which operates as Orchard AI, a San Francisco-based agriculture technology company that develops crop intelligence solutions for high-value crop growers. Deere director of farm systems innovation Tim Marquis said of the deal, in comments reported by AgFunderNews, that it \"connects crop-level intelligence with John Deere technology and equipment that can precisely execute the work in the field.\"",
+            "Orchard AI's system works by mounting AI-powered cameras onto tractors and other farm vehicles to collect data on individual trees, vines and plants throughout the growing season. According to AgFunderNews, Orchard Robotics' AI-powered camera system is about the size of a large tissue box and weighs about five pounds, and can be fitted onto any tractor or farm vehicle. It captures millions of images as it travels through orchards and vineyards, measuring fruit counts, size and colour, growth rates, canopy health, water stress, disease and yield, with the results feeding into Orchard's FruitScope platform, where growers can inspect conditions down to the level of individual trees.",
+            "Orchard Robotics was founded in 2022, and according to RobotToday's weekly roundup the company, which trades as Orchard AI, raised $22 million last year, with terms of the Deere acquisition itself not disclosed. Speaking to AgFunderNews, founder and CEO Charlie Wu said of the deal: \"As we grow and expand our capabilities, you'll be able to do more with our tech than ever before.\"",
+            "AgFunderNews put the deal in the context of a wider trend of large agricultural companies placing increasing value on what it called \"actionable farm data.\" Jorge Heraud, who sold his own company, Blue River, to Deere for $305 million in 2017 and went on to become Deere's VP of automation and autonomy, told AgFunderNews the deal was \"further validation that large companies in agriculture are finding that actionable data is very valuable to\" farmers, adding: \"This is a trend that will continue, driven by cheaper cameras and new sensors paired with AI to process the data and produce novel insights. Smart, innovative teams are able to find and bring valuable solutions to market faster than ever.\""
+          ],
+          "lens": "This is a global corporate deal with no direct Hawke's Bay stake in it, but it is a useful marker for a region whose economy leans heavily on apples, pears and grapes — exactly the high-value specialty crops Orchard AI was built to serve. The substance worth noting locally is narrow but real: a major equipment maker has now judged that tree-by-tree, vine-by-vine camera-and-AI data is valuable enough to buy outright rather than build, and it is folding that data into the tractors and machinery growers already run, via a FruitScope-style dashboard rather than a separate standalone product. If and when that kind of integrated plant-level monitoring becomes a standard feature on Deere equipment rather than a bolt-on purchase, it would lower the barrier for any Heretaunga Plains orchard or vineyard already running Deere gear to get season-long, individual-plant data without buying a separate system. The Jorge Heraud precedent — his own company, Blue River, sold to Deere for $305 million in 2017 before this latest purchase — is also a concrete data point for any Bay-based agritech venture or investor: it shows a repeatable path in which a specialist camera-and-AI crop-data start-up is acquired by a multinational equipment giant rather than scaling independently. Beyond watching how the integration unfolds and noting that pattern, there is little the region or its councils can actually do here — this is a Silicon Valley-to-Moline transaction with no New Zealand distribution details disclosed, and nothing in the record suggests Orchard AI or Deere's plans touch local growers directly yet.",
+          "sources": [
+            {
+              "l": "John Deere",
+              "u": "https://www.deere.com/en-us/john-deere-news/john-deere-acquires-orchard-ai"
+            },
+            {
+              "l": "AgFunderNews",
+              "u": "https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og"
+            },
+            {
+              "l": "RobotToday",
+              "u": "https://robottoday.com/article/robottoday-weekly-november-16-20-2026"
+            }
+          ]
+        },
+        {
           "date": "16 Nov 2026",
           "headline": "NZ Agritech Startup Aimer Farming Raises NZ$3m to Push Pasture Tech Into Beef Farming Ahead of 2027 Launch",
           "brief": "<p>New Zealand agritech startup <b>Aimer Farming</b>, which helps farmers calculate how much grass they have to feed beef cattle, has raised <b>NZ$3 million (A$2.44m)</b> in a round co-led by Cultivate Ventures, the Erbacher Food Family, Pacific Channel and Agnition, with backing from Australia's Antipodean Capital and New Zealand investors Flying Kiwi Angels, Enterprise Angels and Angel HQ. The raise takes the Hamilton company's total funding since November 2024 to around <b>NZ$5.15 million</b>, and will fund a beef farming offering due to launch in 2027, alongside further dairy product development and wider rollout of its satellite pasture-measurement tool.</p>",
@@ -1725,23 +1762,6 @@
             {
               "l": "Farmers Weekly",
               "u": "https://www.farmersweekly.co.nz/technology/emissions-tools-coming-2026-27/"
-            }
-          ]
-        },
-        {
-          "date": "11 Jul 2026",
-          "headline": "The AI that scans 8,000 vines an hour is coming for disease and guesswork",
-          "brief": "<p>Cropsy mounts AI cameras on vehicles to scan grapevines one by one — around <b>8,000 an hour</b> — flagging disease, counting vines and estimating yield. It has analysed <b>22 million vines</b> across NZ, California and Cognac.</p>",
-          "body": [
-            "A New Zealand startup is bringing per-vine intelligence to the vineyard. Cropsy mounts AI cameras on tractors, harvesters, crawlers, ATVs and other vehicles to scan grapevines one at a time — around 8,000 an hour — flagging disease like mildew, counting vines, checking pruning quality and estimating yield, with data back to growers in roughly 30 minutes and typically by the next morning.",
-            "Founded out of the University of Auckland's Velocity programme by Leila Deljkovic, the six-year-old company runs a team of about ten and has deployed roughly 40 scanners — mostly across New Zealand but also in California and Cognac, France — analysing some 22 million vines across three continents, 20 million of them in the past year alone. Because contractors can run the scanners, a single unit can cover close to 1,000 hectares for more than 90 growers, putting the technology within reach of small and medium operations.",
-            "\"We want to fundamentally change how wine grapes are grown, block by block, vine by vine,\" Deljkovic says — catching disease early, planning picking more precisely, and building the kind of data trail that increasingly matters to premium buyers. Even with a post-Covid squeeze on wine demand, she argues technology like Cropsy's \"could turn losses into margins.\""
-          ],
-          "lens": "Hawke's Bay is New Zealand's second-largest wine region, so per-vine AI is a natural fit: it could catch disease early, sharpen picking decisions and prove sustainability with hard data — an edge as premium buyers demand traceability. The barrier for smaller Bay growers has always been cost, and Cropsy's contractor model — one scanner covering close to 1,000 hectares for dozens of growers — is exactly what lowers it. The concrete opportunity is a shared, contractor-run scanning service across the region's vineyards, turning per-vine data into earlier disease control and a credible sustainability story for export.",
-          "sources": [
-            {
-              "l": "University of Auckland",
-              "u": "https://www.auckland.ac.nz/en/news/2025/05/13/agritech-start-up-cropsy-technologies-changing-viticulture.html"
             }
           ]
         }
