@@ -366,6 +366,24 @@
       "tag": "The renewable boom — and why the sunny, storm-hit Bay has more at stake than most.",
       "stories": [
         {
+          "date": "26 Nov 2026",
+          "headline": "Kiwi Households Pile Into Solar-Plus-Battery in 2026 — What It Means for Hawke's Bay Power Bills",
+          "brief": "<p>New Zealand's residential solar market delivered what pv magazine Australia calls a milestone year in 2026, with <b>13,282</b> new installations already more than all of 2025, lifting the national total to <b>87,734</b> homes with solar (4.3% of homes), totalling <b>523 MW</b>. The average new system is now <b>8.7 kW</b>, up from 3.3 kW a decade ago, average prices held at $2.04 per watt, and about half of new installs now pair solar with a battery, with a typical package costing around <b>$33,000</b>.</p>",
+          "body": [
+            "<p>New Zealand's residential solar market is evolving, with <span><cite index=\"28-3\">2026 delivering a milestone year after energy security became a much more personal conversation</cite>, as pv magazine Australia put it. The figures are stark: <cite index=\"10-3\">13,282 new residential solar installations, already more than all of 2025</cite>, lifting the national total to <cite index=\"10-4\">87,734 homes with solar (4.3% of homes), totalling 523 MW</cite>.</span></p>",
+            "<p>Systems themselves have grown, and prices have held broadly flat. <cite index=\"28-7\">The average price for solar was $2.04 per watt, the same as 2025</cite>. But that headline figure masks a quieter squeeze: <cite index=\"10-9,10-10,10-11\">that steady average hides a small price rise — like-for-like prices crept up a few percent across most system sizes, but Kiwis are simply installing bigger systems, which cost less per watt and kept the overall average flat</cite>. The result is that <cite index=\"10-13\">the average new home system has more than doubled in a decade, from around 3.3 kW to close to 9 kW</cite>.</p>",
+            "<p>Batteries are increasingly part of the package too. <cite index=\"10-7\">About half of new home systems include a battery — 48% in the outlet's own survey, around 53% in Electricity Authority data</cite>, and <cite index=\"28-17,28-18\">unlike Australia, which needed a federal rebate to get home batteries moving, New Zealand has nothing, yet about half of new home solar systems now include one, up from about 29% in 2024</cite>. <cite index=\"19-5\">Kiwi homeowners get no upfront solar subsidy, no battery rebate, and no net metering</cite> — instead, <cite index=\"28-5\">energy retailers pay for exports, but the economics are built around using your own solar generation</cite>. A typical solar-and-battery package now costs <cite index=\"28-8\">$33,000</cite> on average. Even so, uptake remains modest by international standards: <cite index=\"10-17\">roughly one in 25 Kiwi homes has solar, compared with more than 30% of Australian households</cite>.</p>",
+            "<p>The surge has a clear trigger. <cite index=\"28-9\">Fuel prices jumped, and energy security suddenly had a very visible price tag</cite> — though <cite index=\"28-10,28-15\">some households responded by buying an EV, while for others the response was to wait</cite>. As the outlet's analyst put it, <cite index=\"19-7\">the surge reflects households bringing forward decisions they were already considering</cite>, even though <cite index=\"19-8\">households can improve their energy efficiency and still find themselves paying more</cite>. The timing also collided with politics: <cite index=\"19-9,19-10\">ahead of the 7 November election, solar became a prominent political offering, with promises ranging from cheaper, more accessible finance to Labour's subsidy offer of up to NZD 3,000 for low- and middle-income households</cite>. The outlet's verdict is blunt: <cite index=\"28-19\">New Zealand is past the early adopter stage — a long haul, but we got there</cite>. As it concludes, <cite index=\"19-16\">this year has shown that New Zealanders don't need a rebate to go solar</cite>.</p>"
+          ],
+          "lens": "This is a national trend story, not a Hawke's Bay scoop — there's no local project, company or uptake figure at its centre, so the honest move is to read it as a signal rather than a headline. But the underlying economics land squarely in the Bay: a sunny region with a well-known history of outages after severe weather, where households and growers are already weighing up solar-plus-battery quotes. If the national pattern — bigger systems, battery attach rates pushing toward half of new installs, $33,000 packages becoming unremarkable, and no subsidy required to make the numbers work — is playing out here too, then local installers and electricians have a genuine growth market to serve, and the region's lines companies have a stake in managing rising rooftop export volumes sensibly. Councils and network operators could help most by keeping the path to connection as simple as the national figures suggest the economics already are, rather than adding friction at the exact moment uptake is accelerating. For growers and orchardists watching power bills rise, the lesson from this data is that solar-plus-battery has shifted from a fringe resilience measure to mainstream household infrastructure — worth a serious look rather than a wait-and-see approach — while being honest that none of these figures are Hawke's Bay-specific, and the region's own uptake, battery attach rate and typical package cost remain unknown from this story alone.",
+          "sources": [
+            {
+              "l": "pv magazine Australia",
+              "u": "http://www.pv-magazine-australia.com/2026/11/24/why-new-zealand-households-are-taking-solar-seriously-in-2026/"
+            }
+          ]
+        },
+        {
           "date": "20 Nov 2026",
           "headline": "Lodestone's Half-Year Results Show Hawke's Bay Solar Farm On Time and On Budget, as EASY Plan Launched Locally First",
           "brief": "<p>Solar gentailer Lodestone Energy (NZX: LOD) reported <b>solar production up 57%</b>, electricity sold up <b>36%</b>, and energy margin <b>more than tripling</b> for the six months to 30 September 2026, alongside a $9.4 million net loss. Construction of its sixth farm, on Ongaonga Road in Hawke's Bay, is confirmed on time and on budget, with first power targeted for early autumn 2027 — and the company's new residential EASY Plan launched in Hawke's Bay before anywhere else.</p>",
@@ -656,40 +674,6 @@
               "u": "https://solarbytes.info/emea-bytes/asb-centralines-lodestone-reach-financial-close-hawkes-bay-solar-project-12150969"
             }
           ]
-        },
-        {
-          "date": "25 Jul 2026",
-          "headline": "NZ quietly ticks past 1 gigawatt of local solar — and businesses now out-panel homes",
-          "brief": "<p>New figures reported by NewsWire, drawn from <b>Electricity Authority</b> data, show New Zealand's local networks crossed <b>1,020 megawatts</b> of installed solar as of 30 June 2026, spread across <b>88,412 connections</b> — a milestone that arrived unannounced sometime in May. Nationally <b>80,463 homes</b> now have solar, about <b>one in 25</b> residential connections, up from one in 160 a decade ago, and around <b>22%</b> of solar connections now have a battery attached. Businesses now hold more solar capacity — <b>565MW</b> — than every home in the country combined, on 456MW.</p>",
-          "body": [
-            "New Zealand has passed a quiet but significant energy threshold: total solar capacity connected to local lines networks has topped one gigawatt. According to figures reported by NewsWire from newly updated Electricity Authority data, the country slipped past the mark sometime in May 2026, with no ribbon-cutting and no press release to mark it.",
-            "The figures, which NewsWire drew from the Electricity Authority's distributed-generation series to 30 June 2026, show <b>1,020 megawatts</b> of solar installed across <b>88,412 connections</b> nationwide, and confirm that businesses now hold more of that capacity — <b>565 megawatts</b> across 7,949 business connections — than every home in the country combined, on <b>456 megawatts</b>. The one-gigawatt total is more nameplate capacity than Manapouri, the country's largest hydro station at 850 megawatts — though a megawatt of solar produces far less energy over a year than a megawatt of hydro, so the milestone is more about the sheer volume of hardware installed than a shift in the generation mix.",
-            "Regionally, the uptake picture is uneven. Auckland has more solar connections than anywhere else — 14,877 of them — yet it sits near the bottom of the table on uptake, with panels on just 2.4 percent of homes, ranking 14th of 16 regions. By contrast, the top of the South Island owns the leaderboard: Tasman leads the country at 9.1 percent, with Nelson on 7.5 percent and Marlborough on 7.0 percent — against Auckland's 2.4 percent — while the wet, sparsely populated West Coast sits last at 1.9 percent. Nationally, 80,463 homes have solar, about one in every 25 residential connections, up from about one home in 160 a decade ago.",
-            "Batteries are increasingly following the panels onto rooftops. At least 19,579 solar connections — around 22 percent — are recorded as having a battery attached, and because retrofits don't always show up in network records, the real figure is likely higher. Roughly 369 megawatts of solar was added in the year to June 2026, and at that pace NewsWire suggests the second gigawatt could arrive around 2029 — though the trajectory has been accelerating."
-          ],
-          "lens": "For Hawke's Bay the timing is pointed: the region is only now gaining its first utility-scale solar farm. Lodestone Energy and lines company Centralines have broken ground on a <em>31.5 MW</em>, roughly $50 million agrivoltaic plant on the Ruataniwha Plains in Central Hawke's Bay — around 49,000 panels expected to generate about 50 GWh a year, with grazing continuing beneath them — and commercial operation is due in late summer 2027. Developers describe it as filling a longstanding gap in the Bay's energy mix, and it is unlikely to be the last: further projects are proposed nearby, including a Helios Energy farm at Ongaonga and larger developments again on the regional boundary. The clearest lesson from the national figures is that sunshine alone does not drive uptake — sunny Auckland ranks near the bottom — so the Bay's real advantage is one it has to <em>choose</em>: councils resourcing fast, predictable consenting for rooftop and farm-scale arrays; growers, packhouses and coolstores pairing panels with batteries to cut daytime power costs and firm supply after Gabrielle-era outages; and local installers and electricians building the workforce so the jobs and network-resilience benefits of this gigawatt milestone land in the region rather than pass it by.",
-          "sources": [
-            {
-              "l": "NewsWire",
-              "u": "https://newswire.co.nz/2026/07/new-zealand-passes-1gw-local-solar/"
-            },
-            {
-              "l": "NZ Herald – Hawke's Bay Today",
-              "u": "https://www.nzherald.co.nz/hawkes-bay-today/news/central-hawkes-bay-50-million-utility-scale-solar-farm-to-be-built-on-the-ruataniwha-plains/GIWP3KP5QZDSPOS7JLAIC5AMSU/"
-            },
-            {
-              "l": "pv magazine Australia",
-              "u": "https://www.pv-magazine-australia.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/"
-            },
-            {
-              "l": "PV Tech",
-              "u": "https://www.pv-tech.org/lodestone-energy-to-begin-construction-on-31-5mwdc-solar-pv-plant-in-new-zealand/"
-            },
-            {
-              "l": "Helios Energy",
-              "u": "https://heliosenergy.co.nz/projects/ongaonga/"
-            }
-          ]
         }
       ]
     },
@@ -858,6 +842,29 @@
       "chip": "c-cloud",
       "tag": "The digital plumbing — and the power crunch that makes regional energy strategic.",
       "stories": [
+        {
+          "date": "26 Nov 2026",
+          "headline": "Meridian Takes an 11.27% Stake in Southland's AI Data Centre, Joining Mercury",
+          "brief": "<p>Meridian Energy has paid <b>$54.6 million</b> for an <b>11.27%</b> stake in Datagrid, which is building a <b>300MW</b> AI data centre at Makarewa, north of Invercargill, becoming the second major New Zealand power company to buy into the project after Mercury bought a <b>12%</b> stake for <b>$53 million</b> in July. Meridian has also signed a <b>140MW</b> power purchase option agreement with Datagrid, a facility that would be second only to the Tiwai Point smelter in power usage.</p>",
+          "body": [
+            "Two of New Zealand's biggest power companies now own stakes in a planned AI data centre in Southland, after Meridian Energy paid $54.6 million for an 11.27% stake in Datagrid, which is building a 300MW data centre at Makarewa.",
+            "Meridian has also signed a 140MW power purchase option agreement with Datagrid. The data centre in Makarewa would be only second to the Tiwai Point smelter in power usage.",
+            "Mercury bought a 12% stake for $53 million in July, meaning Meridian is following its fellow gentailer into the project.",
+            "Datagrid chief executive Rémi Galasso said Meridian, the project's first partner when it launched in 2020, had \"believed in Datagrid from day one\". \"With Meridian and Mercury both on board, Datagrid is partnered with two of New Zealand's leading renewable generators,\" he said. Meridian Energy chief executive Mike Roan said the project represented \"a significant source of long-term electricity demand\" that supported Meridian's investment in new renewable generation.",
+            "The deal lands amid a live national argument over AI data centres: the Government has been talking up \"common-sense\" rules for the sector, with Prime Minister Christopher Luxon saying large facilities will need to bring additional power generation, while the Greens are calling for a one-year moratorium on consents for new AI data centres, which have been divisive in communities locally and abroad."
+          ],
+          "lens": "There is no direct Hawke's Bay angle in this deal — it's a Southland project, an Invercargill-area power purchase agreement, and two generators, Meridian and Mercury, that aren't reported here as holding assets in the Bay. Where it does matter to us is indirectly, through the national electricity market: when two major gentailers lock in long-term supply arrangements to feed a single load that's second only to the Tiwai Point smelter in power usage, that reshapes where new renewable generation gets built and who it's built for — and that in turn can influence the wholesale power prices that Hawke's Bay growers, packhouses, wineries and manufacturers all pay. The honest move for the Bay right now is not to chase a data centre of our own on the back of this story, since nothing here establishes that the region has anything like the scale of consented renewable generation these projects are drawing on. What is useful is to watch the fight over power allocation closely: it is effectively a fight over who gets first claim on the country's renewable electricity, and the Government's promised \"common-sense\" rules versus the Greens' call for a moratorium will decide some of the terms. Local lines companies, large energy users and Hawke's Bay Regional Council could usefully track how these deals affect regional pricing and security of supply, and regional growers' groups and manufacturers should have a view ready for whenever national data-centre power policy — still being worked out amid this live political argument — starts to touch everyone's power bill.",
+          "sources": [
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/11/26/meridian-buys-stake-in-southland-ai-data-centre-joining-mercury/&gsessionid=Fy1zrzQ6oreBnV4pwH-a0EF9upaThCp1Ngwm_Fm4nbjmS3olGVCwXQ/"
+            },
+            {
+              "l": "1News",
+              "u": "https://www.1news.co.nz/2026/07/27/govt-wants-common-sense-rules-around-big-data-centres-pm/"
+            }
+          ]
+        },
         {
           "date": "23 Nov 2026",
           "headline": "Infratil's data-centre bet pays off as CDC earnings jump 84 percent, with a Taranaki campus on the drawing board",
@@ -1127,27 +1134,6 @@
             {
               "l": "Point of Order",
               "u": "https://pointofordernz.wordpress.com/2026/08/01/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid/comment-page-1/"
-            }
-          ]
-        },
-        {
-          "date": "29 Jul 2026",
-          "headline": "Southland's $3.5b AI data centre clears consent — and stirs local pushback",
-          "brief": "<p>Singapore-based Datagrid has secured all required Resource Management Act approvals for a <b>78,000 m²</b> AI data centre at Makarewa, north of Invercargill, with an initial capacity of <b>280 MW</b>. The facility is projected to open in 2028, use about <b>6% of New Zealand's total electricity</b>, and become the country's second-largest electricity user — drawing hundreds of concerned residents to a public meeting.</p>",
-          "body": [
-            "New Zealand's first hyperscale-class AI data centre has cleared its consenting hurdles. Singapore-based Datagrid has secured all the Resource Management Act approvals it needs for a 78,000-square-metre facility at Makarewa, about 9–10km north of Invercargill, with an initial capacity of 280 MW. It signed a 140 MW power purchase agreement with Mercury in March 2026, and Mercury bought a stake of around 12% for $53 million.",
-            "The scale is what makes it a national story. The facility is projected to open in 2028, consume roughly 6% of New Zealand's total electricity, and become the country's second-largest electricity user. Datagrid says it will rely on rainwater harvesting and free air cooling rather than groundwater.",
-            "It has also become a test of social licence. Hundreds of residents attended a public meeting to raise questions about power and water, and Datagrid did not attend — a gap between a project's approvals and a community's comfort that is likely to recur as more of these facilities are proposed."
-          ],
-          "lens": "Southland is a long way from Hawke's Bay, but this project sets the template for what any future data-centre proposal here would run into: enormous electricity draw, water and cooling questions, and a community expecting to be consulted before approvals, not after. As AI demand pushes developers to look for sites with power and land, regions like Hawke's Bay could find themselves courted. The value in watching Southland now is to decide, on the Bay's own terms, whether it wants that kind of investment and on what conditions — what it would demand on local power supply, water, and community benefit — rather than being caught flat-footed by a proposal that arrives already consented elsewhere as the norm.",
-          "sources": [
-            {
-              "l": "1News",
-              "u": "https://www.1news.co.nz/2026/07/24/southand-community-has-questions-about-35b-ai-data-centre/"
-            },
-            {
-              "l": "Newswire NZ",
-              "u": "https://newswire.co.nz/2026/07/southland-ai-data-centre-water-consent-groundwater/"
             }
           ]
         }
@@ -1782,6 +1768,33 @@
       "chip": "c-bay",
       "tag": "Tech and innovation happening right here in Hawke’s Bay.",
       "stories": [
+        {
+          "date": "26 Nov 2026",
+          "headline": "Four Bay Councils' Shared IT Project Scoops Two National Awards",
+          "brief": "<p>Hawke's Bay Regional Technology Services (HBRTS) — a joint initiative between Hastings District, Napier City, Central Hawke's Bay District and Hawke's Bay Regional councils — has won the <b>Excellence in IT Infrastructure</b> and <b>Collaboration Excellence</b> awards at the national ALGIM Awards. The project is expected to deliver around <b>$7.8 million</b> in savings and other financial benefits over five years, with the first joint purchase already saving Hawke's Bay Regional Council about <b>$250,000</b>. Central Hawke's Bay District Council also picked up a nod for Most Improved Cyber Security.</p>",
+          "body": [
+            "Hawke's Bay Regional Technology Services (HBRTS), a joint initiative between Hastings District Council, Napier City Council, Central Hawke's Bay District Council and Hawke's Bay Regional Council, has taken out two awards at the national ALGIM Awards. <cite index=\"4-4\">Hawke's Bay Regional Technology Services (HBRTS), a joint initiative between Hastings District Council, Napier City Council, Central Hawke's Bay District Council and Hawke's Bay Regional Council, took out the Excellence in IT Infrastructure award and the Collaboration Excellence award at the recent national ALGIM Awards.</cite> <cite index=\"4-5\">The ALGIM Awards recognise innovation and excellence in technology and digital services across New Zealand local government.</cite> <cite index=\"19-5\">Central Hawke's Bay District Council also picked up a nod for Most Improved Cyber Security on the back of its five year cyber security plan.</cite>",
+            "<cite index=\"10-6\">The savings come from the councils working together to buy and manage computer networks, cyber security systems, data storage and other technology, rather than each paying separately for much of the same equipment and services.</cite> <cite index=\"10-5\">The project is expected to deliver around $7.8 million in savings and other financial benefits over five years, with the first joint purchase already saving Hawke's Bay Regional Council about $250,000.</cite>",
+            "Hastings District Council chief information officer and project lead Warren Perry said the two awards recognised the work that had gone into making the partnership a success. <cite index=\"30-5,30-6\">\"We all need reliable, secure technology, and we were all facing rising costs, ageing equipment and increasing cyber security threats. It made sense to look at what we could do together, rather than each council solving the same problems on its own,\"</cite> he said. <cite index=\"20-6\">\"The savings are substantial, and that's money councils don't have to spend doing the same things four different ways,\"</cite> Perry added. <cite index=\"3-4\">As well as reducing costs, the shared approach will give councils better protection against cyber threats, more reliable backup systems and access to technical specialists who can work across the region.</cite> Perry was pictured with colleagues when the awards were announced — <cite index=\"20-3\">(L-R) Robert Anderson (Central Hawke's Bay District Council), Rachele Dickey (Hastings District Council), Warren Perry (Hastings District Council), Nikos Skepetaris (category sponsor 2degrees general manager), Pip O'Connor (Hawke's Bay Regional Council), Aaron McWilliams (Hastings District Council), Mike Manson (ALGIM chief executive)</cite>.",
+            "Perry said the collaboration award was particularly pleasing, with <cite index=\"19-7,19-8\">making the work work having taken a lot of trust, cooperation and hard work from people across all four councils</cite>. <cite index=\"20-8\">\"We've been able to draw on the strengths of each organisation and build something better and more affordable than what we could have achieved separately,\"</cite> he said. <cite index=\"19-9\">\"To have that work recognised nationally, in both the technology and collaboration categories, is a great result for everyone involved.\"</cite>",
+            "<cite index=\"28-6\">The partnership builds on years of the councils helping each other with technology services, including Hastings providing technical support to Central Hawke's Bay and Napier hosting websites across the region.</cite> <cite index=\"3-6\">Each council remains independent and responsible for its own services, while sharing the cost of technology, equipment and specialist staff where it makes sense.</cite>"
+          ],
+          "lens": "This is a genuinely local win, even if it's back-office plumbing rather than a flashy product — and that's exactly why it matters for the Bay. Four councils that don't always agree on everything have proven they can share cyber security, data storage and specialist IT staff instead of each buying their own, and a national awards panel has validated that it works: $7.8 million in savings and other benefits over five years is not trivial against ratepayer bills, and Central Hawke's Bay's separate recognition for its cyber security plan shows the benefits aren't limited to one council. For residents and businesses, the practical upside described by the project's own leaders is steadier, better-protected council digital services and less duplicated spend. What the Bay should do now is treat HBRTS as a template rather than a one-off — the same trust-built, council-by-council logic that let Hastings support Central Hawke's Bay and Napier host shared websites could extend further into other back-office functions. But the project's own leadership is candid that this kind of collaboration is hard-won: it rests on 'trust, cooperation and hard work' between people across four organisations, which means councils and ratepayers should keep pushing to formalise and protect that cooperation rather than letting it depend on the current relationships holding.",
+          "sources": [
+            {
+              "l": "BayBuzz",
+              "u": "https://baybuzz.co.nz/hb-councils-it-initiative-promises-7-8m-savings/"
+            },
+            {
+              "l": "Inside Government NZ",
+              "u": "https://insidegovernment.co.nz/hawkes-bay-councils-it-cost-saving-initiative-win-national-honours/"
+            },
+            {
+              "l": "Central Hawke's Bay District Council",
+              "u": "https://www.chbdc.govt.nz/our-council/news/article/1641/national-awards-for-hawkes-bay-councils-it-costsaving-initiative"
+            }
+          ]
+        },
         {
           "date": "19 Nov 2026",
           "headline": "Havelock North Inventor Unveils Rosie, the Robot That Cooks Food-Truck Chips",
