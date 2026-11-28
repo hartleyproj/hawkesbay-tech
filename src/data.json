@@ -1,33 +1,25 @@
 {
   "lead": {
     "chip": "c-econ",
-    "chipLabel": "Infrastructure",
+    "chipLabel": "Innovation",
     "sector": "bay",
-    "date": "25 Nov 2026",
-    "headline": "Microsoft's Second $1b Auckland Data Centre Rises — With No Public Notification",
-    "byline": "Auckland · what Westgate's power, money and planning questions mean for the Bay",
-    "brief": "<p>A near-billion-dollar second Microsoft data centre is going up at Westgate in Auckland, and Herald tech editor Chris Keall reports <b>construction began without Auckland Council publicly notifying residents</b>. <cite index=\"1-1\">Without fanfare, and against the backdrop of a growing protest movement, construction of a second giant Microsoft data centre has begun at Westgate in Auckland's northwest, without public notification by Auckland Council.</cite> <cite index=\"17-4\">There was no announcement, perhaps a sign of the shift in public attitudes to AI and data centres 6 years since Jacinda Ardern first trumpeted Microsoft's intention to build hyperscale facilities in NZ.</cite> <cite index=\"19-3\">According to consent documents, the new data centre will have a floor area of 10,879.8sq m over two storeys – only slightly smaller than the first facility's 11,600sq m, indicating its budget will likely be in a similar ballpark.</cite> <cite index=\"2-1\">Herald tech commentator Chris Keall examines the project and questions over transparency, power and economic returns.</cite></p><p>The numbers behind the build are striking. <cite index=\"10-6\">Costs associated with the first data centre indicate the second will likely cost the best part of $1 billion.</cite> <cite index=\"6-5\">Microsoft says the expansion will support up to 500 jobs during peak construction and about 40 permanent roles once operational, with the facility designed to use air cooling and eliminate water consumption.</cite> <cite index=\"6-6\">The first Auckland data centre, which opened in December 2024, involved $800.2 million in direct capital expenditure.</cite> Behind the scenes, <cite index=\"17-7\">the application was made by Microsoft 6399 NZ, a newly-minted commercial vehicle owned by a Microsoft subsidiary in low-tax Ireland.</cite> <cite index=\"17-8,17-9\">The NZ data centre business is still controlled by Microsoft Ireland Research, which made a $33.6m profit on $215m revenue last year.</cite> Microsoft's third proposed Auckland facility has not fared as well: <cite index=\"12-8\">the company's plans for a third centre at Whenuapai have lapsed, while other data centre projects in New Zealand face delays or cancellations.</cite></p><p>The project lands amid a wider national reckoning over power. <cite index=\"33-7,33-8\">To Microsoft's credit, the first facility arrived with its power sorted, opening in December 2024 with 51MW of capacity backed by a ten-year geothermal deal with Contact Energy for the Te Huka 3 station.</cite> But <cite index=\"11-8\">a July 2026 memorandum from the government's Chief Advisor on Climate Change estimates current data centre electricity use at between 8MW and 104MW, against roughly 1,140MW of data centre projects already in Transpower's connection pipeline.</cite> Consent documents for the new build reveal <cite index=\"19-8\">13 back-up diesel generators – 12 main generators, each with a 40,000-litre diesel tank, and one smaller admin generator with an 8000-litre tank – for just under 500,000 litres of diesel onsite in total.</cite> <cite index=\"26-6\">The specs of the generators indicate they are designed to compensate for up to 38MW of power from the grid.</cite></p>",
-    "lens": "This is an Auckland story, but its real content — power, planning and who actually captures the benefit — is a Hawke's Bay story in waiting. The Bay sits on a renewables base that national and international data-centre operators are openly hunting for, and the Westgate saga shows what happens when a near-billion-dollar build goes up with only a few dozen permanent jobs to show for it, backed by firm geothermal power on one hand and hundreds of thousands of litres of diesel back-up on the other, while Auckland Council's own notification process never kicked in. If a data-centre or renewable-generation proposal ever comes knocking in Hawke's Bay, the lesson from Westgate is to demand the megawatt numbers, the firm power-purchase terms and genuine local consultation up front — not after the concrete's poured. Short of that, there's little for the Bay to do right now except watch how Auckland Council and Transpower handle the transparency fight, since whatever rules or precedents emerge nationally on disclosure and grid allocation will shape any future regional data-centre or generation deal here.",
+    "date": "28 Nov 2026",
+    "headline": "Aotearoa's First Indigenous Tech Summit Puts AI, Data Sovereignty — and a Ngāti Kahungunu Voice — on the World Stage",
+    "byline": "Wellington, 26–27 Nov · what it means for the Bay",
+    "brief": "<p>New Zealand held its first-ever Indigenous Tech Summit this week, and the numbers alone mark it out as a national moment: <b>more than 300 Indigenous tech leaders from around the world</b> <cite index=\"2-1\">are in Wellington this week for New Zealand's first-ever Indigenous Tech Summit</cite>, <cite index=\"2-5\">hosted by Te Hapori Matihiko, the community for Māori in digital and tech, with the inaugural two-day summit taking place at Wellington's Tākina Convention Centre on Thursday and Friday</cite>. Organisers say <cite index=\"2-4\">one of the major topics at the summit is the relationship between Indigenous communities and AI</cite>.</p><p>Te Hapori Matihiko co-founder <b>Lee Timutimu</b> and chief executive <b>Katie Brown</b> led the programme, which <cite index=\"7-4\">ran over two days and centred on five thematic pillars, the most prominent being future-oriented mentorship for emerging Māori leaders, as explained by co-founder Lee Timutimu</cite>. Brown pointed to existing proof of concept, noting <cite index=\"14-9\">there were already examples of rangatahi Māori doing things differently and data sovereignty in action, from Te Hiku Media's te reo Māori transcription tool to the decentralised data storage network used by Te Kāhui Raraunga</cite>. <cite index=\"2-11\">The Indigenous Tech Summit will become a biennial event, held every second year and alternating with the Matihiko Awards.</cite></p><p>Among the kaikōrero on stage was <b>Amber Craig</b>, named in Te Ao Māori News's coverage of the summit as part of a line-up where <cite index=\"20-1\">Kaikōrero include Dr Karaitiana Taiuru, Amber Craig (Ngāti Kahungunu, Rangitāne o Wairarapa, Muaūpoko, Ngāi Tara), Professor Te Taka Keegan, Lisa Sarago and Dr Desi Small-Rodriguez</cite> — alongside global figures discussing data sovereignty and AI ethics. <cite index=\"7-5\">Participants discussed the urgency of moving Indigenous communities from passive AI users to active developers, stressing gaps in education and the importance of data sovereignty.</cite> Sovata AI co-founder <b>Tracey Savelio</b> used the platform to call for <cite index=\"7-7\">Indigenous-run AI platforms that empower Pacific peoples while safeguarding cultural data</cite>.</p>",
+    "lens": "This is a different kind of tech story to yesterday's — not concrete and megawatts, but mana and mātauranga, and it brushes close to home: one of the named kaikōrero at the inaugural summit, Amber Craig, carries Ngāti Kahungunu whakapapa alongside her Wairarapa iwi affiliations. Ngāti Kahungunu's takiwā runs from Wairarapa up through Hawke's Bay to Mahia, so a Kahungunu voice on a national AI and data-sovereignty stage is a loose but real thread back to this region's own marae, trusts and asset holding companies, which increasingly sit on valuable data — whakapapa records, land and water information, agribusiness and tourism data — without necessarily having a settled position on AI use or data sovereignty. The honest answer for the Bay is that there's little to build overnight; this was a Wellington gathering built around Wairarapa and national voices, not a funding announcement or a local launch, and no Hawke's Bay-based speaker or organisation appears in the coverage. But the region's iwi entities, kura and tech-curious rangatahi have an obvious, low-cost next step: watch for Te Hapori Matihiko's biennial cycle and the Matihiko Awards, and make sure Hawke's Bay voices — not just Wellington and Wairarapa ones — are in the room next time data sovereignty and AI governance for Māori organisations are on the agenda.",
     "sources": [
       {
-        "l": "NZ Herald",
-        "u": "https://www.nzherald.co.nz/business/microsoft-building-a-second-massive-data-centre-at-aucklands-westgate-tech-insider/premium/FRRTHFEVDNGKRHJVG23NFUJQP4/"
+        "l": "RNZ",
+        "u": "https://www.rnz.co.nz/news/te-ao-maori/2805226/hundreds-of-tech-leaders-join-first-ever-indigenous-tech-summit-in-wellington"
       },
       {
-        "l": "NZ Herald (News Headlines)",
-        "u": "https://www.nzherald.co.nz/nz/news-headlines-wednesday-november-23-2026/E63M4XIKN2X7B4CVG3K5VFC22M/"
+        "l": "Te Ao Māori News",
+        "u": "https://www.teaonews.co.nz/2026/11/26/rangatahi-voices-at-the-forefront-of-aotearoas-first-indigenous-tech-summit/"
       },
       {
-        "l": "Seemorerocks (quoting NZ Herald)",
-        "u": "https://seemorerocks.substack.com/p/microsoft-building-a-second-massive"
-      },
-      {
-        "l": "b2bnews.co.nz",
-        "u": "https://b2bnews.co.nz/news/microsofts-second-1bn-westgate-data-centre-who-plans/"
-      },
-      {
-        "l": "Newsminimalist",
-        "u": "https://www.newsminimalist.com/articles/microsoft-starts-building-second-dollar1b-auckland-data-centre-at-westgate-3ebb21a5"
+        "l": "Briev",
+        "u": "https://briev.ai/story/indigenous-tech-leaders-gather-in-wellington-for-inaugural-ai-41729d30"
       }
     ]
   },
@@ -39,6 +31,46 @@
       "chip": "c-ai",
       "tag": "The AI wave — and where a hands-on region can leap ahead of the dabblers.",
       "stories": [
+        {
+          "date": "28 Nov 2026",
+          "headline": "More Than Half of NZ Businesses Now Using AI, Survey Finds — Most Report Productivity Gains, But Some Experts Push Back",
+          "brief": "<p>A new government survey shows <b>52%</b> of New Zealand businesses are using AI, with a further <b>18%</b> planning to, and most current users reporting real operational and productivity benefits. Small businesses can tap MBIE's free responsible AI guidance and a co-funded AI Advisory Pilot, delivered through the Regional Business Partner Network, which has since been expanded to support up to 150 firms.</p>",
+          "body": [
+            "A new government survey has put hard numbers on how far artificial intelligence has spread through New Zealand workplaces. <cite index=\"2-3\">Results from the Survey of Business Operations 2026 (SOBO) show just over half of all businesses (52 per cent) surveyed are using AI and a further 18 per cent are planning to do so.</cite> <cite index=\"1-3\">Almost 10,000 businesses completed the survey, run by Ipsos on behalf of the Ministry of Business, Innovation and Employment (MBIE) and Stats NZ.</cite> MBIE's General Manager Economic Growth, Robyn Henderson, called it <cite index=\"1-4\">\"the largest and most detailed survey of how New Zealand businesses are using AI\"</cite>, saying it gives officials a much clearer picture of what businesses are experiencing.",
+            "The payoff for those already using AI looks substantial. <cite index=\"1-6\">Of businesses using AI, 68% reported operational benefits, such as faster access to accurate information for decision-making.</cite> Henderson said <cite index=\"1-7\">the bigger impact appears to be on the practical benefits of using AI, with almost 60% reporting an increase in worker productivity.</cite> On the question of jobs, <cite index=\"9-1\">among businesses using AI, nearly 90 percent reported no change in overall employment levels</cite>, according to Henderson.",
+            "Not everyone is convinced the gains are as deep as the government's framing suggests. Coverage of the same survey noted that <cite index=\"6-9,6-10\">Amazon Web Services' recent report, Unlocking New Zealand's AI Potential 2026, found 50% of NZ businesses now use AI consistently, having grown year-on-year, but that adoption rates similar to Finland's are close while productivity gains there outpace New Zealand's at 80% to 69%.</cite> AI consultant Mark Laurence, founder of Ten Past Tomorrow, argued the MBIE figures really showed <cite index=\"6-11\">organisations were only using AI for efficiency gains - and not for productivity gains</cite>.",
+            "The survey lands alongside government efforts to help smaller firms catch up. Businesses can already access MBIE's responsible AI guidance for free, and smaller operators can tap into an AI Advisory Pilot, <cite index=\"1-10\">which gives eligible small businesses access to expert support to identify and implement AI solutions.</cite> The pilot was announced by Small Business and Manufacturing Minister Chris Penk, who said <cite index=\"31-4\">\"the Government is launching the AI Advisory Pilot\"</cite> to help owners use AI tools safely and effectively. Eligible businesses can receive co-funding of up to 50 percent, capped at $15,000, to put together and carry out a tailored AI plan, and <cite index=\"30-7\">the pilot runs for at least six months through the Regional Business Partner (RBP) Network and is available to existing RBP customers, with participants invited from late January.</cite> <cite index=\"31-2\">The pilot ran from 19 January 2026 to at least 30 June 2026 and was expected to include a minimum of 51 small-and-medium enterprises, backed initially by $765,000 from existing MBIE appropriations.</cite>",
+            "Demand has since pushed the scheme further. <cite index=\"21-4,21-5\">Following strong demand, the programme now supports up to 150 businesses, up from 50, with eligibility widened, and it has been extended to run until 31 January 2027, with eligible businesses able to access co-funding of up to 50% (up to $15,000).</cite> <cite index=\"21-3\">The pilot is delivered through the Regional Business Partner Network (RBPN) and provides hands-on, tailored support to businesses looking to adopt AI.</cite>",
+            "Taken together, the figures suggest AI adoption in New Zealand has moved well past the experimental stage for a majority of businesses, with tangible gains in decision-making speed and worker output now showing up in official data — even as some experts argue that what's being measured so far looks more like efficiency tinkering than genuine productivity transformation."
+          ],
+          "lens": "For Hawke's Bay, this is less a single headline event than a signal of where the rest of the country already is — and a nudge to check whether local orchards, wineries, logistics operators and hospitality businesses sit among the 52% of NZ firms already using AI, the 18% still planning to, or neither. The practical opportunity is concrete rather than exotic: the operational wins the survey attributes to current users — faster, more accurate information for decision-making and real gains in worker productivity — are exactly the kind of back-office and rostering problems a seasonal, cash-constrained horticulture and wine sector wrestles with every harvest. But the region should also hear the pushback: if AI consultants are right that much of what's being counted is efficiency tinkering rather than real productivity transformation, Hawke's Bay businesses shouldn't assume that buying a tool is the same as redesigning how work gets done. What the region could do is make sure growers and small exporters actually know the AI Advisory Pilot exists — its 50% co-funding, capped at $15,000, delivered through the Regional Business Partner Network and now open to up to 150 businesses nationally, is precisely the kind of modest, practical support a risk-averse operator can use without betting the farm on an untested platform. What it should do is treat this as a workforce issue as much as a technology one: push EIT and local business groups to run plain-English AI-adoption sessions for owner-operators, so the Bay's productivity gains — if they come — are the real kind, not just faster emails, and so the region isn't left behind by firms elsewhere that move first.",
+          "sources": [
+            {
+              "l": "MBIE",
+              "u": "https://www.mbie.govt.nz/about/news/new-zealand-businesses-report-productivity-gains-from-ai"
+            },
+            {
+              "l": "Xinhua",
+              "u": "https://english.news.cn/20261126/e9621148477c4598b842ab79605735ae/c.html"
+            },
+            {
+              "l": "The Post (Stuff)",
+              "u": "https://www.thepost.co.nz/business/361124775/faster-emails-not-reinvention-nz-actually-getting-ai-productivity-gains"
+            },
+            {
+              "l": "Beehive.govt.nz",
+              "u": "https://www.beehive.govt.nz/release/new-pilot-helps-small-businesses-harness-ai"
+            },
+            {
+              "l": "NZBusiness",
+              "u": "https://nzbusiness.co.nz/business/news/government-launches-ai-advisory-pilot-for-small-businesses"
+            },
+            {
+              "l": "MBIE",
+              "u": "https://www.mbie.govt.nz/about/news/more-practical-ai-support-for-small-businesses"
+            }
+          ]
+        },
         {
           "date": "24 Nov 2026",
           "headline": "NZ Competition Watchdog Tells Businesses: AI Doesn't Shift Your Legal Responsibility",
@@ -321,38 +353,6 @@
             {
               "l": "Tech New Zealand",
               "u": "https://technewzealand.org.nz/2026/08/17/ai-for-good-digital-infrastructure-and-talent/"
-            }
-          ]
-        },
-        {
-          "date": "16 Aug 2026",
-          "headline": "Wellington AI startup Sterling raises $3.8m to build an 'autopilot' for finance teams",
-          "brief": "<p>Wellington-based artificial intelligence startup Sterling has raised <b>$3.8 million</b> in one of the larger seed funding rounds seen recently in New Zealand's tech sector, just <b>10 months</b> after it was founded. The round, led by trans-Tasman VC firm Blackbird, will help the company expand its finance-automation software into New Zealand, Australia and the United States.</p>",
-          "body": [
-            "<p>A Wellington-based artificial intelligence startup has raised $3.8 million in one of the larger seed funding rounds seen recently in New Zealand's technology sector. Sterling, which was founded just 10 months ago, develops software designed to automate routine finance and accounting work.</p>",
-            "<p>Chief executive and co-founder Nik Wakelin said Sterling was designed to act as an \"autopilot\" for finance teams rather than just another AI chatbot. \"It sits in your finance team, in your inbox and all your systems, picks up things as they arrive and works out where everything goes and files it for you,\" he told RNZ. \"The idea is by the time your finance team turns up in the morning and has their coffee, everything's done and prepped for them, ready to review and tick off.\"</p>",
-            "<p>Despite being only 10 months old, Sterling said it has been rolled out to users since March, and has already completed about 1200 hours of finance work for customers. Clients include honey exporter Manukora, early childhood software company Storypark and insurance broker Echelon.</p>",
-            "<p>The round was led by trans-Tasman venture capital firm Blackbird and included alumni from companies such as Xero, Vend, Pushpay and Trade Me, with the round also supported by Rowan Simpson, Eliot Crowther and other Kiwi founders-investors from those same companies. Co-founder Ludwig Wendzich, who worked at Vend, Lightspeed and Apple, said almost everyone at Sterling, including their investors, \"cut their teeth\" at companies such as Vend and Xero, adding: \"We're the ones who learned how to build world-class software from New Zealand — now we're doing it again, for the people who keep every business running.\"</p>",
-            "<p>Wakelin is an engineer with two decades in startups, having co-founded time-tracking software MinuteDock and developer documentation tool Gelato.io before also holding a senior engineering role at Deliveroo. Wendzich spent close to a decade leading product and design at Vend and, following its acquisition, at Lightspeed, where he was Senior Director of Product Design.</p>",
-            "<p>Sterling says the fresh capital will help it expand in New Zealand, Australia and the United States. Wakelin said securing backing from Blackbird and well-known figures from New Zealand's technology sector would help accelerate the company's growth. \"We really want to build the next generational technology company,\" he said.</p>"
-          ],
-          "lens": "There's no Hawke's Bay business behind this one, so the honest answer is that the region has no direct stake in Sterling's raise or its investors. Where it does matter is on the demand side: the Bay is thick with small and seasonal operations — orchards, wineries, contractors, tourism operators — that carry exactly the kind of repetitive invoicing, reconciliation and month-end workload Sterling says it can automate, and that's a genuine opportunity to cut back-office costs without adding headcount, if and when a Wellington-focused, enterprise-leaning startup like this actually turns its attention to smaller regional clients rather than the larger accounts it says it's chasing first. What the Bay could do is make sure its accountants, bookkeepers and business advisors — through bodies like the Hawke's Bay Chamber of Commerce or local accounting firms — keep an eye on tools like this as they mature, rather than assuming a Wellington-built product aimed at bigger customers will naturally suit a small orchard's books. What it should do is treat this as a skills issue as much as a tools issue: growers and small businesses eventually adopting AI finance automation will need staff who can supervise and sanity-check it, so regional training providers have a real opening to build basic AI-oversight literacy into bookkeeping and admin courses now, well ahead of the tools actually arriving on local doorsteps.",
-          "sources": [
-            {
-              "l": "RNZ",
-              "u": "https://www.rnz.co.nz/news/business/1002786/ai-accounting-startup-sterling-raises-3-point-8m-seed-round"
-            },
-            {
-              "l": "SmartCompany",
-              "u": "https://www.smartcompany.com.au/startupsmart/eight-anz-startups-that-raised-67-4-million-this-week/"
-            },
-            {
-              "l": "Scoop",
-              "u": "https://www.scoop.co.nz/stories/BU2608/S00132/nzs-sterling-lands-38m-to-run-finance-on-autopilot.htm"
-            },
-            {
-              "l": "Startup Daily",
-              "u": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/"
             }
           ]
         }
@@ -2019,6 +2019,36 @@
   ],
   "headlines": [
     {
+      "date": "25 Nov 2026",
+      "chipLabel": "Infrastructure",
+      "headline": "Microsoft's Second $1b Auckland Data Centre Rises — With No Public Notification",
+      "byline": "Auckland · what Westgate's power, money and planning questions mean for the Bay",
+      "brief": "<p>A near-billion-dollar second Microsoft data centre is going up at Westgate in Auckland, and Herald tech editor Chris Keall reports <b>construction began without Auckland Council publicly notifying residents</b>. <cite index=\"1-1\">Without fanfare, and against the backdrop of a growing protest movement, construction of a second giant Microsoft data centre has begun at Westgate in Auckland's northwest, without public notification by Auckland Council.</cite> <cite index=\"17-4\">There was no announcement, perhaps a sign of the shift in public attitudes to AI and data centres 6 years since Jacinda Ardern first trumpeted Microsoft's intention to build hyperscale facilities in NZ.</cite> <cite index=\"19-3\">According to consent documents, the new data centre will have a floor area of 10,879.8sq m over two storeys – only slightly smaller than the first facility's 11,600sq m, indicating its budget will likely be in a similar ballpark.</cite> <cite index=\"2-1\">Herald tech commentator Chris Keall examines the project and questions over transparency, power and economic returns.</cite></p><p>The numbers behind the build are striking. <cite index=\"10-6\">Costs associated with the first data centre indicate the second will likely cost the best part of $1 billion.</cite> <cite index=\"6-5\">Microsoft says the expansion will support up to 500 jobs during peak construction and about 40 permanent roles once operational, with the facility designed to use air cooling and eliminate water consumption.</cite> <cite index=\"6-6\">The first Auckland data centre, which opened in December 2024, involved $800.2 million in direct capital expenditure.</cite> Behind the scenes, <cite index=\"17-7\">the application was made by Microsoft 6399 NZ, a newly-minted commercial vehicle owned by a Microsoft subsidiary in low-tax Ireland.</cite> <cite index=\"17-8,17-9\">The NZ data centre business is still controlled by Microsoft Ireland Research, which made a $33.6m profit on $215m revenue last year.</cite> Microsoft's third proposed Auckland facility has not fared as well: <cite index=\"12-8\">the company's plans for a third centre at Whenuapai have lapsed, while other data centre projects in New Zealand face delays or cancellations.</cite></p><p>The project lands amid a wider national reckoning over power. <cite index=\"33-7,33-8\">To Microsoft's credit, the first facility arrived with its power sorted, opening in December 2024 with 51MW of capacity backed by a ten-year geothermal deal with Contact Energy for the Te Huka 3 station.</cite> But <cite index=\"11-8\">a July 2026 memorandum from the government's Chief Advisor on Climate Change estimates current data centre electricity use at between 8MW and 104MW, against roughly 1,140MW of data centre projects already in Transpower's connection pipeline.</cite> Consent documents for the new build reveal <cite index=\"19-8\">13 back-up diesel generators – 12 main generators, each with a 40,000-litre diesel tank, and one smaller admin generator with an 8000-litre tank – for just under 500,000 litres of diesel onsite in total.</cite> <cite index=\"26-6\">The specs of the generators indicate they are designed to compensate for up to 38MW of power from the grid.</cite></p>",
+      "lens": "This is an Auckland story, but its real content — power, planning and who actually captures the benefit — is a Hawke's Bay story in waiting. The Bay sits on a renewables base that national and international data-centre operators are openly hunting for, and the Westgate saga shows what happens when a near-billion-dollar build goes up with only a few dozen permanent jobs to show for it, backed by firm geothermal power on one hand and hundreds of thousands of litres of diesel back-up on the other, while Auckland Council's own notification process never kicked in. If a data-centre or renewable-generation proposal ever comes knocking in Hawke's Bay, the lesson from Westgate is to demand the megawatt numbers, the firm power-purchase terms and genuine local consultation up front — not after the concrete's poured. Short of that, there's little for the Bay to do right now except watch how Auckland Council and Transpower handle the transparency fight, since whatever rules or precedents emerge nationally on disclosure and grid allocation will shape any future regional data-centre or generation deal here.",
+      "sources": [
+        {
+          "l": "NZ Herald",
+          "u": "https://www.nzherald.co.nz/business/microsoft-building-a-second-massive-data-centre-at-aucklands-westgate-tech-insider/premium/FRRTHFEVDNGKRHJVG23NFUJQP4/"
+        },
+        {
+          "l": "NZ Herald (News Headlines)",
+          "u": "https://www.nzherald.co.nz/nz/news-headlines-wednesday-november-23-2026/E63M4XIKN2X7B4CVG3K5VFC22M/"
+        },
+        {
+          "l": "Seemorerocks (quoting NZ Herald)",
+          "u": "https://seemorerocks.substack.com/p/microsoft-building-a-second-massive"
+        },
+        {
+          "l": "b2bnews.co.nz",
+          "u": "https://b2bnews.co.nz/news/microsofts-second-1bn-westgate-data-centre-who-plans/"
+        },
+        {
+          "l": "Newsminimalist",
+          "u": "https://www.newsminimalist.com/articles/microsoft-starts-building-second-dollar1b-auckland-data-centre-at-westgate-3ebb21a5"
+        }
+      ]
+    },
+    {
       "date": "23 Nov 2026",
       "chipLabel": "Cybersecurity",
       "headline": "AI Agents Can Now Breach a System in 15 Minutes, Palo Alto Networks Executive Warns NZ",
@@ -2685,24 +2715,6 @@
         {
           "l": "Data Centres NZ",
           "u": "https://datacentresnz.com/insights/nz-data-centre-power-list-2026"
-        }
-      ]
-    },
-    {
-      "date": "23 Sep 2026",
-      "chipLabel": "Investment",
-      "headline": "NZ Investment in Women-Only Startups Triples — But They Still Get Under Six Cents in Every VC Dollar",
-      "byline": "Auckland · new Gender Investment Gap data from the University of Auckland Business School, with lessons for any founder pitching money outside the big cities",
-      "brief": "<p>New research has confirmed what many New Zealand founders have long suspected: <b>women-only startup founders received less than six cents in every venture capital dollar invested in New Zealand last year, despite a sharp rise in funding.</b> <span>Data from the Aotearoa Centre for Enterprising Women at the University of Auckland Business School shows women-only founding teams attracted $14.75 million in disclosed investment from venture capital firms in 2025, more than triple the $4.59m raised the previous year.</span> Their share of total disclosed capital <b>more than doubled, from 2.9 percent to 5.94 percent</b> — but the gap remained significant, with <b>male-only founding teams receiving $172.35m, or 69.42 percent of disclosed capital</b>, against <b>mixed-gender teams on $61.17m, or 24.64 percent</b>.</p><p>The research, based on data voluntarily supplied by <b>23 investment funds</b> and capturing <b>241 investments across 155 companies</b>, found the funding problem compounds as companies grow: women-only teams took <b>17.6 percent of pre-seed investments and 15 percent of seed investments, but just 7.5 percent of bridge investments</b>, and <b>none of the Series investments captured in the 2025 dataset went to women-only founding teams</b>.</p><p>Gender Investment Gap co-founder Jenny Rudd called the improvement encouraging but said the headline number was still too low to celebrate: <b>\"When we look at women-only founded startups, it's doubled from about 3 percent last year to 6 percent.\"</b> Contented co-founder Hannah Hardy-Jones, who raised $4.1m this year after first bootstrapping her company to $1m in annual recurring revenue, said it was fundraising conversations that showed how differently women founders were treated: <b>\"The questions that I was asked as a founder were very different… It was all around competitors and risk, whereas my male counterparts were not fielding those sorts of questions. It was always around vision and ambition.\"</b></p><p>Rudd also pointed to a signalling problem, saying venture capital firms needed to think about what they projected publicly — if a fund's website or communications mostly showed male-led companies, women founders could decide it simply wasn't for them. <b>\"I didn't approach most of the VC firms when I was raising capital because I was like, they're not really designed for me,\"</b> she said.</p>",
-      "lens": "There's no Hawke's Bay data point buried in this report — it's an Auckland-university study of national VC flows, and honesty means saying so plainly rather than inventing a local statistic that doesn't exist. But the pattern it exposes — women founders doing fine at pre-seed and seed, then vanishing entirely from later funding rounds — is exactly the stage where any Bay-based founder, male or female, already struggles simply because the capital and the funds sit in Auckland and Wellington. If the region wants to actually change the numbers for its own women in agritech, foodtech and horticulture-adjacent software rather than just quote them, the practical move isn't a press release — it's making sure Hawke's Bay's women founders are physically in the room at whatever startup showcases and investor events do reach the regions, that local economic development agencies and angel networks are explicitly signalling they back women-led ventures (since Rudd's own experience suggests founders self-select out when they don't feel the invitation is real), and that any regional accelerator or fund coming out of the Bay tracks and publishes its own gender split from day one, rather than waiting for a university to have to point it out nationally.",
-      "sources": [
-        {
-          "l": "RNZ",
-          "u": "https://www.rnz.co.nz/news/business/1487706/women-only-startup-founders-got-5-point-94-percent-of-venture-capital-in-2025"
-        },
-        {
-          "l": "NZ Herald",
-          "u": "https://www.nzherald.co.nz/nz/the-front-page-women-founders-are-getting-more-funding-so-why-is-the-gap-still-so-big/YUQJC72VBZHR5CMZX77HCXD6AM/"
         }
       ]
     }
